@@ -7,6 +7,7 @@ excerpt: "weblog"
 title: What's the 411?
 ---
 
-Nothing has happend to me.
+投稿が更新されました。
+
 
 
