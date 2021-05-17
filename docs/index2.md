@@ -1,7 +1,6 @@
 ---
-layout: default
-title: タイトル２
-date: 2021-05-17 00:00:00
+feature_text:
+title: ブログ
 description: metametaです
 ---
 
