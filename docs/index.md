@@ -7,7 +7,7 @@ excerpt: "weblog"
 title: What's the 411?
 ---
 
-投稿が更新されました。
+投稿が更新されました。[こちら](/diary/2021/05/17/the-first-post/)
 
 
 
