@@ -1,6 +1,6 @@
 ---
 layout: default
-title: タイトル３
+title: タイトル２
 description: metametaです
 ---
 
