@@ -3,11 +3,10 @@ feature_text: |
   god thumb's cake (satellite)
   ## weblog
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "weblog"
+excerpt: "随筆文"
 title: What's the 411?
 ---
 
-投稿が更新されました。[こちら](/diary/2021/05/17/the-first-post/)
-
+That is a 随筆文 that posts what I いつも think about.
 
 
