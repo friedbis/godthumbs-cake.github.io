@@ -61,11 +61,11 @@ timezone: Asia/Tokyo # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: 投稿 # Needed for Siteleaf
     output: true
     description: "weblog" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Diary of 随筆
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
