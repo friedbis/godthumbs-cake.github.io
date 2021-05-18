@@ -66,7 +66,8 @@ collections:
     description: "weblog" # The post list page content
     feature_text: |
       Diary of 随筆
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    #feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/assets/400.jpg"
 
 # 6. Jekyll collections settings
 defaults:
