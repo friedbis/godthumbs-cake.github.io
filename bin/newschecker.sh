@@ -12,6 +12,7 @@ then
     echo 0 >$countoffsetfile
 fi
 
+basedir=$(dirname $0)/..
 rssurl=http://headline.5ch.net/bbynews/news.rss
 templatefile=$(dirname $0)/post-template.txt
 postdate=$(date +%Y-%m-%d)
@@ -73,3 +74,9 @@ EOF
       esac
 done
 
+cd $basedir
+git pull
+git add *
+git commit -m "newschecker updated"
+git push -u origin main 
+exit 0
