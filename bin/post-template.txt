@@ -1,5 +1,5 @@
 ---
-title: ===title===
+title: ===realtitle===
 categories:
 - news
 excerpt: |
