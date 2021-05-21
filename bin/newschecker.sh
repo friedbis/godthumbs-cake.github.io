@@ -59,6 +59,7 @@ do
        sed -i -e "s/===title===/${newstitle}/g;" $newpostfile
        sed -i -e "s/===subtitle===/${newstitle}/g;" $newpostfile 
        sed -i -e "s/===post-excerpt===/${newstitle:0:20}/g" $newpostfile
+       description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g')
        echo "setting body"
        cat<<EOF>>$newpostfile
 ### [${newstitle}](${link})
