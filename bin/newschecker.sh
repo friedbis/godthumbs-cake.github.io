@@ -56,16 +56,14 @@ do
        echo "copying file"
        cp $templatefile $newpostfile
        echo "setting header"
-       sed -i -e "s/===title===/${newstitle}/g;" $newpostfile
-       sed -i -e "s/===subtitle===/${newstitle}/g;" $newpostfile 
-       sed -i -e "s/===post-excerpt===/${newstitle:0:20}/g" $newpostfile
+       sed -i -e "s/===title===/${newstitle:0:20}/g;" $newpostfile
+       sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile 
+       sed -i -e "s/===post-excerpt===/${description:0:20}/g" $newpostfile
        description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g')
        echo "setting body"
        cat<<EOF>>$newpostfile
-### [${newstitle}](${link})
-#### posted on ${pubDate}
-
-${newstitle}
+[${newstitle}](${link})
+posted on ${pubDate}
 
 <!--more-->
 
