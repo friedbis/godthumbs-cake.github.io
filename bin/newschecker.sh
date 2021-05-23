@@ -69,7 +69,7 @@ do
            sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile 
            sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile
            sed -i -e "s/===post-excerpt===//g" $newpostfile
-           description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\) /\1[\2](\2) /g')
+           description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ $]\)/\1[\2](\2)\3/g')
            echo "setting body"
            cat<<EOF>>$newpostfile
 [${link}](${link})
