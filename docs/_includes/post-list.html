@@ -1,5 +1,6 @@
 {% if paginator.posts %}
   <section class="section  typeset">
+    {% include post-pagination.html %}
     <ul class="list  list--posts">
       {% for page in paginator.posts %}
         <li class="item  item--post">
