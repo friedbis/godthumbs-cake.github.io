@@ -1,5 +1,8 @@
 #!/bin/bash
-
+#
+# auto posting bot
+#
+#
 xmlgetnext () {
    local IFS='>'
    read -d '<' TAG VALUE
@@ -13,7 +16,7 @@ xmlgetnext () {
 #fi
 
 basedir=$(dirname $0)/..
-rssurl=http://headline.5ch.net/bbynews/news.rss
+rssurl="http://headline.5ch.net/bbynews/news.rss||http://vipsister23.com/index.rdf"
 templatefile=$(dirname $0)/post-template.txt
 postdate=$(date +%Y-%m-%d-%H-%M)
 #postcount=$(head -1 $countoffsetfile)
@@ -21,62 +24,65 @@ destdir=$(dirname $0)/../docs/_posts
 
 echo -n 'getting page...'
 echo 'parsing...'
-curl -s $rssurl |nkf -w | while xmlgetnext;
+for i in $(echo -n "${rssurl}" |sed -e 's/||/\n/g');
 do
-  case $TAG in
-    'item')
-       title=''
-       link=''
-       pubDate=''
-       description=''
-       newpostfile=''
-       newstitle=''
-       ;;
-    'title')
-       title="$VALUE"
-       ;;
-    'link')
-       link="$VALUE"
-       ;;
-    'pubDate')
-       pubDate="$VALUE"
-       ;;
-    'description')
-       description="$VALUE"
-       ;;
-    '/item')
-       #postcount=$(expr $postcount + 1)
-       echo "setting title"
-       newstitle=$(echo -n "${title}" |sed -e 's/[【][^】]*[】]//g; s/\[[^]]*\]//g' 2>/dev/null)
-       #echo "${newstitle}"
-       echo "setting postid"
-       postid=$(echo -n "${title}" |md5sum |awk '{print $1;}')
-       echo "setting post file"
-       newpostfile=${destdir}/${postdate}-${postid}.md
-       #echo $newpostfile
-       #echo "setting count file"
-       #echo $postcount >$countoffsetfile
-       echo "checking dupricated..."
-       ret=$(ls -l $destdir |grep $postid >/dev/null 2>/dev/null && echo -n "OK" || echo -n "NG")
-       if [ "x${ret}" == "xOK" ];
-       then
-           echo "found same post"
-       else
-           echo "copying file"
-           cp $templatefile $newpostfile
-           echo "setting header"
-           ret1=$(sed -i -e "s/===title===/${newstitle:0:20}.../g;" $newpostfile && echo -n "OK" || echo -n "NG")
-           ret2=$(sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile && echo -n "OK" || echo -n "NG")
-           ret3=$(sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile && echo -n "OK" || echo -n "NG")
-           ret4=$(sed -i -e "s/===post-excerpt===//g" $newpostfile && echo -n "OK" || echo -n "NG")
-           if [ "x${ret1}" == "xNG" -o "x${ret2}" == "xNG" -o "x${ret3}" == "xNG" -o "x${ret4}" == "xNG" ];
-           then
-             echo "found error"
-             rm $newpostfile
-           else
-             description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ \r\n$]\)/\1[\2](\2)\3/g')
-             echo "setting body"
-             cat<<EOF>>$newpostfile
+    echo "${i}..."
+    curl -s "${i}" |nkf -w | while xmlgetnext;
+    do
+        case $TAG in
+        'item')
+            title=''
+            link=''
+            pubDate=''
+            description=''
+            newpostfile=''
+            newstitle=''
+            ;;
+        'title')
+            title="$VALUE"
+            ;;
+        'link')
+            link="$VALUE"
+            ;;
+        'pubDate')
+            pubDate="$VALUE"
+            ;;
+        'description')
+            description="$VALUE"
+            ;;
+        '/item')
+            #postcount=$(expr $postcount + 1)
+            echo "setting title"
+            newstitle=$(echo -n "${title}" |sed -e 's/[【][^】]*[】]//g; s/\[[^]]*\]//g' 2>/dev/null)
+            #echo "${newstitle}"
+            echo "setting postid"
+            postid=$(echo -n "${title}" |md5sum |awk '{print $1;}')
+            echo "setting post file"
+            newpostfile=${destdir}/${postdate}-${postid}.md
+            #echo $newpostfile
+            #echo "setting count file"
+            #echo $postcount >$countoffsetfile
+            echo "checking dupricated..."
+            ret=$(ls -l $destdir |grep $postid >/dev/null 2>/dev/null && echo -n "OK" || echo -n "NG")
+            if [ "x${ret}" == "xOK" ];
+            then
+                echo "found same post"
+            else
+                echo "copying file"
+                cp $templatefile $newpostfile
+                echo "setting header"
+                ret1=$(sed -i -e "s/===title===/${newstitle:0:20}.../g;" $newpostfile && echo -n "OK" || echo -n "NG")
+                ret2=$(sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile && echo -n "OK" || echo -n "NG")
+                ret3=$(sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile && echo -n "OK" || echo -n "NG")
+                ret4=$(sed -i -e "s/===post-excerpt===//g" $newpostfile && echo -n "OK" || echo -n "NG")
+                if [ "x${ret1}" == "xNG" -o "x${ret2}" == "xNG" -o "x${ret3}" == "xNG" -o "x${ret4}" == "xNG" ];
+                then
+                    echo "found error"
+                    rm $newpostfile
+                else
+                    description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ \r\n$]\)/\1[\2](\2)\3/g')
+                    echo "setting body"
+                    cat<<EOF>>$newpostfile
 [${link}](${link})
 posted on ${pubDate}
 
@@ -84,11 +90,12 @@ posted on ${pubDate}
 
 ${description}
 EOF
-             echo "ready to post an article of ${newstitle}"
-           fi
-       fi
-       ;;
-  esac
+                    echo "ready to post an article of ${newstitle}"
+                fi
+            fi
+            ;;
+        esac
+    done
 done
 
 cd $basedir
