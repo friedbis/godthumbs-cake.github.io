@@ -65,11 +65,11 @@ do
            echo "copying file"
            cp $templatefile $newpostfile
            echo "setting header"
-           ret=$(sed -i -e "s/===title===/${newstitle:0:20}.../g;" $newpostfile && \
-           sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile && \
-           sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile && \
-           sed -i -e "s/===post-excerpt===//g" $newpostfile && echo -n "OK" || echo -n "NG")
-           if [ "x${ret}" == "xNG" ];
+           ret1=$(sed -i -e "s/===title===/${newstitle:0:20}.../g;" $newpostfile && echo -n "OK" || echo -n "NG")
+           ret2=$(sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile && echo -n "OK" || echo -n "NG")
+           ret3=$(sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile && echo -n "OK" || echo -n "NG")
+           ret4=$(sed -i -e "s/===post-excerpt===//g" $newpostfile && echo -n "OK" || echo -n "NG")
+           if [ "x${ret1}" == "xNG" -o "x${ret2}" == "xNG" -o "x${ret3}" == "xNG" -o "x${ret4}" == "xNG" ];
            then
              echo "found error"
              rm $newpostfile
