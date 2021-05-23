@@ -84,8 +84,8 @@ posted on ${pubDate}
 
 ${description}
 EOF
+             echo "ready to post an article of ${newstitle}"
            fi
-           echo "ready to post an article of ${newstitle}"
        fi
        ;;
   esac
