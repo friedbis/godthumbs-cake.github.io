@@ -15,7 +15,7 @@ xmlgetnext () {
 basedir=$(dirname $0)/..
 rssurl=http://headline.5ch.net/bbynews/news.rss
 templatefile=$(dirname $0)/post-template.txt
-postdate=$(date +%Y-%m-%d)
+postdate=$(date +%Y-%m-%d-%H-%M)
 #postcount=$(head -1 $countoffsetfile)
 destdir=$(dirname $0)/../docs/_posts
 
@@ -69,7 +69,7 @@ do
            sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile 
            sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile
            sed -i -e "s/===post-excerpt===//g" $newpostfile
-           description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ $]\)/\1[\2](\2)\3/g')
+           description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ \r\n$]\)/\1[\2](\2)\3/g')
            echo "setting body"
            cat<<EOF>>$newpostfile
 [${link}](${link})
