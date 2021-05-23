@@ -65,13 +65,18 @@ do
            echo "copying file"
            cp $templatefile $newpostfile
            echo "setting header"
-           sed -i -e "s/===title===/${newstitle:0:20}.../g;" $newpostfile
-           sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile 
-           sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile
-           sed -i -e "s/===post-excerpt===//g" $newpostfile
-           description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ \r\n$]\)/\1[\2](\2)\3/g')
-           echo "setting body"
-           cat<<EOF>>$newpostfile
+           ret=$(sed -i -e "s/===title===/${newstitle:0:20}.../g;" $newpostfile && \
+           sed -i -e "s/===subtitle===/${pubDate}/g;" $newpostfile && \
+           sed -i -e "s/===realtitle===/${newstitle}/g" $newpostfile && \
+           sed -i -e "s/===post-excerpt===//g" $newpostfile && echo -n "OK" || echo -n "NG")
+           if [ "x${ret}" == "xNG" ];
+           then
+             echo "found error"
+             rm $newpostfile
+           else
+             description=$(echo $description |sed -e 's/\(http[^$]*\.[jpg][pni][gf]\)/![](\1)/g; s/\([^(]\)\(http[^ ]*\)\([ \r\n$]\)/\1[\2](\2)\3/g')
+             echo "setting body"
+             cat<<EOF>>$newpostfile
 [${link}](${link})
 posted on ${pubDate}
 
@@ -79,6 +84,7 @@ posted on ${pubDate}
 
 ${description}
 EOF
+           fi
        fi
        ;;
   esac
