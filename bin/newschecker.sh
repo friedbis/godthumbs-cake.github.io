@@ -48,7 +48,7 @@ do
        #postcount=$(expr $postcount + 1)
        echo "setting title"
        newstitle=$(echo -n "${title}" |sed -e 's/[【][^】]*[】]//g; s/\[[^]]*\]//g' 2>/dev/null)
-       echo "${newstitle}"
+       #echo "${newstitle}"
        echo "setting postid"
        postid=$(echo -n "${title}" |md5sum |awk '{print $1;}')
        echo "setting post file"
@@ -85,6 +85,7 @@ posted on ${pubDate}
 ${description}
 EOF
            fi
+           echo "ready to post an article of ${newstitle}"
        fi
        ;;
   esac
