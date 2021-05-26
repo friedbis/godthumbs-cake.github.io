@@ -99,6 +99,10 @@ EOF
 done
 
 cd $basedir
+find docs/_posts/ -print |grep $(date +%Y-%m-%d --date '3 days ago') |while raed i;
+do
+    echo $i; rm -f $i
+done
 git pull
 git add *
 git commit -m "newschecker updated"
