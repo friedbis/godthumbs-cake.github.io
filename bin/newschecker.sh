@@ -99,7 +99,7 @@ EOF
 done
 
 cd $basedir
-find docs/_posts/ -print |grep $(date +%Y-%m-%d --date '3 days ago') |while raed i;
+find docs/_posts/ -print |grep $(date +%Y-%m-%d --date '3 days ago') |while read i;
 do
     echo $i; rm -f $i
 done
