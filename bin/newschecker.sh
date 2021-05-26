@@ -22,11 +22,14 @@ postdate=$(date +%Y-%m-%d-%H-%M)
 #postcount=$(head -1 $countoffsetfile)
 destdir=$(dirname $0)/../docs/_posts
 
+cd $basedir/
+echo -n "check current version..."
+git pull
+echo "OK"
 echo -n "cleaning post files..."
 rm -f $destdir/*.md
 git rm $destdir/*.md
 echo "deleted"
-cd $basedir/
 git add *
 git commit -m 'cleaning'
 git push -u origin main
@@ -108,7 +111,6 @@ EOF
 done
 
 cd $basedir
-git pull
 git add *
 git commit -m "newschecker updated"
 git push -u origin main 
