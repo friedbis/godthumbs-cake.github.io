@@ -30,7 +30,6 @@ cd $basedir/
 git add *
 git commit -m 'cleaning'
 git push -u origin main
-exit
 
 echo -n 'getting page...'
 echo 'parsing...'
@@ -109,10 +108,6 @@ EOF
 done
 
 cd $basedir
-find $destdir/ -print |grep $(date +%Y-%m) |sort |tail -100 |while read i;
-do
-    echo $i; rm -f $i
-done
 git pull
 git add *
 git commit -m "newschecker updated"
