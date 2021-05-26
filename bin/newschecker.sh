@@ -22,6 +22,16 @@ postdate=$(date +%Y-%m-%d-%H-%M)
 #postcount=$(head -1 $countoffsetfile)
 destdir=$(dirname $0)/../docs/_posts
 
+echo -n "cleaning post files..."
+rm -f $destdir/*.md
+git rm $destdir/*.md
+echo "deleted"
+cd $basedir/
+git add *
+git commit -m 'cleaning'
+git push -u origin main
+exit
+
 echo -n 'getting page...'
 echo 'parsing...'
 for i in $(echo -n "${rssurl}" |sed -e 's/||/\n/g');
@@ -99,7 +109,7 @@ EOF
 done
 
 cd $basedir
-find docs/_posts/ -print |grep $(date +%Y-%m) |sort |tail -20 |while read i;
+find $destdir/ -print |grep $(date +%Y-%m) |sort |tail -100 |while read i;
 do
     echo $i; rm -f $i
 done
