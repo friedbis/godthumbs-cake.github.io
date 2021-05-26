@@ -99,7 +99,7 @@ EOF
 done
 
 cd $basedir
-find docs/_posts/ -print |grep $(date +%Y-%m-%d --date '1 days ago') |while read i;
+find docs/_posts/ -print |grep $(date +%Y-%m) |sort |tail -20 |while read i;
 do
     echo $i; rm -f $i
 done
