@@ -30,6 +30,7 @@ echo -n "cleaning post files..."
 rm -f $destdir/*.md
 git rm $destdir/*.md
 echo "deleted"
+mkdir -p $destdir
 git add *
 git commit -m 'cleaning'
 git push -u origin main
