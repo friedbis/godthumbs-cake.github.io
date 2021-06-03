@@ -16,7 +16,7 @@ xmlgetnext () {
 #fi
 
 basedir=$(dirname $0)/..
-rssurl="http://headline.5ch.net/bbynews/news.rss||http://vipsister23.com/index.rdf||https://news.yahoo.co.jp/rss/topics/top-picks.xml||http://vippers.jp/index.rdf||http://2ch-c.net/feed/?t=show"
+rssurl="http://headline.5ch.net/bbynews/news.rss||http://vipsister23.com/index.rdf||https://news.yahoo.co.jp/rss/topics/top-picks.xml||http://2ch-c.net/feed/?t=show"
 templatefile=$(dirname $0)/post-template.txt
 postdate=$(date +%Y-%m-%d-%H-%M)
 #postcount=$(head -1 $countoffsetfile)
