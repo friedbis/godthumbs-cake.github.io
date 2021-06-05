@@ -71,7 +71,7 @@ do
             echo "setting postid"
             postid=$(echo -n "${title}" |md5sum |awk '{print $1;}')
             echo "setting post file"
-            newpostfile=${destdir}/${postid}.md
+            newpostfile=${destdir}/${postdate}-${postid}.md
             #echo $newpostfile
             #echo "setting count file"
             #echo $postcount >$countoffsetfile
