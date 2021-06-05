@@ -69,7 +69,7 @@ do
             newstitle=$(echo -n "${title}" |sed -e 's/[【][^】]*[】]//g; s/\[[^]]*\]//g' 2>/dev/null)
             #echo "${newstitle}"
             echo "setting postid"
-            postid=$(echo -n "${title}" |md5sum |awk '{print $1;}')
+            postid=$(echo -n "${link}" |md5sum |awk '{print $1;}')
             echo "setting post file"
             newpostfile=${destdir}/${postdate}-${postid}.md
             #echo $newpostfile
