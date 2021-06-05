@@ -54,7 +54,9 @@ social: # jekyll-seo-tag > social overrides
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+#permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+#permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:categories/:title:output_ext
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Asia/Tokyo # Timezone for blog posts and alike
 
