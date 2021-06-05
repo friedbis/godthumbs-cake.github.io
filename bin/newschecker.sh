@@ -26,10 +26,10 @@ cd $basedir/
 echo -n "check current version..."
 git pull
 echo "OK"
-echo -n "cleaning post files..."
-rm -f $destdir/*.md
-git rm $destdir/*.md
-echo "deleted"
+#echo -n "cleaning post files..."
+#rm -f $destdir/*.md
+#git rm $destdir/*.md
+#echo "deleted"
 mkdir -p $destdir
 git add *
 git commit -m 'cleaning'
@@ -71,7 +71,7 @@ do
             echo "setting postid"
             postid=$(echo -n "${title}" |md5sum |awk '{print $1;}')
             echo "setting post file"
-            newpostfile=${destdir}/${postdate}-${postid}.md
+            newpostfile=${destdir}/${postid}.md
             #echo $newpostfile
             #echo "setting count file"
             #echo $postcount >$countoffsetfile
