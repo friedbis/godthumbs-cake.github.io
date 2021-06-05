@@ -36,6 +36,8 @@
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
     {% include site-before-start.html %}
+    
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
