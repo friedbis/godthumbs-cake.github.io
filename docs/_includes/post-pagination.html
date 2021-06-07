@@ -1,17 +1,21 @@
 <nav class="nav  nav--paginator">
 
   {% if paginator.previous_page %}
-    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&larr; Newer</a>
+    <a href="{{ site.baseurl }}1" class="pagination  pagination--previous">&lt;&lt;|</a>
+
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&lt;</a>
   {% else %}
-    <span class="pagination  pagination--previous">&larr; Newer</span>
+    <span class="pagination  pagination--previous">&lt;&lt;|</span>
   {% endif %}
 
-  <span class="pagination  pagination--counter">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="pagination  pagination--counter"> {{ paginator.page }} / {{ paginator.total_pages }}</span>
 
   {% if paginator.next_page %}
-    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">Older &rarr;</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">&gt;</a>
+
+    <a href="{{ site.baseurl }}{{ paginator.total_pages }}" class="pagination  pagination--next">|&gt;&gt;</a>
   {% else %}
-    <span class="pagination  pagination--next">Older &rarr;</span>
+    <span class="pagination  pagination--next">|&gt;&gt;</span>
   {% endif %}
 
 </nav>
