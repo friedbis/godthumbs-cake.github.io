@@ -1,7 +1,7 @@
 <nav class="nav  nav--paginator">
 
   {% if paginator.previous_page %}
-    <a href="{{ site.baseurl }}1" class="pagination  pagination--previous">&lt;&lt;|</a>
+    <a href="{{ site.baseurl }}page1" class="pagination  pagination--previous">&lt;&lt;|</a>
 
     <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&lt;</a>
   {% else %}
@@ -13,7 +13,7 @@
   {% if paginator.next_page %}
     <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">&gt;</a>
 
-    <a href="{{ site.baseurl }}{{ paginator.total_pages }}" class="pagination  pagination--next">|&gt;&gt;</a>
+    <a href="{{ site.baseurl }}page{{ paginator.total_pages }}" class="pagination  pagination--next">|&gt;&gt;</a>
   {% else %}
     <span class="pagination  pagination--next">|&gt;&gt;</span>
   {% endif %}
