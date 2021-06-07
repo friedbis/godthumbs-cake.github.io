@@ -16,7 +16,7 @@ xmlgetnext () {
 #fi
 
 basedir=$(dirname $0)/..
-rssurl="http://headline.5ch.net/bbynews/news.rss||http://vipsister23.com/index.rdf||https://news.yahoo.co.jp/rss/topics/top-picks.xml||http://2ch-c.net/feed/?t=show"
+rssurl="http://vipsister23.com/index.rdf||https://news.yahoo.co.jp/rss/topics/top-picks.xml||http://2ch-c.net/feed/?t=show"
 templatefile=$(dirname $0)/post-template.txt
 #postdate=$(date +%Y-%m-%d-%H-%M)
 postdate=$(date +%Y-%m-%d)
@@ -27,10 +27,11 @@ cd $basedir/
 echo -n "check current version..."
 git pull
 echo "OK"
-#echo -n "cleaning post files..."
+echo "cleaning post files..."
+find $destdir -mtime +1 -exec rm -v {} \;
 #rm -f $destdir/*.md
 #git rm $destdir/*.md
-#echo "deleted"
+echo "deleted"
 mkdir -p $destdir
 git add *
 git commit -m 'cleaning'
