@@ -68,7 +68,7 @@ do
         '/item')
             #postcount=$(expr $postcount + 1)
             echo "setting title"
-            newstitle=$(echo -n "${title}" |sed -e 's/[【][^】]*[】]//g; s/\[[^]]*\]//g' 2>/dev/null)
+            newstitle=$(echo -n "${title}" |tr -d "\"'" |sed -e 's/[【][^】]*[】]//g; s/\[[^]]*\]//g' 2>/dev/null)
             #echo "${newstitle}"
             echo "setting postid"
             postid=$(echo -n "${link}" |md5sum |awk '{print $1;}')
