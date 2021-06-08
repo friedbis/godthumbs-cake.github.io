@@ -25,19 +25,4 @@ layout: default
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
 </main>
-<script>
-$(document).ready(()=>{
-	var domain = location.href.match(/^http?(s)?(:\/\/[a-zA-Z0-9-.:]+)/i)[0];
-	$('a[href^=http]').not('[href*="'+domain+'"]').attr('target','_blank');
-	console.log(domain);
-	console.log(location.hostname);
-	console.log(location.host);
-
-    let adsense=document.querySelector('#ads');
-    if(adsense.clientHeight === 0){
-        alert('Do not enable adblock ext...');
-        $('.article').hide();
-    }
-});
-</script>
 {% include site-footer.html %}
