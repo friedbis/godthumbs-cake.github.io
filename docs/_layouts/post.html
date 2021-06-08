@@ -33,10 +33,10 @@ $(document).ready(()=>{
 	console.log(location.hostname);
 	console.log(location.host);
 
-    let adsense=$('#ads');
+    let adsense=document.querySelector('#ads');
     if(adsense.clientHeight === 0){
         alert('Do not enable adblock ext...');
-        $('<article>').hide();
+        $('.article').hide();
     }
 });
 </script>
