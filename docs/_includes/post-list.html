@@ -1,9 +1,9 @@
 {% if paginator.posts %}
   <section class="section  typeset">
     {% include post-pagination.html %}
+    {% include post-ads4.html %}
     <ul class="list  list--posts">
       {% for page in paginator.posts %}
-      {% include post-ads4.html %}
         <li class="item  item--post">
           <article class="article  article--post">
 
@@ -15,11 +15,13 @@
         </li>
       {% endfor %}
     </ul>
+    {% include post-ads4.html %}
     {% include post-pagination.html %}
   </section>
 {% else %}
   <section class="section  typeset">
     <ul class="list  list--posts">
+    {% include post-ads4.html %}
       {% for page in site.posts %}
         <li class="item  item--post">
           <article class="article  article--post">
