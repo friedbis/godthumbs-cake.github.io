@@ -126,7 +126,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Search
-  url: /search/
+  url: /search.html
 
 navigation_footer:
 - title: Created by friedbiscuit
