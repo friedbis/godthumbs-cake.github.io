@@ -28,7 +28,7 @@ echo -n "check current version..."
 git pull
 echo "OK"
 echo "cleaning post files..."
-find $destdir -mtime +14 -exec rm -v {} \;
+find $destdir -mtime +10 -exec rm -v {} \;
 #rm -f $destdir/*.md
 #git rm $destdir/*.md
 echo "deleted"
