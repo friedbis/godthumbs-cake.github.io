@@ -22,13 +22,14 @@ templatefile=$(dirname $0)/post-template.txt
 postdate=$(date +%Y-%m-%d)
 #postcount=$(head -1 $countoffsetfile)
 destdir=$(dirname $0)/../docs/_posts
+archivefile=$destdir/1999-01-07-archive.md
 
 cd $basedir/
 echo -n "check current version..."
 git pull
 echo "OK"
 echo "cleaning post files..."
-find $destdir -mtime +5 -exec rm -v {} \;
+find $destdir -mtime +5 -exec cat {} |grep -A 10 "^$" >$archivefile && rm -v {} \;
 #rm -f $destdir/*.md
 #git rm $destdir/*.md
 echo "deleted"
