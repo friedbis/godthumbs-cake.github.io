@@ -29,7 +29,7 @@ echo -n "check current version..."
 git pull
 echo "OK"
 echo "cleaning post files..."
-find $destdir -mtime +5 -exec cat {} |grep -A 10 "^$" >>$archivefile && rm -v {} \;
+find $destdir -mtime +5 -iregex "^.*\/2[0-9][0-9][0-9].*\.md$" -exec cat {} |grep -A 10 "^$" >>$archivefile && rm -v {} \;
 #rm -f $destdir/*.md
 #git rm $destdir/*.md
 echo "deleted"
