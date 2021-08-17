@@ -124,9 +124,9 @@ navigation_header:
 - title: Home
   url: /
 - title: Blog
-  url: /movies.html
-- title: Blog
   url: /blog/
+- title: Movie
+  url: /movies.html
 - title: Search
   url: /search.html
 
