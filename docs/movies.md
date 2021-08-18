@@ -36,3 +36,10 @@ title: Impression
 
 <br/>
 
+[童貞幽霊 あの世の果てでイキまくれ！](https://www.necoweb.com/neco/program/detail.php?id=5533)
+★★★☆☆
+
+<br/>
+
+
+
