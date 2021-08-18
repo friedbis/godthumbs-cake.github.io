@@ -25,4 +25,10 @@ title: Impression
 <br/>
 
 
+[翻弄された献身妻](https://bangumi.skyperfectv.co.jp/P/?uid=i19666225)
+★★★★☆
+
+<br/>
+
+
 
