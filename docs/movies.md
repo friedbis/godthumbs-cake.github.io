@@ -70,6 +70,12 @@ title: Impression
 
 <br/>
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=httyf19net-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0849X31VP&linkId=84089b33cb1ea0a7041999ea8462913a"></iframe>
+★★☆☆☆
+
+<br/>
+
+
 [温泉童貞～快楽源泉かけ流し～](https://www.necoweb.com/neco/program/detail.php?id=5558)
 ★★★★☆
 
