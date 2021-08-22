@@ -186,3 +186,14 @@ title: Impression
 
 <br/>
 
+[令和エロス噺〜蜜月〜](https://www.necoweb.com/neco/program/detail.php?id=5075)
+★★☆☆☆
+
+<br/>
+
+[令和エロス噺～禁断の情交に恍惚とする女たち～](https://www.necoweb.com/neco/program/detail.php?id=5651)
+★★★☆☆
+
+<br/>
+
+
