@@ -41,14 +41,20 @@ const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
 const TOKEN_PATH = 'token.json';
 
 var modstar=(star)=>{
-    let result=((star>=0)&&(star<=5))?'':offstar+offstar+offstar+offstar+offstar;
+    let result=((star>=0)&&(star<=5))?'':echostar(0);
     if(result===''){
-        for(let i=0;i<star;i++){
-            result+=onstar;
-        }
-        for(let j=0;j<(5-star);j++){
-            result+=offstar;
-        }
+        result=echostar(star);
+    }
+    return result;
+}
+var echostar=(num)=>{
+    let star=((num>=0)&&(num<=5))?num:0;
+    let result='';
+    for(let i=0;i<num;i++){
+        result+=onstar;
+    }
+    for(let j=0;j<(5-num);j++){
+        result+=offstar;
     }
     return result;
 }
