@@ -66,10 +66,10 @@ title: Impression
 [リバーズ・エッジ [PR]](https://www.amazon.co.jp/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B8-DVD-%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%81%B5%E3%81%BF/dp/B07D55HVMB?&linkCode=ll1&tag=httyf19net-22&linkId=bdfe85cc1e2b57c3f7e26f51a15c2a9c&language=ja_JP&ref_=as_li_ss_tl)
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 
-### 愛の病 Love Disease
+### 愛の病 Love Disease [PR]
 2021-8-23 15:38:21
 
-[愛の病 Love Disease](https://www.amazon.co.jp/%E6%84%9B%E3%81%AE%E7%97%85-Love-Disease-DVD-%E7%80%AC%E6%88%B8%E3%81%95%E3%81%8A%E3%82%8A/dp/B078ZTQKX9?&linkCode=ll1&tag=httyf19net-22&linkId=841dee5b455ec2ae6fe2d7b9968cafbd&language=ja_JP&ref_=as_li_ss_tl)
+[愛の病 Love Disease [PR]](https://www.amazon.co.jp/%E6%84%9B%E3%81%AE%E7%97%85-Love-Disease-DVD-%E7%80%AC%E6%88%B8%E3%81%95%E3%81%8A%E3%82%8A/dp/B078ZTQKX9?&linkCode=ll1&tag=httyf19net-22&linkId=841dee5b455ec2ae6fe2d7b9968cafbd&language=ja_JP&ref_=as_li_ss_tl)
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 
 ### 濡れる献身妻
