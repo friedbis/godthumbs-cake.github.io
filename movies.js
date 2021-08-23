@@ -322,8 +322,8 @@ function doPost(tweetData, auth){
                         +mdh2
                         +tweetData.description[i]
                         +linefeed
-                        +tweetData.date[i]
-                        +linefeed
+                        +'published in '+tweetData.date[i]
+                        +htbur+linefeed
                         +linefeed
                         +"["
                         +tweetData.description[i]
