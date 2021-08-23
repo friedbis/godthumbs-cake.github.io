@@ -258,8 +258,8 @@ function updateTweet(auth) {
                     tweetData.rawdata.unshift(row[2]);
                     tweetData.rawdate.unshift(row[0]);
                     tweetData.pass.unshift(row[1]);
-                    tweetData.moderation.unshift(row[3]);
-                    tweetData.producturl.unshift(row[4]);
+                    tweetData.moderation.unshift(row[4]);
+                    tweetData.producturl.unshift(row[3]);
                 }
             });
             //console.log(tweetData.rawdata.length);
@@ -305,10 +305,11 @@ function doUpdate(tweetData, auth){
 
 function doPost(tweetData, auth){
     if(checkFileExist(templateMdFile)){
-        fs.readFile(templateMdFile, (err, databuf)=>{
+        fs.readFile(templateMdFile, 'utf8', (err, databuf)=>{
             let postbuf='';
             //console.log(tweetData);
-            for(let i=0;i<tweetData.length;i++){
+            for(let i=0;i<tweetData.valid.length;i++){
+                console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
                     databuf+=linefeed
                         +mdh2
@@ -328,12 +329,12 @@ function doPost(tweetData, auth){
                 }
             }
             //databuf=databuf.replace(replacedatespec, tweetData.date[0]);
-            //console.log(databuf);
-            fs.readFile(productionMdFile, (err, postbuf)=>{
+            console.log(databuf);
+            fs.readFile(productionMdFile, 'utf8', (err, postbuf)=>{
                 if(postbuf==databuf){
                     console.log('nothing was updated.');
                 }else{
-                    fs.writeFile(productionMdFile, databuf, ()=>{
+                    fs.writeFile(productionMdFile, databuf, 'utf8', ()=>{
                         console.log('production file['+productionMdFile+'] was generated.');
                         /*
                         fs.writeFile(hexoGenerateFile, '', ()=>{
