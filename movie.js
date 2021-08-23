@@ -17,8 +17,14 @@ const timesep=' ';
 const replacedatespec='{{ date }}';
 const linefeed="\n";
 const mdh2='### ';
-const whitestar='';
-const blackstar='';
+/*
+塗りつぶし用 <i class="fas fa-star"></i>
+空欄用 <i class="far fa-star"></i>
+半分 <i class="fas fa-star-half-alt"></i>
+*/
+const onstar='<i class="fas fa-star"></i>';
+const offstar='<i class="far fa-star"></i>';
+const halfstar='<i class="fas fa-star-half-alt"></i>';
 
 const BaseDir = '/srv/gigthub/godthumb-cake';
 const templateMdFile = BaseDir + '/bin/movies.md';
@@ -32,6 +38,19 @@ const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
 // created automatically when the authorization flow completes for the first
 // time.
 const TOKEN_PATH = 'token.json';
+
+var modstar=(star)=>{
+    let result=((star>=0)&&(star<=5))?'':offstar+offstar+offstar+offstar+offstar;
+    if(result===''){
+        for(let i=0;i<star;i++){
+            result+=onstar;
+        }
+        for(let j=0;j<(5-star);j++){
+            result+=offstar;
+        }
+    }
+    return result;
+}
 
 
 /**
@@ -288,9 +307,8 @@ function doPost(tweetData, auth){
         fs.readFile(templateMdFile, (err, databuf)=>{
             let postbuf='';
             //console.log(tweetData);
-            for(let i=0;i<20;i++){
+            for(let i=0;i<tweetData.length;i++){
                 if(tweetData.valid[i]){
-                    
                     databuf+=linefeed
                         +mdh2
                         +tweetData.description[i]
@@ -303,6 +321,8 @@ function doPost(tweetData, auth){
                         +"]("
                         +tweetData.producturl[i]
                         +")"
+                        +linefeed
+                        +modstar(tweetData.moderation[i])
                         +linefeed;
                 }
             }
