@@ -26,7 +26,7 @@ const onstar='<i class="fas fa-star"></i>';
 const offstar='<i class="far fa-star"></i>';
 const halfstar='<i class="fas fa-star-half-alt"></i>';
 
-const BaseDir = '/srv/gigthub/godthumb-cake';
+const BaseDir = '/srv/github/godthumbs-cake';
 const templateMdFile = BaseDir + '/bin/movies.md';
 const productionMdFile = BaseDir + '/docs/movies.md';
 //const hexoGenerateFile = BaseDir + '/upload.txt';
@@ -81,7 +81,8 @@ fs.readFile('credentials.json', (err, content) => {
  */
 function setDescFormat(str){
     try {
-        var desc=str.substring(2);
+        //var desc=str.substring(2);
+        var desc=str;
     } catch (err) {
         console.log(err.name + ': ' + err.message);
         desc="";
@@ -326,7 +327,7 @@ function doPost(tweetData, auth){
                         +linefeed;
                 }
             }
-            databuf=databuf.replace(replacedatespec, tweetData.date[0]);
+            //databuf=databuf.replace(replacedatespec, tweetData.date[0]);
             //console.log(databuf);
             fs.readFile(productionMdFile, (err, postbuf)=>{
                 if(postbuf==databuf){
@@ -334,9 +335,11 @@ function doPost(tweetData, auth){
                 }else{
                     fs.writeFile(productionMdFile, databuf, ()=>{
                         console.log('production file['+productionMdFile+'] was generated.');
+                        /*
                         fs.writeFile(hexoGenerateFile, '', ()=>{
                             console.log('hexo trigger file was generated.');
                         });
+                        */
                     });
                     doUpdate(tweetData, auth);
                 }
