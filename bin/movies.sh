@@ -1,9 +1,9 @@
 #!/bin/bash
 
 BASEDIR=$(dirname $0)
-JSFILE=$BASEDIR/movies.js
+JSFILE=$BASEDIR/../movies.js
 NODEBIN=$(which node)
-OUTPUTFILE=$BASEDIR/docs/movies.md
+OUTPUTFILE=$BASEDIR/../docs/movies.md
 
 if [ "x${NODEBIN}" == "x" ];
 then
