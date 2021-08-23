@@ -16,12 +16,14 @@ const datesep='-'
 const timesep=' ';
 const replacedatespec='{{ date }}';
 const linefeed="\n";
-const mdh2='## ';
+const mdh2='### ';
+const whitestar='';
+const blackstar='';
 
-const BaseDir = '/srv/simple-blog.yf-19.net';
-const templateMdFile = BaseDir + '/scaffolds/one-liner.md';
-const productionMdFile = BaseDir + '/source/_posts/one-liner.md';
-const hexoGenerateFile = BaseDir + '/upload.txt';
+const BaseDir = '/srv/gigthub/godthumb-cake';
+const templateMdFile = BaseDir + '/bin/movies.md';
+const productionMdFile = BaseDir + '/docs/movies.md';
+//const hexoGenerateFile = BaseDir + '/upload.txt';
 
 // If modifying these scopes, delete token.json.
 //const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
@@ -215,11 +217,11 @@ function updateTweet(auth) {
     const sheets = google.sheets({version: 'v4', auth});
     sheets.spreadsheets.values.get({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
-        range: 'シート1!A1:C',
+        range: 'シート1!A1:E',
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
         const rows = res.data.values;
-        let tweetData={date:[], valid:[], description:[], pass: [], rawdata: [], rawdate: [] };
+        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [] };
         if (rows.length) {
             //console.log('Date, Pass, RawData');
             rows.map((row) => {
@@ -236,6 +238,8 @@ function updateTweet(auth) {
                     tweetData.rawdata.unshift(row[2]);
                     tweetData.rawdate.unshift(row[0]);
                     tweetData.pass.unshift(row[1]);
+                    tweetData.moderation.unshift(row[3]);
+                    tweetData.producturl.unshift(row[4]);
                 }
             });
             //console.log(tweetData.rawdata.length);
@@ -268,9 +272,8 @@ function doUpdate(tweetData, auth){
     resource = {values};
     //console.log(values);
     sheets.spreadsheets.values.update({
-        //spreadsheetId: '10wn4O1bpWMhPGDPOWRUxE_yDmgTEirnPdCm8mMHkf4g',
-        spreadsheetId: '1M0iyjTu8YReSZJsOrRVU1H7wNaxx592SwwOmBqimeNg',
-        range: 'シート1!A1:C',
+        spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
+        range: 'シート1!A1:E',
         valueInputOption: 'RAW',
         resource,
     }, (err, res) => {
@@ -287,12 +290,19 @@ function doPost(tweetData, auth){
             //console.log(tweetData);
             for(let i=0;i<20;i++){
                 if(tweetData.valid[i]){
+                    
                     databuf+=linefeed
                         +mdh2
+                        +tweetData.description[i]
+                        +linefeed
                         +tweetData.date[i]
                         +linefeed
                         +linefeed
+                        +"["
                         +tweetData.description[i]
+                        +"]("
+                        +tweetData.producturl[i]
+                        +")"
                         +linefeed;
                 }
             }
