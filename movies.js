@@ -16,6 +16,7 @@ const datesep='-'
 const timesep=' ';
 const replacedatespec='{{ date }}';
 const linefeed="\n";
+const htbr='<br/>';
 const mdh2='### ';
 /*
 塗りつぶし用 <i class="fas fa-star"></i>
@@ -323,9 +324,9 @@ function doPost(tweetData, auth){
                         +"]("
                         +tweetData.producturl[i]
                         +")"
-                        +linefeed
+                        +htbr+linefeed
                         +modstar(tweetData.moderation[i])
-                        +linefeed;
+                        +htbr+linefeed;
                 }
             }
             //databuf=databuf.replace(replacedatespec, tweetData.date[0]);
