@@ -2,7 +2,7 @@
 
 R15MOVIEURL=https://www.necoweb.com/neco/timetable/
 R15HOST=$(echo -n ${R15MOVIEURL} |sed -e 's/^https:\/\/\([^\/]*\)\/.*$/\1/')
-BASEDIR=/srv/github/godthumbs-cake
+BASEDIR=$(dirname $0)/../
 SRCFILE=${BASEDIR}/bin/post-template2.txt
 DSTDIR=$BASEDIR/docs/_posts
 #DSTDIR=/tmp
