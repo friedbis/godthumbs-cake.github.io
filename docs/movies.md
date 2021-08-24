@@ -12,10 +12,16 @@ title: Impression
 ## 作品
 
 
-### あなたと温泉に行ったら… 北川温泉 #65 #66
+### あなたと温泉に行ったら… 伊東対馬温泉編 #59 #60
+moderated in 2021-8-24 20:46:49<br/>
+
+[あなたと温泉に行ったら… 伊東対馬温泉編 #59 #60](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
+### あなたと温泉に行ったら… 北川温泉編 #65 #66
 moderated in 2021-8-24 13:08:20<br/>
 
-[あなたと温泉に行ったら… 北川温泉 #65 #66](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+[あなたと温泉に行ったら… 北川温泉編 #65 #66](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 ### アンダー・ユア・ベッド
