@@ -1,6 +1,6 @@
 /**
  *
- * index.js
+ * movies.js
  *
  */
 //constants
@@ -40,25 +40,6 @@ const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
 // time.
 const TOKEN_PATH = 'token.json';
 
-var modstar=(star)=>{
-    let result=((star>=0)&&(star<=5))?'':echostar(0);
-    if(result===''){
-        result=echostar(star);
-    }
-    return result;
-}
-var echostar=(num)=>{
-    let star=((num>=0)&&(num<=5))?num:0;
-    let result='';
-    for(let i=0;i<num;i++){
-        result+=onstar;
-    }
-    for(let j=0;j<(5-num);j++){
-        result+=offstar;
-    }
-    return result;
-}
-
 
 /**
  *
@@ -78,6 +59,25 @@ fs.readFile('credentials.json', (err, content) => {
  * function
  *
  */
+var modstar=(star)=>{
+    let result=((star>=0)&&(star<=5))?'':echostar(0);
+    if(result===''){
+        result=echostar(star);
+    }
+    return result;
+}
+var echostar=(num)=>{
+    let star=((num>=0)&&(num<=5))?num:0;
+    let result='';
+    for(let i=0;i<num;i++){
+        result+=onstar;
+    }
+    for(let j=0;j<(5-num);j++){
+        result+=offstar;
+    }
+    return result;
+}
+
 
 /**
  *
