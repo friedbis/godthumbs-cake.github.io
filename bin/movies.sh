@@ -18,7 +18,7 @@ then
     exit 1
 fi
 
-
+cd $BASEDIR
 $NODEBIN $JSFILE && git add $OUTPUTFILE && git commit -m 'movie updated' && git push -u origin main
 
 
