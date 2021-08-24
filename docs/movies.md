@@ -24,10 +24,10 @@ moderated in 2021-8-24 13:08:20<br/>
 [アンダー・ユア・ベッド](https://www.amazon.co.jp/dp/B07YXRFXLC/ref=cm_sw_r_cp_awdb_imm_HN55WCE9JPG50N21BSQ3)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
-### 蛇にビアス [PR]
+### 蛇にピアス [PR]
 moderated in 2021-8-24 13:08:20<br/>
 
-[蛇にビアス [PR]](https://amzn.to/387otgf)<br/>
+[蛇にピアス [PR]](https://amzn.to/387otgf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 ### 世にもエロスな物語 ～肉情～
