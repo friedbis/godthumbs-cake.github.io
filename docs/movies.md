@@ -12,6 +12,18 @@ title: Impression
 ## 作品
 
 
+### きみの鳥はうたえる 特別版 [PR]
+moderated in 2021-8-24 22:27:27<br/>
+
+[きみの鳥はうたえる 特別版 [PR]](https://www.amazon.co.jp/dp/B07NPVHG2V?&linkCode=ll1&tag=httyf19net-22&linkId=966040b6b3cbfd4a17d90ba41769b3df&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
+### 彼女の人生は間違いじゃない [PR]
+moderated in 2021-8-24 22:27:27<br/>
+
+[彼女の人生は間違いじゃない [PR]](https://www.amazon.co.jp/%E5%BD%BC%E5%A5%B3%E3%81%AE%E4%BA%BA%E7%94%9F%E3%81%AF%E9%96%93%E9%81%95%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-Blu-ray-%E7%80%A7%E5%86%85%E5%85%AC%E7%BE%8E/dp/B076HWRMX5?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=httyf19net-22&linkId=6dfb4039a176937641870846e4a92550&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### ふがいない僕は空を見た [PR]
 moderated in 2021-8-24 22:18:13<br/>
 
@@ -215,6 +227,12 @@ moderated in 2021-8-23 15:02:39<br/>
 
 [時代官能 美人女将物語](https://www.necoweb.com/neco/program/detail.php?id=5587)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
+### 火口のふたり
+moderated in 2021-8-24 22:27:27<br/>
+
+[火口のふたり](https://www.amazon.co.jp/%E7%81%AB%E5%8F%A3%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A-Blu-ray-%E6%9F%84%E6%9C%AC%E4%BD%91/dp/B08227RXHP?pd_rd_w=rbhhS&pf_rd_p=d8f6e0ab-48ef-4eca-99d5-60d97e927468&pf_rd_r=1W3S84K2165VC3DYN66T&pd_rd_r=c926450d-43bd-4895-8e6b-b8aa0c274649&pd_rd_wg=5Wu3j&pd_rd_i=B08227RXHP&psc=1&linkCode=ll1&tag=httyf19net-22&linkId=cd85bd06d1274a3e0a4c72dc2d33bb35&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 
 ### 殺人鬼を飼う女
 moderated in 2021-8-23 15:02:11<br/>
