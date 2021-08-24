@@ -12,6 +12,24 @@ title: Impression
 ## 作品
 
 
+### バーニング
+moderated in 2021-8-25 08:21:44<br/>
+
+[バーニング](https://amzn.to/3yaiCkR)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
+### スピーシーズ 種の起源
+moderated in 2021-8-25 08:21:44<br/>
+
+[スピーシーズ 種の起源](https://amzn.to/3jculuX)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
+### スペースバンパイア
+moderated in 2021-8-25 08:21:44<br/>
+
+[スペースバンパイア](https://amzn.to/3zhLGZ4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
 ### 世にもエロスな物語〜恥情〜
 moderated in 2021-8-24 23:47:48<br/>
 
