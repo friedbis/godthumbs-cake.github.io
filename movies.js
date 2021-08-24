@@ -322,7 +322,7 @@ function doPost(tweetData, auth){
             let postbuf='';
             //console.log(tweetData);
             for(let i=0;i<tweetData.valid.length;i++){
-                console.log('valid:'+tweetData.valid[i]);
+                //console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
                     let linktitle=tweetData.description[i];
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
