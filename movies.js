@@ -19,6 +19,7 @@ const replacedatespec='{{ date }}';
 const linefeed="\n";
 const htbr='<br/>';
 const mdh2='### ';
+const stramazon='[PR]';
 /*
 塗りつぶし用 <i class="fas fa-star"></i>
 空欄用 <i class="far fa-star"></i>
@@ -250,7 +251,7 @@ function updateTweet(auth) {
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
         const rows = res.data.values;
-        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [] };
+        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [] };
         if (rows.length) {
             //console.log('Date, Pass, RawData');
             rows.map((row) => {
@@ -269,7 +270,10 @@ function updateTweet(auth) {
                     tweetData.pass.unshift(row[1]);
                     tweetData.moderation.unshift(row[4]);
                     tweetData.producturl.unshift(row[3]);
+                    if(row[3].indexOf('amazon')>0)tweetData.amazoncheck.unshift(1);
+                    else tweetData.amazoncheck.unshift(0);
                 }
+                
             });
             //console.log(tweetData.rawdata.length);
             if(tweetData.date.length>0){
@@ -320,6 +324,8 @@ function doPost(tweetData, auth){
             for(let i=0;i<tweetData.valid.length;i++){
                 console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
+                    let linktitle=tweetData.description[i];
+                    if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     databuf+=linefeed
                         +mdh2
                         +tweetData.description[i]
@@ -328,7 +334,7 @@ function doPost(tweetData, auth){
                         +htbr+linefeed
                         +linefeed
                         +"["
-                        +tweetData.description[i]
+                        +linktitle
                         +"]("
                         +tweetData.producturl[i]
                         +")"
