@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### 世にもエロスな物語 ～肉情～
+moderated in 2021-8-24 09:52:12<br/>
+
+[世にもエロスな物語 ～肉情～](https://www.skyperfectv.co.jp/special/eiganosora/details/?k=19309837)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 妹になりたくて。
 moderated in 2021-8-23 20:51:10<br/>
 
