@@ -8,8 +8,9 @@ require('date-utils');
 const fs = require('fs');
 const readline = require('readline');
 const {google} = require('googleapis');
+const md5 = require('md5');
 
-const postpass='0721';
+const postpass='d14ceb37e82ddfe68777e8454997ed7d';
 const sep1=',';
 const sep2='at';
 const datesep='-'
@@ -108,8 +109,9 @@ function setDescFormat(str){
 function setPassFormat(str){
     let isValid=false;
     let validatestr=('0000'+str).slice(-4);
+    let hashdata=md5(validatestr);
     //console.log(validatestr);
-    if(validatestr==postpass){
+    if(hashdata==postpass){
         isValid=true;
     }
     return isValid;
