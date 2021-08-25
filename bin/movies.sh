@@ -1,21 +1,24 @@
 #!/bin/bash
 
-if [ -f ~/.bashrc ];
-then
-    . ~/.bashrc
-fi
-
 BASEDIR=$(dirname $0)
 SYSNAME=$(basename $0)
 JSFILE=$BASEDIR/../movies.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/movies.md
 
+#
+# functions
+#
 function _echo {
     args="$*"
     echo $args
     logger -t $SYSNAME $args
 }
+
+if [ -f $BASEDIR/../.profile ];
+then
+    . $BASEDIR/../.profile
+fi
 
 if [ "x${NODEBIN}" == "x" ];
 then
