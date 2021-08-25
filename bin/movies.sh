@@ -1,20 +1,32 @@
 #!/bin/bash
 
+if [ -f ~/.bashrc ];
+then
+    . ~/.bashrc
+fi
+
 BASEDIR=$(dirname $0)
+SYSNAME=$(basename $0)
 JSFILE=$BASEDIR/../movies.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/movies.md
 
+function _echo {
+    args="$*"
+    echo $args
+    logger -t $SYSNAME $args
+}
+
 if [ "x${NODEBIN}" == "x" ];
 then
-    echo "command was not found"
+    _echo "command was not found"
     exit 1
 fi
 
 
 if [ ! -f $JSFILE ];
 then
-    echo "js file was not found"
+    _echo "js file was not found"
     exit 1
 fi
 
