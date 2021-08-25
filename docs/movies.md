@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### バタリアン
+moderated in 2021-8-25 19:57:21<br/>
+
+[バタリアン [PR]](https://amzn.to/3B4YMt6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### プッシートーク
 moderated in 2021-8-25 12:16:19<br/>
 
