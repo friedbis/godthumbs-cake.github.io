@@ -32,6 +32,8 @@ fi
 
 cd $BASEDIR
 cd ..
+_echo "lets get the movie moderation script started..."
 $NODEBIN $JSFILE && git add $OUTPUTFILE && git commit -m 'movie updated' && git push -u origin main
+_echo "done"
 
 
