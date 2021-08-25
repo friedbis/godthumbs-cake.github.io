@@ -39,7 +39,8 @@ _echo "lets get the movie moderation script started..."
 $NODEBIN $JSFILE
 if [ $? != 0 ];
 then
-    _echo "${JSFILE} was finished"
+    _echo "${NODEBIN} occured with error[s]"
+    _echo "${JSFILE} was finished with error[s]"
     exit 1
 fi
 _echo "done"
