@@ -270,7 +270,7 @@ function updateTweet(auth) {
                     tweetData.pass.unshift(row[1]);
                     tweetData.moderation.unshift(row[4]);
                     tweetData.producturl.unshift(row[3]);
-                    if(row[3].indexOf('amazon')>0)tweetData.amazoncheck.unshift(1);
+                    if(row[3].indexOf('amazon')>0||row[3].indexOf('amzn')>0)tweetData.amazoncheck.unshift(1);
                     else tweetData.amazoncheck.unshift(0);
                 }
                 
