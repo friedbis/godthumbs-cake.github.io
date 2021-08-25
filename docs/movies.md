@@ -12,6 +12,18 @@ title: Impression
 ## 作品
 
 
+### 愚行録
+moderated in 2021-8-25 21:15:04<br/>
+
+[愚行録 [PR]](https://amzn.to/3mxOWME)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
+### 日本で一番悪い奴ら
+moderated in 2021-8-25 21:15:04<br/>
+
+[日本で一番悪い奴ら [PR]](https://www.amazon.co.jp/dp/B01M9CF0CQ?&linkCode=ll1&tag=httyf19net-22&linkId=021fb41d14f84e1fabff4a066be17eb9&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### R-18文学賞 vol.2 ジェリー・フィッシュ
 moderated in 2021-8-25 21:10:04<br/>
 
