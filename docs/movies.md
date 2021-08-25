@@ -12,6 +12,18 @@ title: Impression
 ## 作品
 
 
+### プッシートーク
+moderated in 2021-8-25 12:16:19<br/>
+
+[プッシートーク [PR]](https://amzn.to/3jd7nE0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
+### 青い珊瑚礁
+moderated in 2021-8-25 12:16:19<br/>
+
+[青い珊瑚礁 [PR]](https://amzn.to/3ydjjtW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### バーニング
 moderated in 2021-8-25 08:21:44<br/>
 
