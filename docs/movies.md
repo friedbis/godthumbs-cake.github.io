@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### あなたと温泉に行ったら… 網代温泉編 #67 #68
+moderated in 2021-8-26 08:00:04<br/>
+
+[あなたと温泉に行ったら… 網代温泉編 #67 #68](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 夢売るふたり
 moderated in 2021-8-26 06:50:04<br/>
 
