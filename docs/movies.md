@@ -62,7 +62,7 @@ moderated in 2021-8-25 21:15:04<br/>
 
 ### R-18文学賞 vol.2 ジェリー・フィッシュ
 moderated in 2021-8-25 21:10:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWNmYzM1NTEtMGQ2NS00OTE0LTgyMjQtMTQwYzc3NzM4MDlhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="R-18文学賞 vol.2 ジェリー・フィッシュ"><br/>
 [R-18文学賞 vol.2 ジェリー・フィッシュ [PR]](https://www.amazon.co.jp/R-18%E6%96%87%E5%AD%A6%E8%B3%9E-vol-2-%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5-DVD-%E5%A4%A7%E8%B0%B7%E6%BE%AA/dp/B00K14H5S0?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=R-18%E6%96%87%E5%AD%A6%E8%B3%9E+vol.2&qid=1629893297&sr=8-1&linkCode=ll1&tag=httyf19net-22&linkId=357305493585361698b1b17463b66c21&language=ja_JP&ref_=as_li_ss_tl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
@@ -140,7 +140,7 @@ moderated in 2021-8-25 20:45:04<br/>
 
 ### メリーに首ったけ
 moderated in 2021-8-25 20:45:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWQ1ZTY0MjUtNTBlYi00ODc3LTk5MDItNDNkNDllNDk1NmI1XkEyXkFqcGdeQXVyMjE4MjA4NDc@._V1_FMjpg_UX320_.jpg" alt="メリーに首ったけ"><br/>
 [メリーに首ったけ [PR]](https://www.amazon.co.jp/%E3%83%A1%E3%83%AA%E3%83%BC%E3%81%AB%E9%A6%96%E3%81%A3%E3%81%9F%E3%81%91-%E5%AE%8C%E5%85%A8%E7%89%88-Blu-ray-%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9/dp/B01LTHL04W?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1M4750J6S74F3&dchild=1&keywords=%E3%83%A1%E3%83%AA%E3%83%BC%E3%81%AB%E9%A6%96%E3%81%A3%E3%81%9F%E3%81%91&qid=1629889864&s=dvd&sprefix=%E3%82%81%E3%82%8A%E3%83%BC%E3%81%AB%2Cdvd%2C297&sr=1-3&linkCode=ll1&tag=httyf19net-22&linkId=a83c6c5c93457466c6071611b2972480&language=ja_JP&ref_=as_li_ss_tl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
