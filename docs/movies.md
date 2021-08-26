@@ -104,7 +104,7 @@ moderated in 2021-8-25 20:55:03<br/>
 
 ### 転校生
 moderated in 2021-8-25 20:50:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmNlZWQ5ZDYtNDI2NC00NDc5LTgzMDEtNTcyOWYyYmExNzQyXkEyXkFqcGdeQXVyNjYxOTc4ODA@._V1_.jpg" alt="転校生"><br/>
 [転校生 [PR]](https://www.amazon.co.jp/%E8%BB%A2%E6%A0%A1%E7%94%9F-DVD-%E5%B0%8F%E6%9E%97%E8%81%A1%E7%BE%8E/dp/B00005HXBN?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E8%BB%A2%E6%A0%A1%E7%94%9F&qid=1629892095&s=dvd&sr=1-4&linkCode=ll1&tag=httyf19net-22&linkId=9798194c41d70db546e4e1800fabe7c2&language=ja_JP&ref_=as_li_ss_tl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 
