@@ -247,11 +247,11 @@ function updateTweet(auth) {
     const sheets = google.sheets({version: 'v4', auth});
     sheets.spreadsheets.values.get({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
-        range: 'シート1!A1:E',
+        range: 'シート1!A1:F',
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
         const rows = res.data.values;
-        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [] };
+        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [], poster: [] };
         if (rows.length) {
             //console.log('Date, Pass, RawData');
             rows.map((row) => {
@@ -272,6 +272,8 @@ function updateTweet(auth) {
                     tweetData.producturl.unshift(row[3]);
                     if(row[3].indexOf('amazon')>0||row[3].indexOf('amzn')>0)tweetData.amazoncheck.unshift(1);
                     else tweetData.amazoncheck.unshift(0);
+                    if(row[5]<>'')tweetData.poster.unshift(row[5]);
+                    else tweetData.poster.unshift('');
                 }
                 
             });
@@ -298,7 +300,10 @@ function doUpdate(tweetData, auth){
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
-            tweetData.rawdata[i]
+            tweetData.rawdata[i],
+            tweetData.producturl[i],
+            tweetData.moderation[i],
+            tweetData.poster[i]
         ]
         idx++;
     }
@@ -306,7 +311,7 @@ function doUpdate(tweetData, auth){
     //console.log(values);
     sheets.spreadsheets.values.update({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
-        range: 'シート1!A1:E',
+        range: 'シート1!A1:F',
         valueInputOption: 'RAW',
         resource,
     }, (err, res) => {
@@ -325,6 +330,8 @@ function doPost(tweetData, auth){
                 //console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
                     let linktitle=tweetData.description[i];
+                    let postertag='';
+                    if(tweetData.poster[i]<>'')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     databuf+=linefeed
                         +mdh2
@@ -332,6 +339,8 @@ function doPost(tweetData, auth){
                         +linefeed
                         +'moderated in '+tweetData.date[i]
                         +htbr+linefeed
+                        +postertag
+                        +htbr
                         +linefeed
                         +"["
                         +linktitle
