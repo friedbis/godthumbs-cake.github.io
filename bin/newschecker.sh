@@ -23,6 +23,7 @@ postdate=$(date +%Y-%m-%d)
 #postcount=$(head -1 $countoffsetfile)
 destdir=$(dirname $0)/../docs/_posts
 archivefile=$destdir/1999-01-07-archive.md
+mdcntthreshold=100
 
 cd $basedir/
 echo -n "check current version..."
@@ -34,6 +35,14 @@ cat <(find $destdir -mtime +5 -iregex "^.*\/2[0-9][0-9][0-9].*\.md$" -print) |wh
 do
     cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
 done
+mdfilecount=$(ls -l $destdir/2[0-9][0-9][0-9].*\.md |wc -l)
+if [ $mdfilecount -gt $mdcntthreshold ];
+then
+    cat <(find $destdir -mtime +3 -iregex "^.*\/*.md$" -print) |while read i;
+    do
+        cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
+    done
+fi
 #rm -f $destdir/*.md
 #git rm $destdir/*.md
 echo "deleted"
