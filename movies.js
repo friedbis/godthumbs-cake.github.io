@@ -279,7 +279,7 @@ function updateTweet(auth) {
             });
             //console.log(tweetData.rawdata.length);
             if(tweetData.date.length>0){
-                console.log(tweetData.poster[0]);
+                //console.log(tweetData.poster[0]);
                 doPost(tweetData, auth);
             }
         } else {
