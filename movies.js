@@ -272,7 +272,7 @@ function updateTweet(auth) {
                     tweetData.producturl.unshift(row[3]);
                     if(row[3].indexOf('amazon')>0||row[3].indexOf('amzn')>0)tweetData.amazoncheck.unshift(1);
                     else tweetData.amazoncheck.unshift(0);
-                    if(row[5]<>'')tweetData.poster.unshift(row[5]);
+                    if(row[5]!=='')tweetData.poster.unshift(row[5]);
                     else tweetData.poster.unshift('');
                 }
                 
@@ -331,7 +331,7 @@ function doPost(tweetData, auth){
                 if(tweetData.valid[i]){
                     let linktitle=tweetData.description[i];
                     let postertag='';
-                    if(tweetData.poster[i]<>'')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
+                    if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     databuf+=linefeed
                         +mdh2
