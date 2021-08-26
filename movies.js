@@ -272,14 +272,14 @@ function updateTweet(auth) {
                     tweetData.producturl.unshift(row[3]);
                     if(row[3].indexOf('amazon')>0||row[3].indexOf('amzn')>0)tweetData.amazoncheck.unshift(1);
                     else tweetData.amazoncheck.unshift(0);
-                    if(row[5]!=='')tweetData.poster.unshift(row[5]);
+                    if(row[5]!==''&&row[5]!==undefined)tweetData.poster.unshift(row[5]);
                     else tweetData.poster.unshift('');
                 }
                 
             });
             //console.log(tweetData.rawdata.length);
             if(tweetData.date.length>0){
-                //console.log(tweetData);
+                console.log(tweetData.poster[0]);
                 doPost(tweetData, auth);
             }
         } else {
