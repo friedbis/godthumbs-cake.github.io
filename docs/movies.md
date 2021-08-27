@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### 刑事物語
+moderated in 2021-8-27 15:30:04<br/>
+<br/>
+[刑事物語 [PR]](https://amzn.to/2WuU2hn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### うそつきパラドクス
 moderated in 2021-8-27 15:25:03<br/>
 <br/>
