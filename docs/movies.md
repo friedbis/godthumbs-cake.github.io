@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### オープン・マリッジ ある夫婦のカタチ
+moderated in 2021-8-28 06:25:03<br/>
+<br/>
+[オープン・マリッジ ある夫婦のカタチ](https://www.necoweb.com/neco/program/detail.php?id=5077)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### カンゾー先生
 moderated in 2021-8-28 06:20:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODk2ZmUzNGYtNjkxYS00YTg4LTg1MTYtNWRjNDczZTU3ZjRhXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_FMjpg_UX1020_.jpg" alt="カンゾー先生"><br/>
