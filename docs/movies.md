@@ -12,6 +12,18 @@ title: Impression
 ## 作品
 
 
+### 悪魔のKISS
+moderated in 2021-8-27 15:35:04<br/>
+<br/>
+[悪魔のKISS](https://m.toei-video.co.jp/default.asp?d=70;t_T0000006572)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
+### ジョセと虎と魚たち
+moderated in 2021-8-27 15:35:04<br/>
+<br/>
+[ジョセと虎と魚たち [PR]](https://amzn.to/3gCZ82u)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 刑事物語
 moderated in 2021-8-27 15:30:04<br/>
 <br/>
