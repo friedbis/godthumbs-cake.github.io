@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### Perfect Blue
+moderated in 2021-8-27 21:25:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzY0ODFmNzEtNjhiNS00MDI1LWExM2UtYzRlYzA2YmYyMGNjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_FMjpg_UX600_.jpg" alt="Perfect Blue"><br/>
+[Perfect Blue [PR]](https://amzn.to/2XXp6qV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
 ### Heavy Metal
 moderated in 2021-8-27 21:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjg3YzFkZmEtZWQzMC00YzBmLWE4MDYtODQwZmI2ZDhjNWJkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="Heavy Metal"><br/>
