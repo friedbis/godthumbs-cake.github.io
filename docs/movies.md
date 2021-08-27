@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### ビデオドローム
+moderated in 2021-8-27 22:30:04<br/>
+<br/>
+[ビデオドローム [PR]](https://amzn.to/3Bg9bT0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 愛のコリーダ
 moderated in 2021-8-27 21:30:04<br/>
 <br/>
