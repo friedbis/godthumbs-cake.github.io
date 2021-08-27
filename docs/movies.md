@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### （不）完全人間
+moderated in 2021-8-27 15:45:04<br/>
+<br/>
+[（不）完全人間 [PR]](https://www.amazon.co.jp/%EF%BC%88%E4%B8%8D%EF%BC%89%E5%AE%8C%E5%85%A8%E4%BA%BA%E9%96%93-%E5%B0%8F%E5%B1%B1%E5%9B%BD%E5%AE%8F/dp/B01JKIZAK2?&linkCode=ll1&tag=httyf19net-22&linkId=ca98f63bb83d2c8011c37b33a12a0da0&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### ファミリー☆ウォーズ
 moderated in 2021-8-27 15:40:04<br/>
 <br/>
