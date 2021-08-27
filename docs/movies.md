@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### うそつきパラドクス
+moderated in 2021-8-27 15:25:03<br/>
+<br/>
+[うそつきパラドクス [PR]](https://amzn.to/3DlQuz0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 純平、考え直せ
 moderated in 2021-8-27 14:50:04<br/>
 <br/>
