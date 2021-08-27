@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### 純平、考え直せ
+moderated in 2021-8-27 14:50:04<br/>
+<br/>
+[純平、考え直せ [PR]](https://amzn.to/38mknAU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### あなたと温泉に行ったら… 日光温泉編 #69 #70
 moderated in 2021-8-27 13:00:05<br/>
 <img src="https://pbs.twimg.com/media/EFoKQlBUwAAT2B9?format=jpg&name=large" alt="あなたと温泉に行ったら… 日光温泉編 #69 #70"><br/>
