@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### 愛のコリーダ
+moderated in 2021-8-27 21:30:04<br/>
+<br/>
+[愛のコリーダ [PR]](https://amzn.to/3BcnQP0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
 ### Perfect Blue
 moderated in 2021-8-27 21:25:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzY0ODFmNzEtNjhiNS00MDI1LWExM2UtYzRlYzA2YmYyMGNjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_FMjpg_UX600_.jpg" alt="Perfect Blue"><br/>
