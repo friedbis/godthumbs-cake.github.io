@@ -12,6 +12,24 @@ title: Impression
 ## 作品
 
 
+### あゝ荒野
+moderated in 2021-8-27 22:35:04<br/>
+<br/>
+[あゝ荒野 [PR]](https://amzn.to/38fPu1a)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
+### 共喰い
+moderated in 2021-8-27 22:35:04<br/>
+<br/>
+[共喰い [PR]](https://amzn.to/3ksX3Ya)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
+### 愛の新世界
+moderated in 2021-8-27 22:35:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTQ2OTcwMDA1OV5BMl5BanBnXkFtZTcwMjYxNDczMQ@@._V1_.jpg" alt="愛の新世界"><br/>
+[愛の新世界 [PR]](https://amzn.to/3mzDu2Z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### ビデオドローム
 moderated in 2021-8-27 22:30:04<br/>
 <br/>
