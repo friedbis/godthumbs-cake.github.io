@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### 水のないプール
+moderated in 2021-8-27 22:45:03<br/>
+<br/>
+[水のないプール [PR]](https://amzn.to/3sQDyMR)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### お葬式
 moderated in 2021-8-27 22:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTcxMjgyNjQ3N15BMl5BanBnXkFtZTYwNjY3MzM5._V1_.jpg" alt="お葬式"><br/>
