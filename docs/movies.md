@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### Heavy Metal
+moderated in 2021-8-27 21:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjg3YzFkZmEtZWQzMC00YzBmLWE4MDYtODQwZmI2ZDhjNWJkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="Heavy Metal"><br/>
+[Heavy Metal [PR]](https://amzn.to/3kyCtph)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 愛の渦
 moderated in 2021-8-27 21:15:04<br/>
 <br/>
