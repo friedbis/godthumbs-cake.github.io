@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### カンゾー先生
+moderated in 2021-8-28 06:20:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODk2ZmUzNGYtNjkxYS00YTg4LTg1MTYtNWRjNDczZTU3ZjRhXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_FMjpg_UX1020_.jpg" alt="カンゾー先生"><br/>
+[カンゾー先生 [PR]](https://amzn.to/2Y4Oj2T)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 水のないプール
 moderated in 2021-8-27 22:45:03<br/>
 <br/>
