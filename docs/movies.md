@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### ルパン三世 Part2 死の翼アルバトロス
+moderated in 2021-8-28 09:50:04<br/>
+<br/>
+[ルパン三世 Part2 死の翼アルバトロス [PR]](https://www.amazon.co.jp/gp/video/detail/B0756MSFPV/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 鉄男
 moderated in 2021-8-28 09:45:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTdlZTg5NjctNTE4ZC00MzFjLWI4NTAtZjY4M2RlMzNiNzkzXkEyXkFqcGdeQXVyMTI3NTA0ODU@._V1_FMjpg_UX960_.jpg" alt="鉄男"><br/>
