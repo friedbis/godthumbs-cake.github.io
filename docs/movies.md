@@ -12,6 +12,18 @@ title: Impression
 ## 作品
 
 
+### 岬の兄妹
+moderated in 2021-8-28 17:05:03<br/>
+<br/>
+[岬の兄妹 [PR]](https://amzn.to/3sTUcuV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
+### フィギュアなあなた
+moderated in 2021-8-28 17:05:03<br/>
+<br/>
+[フィギュアなあなた [PR]](https://amzn.to/3gIbOFh)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
 ### 死霊の盆踊り
 moderated in 2021-8-28 17:00:05<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Ed_wood_glen_or_glenda.jpg" alt="死霊の盆踊り"><br/>
