@@ -271,7 +271,7 @@ function updateTweet(auth) {
                     else tweetData.amazoncheck.unshift(0);
                     if(row[5]!==''&&row[5]!==undefined)tweetData.poster.unshift(row[5]);
                     else tweetData.poster.unshift('');
-                    tweetData.tagindex.unshift(row[6])
+                    tweetData.tagindex.unshift(row[6]);
                 }
                 
             });
@@ -332,24 +332,24 @@ function doPost(tweetData, auth){
             let postbuf='';
             //console.log(tweetData);
             for(let i=0;i<tweetData.valid.length;i++){
-                //console.log('valid:'+tweetData.valid[i]);
+                console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
                     let linktitle=tweetData.description[i];
                     let postertag='';
                     let booldefined=false;
                     let tagindex=-1;
-                    for(let i=0;i<dataObj.length;i++){
-                        if(dataObj[i].keys(tag).indexOf(tweetData.tagindex[i]) !== 0){
+                    for(let j=0;j<dataObj.length;j++){
+                        if(Object.keys(dataObj[j]).indexOf(tweetData.tagindex[i]) !== 0){
                             dataObj.unshift({ tag: tweetData.tagindex[i], body: databuf, filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix});
                             booldefined=!booldefined;
-                        }else{
-                            tagindex=i;
+                            tagindex=j;
                         }
                     }
                     if(!booldefined){
                         dataObj.unshift({ tag: tweetData.tagindex[i], body: databuf, filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix});
-                        tagindex=dataObj.length;
+                        tagindex=dataObj.length-1;
                     }
+                    console.log(dataObj[tagindex]);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     dataObj[tagindex].body+=htbr
@@ -372,24 +372,19 @@ function doPost(tweetData, auth){
                         +htbr+linefeed;
                 }
             }
-            //databuf=databuf.replace(replacedatespec, tweetData.date[0]);
-            console.log(databuf);
-            fs.readFile(productionMdFile, 'utf8', (err, postbuf)=>{
-                if(postbuf==databuf){
-                    console.log('nothing was updated.');
-                }else{
-                    fs.writeFile(productionMdFile, databuf, 'utf8', ()=>{
-                        console.log('production file['+productionMdFile+'] was generated.');
-                        /*
-                        fs.writeFile(hexoGenerateFile, '', ()=>{
-                            console.log('hexo trigger file was generated.');
+            if(checkFileExist(dataObj[tagindex].filename)){
+                fs.readFile(dataObj[tagindex].filename, 'utf8', (err, postbuf)=>{
+                    if(postbuf==databuf){
+                        console.log('nothing was updated.');
+                    }else{
+                        fs.writeFile(dataObj[tagindex].filename, dataObj[tagindex].body, 'utf8', ()=>{
+                            console.log('production file['+dataObj[tagindex].filename+'] was generated.');
                         });
-                        */
-                    });
-                    doUpdate(tweetData, auth);
-                }
-            });
+                    }
+                });
+            }
         });
+        doUpdate(tweetData, auth);
     }else{
         console.log('template file['+templateMdFile+'] was not found.');
         return false;
