@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### あなたと温泉に行ったら… 那須高原温泉編 #71 #72
+moderated in 2021-8-29 01:47:37<br/>
+<br/>
+[あなたと温泉に行ったら… 那須高原温泉編 #71 #72](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### オープン・マリッジ 新しい夫婦生活
 moderated in 2021-8-29 01:39:53<br/>
 <br/>
