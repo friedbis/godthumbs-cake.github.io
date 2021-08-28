@@ -27,6 +27,9 @@ title: Impression
 
 この２つの条件を合わせて加味しながら評価しています。
 
+
+評価例
+
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 話が面白い。性的表現もちゃんと描いている。
 
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> 話は普通以上。性的表現をちゃんと描いている。
