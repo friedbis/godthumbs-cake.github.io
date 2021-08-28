@@ -12,6 +12,18 @@ title: Impression
 ## 作品
 
 
+### 真幸くあらば
+moderated in 2021-8-28 13:05:03<br/>
+<br/>
+[真幸くあらば [PR]](https://amzn.to/38mRIvD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
+### 殯の森
+moderated in 2021-8-28 13:05:03<br/>
+<br/>
+[殯の森 [PR]](https://amzn.to/38hfbP3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### スターシップ・トゥルーパーズ
 moderated in 2021-8-28 12:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTRhYjliODgtZDE2NC00NTM0LWJlMmUtYjkxY2ZiNjQ5ZWEzXkEyXkFqcGdeQXVyMTE1ODU2Nzcx._V1_FMjpg_UX1024_.jpg" alt="スターシップ・トゥルーパーズ"><br/>
