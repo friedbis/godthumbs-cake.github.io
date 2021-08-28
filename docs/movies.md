@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### メガゾーン23
+moderated in 2021-8-28 09:55:03<br/>
+<br/>
+[メガゾーン23 [PR]](https://amzn.to/3yzf7F7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### ルパン三世 Part2 死の翼アルバトロス
 moderated in 2021-8-28 09:50:04<br/>
 <br/>
