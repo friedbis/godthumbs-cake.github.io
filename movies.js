@@ -9,6 +9,8 @@ const fs = require('fs');
 const readline = require('readline');
 const {google} = require('googleapis');
 const md5 = require('md5');
+const {execSync} = require('child_process');
+
 
 const postpass='d14ceb37e82ddfe68777e8454997ed7d';
 const sep1=',';
@@ -288,7 +290,7 @@ function updateTweet(auth) {
     });
 }
 
-function doUpdate(tweetData, auth){
+let doUpdate=(tweetData, auth)=>{
     const sheets = google.sheets({version: 'v4', auth});
     let values = [];
     let resource = {};
@@ -297,13 +299,19 @@ function doUpdate(tweetData, auth){
     //console.log(tweetData.date[0]);
     let idx=0
     for(let i=tweetData.rawdata.length-1;i>=0;i--){
+        let rawfurigana=execSync('echo "'+tweetData.rawdata[i]+'" |mecab |while read i;do echo $i |awk \'{print $2;}\' |awk \'BEGIN{FS=","} {print $8;}\' ;done |head -1 |tr -d "\r\n"');
+        //console.log(rawfurigana.toString());
+        let furigana=rawfurigana.toString();
+        if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
+        else furigana=furigana.substr(0,1);
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
             tweetData.rawdata[i],
             tweetData.producturl[i],
             tweetData.moderation[i],
-            tweetData.poster[i]
+            tweetData.poster[i],
+            furigana,
         ]
         idx++;
     }
@@ -311,7 +319,7 @@ function doUpdate(tweetData, auth){
     //console.log(values);
     sheets.spreadsheets.values.update({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
-        range: 'シート1!A1:F',
+        range: 'シート1!A1:G',
         valueInputOption: 'RAW',
         resource,
     }, (err, res) => {
