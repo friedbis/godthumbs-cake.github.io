@@ -12,6 +12,12 @@ title: Impression
 ## 作品
 
 
+### 獣道
+moderated in 2021-8-28 15:00:05<br/>
+<br/>
+[獣道 [PR]](https://amzn.to/3DsY3ny)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
 ### 真幸くあらば
 moderated in 2021-8-28 13:05:03<br/>
 <br/>
