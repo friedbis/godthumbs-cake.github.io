@@ -16,7 +16,7 @@ title: Impression
 moderated in 2021-8-28 12:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTRhYjliODgtZDE2NC00NTM0LWJlMmUtYjkxY2ZiNjQ5ZWEzXkEyXkFqcGdeQXVyMTE1ODU2Nzcx._V1_FMjpg_UX1024_.jpg" alt="スターシップ・トゥルーパーズ"><br/>
 [スターシップ・トゥルーパーズ [PR]](https://amzn.to/2WuJb7y)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 ### メガゾーン23
 moderated in 2021-8-28 09:55:03<br/>
