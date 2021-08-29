@@ -4,27 +4,31 @@ layout: default
 
 {% include site-header.html %}
 
-{% include post-ads3.html %}
-
 <main class="main  container">
 
-  <article class="article  article--post  content  typeset">
+  <div class="content">
 
-    <h1>{{ page.title }}</h1>
-    {% include post-meta.html %}
-    {{ content }}
+    <article class="article  article--page  typeset">
 
-    {% include post-ads2.html %}
+      {% if paginator.posts %}
+        {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+        <h1>{{ collectiondata.title }}</h1>
+        {{ collectiondata.description | markdownify }}
 
-    {% include nav-share.html %}
+      {% else %}
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+        
+      {% endif %}
 
-    {% include post-comments.html %}
+    </article>
 
-    {% include post-ads.html %}
+    {% include post-list.html %}
 
-  </article>
+  </div>
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
 </main>
+
 {% include site-footer.html %}
