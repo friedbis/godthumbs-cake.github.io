@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 日本で一番悪い奴ら
+moderated in 2021-8-25 21:15:04<br/>
+<br/>
+[日本で一番悪い奴ら [PR]](https://www.amazon.co.jp/dp/B01M9CF0CQ?&linkCode=ll1&tag=httyf19net-22&linkId=021fb41d14f84e1fabff4a066be17eb9&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 二代目襲名:明日香 絡み合う愛欲と復讐
 moderated in 2021-8-23 16:22:21<br/>
 <br/>

@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### バタリアン
+moderated in 2021-8-25 19:57:21<br/>
+<br/>
+[バタリアン [PR]](https://amzn.to/3B4YMt6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### バーニング
 moderated in 2021-8-25 08:21:44<br/>
 <br/>

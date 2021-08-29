@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 鉄男
+moderated in 2021-8-28 09:45:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTdlZTg5NjctNTE4ZC00MzFjLWI4NTAtZjY4M2RlMzNiNzkzXkEyXkFqcGdeQXVyMTI3NTA0ODU@._V1_FMjpg_UX960_.jpg" alt="鉄男"><br/>
+[鉄男 [PR]](https://amzn.to/2Y3DrCm)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 転校生
 moderated in 2021-8-25 20:50:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmNlZWQ5ZDYtNDI2NC00NDc5LTgzMDEtNTcyOWYyYmExNzQyXkEyXkFqcGdeQXVyNjYxOTc4ODA@._V1_.jpg" alt="転校生"><br/>

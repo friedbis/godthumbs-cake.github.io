@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### フィギュアなあなた
+moderated in 2021-8-28 17:05:03<br/>
+<br/>
+[フィギュアなあなた [PR]](https://amzn.to/3gIbOFh)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+### ファミリー☆ウォーズ
+moderated in 2021-8-27 15:40:04<br/>
+<br/>
+[ファミリー☆ウォーズ [PR]](https://www.amazon.co.jp/dp/B084HPGRT3?&linkCode=ll1&tag=httyf19net-22&linkId=20b1ed6aa0fa6319dd14baad54eff0f0&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ふがいない僕は空を見た
 moderated in 2021-8-24 22:18:13<br/>
 <br/>

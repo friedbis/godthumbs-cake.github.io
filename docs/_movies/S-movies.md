@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### Sweet Angel ひなたまりん #115
+moderated in 2021-8-29 10:20:04<br/>
+<br/>
+[Sweet Angel ひなたまりん #115](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### SEX and the DEATH NOTE　伝説の魔導書　犯るか、殺られるか－
 moderated in 2021-8-23 16:22:21<br/>
 <br/>

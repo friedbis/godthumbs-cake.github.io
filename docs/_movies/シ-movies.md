@@ -44,6 +44,36 @@ title: Impression
 ## 作品
 
 <br/>
+### 死霊の盆踊り
+moderated in 2021-8-28 17:00:05<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Ed_wood_glen_or_glenda.jpg" alt="死霊の盆踊り"><br/>
+[死霊の盆踊り [PR]](https://amzn.to/3sSlZfg)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 獣道
+moderated in 2021-8-28 15:00:05<br/>
+<br/>
+[獣道 [PR]](https://amzn.to/3DsY3ny)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+### 刺青 背負う女
+moderated in 2021-8-23 16:34:36<br/>
+<br/>
+[刺青 背負う女 [PR]](https://www.amazon.co.jp/%E5%88%BA%E9%9D%92-%E8%83%8C%E8%B2%A0%E3%81%86%E5%A5%B3-DVD-%E4%BA%95%E4%B8%8A%E7%BE%8E%E7%90%B4/dp/B002FTKQSA?&linkCode=ll1&tag=httyf19net-22&linkId=8a6cde98adf969091d5cdb9cb1005ad5&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 白い人魚の美女
+moderated in 2021-8-23 15:24:02<br/>
+<br/>
+[白い人魚の美女 [PR]](https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=httyf19net-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B016CFJ9FI&linkId=5c2523398393c66417cb99c52b300fd5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 刺青 匂ひ月のごとく
+moderated in 2021-8-23 15:12:00<br/>
+<br/>
+[刺青 匂ひ月のごとく [PR]](https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=httyf19net-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B002FTKQSK&linkId=94b5ead67ee0b22a71f89017a933cafc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 新・時空変態人間
 moderated in 2021-8-23 16:00:45<br/>
 <br/>

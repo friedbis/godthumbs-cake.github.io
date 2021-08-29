@@ -44,9 +44,14 @@ title: Impression
 ## 作品
 
 <br/>
+### 真幸くあらば
+moderated in 2021-8-28 13:05:03<br/>
+<br/>
+[真幸くあらば [PR]](https://amzn.to/38mRIvD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### マルサの女
 moderated in 2021-8-27 22:40:04<br/>
 <br/>
 [マルサの女 [PR]](https://amzn.to/2XRCBID)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>

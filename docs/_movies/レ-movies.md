@@ -44,9 +44,14 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～禁断の情交に恍惚とする女たち～
+moderated in 2021-8-23 15:02:39<br/>
+<br/>
+[令和エロス噺～禁断の情交に恍惚とする女たち～](https://www.necoweb.com/neco/program/detail.php?id=5651)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 令和エロス噺〜蜜月〜
 moderated in 2021-8-23 15:02:39<br/>
 <br/>
 [令和エロス噺〜蜜月〜](https://www.necoweb.com/neco/program/detail.php?id=5075)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-a-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>

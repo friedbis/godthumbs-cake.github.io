@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### メガゾーン23
+moderated in 2021-8-28 09:55:03<br/>
+<br/>
+[メガゾーン23 [PR]](https://amzn.to/3yzf7F7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 女神降臨 ＃158　寺田安裕香
+moderated in 2021-8-26 08:55:04<br/>
+<br/>
+[女神降臨 ＃158　寺田安裕香](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### メリーに首ったけ
 moderated in 2021-8-25 20:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWQ1ZTY0MjUtNTBlYi00ODc3LTk5MDItNDNkNDllNDk1NmI1XkEyXkFqcGdeQXVyMjE4MjA4NDc@._V1_FMjpg_UX320_.jpg" alt="メリーに首ったけ"><br/>

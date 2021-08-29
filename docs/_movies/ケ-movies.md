@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 軽蔑
+moderated in 2021-8-27 21:15:04<br/>
+<br/>
+[軽蔑 [PR]](https://amzn.to/2XSPIt6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 刑事物語
 moderated in 2021-8-27 15:30:04<br/>
 <br/>

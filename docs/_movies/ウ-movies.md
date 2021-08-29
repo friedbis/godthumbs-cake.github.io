@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 海を感じる時
+moderated in 2021-8-29 03:50:03<br/>
+<br/>
+[海を感じる時 [PR]](https://amzn.to/3mFPP5H)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### うそつきパラドクス
 moderated in 2021-8-27 15:25:03<br/>
 <br/>
