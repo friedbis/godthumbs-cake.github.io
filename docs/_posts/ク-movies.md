@@ -1,0 +1,51 @@
+---
+feature_text: | 
+  映画・ドラマの感想
+  ## TV, Movie
+feature_image: "/assets/400.jpg"
+excerpt: "ムービー"
+title: Impression
+---
+
+# 映画・ドラマ紹介
+
+## 評価の基準
+
+星５つの評価には以下の基準を設けています。
+
+個人的なバイアスが入っている場合もあります。
+
+下で言及している話の面白さはジャンル問わず最後まで楽しく見ることができることが一つの指標です。
+
+また、性的表現とは以下のレベル付けをしており
+
+```
+肌の露出＜裸＜行為を匂わす＜行為と分かる表現＜行為に及び更に言葉でもちゃんと表現する＜直接表現
+```
+
+としております。
+
+この２つの条件を合わせて加味しながら評価しています。
+
+
+評価例
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 話が面白い。性的表現もちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> 話は普通以上。性的表現をちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 性的表現を匂わす
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> あんまり
+
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 残念
+
+
+## 作品
+
+<br/>
+### 黒水仙の美女
+moderated in 2021-8-26 23:40:04<br/>
+<img src="https://www.fami-geki.com/upimages/program/01180/l.jpg" alt="黒水仙の美女"><br/>
+[黒水仙の美女 [PR]](https://www.amazon.co.jp/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%81%AE%E7%BE%8E%E5%A5%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA3-%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%81%AE%E3%80%8C%E6%9A%97%E9%BB%92%E6%98%9F%E3%80%8D%E3%82%88%E3%82%8A-%E9%BB%92%E6%B0%B4%E4%BB%99%E3%81%AE%E7%BE%8E%E5%A5%B3-%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%81%AE%E9%BB%84%E9%87%91%E4%BB%AE%E9%9D%A2-Blu-ray/dp/B016CFJ9ZS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%BB%92%E6%B0%B4%E4%BB%99%E3%81%AE%E7%BE%8E%E5%A5%B3&qid=1629988693&s=dvd&sr=1-4&linkCode=ll1&tag=httyf19net-22&linkId=cbb857e8813575eac61897ecbb7cd394&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
