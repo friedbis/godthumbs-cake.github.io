@@ -347,17 +347,18 @@ function doPost(tweetData, auth){
                     for(let j=0;j<dataObjSize;j++){
                         if(Object.keys(dataObj[j]).indexOf(tweetData.tagindex[i]) > -1){
                             booldefined=!booldefined;
+                            tagindex=j;
                         }
                     }
                     if(!booldefined){
-                        console.log('the first time to post');
+                        console.log("data pushed :"+tagindex);
                         dataObj.push(dataresource);
                         tagindex=dataObj.length-1;
                     }
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
-                    //console.log(tagindex);
+                    console.log(tagindex);
                     dataObj[tagindex].body+=htbr
                         +linefeed
                         +mdh2
