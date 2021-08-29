@@ -332,26 +332,32 @@ function doPost(tweetData, auth){
             let postbuf='';
             //console.log(tweetData);
             for(let i=0;i<tweetData.valid.length;i++){
-                console.log('valid:'+tweetData.valid[i]);
+                console.log('i:'+i);
+                console.log('dataObj length:'+dataObj.length);
+                //console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
                     let linktitle=tweetData.description[i];
                     let postertag='';
                     let booldefined=false;
                     let tagindex=-1;
-                    for(let j=0;j<dataObj.length;j++){
-                        if(Object.keys(dataObj[j]).indexOf(tweetData.tagindex[i]) !== 0){
-                            dataObj.unshift({ tag: tweetData.tagindex[i], body: databuf, filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix});
+                    let dataresource={ tag: tweetData.tagindex[i], 
+                                        body: databuf, 
+                                        filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix };
+                    let dataObjSize=dataObj.length;
+                    for(let j=0;j<dataObjSize;j++){
+                        if(Object.keys(dataObj[j]).indexOf(tweetData.tagindex[i]) > -1){
                             booldefined=!booldefined;
-                            tagindex=j;
                         }
                     }
                     if(!booldefined){
-                        dataObj.unshift({ tag: tweetData.tagindex[i], body: databuf, filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix});
+                        console.log('the first time to post');
+                        dataObj.push(dataresource);
                         tagindex=dataObj.length-1;
                     }
-                    console.log(dataObj[tagindex]);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
+                    //console.log(dataObj);
+                    //console.log(tagindex);
                     dataObj[tagindex].body+=htbr
                         +linefeed
                         +mdh2
@@ -370,6 +376,7 @@ function doPost(tweetData, auth){
                         +htbr+linefeed
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
+                    //console.log(dataObj[tagindex]);
                 }
             }
             if(checkFileExist(dataObj[tagindex].filename)){
@@ -381,6 +388,10 @@ function doPost(tweetData, auth){
                             console.log('production file['+dataObj[tagindex].filename+'] was generated.');
                         });
                     }
+                });
+            }else{
+                fs.writeFile(dataObj[tagindex].filename, dataObj[tagindex].body, 'utf8', ()=>{
+                    console.log('production file['+dataObj[tagindex].filename+'] was generated.');
                 });
             }
         });
