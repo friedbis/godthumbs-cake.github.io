@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### あなたと温泉に行ったら… 那須高原温泉編 #71 #72
+moderated in 2021-8-29 16:31:28<br/>
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0847VJ2KL&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=httyf19net-22&language=ja_JP" alt="あなたと温泉に行ったら… 那須高原温泉編 #71 #72"><br/>
+[あなたと温泉に行ったら… 那須高原温泉編 #71 #72](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### Sweet Angel ひなたまりん #115
 moderated in 2021-8-29 10:20:04<br/>
 <br/>
