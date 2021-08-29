@@ -351,14 +351,13 @@ function doPost(tweetData, auth){
                         }
                     }
                     if(!booldefined){
-                        console.log("data pushed :"+tagindex);
                         dataObj.push(dataresource);
                         tagindex=dataObj.length-1;
                     }
+                    console.log("data pushed :"+tagindex);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
-                    console.log(tagindex);
                     dataObj[tagindex].body+=htbr
                         +linefeed
                         +mdh2
@@ -377,7 +376,7 @@ function doPost(tweetData, auth){
                         +htbr+linefeed
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
-                    //console.log(dataObj[tagindex]);
+                    console.log(dataObj[tagindex]);
                 }
             }
             if(checkFileExist(dataObj[tagindex].filename)){
