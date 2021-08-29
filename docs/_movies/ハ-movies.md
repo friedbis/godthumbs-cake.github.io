@@ -1,0 +1,51 @@
+---
+feature_text: | 
+  映画・ドラマの感想
+  ## TV, Movie
+feature_image: "/assets/400.jpg"
+excerpt: "ムービー"
+title: Impression
+---
+
+# 映画・ドラマ紹介
+
+## 評価の基準
+
+星５つの評価には以下の基準を設けています。
+
+個人的なバイアスが入っている場合もあります。
+
+下で言及している話の面白さはジャンル問わず最後まで楽しく見ることができることが一つの指標です。
+
+また、性的表現とは以下のレベル付けをしており
+
+```
+肌の露出＜裸＜行為を匂わす＜行為と分かる表現＜行為に及び更に言葉でもちゃんと表現する＜直接表現
+```
+
+としております。
+
+この２つの条件を合わせて加味しながら評価しています。
+
+
+評価例
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 話が面白い。性的表現もちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> 話は普通以上。性的表現をちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 性的表現を匂わす
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> あんまり
+
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 残念
+
+
+## 作品
+
+<br/>
+### ハレンチ学園 コレクターズDVD
+moderated in 2021-8-25 20:45:04<br/>
+<br/>
+[ハレンチ学園 コレクターズDVD [PR]](https://www.amazon.co.jp/%E6%98%AD%E5%92%8C%E3%81%AE%E5%90%8D%E4%BD%9C%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC-%E7%AC%AC32%E9%9B%86-%E3%83%8F%E3%83%AC%E3%83%B3%E3%83%81%E5%AD%A6%E5%9C%92-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BADVD-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%88/dp/B07BL3KT16?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%8F%E3%83%AC%E3%83%B3%E3%83%81%E5%AD%A6%E5%9C%92&qid=1629890396&s=dvd&sr=1-1&linkCode=ll1&tag=httyf19net-22&linkId=0cdea69fba50b90b54c6073abf1a7287&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>

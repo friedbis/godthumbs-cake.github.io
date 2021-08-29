@@ -34,7 +34,7 @@ const halfstar='<i class="fas fa-star-half-alt"></i>';
 const BaseDir = '/srv/github/godthumbs-cake';
 const templateMdFile = BaseDir + '/bin/movies.md';
 const productionMdFile = BaseDir + '/docs/movies.md';
-const productionDir = BaseDir + '/docs/movies';
+const productionDir = BaseDir + '/docs/_movies';
 const mdfilePostfix = '-movies.md';
 
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
@@ -348,6 +348,7 @@ function doPost(tweetData, auth){
                         if(Object.keys(dataObj[j]).indexOf(tweetData.tagindex[i]) > -1){
                             booldefined=!booldefined;
                             tagindex=j;
+                            console.log('dupricated tweet was found '+tagindex);
                         }
                     }
                     if(!booldefined){
@@ -376,23 +377,23 @@ function doPost(tweetData, auth){
                         +htbr+linefeed
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
-                    console.log(dataObj[tagindex]);
-                }
-            }
-            if(checkFileExist(dataObj[tagindex].filename)){
-                fs.readFile(dataObj[tagindex].filename, 'utf8', (err, postbuf)=>{
-                    if(postbuf==databuf){
-                        console.log('nothing was updated.');
+                    //console.log(dataObj[tagindex]);
+                    if(checkFileExist(dataObj[tagindex].filename)){
+                        fs.readFile(dataObj[tagindex].filename, 'utf8', (err, postbuf)=>{
+                            if(postbuf==databuf){
+                                console.log('nothing was updated.');
+                            }else{
+                                fs.writeFile(dataObj[tagindex].filename, dataObj[tagindex].body, 'utf8', ()=>{
+                                    console.log('production file['+dataObj[tagindex].filename+'] was generated.');
+                                });
+                            }
+                        });
                     }else{
                         fs.writeFile(dataObj[tagindex].filename, dataObj[tagindex].body, 'utf8', ()=>{
                             console.log('production file['+dataObj[tagindex].filename+'] was generated.');
                         });
                     }
-                });
-            }else{
-                fs.writeFile(dataObj[tagindex].filename, dataObj[tagindex].body, 'utf8', ()=>{
-                    console.log('production file['+dataObj[tagindex].filename+'] was generated.');
-                });
+                }
             }
         });
         doUpdate(tweetData, auth);
