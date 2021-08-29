@@ -345,6 +345,11 @@ function doPost(tweetData, auth){
                                         filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix };
                     let dataObjSize=dataObj.length;
                     for(let j=0;j<dataObjSize;j++){
+                        if(dataObj[j].tag===tweetData.tagindex[i]){
+                            booldefined=!booldefined;
+                            tagindex=j;
+                            console.log('dupricated tweet was found '+tagindex);
+                        }
                         if(Object.keys(dataObj[j]).indexOf(tweetData.tagindex[i]) > -1){
                             booldefined=!booldefined;
                             tagindex=j;
