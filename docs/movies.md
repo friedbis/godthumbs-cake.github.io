@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### Sweet Angel 加藤あやの #116
+moderated in 2021-8-30 09:40:03<br/>
+<br/>
+[Sweet Angel 加藤あやの #116](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### さよなら家庭教師
 moderated in 2021-8-29 17:15:04<br/>
 <br/>
