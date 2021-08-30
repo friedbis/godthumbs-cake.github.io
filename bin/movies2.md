@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: Impression
+title: ===title===
 ---
 
 # 映画・ドラマ紹介
@@ -43,9 +43,3 @@ title: Impression
 
 ## 作品
 
-<br/>
-### パンツの穴
-moderated in 2021-8-25 20:45:04<br/>
-<br/>
-[パンツの穴 [PR]](https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%B3%E3%83%84%E3%81%AE%E7%A9%B4&i=dvd&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&linkCode=ll2&tag=httyf19net-22&linkId=6ce5813d1c8fcf1ae93e67fc92b953ce&language=ja_JP&ref_=as_li_ss_tl)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
