@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### 8mile
+moderated in 2021-8-30 14:25:03<br/>
+<br/>
+[8mile [PR]](https://amzn.to/3kzP3Vl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### Sweet Angel 加藤あやの #116
 moderated in 2021-8-30 09:40:03<br/>
 <br/>
