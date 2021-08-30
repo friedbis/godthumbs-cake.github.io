@@ -8,8 +8,10 @@ fi
 
 SYSNAME=$(basename $0)
 JSFILE=$BASEDIR/../movies.js
+JSFILE2=$BASEDIR/../movies2.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/movies.md
+MDFILEDIR=$BASEDIR/../docs/_posts/1999-12-31-*
 
 #
 # functions
@@ -37,6 +39,7 @@ cd $BASEDIR
 cd ..
 _echo "lets get the movie moderation script started..."
 $NODEBIN $JSFILE
+$NODEBIN $JSFILE2
 if [ $? != 0 ];
 then
     _echo "${NODEBIN} occured with error[s]"
@@ -45,7 +48,7 @@ then
 fi
 _echo "done"
 _echo "sync with git repository..."
-git add $OUTPUTFILE && git commit -m 'movie updated' && git push -u origin main
+git add $OUTPUTFILE && git add $MDFILEDIR && git commit -m 'movie updated' && git push -u origin main
 _echo "done"
 
 
