@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### あなたと温泉に行ったら… 湯西川温泉編 #75 #76
+moderated in 2021-8-30 16:15:04<br/>
+<br/>
+[あなたと温泉に行ったら… 湯西川温泉編 #75 #76](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 8mile
 moderated in 2021-8-30 14:25:03<br/>
 <br/>
@@ -62,10 +68,10 @@ moderated in 2021-8-29 17:15:04<br/>
 [さよなら家庭教師](https://www.necoweb.com/neco/program/detail.php?id=5120)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
-### あなたと温泉に行ったら… 那須高原温泉編 #71 #72
+### あなたと温泉に行ったら… 奥日光湯元温泉編  #73 #74
 moderated in 2021-8-29 16:31:28<br/>
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0847VJ2KL&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=httyf19net-22&language=ja_JP" alt="あなたと温泉に行ったら… 那須高原温泉編 #71 #72"><br/>
-[あなたと温泉に行ったら… 那須高原温泉編 #71 #72](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0847VJ2KL&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=httyf19net-22&language=ja_JP" alt="あなたと温泉に行ったら… 奥日光湯元温泉編  #73 #74"><br/>
+[あなたと温泉に行ったら… 奥日光湯元温泉編  #73 #74](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 ### Sweet Angel ひなたまりん #115
