@@ -1,0 +1,57 @@
+---
+feature_text: | 
+  映画・ドラマの感想
+  ## TV, Movie
+feature_image: "/assets/400.jpg"
+excerpt: "ムービー"
+title: Impression
+---
+
+# 映画・ドラマ紹介
+
+## 評価の基準
+
+星５つの評価には以下の基準を設けています。
+
+個人的なバイアスが入っている場合もあります。
+
+下で言及している話の面白さはジャンル問わず最後まで楽しく見ることができることが一つの指標です。
+
+また、性的表現とは以下のレベル付けをしており
+
+```
+肌の露出＜裸＜行為を匂わす＜行為と分かる表現＜行為に及び更に言葉でもちゃんと表現する＜直接表現
+```
+
+としております。
+
+この２つの条件を合わせて加味しながら評価しています。
+
+
+評価例
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 話が面白い。性的表現もちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> 話は普通以上。性的表現をちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 性的表現を匂わす
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> あんまり
+
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 残念
+
+
+## 作品
+
+<br/>
+### ザ・地獄麻雀　肉感燃える女の官能勝負
+moderated in 2021-8-28 07:45:03<br/>
+<br/>
+[ザ・地獄麻雀　肉感燃える女の官能勝負 [PR]](https://www.amazon.co.jp/gp/video/detail/B07125256H/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### ザ・カンニング IQ=0
+moderated in 2021-8-25 20:45:04<br/>
+<br/>
+[ザ・カンニング IQ=0 [PR]](https://www.amazon.co.jp/%E3%82%B6%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0-IQ-0-DVD-%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88%E3%82%A5%E3%82%A4%E3%83%A6/dp/B000I8OJKQ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%B6%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0&qid=1629889919&s=dvd&sr=1-2&linkCode=ll1&tag=httyf19net-22&linkId=a2cf7e4aba05e39a1a7f45fe68ae0f6d&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>

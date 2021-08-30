@@ -1,0 +1,75 @@
+---
+feature_text: | 
+  映画・ドラマの感想
+  ## TV, Movie
+feature_image: "/assets/400.jpg"
+excerpt: "ムービー"
+title: Impression
+---
+
+# 映画・ドラマ紹介
+
+## 評価の基準
+
+星５つの評価には以下の基準を設けています。
+
+個人的なバイアスが入っている場合もあります。
+
+下で言及している話の面白さはジャンル問わず最後まで楽しく見ることができることが一つの指標です。
+
+また、性的表現とは以下のレベル付けをしており
+
+```
+肌の露出＜裸＜行為を匂わす＜行為と分かる表現＜行為に及び更に言葉でもちゃんと表現する＜直接表現
+```
+
+としております。
+
+この２つの条件を合わせて加味しながら評価しています。
+
+
+評価例
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 話が面白い。性的表現もちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> 話は普通以上。性的表現をちゃんと描いている。
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 性的表現を匂わす
+
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> あんまり
+
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> 残念
+
+
+## 作品
+
+<br/>
+### キャット・ピープル
+moderated in 2021-8-29 02:00:04<br/>
+<br/>
+[キャット・ピープル [PR]](https://amzn.to/3BjtMpx)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### キラー・コンドーム
+moderated in 2021-8-25 20:45:04<br/>
+<br/>
+[キラー・コンドーム [PR]](https://www.amazon.co.jp/%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%89%E3%83%BC%E3%83%A0-DVD-%E3%82%A6%E3%83%89%E3%83%BB%E3%82%B6%E3%83%A1%E3%83%BC%E3%83%AB/dp/B00005G0DV?&linkCode=ll1&tag=httyf19net-22&linkId=c48d67fc25e1077fe9a3aa8af2b20d25&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### きみの鳥はうたえる 特別版
+moderated in 2021-8-24 22:27:27<br/>
+<br/>
+[きみの鳥はうたえる 特別版 [PR]](https://www.amazon.co.jp/dp/B07NPVHG2V?&linkCode=ll1&tag=httyf19net-22&linkId=966040b6b3cbfd4a17d90ba41769b3df&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### キャタピラー
+moderated in 2021-8-24 22:28:59<br/>
+<br/>
+[キャタピラー [PR]](https://www.amazon.co.jp/%E3%82%AD%E3%83%A3%E3%82%BF%E3%83%94%E3%83%A9%E3%83%BC-DVD-%E5%AF%BA%E5%B3%B6%E3%81%97%E3%81%AE%E3%81%B6/dp/B004IPQLII?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AD%E3%83%A3%E3%82%BF%E3%83%94%E3%83%A9%E3%83%BC&qid=1629811677&s=dvd&sr=1-1&linkCode=ll1&tag=httyf19net-22&linkId=15ca1c26c906bcd139f987ed0b1acd2d&language=ja_JP&ref_=as_li_ss_tl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 禁断の関係 義弟と未亡人
+moderated in 2021-8-23 15:02:11<br/>
+<br/>
+[禁断の関係 義弟と未亡人](https://bangumi.skyperfectv.co.jp/S/?uid=c21316780)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
