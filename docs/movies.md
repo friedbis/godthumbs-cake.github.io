@@ -66,7 +66,7 @@ moderated in 2021-8-30 09:40:03<br/>
 moderated in 2021-8-29 17:15:04<br/>
 <br/>
 [さよなら家庭教師](https://www.necoweb.com/neco/program/detail.php?id=5120)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 ### あなたと温泉に行ったら… 奥日光湯元温泉編  #73 #74
 moderated in 2021-8-29 16:31:28<br/>
