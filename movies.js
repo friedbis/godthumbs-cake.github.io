@@ -33,7 +33,7 @@ const halfstar='<i class="fas fa-star-half-alt"></i>';
 
 const BaseDir = '/srv/github/godthumbs-cake';
 const templateMdFile = BaseDir + '/bin/movies.md';
-const productionMdFile = BaseDir + '/docs/movies.md';
+const productionMdFile = BaseDir + '/docs/moderation.md';
 //const hexoGenerateFile = BaseDir + '/upload.txt';
 
 // If modifying these scopes, delete token.json.
