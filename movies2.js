@@ -22,6 +22,7 @@ const linefeed="\n";
 const htbr='<br/>';
 const mdh2='### ';
 const stramazon='[PR]';
+const replacetitle='===title===';
 /*
 塗りつぶし用 <i class="fas fa-star"></i>
 空欄用 <i class="far fa-star"></i>
@@ -32,7 +33,7 @@ const offstar='<i class="far fa-star"></i>';
 const halfstar='<i class="fas fa-star-half-alt"></i>';
 
 const BaseDir = '/srv/github/godthumbs-cake';
-const templateMdFile = BaseDir + '/bin/movies.md';
+const templateMdFile = BaseDir + '/bin/movies2.md';
 const productionMdFile = BaseDir + '/docs/movies.md';
 const productionDir = BaseDir + '/docs/_posts';
 const mdfilePrefix = '1999-12-31';
@@ -383,6 +384,7 @@ function doPost(tweetData, auth){
                         +htbr+linefeed
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
+                    dataObj[tagindex].body=dataObj[tagindex].body.replace(replacetitle,dataObj[tagindex].tag+"から始まる映画・ドラマ");
                     //console.log(dataObj[tagindex]);
                     if(checkFileExist(dataObj[tagindex].filename)){
                         fs.readFile(dataObj[tagindex].filename, 'utf8', (err, postbuf)=>{
