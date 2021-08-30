@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### エマニュエル夫人
+moderated in 2021-8-31 03:10:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDFjYTU2YTItMDY4NS00ODhkLWE0ZmYtZmJkZTA5OGExZjI1XkEyXkFqcGdeQXVyODQzNTYxODQ@._V1_FMjpg_UX980_.jpg" alt="エマニュエル夫人"><br/>
+[エマニュエル夫人 [PR]](https://amzn.to/3zvmHlj)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+
 ### ナインハーフ
 moderated in 2021-8-30 22:49:00<br/>
 <br/>
