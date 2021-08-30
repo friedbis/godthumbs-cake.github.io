@@ -35,6 +35,7 @@ const BaseDir = '/srv/github/godthumbs-cake';
 const templateMdFile = BaseDir + '/bin/movies.md';
 const productionMdFile = BaseDir + '/docs/movies.md';
 const productionDir = BaseDir + '/docs/_posts';
+const mdfilePrefix = '1999-12-31';
 const mdfilePostfix = '-movies.md';
 
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
@@ -342,7 +343,7 @@ function doPost(tweetData, auth){
                     let tagindex=-1;
                     let dataresource={ tag: tweetData.tagindex[i], 
                                         body: databuf, 
-                                        filename: productionDir+'/'+tweetData.tagindex[i]+mdfilePostfix };
+                                        filename: productionDir+'/'+mdfilePrefix+'-'+tweetData.tagindex[i]+mdfilePostfix };
                     let dataObjSize=dataObj.length;
                     for(let j=0;j<dataObjSize;j++){
                         if(dataObj[j].tag===tweetData.tagindex[i]){
