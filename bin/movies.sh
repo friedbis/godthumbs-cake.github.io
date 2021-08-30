@@ -11,7 +11,7 @@ JSFILE=$BASEDIR/../movies.js
 JSFILE2=$BASEDIR/../movies2.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/movies.md
-MDFILEDIR=$BASEDIR/../docs/_posts/1999-12-31-*
+MDFILEDIR=${BASEDIR}/../docs/_posts/1999-12-31
 
 #
 # functions
@@ -48,7 +48,7 @@ then
 fi
 _echo "done"
 _echo "sync with git repository..."
-git add $OUTPUTFILE && git add $MDFILEDIR && git commit -m 'movie updated' && git push -u origin main
+git add $OUTPUTFILE && git add ${MDFILEDIR}-* && git commit -m 'movie updated' && git push -u origin main
 _echo "done"
 
 
