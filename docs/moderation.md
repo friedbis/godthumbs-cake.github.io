@@ -46,7 +46,7 @@ title: Impression
 
 ### 生きちゃった
 moderated in 2021-8-31 14:00:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmQzMTc1ODQtYmUzNy00MzNkLTg4MmUtYzM3NWExZjVlZTJlXkEyXkFqcGdeQXVyMTI3MjcwMjY2._V1_FMjpg_UY576_.jpg" alt="生きちゃった"><br/>
 [生きちゃった [PR]](https://amzn.to/2Y2bvP6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
