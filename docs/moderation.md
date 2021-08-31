@@ -68,10 +68,10 @@ moderated in 2021-8-31 11:05:03<br/>
 [ラブレース [PR]](https://amzn.to/3DxpDQz)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
-### Sweet Angel 波多野結衣 #117
+### Sweet Angel 波多野結衣 #71
 moderated in 2021-8-31 11:05:03<br/>
 <br/>
-[Sweet Angel 波多野結衣 #117](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+[Sweet Angel 波多野結衣 #71](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 ### 受難
