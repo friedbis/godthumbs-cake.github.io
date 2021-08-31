@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### 受難
+moderated in 2021-8-31 08:10:03<br/>
+<br/>
+[受難 [PR]](https://amzn.to/2WCcDrW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
 ### エマニュエル夫人
 moderated in 2021-8-31 03:10:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDFjYTU2YTItMDY4NS00ODhkLWE0ZmYtZmJkZTA5OGExZjI1XkEyXkFqcGdeQXVyODQzNTYxODQ@._V1_FMjpg_UX980_.jpg" alt="エマニュエル夫人"><br/>
