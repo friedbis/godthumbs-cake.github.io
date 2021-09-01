@@ -331,7 +331,7 @@ let doPost=(tweetData, auth)=>{
             //console.log(tweetData);
             let maxpostcount=10;
             let footerindexbuf;
-            footerindexbuf+=htbr+linefeed
+            footerindexbuf=htbr+linefeed
                 +htbr+linefeed
                 +mdh2+'索引'+linefeed;
                 +htbr+linefeed;
@@ -367,6 +367,7 @@ let doPost=(tweetData, auth)=>{
                         +htbr+linefeed;
                 }
             }
+            //console.log(databuf);
             let footerlist=await tweetData.tag.filter((x, i, self)=>{
                 return self.indexOf(x)===i;
             });
