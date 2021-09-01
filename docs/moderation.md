@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### Sweet Angel 初美沙希 #72
+moderated in 2021-9-1 20:15:04<br/>
+<br/>
+[Sweet Angel 初美沙希 #72](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### 愛しのアイリーン
 moderated in 2021-9-1 07:35:03<br/>
 <br/>
