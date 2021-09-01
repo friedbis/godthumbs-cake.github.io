@@ -253,7 +253,7 @@ function updateTweet(auth) {
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
         const rows = res.data.values;
-        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [], poster: [] };
+        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [], poster: [], tag: [] };
         if (rows.length) {
             //console.log('Date, Pass, RawData');
             rows.map((row) => {
@@ -304,6 +304,7 @@ let doUpdate=(tweetData, auth)=>{
         let furigana=rawfurigana.toString();
         if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
         else furigana=furigana.substr(0,1);
+        tweetData.tag[i]=furigana;
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
@@ -334,9 +335,15 @@ function doPost(tweetData, auth){
         fs.readFile(templateMdFile, 'utf8', (err, databuf)=>{
             let postbuf='';
             //console.log(tweetData);
+            let maxpostcount=10;
+            let footerindexbuf;
+            footerindexbuf+=htbr+linefeed
+                +htbr+linefeed
+                +mdh2+'索引'+linefeed;
+                +htbr+linefeed;
             for(let i=0;i<tweetData.valid.length;i++){
                 //console.log('valid:'+tweetData.valid[i]);
-                if(tweetData.valid[i]){
+                if(tweetData.valid[i]&&i<maxpostcount){
                     let linktitle=tweetData.description[i];
                     let postertag='';
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
@@ -359,9 +366,11 @@ function doPost(tweetData, auth){
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
                 }
+                footerindexbuf+='- ['+tweetData.tag[i]+'の映画・ドラマ]('+tweetData.tag[i]+'-movies.html)'+linefeed;
             }
             //databuf=databuf.replace(replacedatespec, tweetData.date[0]);
-            console.log(databuf);
+            //console.log(databuf);
+            databuf+=footerindexbuf;
             fs.readFile(productionMdFile, 'utf8', (err, postbuf)=>{
                 if(postbuf==databuf){
                     console.log('nothing was updated.');
