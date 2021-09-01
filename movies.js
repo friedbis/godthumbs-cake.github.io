@@ -245,7 +245,7 @@ function getNewToken(oAuth2Client, callback) {
  * @see https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
  * @param {google.auth.OAuth2} auth The authenticated Google OAuth client.
  */
-function updateTweet(auth) {
+let updateTweet=(auth)=>{
     const sheets = google.sheets({version: 'v4', auth});
     sheets.spreadsheets.values.get({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
@@ -299,12 +299,6 @@ let doUpdate=(tweetData, auth)=>{
     //console.log(tweetData.date[0]);
     let idx=0
     for(let i=tweetData.rawdata.length-1;i>=0;i--){
-        let rawfurigana=execSync('echo "'+tweetData.rawdata[i]+'" |mecab |while read i;do echo $i |awk \'{print $2;}\' |awk \'BEGIN{FS=","} {print $8;}\' ;done |head -1 |tr -d "\r\n"');
-        //console.log(rawfurigana.toString());
-        let furigana=rawfurigana.toString();
-        if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
-        else furigana=furigana.substr(0,1);
-        tweetData.tag[i]=furigana;
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
@@ -312,7 +306,7 @@ let doUpdate=(tweetData, auth)=>{
             tweetData.producturl[i],
             tweetData.moderation[i],
             tweetData.poster[i],
-            furigana,
+            tweetData.tag[i],
         ]
         idx++;
     }
@@ -330,9 +324,9 @@ let doUpdate=(tweetData, auth)=>{
     });
 }
 
-function doPost(tweetData, auth){
+let doPost=(tweetData, auth)=>{
     if(checkFileExist(templateMdFile)){
-        fs.readFile(templateMdFile, 'utf8', (err, databuf)=>{
+        fs.readFile(templateMdFile, 'utf8', async (err, databuf)=>{
             let postbuf='';
             //console.log(tweetData);
             let maxpostcount=10;
@@ -343,6 +337,12 @@ function doPost(tweetData, auth){
                 +htbr+linefeed;
             for(let i=0;i<tweetData.valid.length;i++){
                 //console.log('valid:'+tweetData.valid[i]);
+                let rawfurigana=execSync('echo "'+tweetData.rawdata[i]+'" |mecab |while read i;do echo $i |awk \'{print $2;}\' |awk \'BEGIN{FS=","} {print $8;}\' ;done |head -1 |tr -d "\r\n"');
+                //console.log(rawfurigana.toString());
+                let furigana=rawfurigana.toString();
+                if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
+                else furigana=furigana.substr(0,1);
+                tweetData.tag[i]=furigana;
                 if(tweetData.valid[i]&&i<maxpostcount){
                     let linktitle=tweetData.description[i];
                     let postertag='';
@@ -366,7 +366,17 @@ function doPost(tweetData, auth){
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
                 }
-                footerindexbuf+='- ['+tweetData.tag[i]+'の映画・ドラマ]('+tweetData.tag[i]+'-movies.html)'+linefeed;
+            }
+            let footerlist=await tweetData.tag.filter((x, i, self)=>{
+                return self.indexOf(x)===i;
+            });
+            await footerlist.sort((cur,nex)=>{
+                if(cur<nex)return -1;
+                if(cur>nex)return 1;
+                return 0;
+            });
+            for(let j=0;j<footerlist.length;j++){
+                footerindexbuf+='- ['+footerlist[j]+'の映画・ドラマ](/'+footerlist[j]+'-movies.html)'+linefeed;
             }
             //databuf=databuf.replace(replacedatespec, tweetData.date[0]);
             //console.log(databuf);
