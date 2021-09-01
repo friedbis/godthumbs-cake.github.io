@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### バッファロー ’６６
+moderated in 2021-9-1 22:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGZkOWYwMTUtNzRmNC00MmViLTliNmEtNDlkNjk1NDI2YjIyXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_FMjpg_UX1280_.jpg" alt="バッファロー ’６６"><br/>
+[バッファロー ’６６ [PR]](https://amzn.to/2YaCS9H)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### Sweet Angel 初美沙希 #72
 moderated in 2021-9-1 20:15:04<br/>
 <br/>
