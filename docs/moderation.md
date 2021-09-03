@@ -44,12 +44,6 @@ title: Impression
 ## 作品
 
 
-### フィギュアなあなた
-moderated in 2021-9-3 10:25:04<br/>
-<br/>
-[フィギュアなあなた [PR]](https://amzn.to/3n5KAwa)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-
 ### 空気人形
 moderated in 2021-9-3 10:25:04<br/>
 <br/>
@@ -103,6 +97,12 @@ moderated in 2021-9-2 21:35:03<br/>
 <br/>
 [セッションズ [PR]](https://amzn.to/3zG84M6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+
+### 日陰のふたり
+moderated in 2021-9-2 21:30:04<br/>
+<br/>
+[日陰のふたり [PR]](https://amzn.to/2WJuSfo)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 索引
