@@ -154,7 +154,15 @@ var removeVoicedMark=(kana)=>{
         return kana;
     }
 }
-
+var gatherAlphabet=(argValue)=>{
+    if(argValue.match(/^[A-Za-z0-9]$/g)){
+        return 'A1';
+    }else if(argValue.match(/^[ａ-ｚＡ-Ｚ０-９]$/g)){
+        return 'A1';
+    }else{
+        return argValue;
+    }
+}
 
 
 /**
@@ -417,6 +425,7 @@ let doPost=(tweetData, auth)=>{
                 if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
                 else furigana=furigana.substr(0,1);
                 furigana=removeVoicedMark(furigana);
+                furigana=gatherAlphabet(furigana);
                 tweetData.tag[i]=furigana;
                 if(tweetData.valid[i]&&i<maxpostcount){
                     let linktitle=tweetData.description[i];
