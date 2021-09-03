@@ -106,13 +106,7 @@ moderated in 2021-9-3 17:00:04<br/>
 <br/>
 <br/>
 ### 索引
-- [1の映画・ドラマ](/1-movies.html)
-- [8の映画・ドラマ](/8-movies.html)
-- [Hの映画・ドラマ](/H-movies.html)
-- [Pの映画・ドラマ](/P-movies.html)
-- [Rの映画・ドラマ](/R-movies.html)
-- [Sの映画・ドラマ](/S-movies.html)
-- [Tの映画・ドラマ](/T-movies.html)
+- [A1の映画・ドラマ](/A1-movies.html)
 - [アの映画・ドラマ](/ア-movies.html)
 - [イの映画・ドラマ](/イ-movies.html)
 - [ウの映画・ドラマ](/ウ-movies.html)
