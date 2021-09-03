@@ -10,7 +10,7 @@ SYSNAME=$(basename $0)
 JSFILE=$BASEDIR/../movies.js
 JSFILE2=$BASEDIR/../movies2.js
 NODEBIN=$(which node)
-OUTPUTFILE=$BASEDIR/../docs/movies.md
+OUTPUTFILE=$BASEDIR/../docs/moderation.md
 MDFILEDIR=${BASEDIR}/../docs/_posts/1999-12-31
 
 #
