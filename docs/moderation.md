@@ -70,7 +70,7 @@ moderated in 2021-9-3 17:00:04<br/>
 
 ### トータル・リコール
 moderated in 2021-9-3 16:55:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTIyNzQ0NjQtYjA1OC00ZmMzLWEzMDMtZTU2NWYxZGFiYmFkXkEyXkFqcGdeQXVyOTYwOTYwOTU@._V1_FMjpg_UX1181_.jpg" alt="トータル・リコール"><br/>
 [トータル・リコール [PR]](https://amzn.to/3tanV35)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
