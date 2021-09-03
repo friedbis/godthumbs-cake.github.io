@@ -97,12 +97,6 @@ moderated in 2021-9-3 10:25:04<br/>
 <br/>
 [ロマンスドール [PR]](https://amzn.to/3zKdkhy)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-
-### 夕闇ダリア
-moderated in 2021-9-3 10:20:03<br/>
-<br/>
-[夕闇ダリア [PR]](https://amzn.to/3yGPiD5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 索引
