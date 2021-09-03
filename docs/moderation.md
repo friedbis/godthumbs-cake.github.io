@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 
+### ベロニカは死ぬことにした
+moderated in 2021-9-3 23:10:04<br/>
+<br/>
+[ベロニカは死ぬことにした [PR]](https://amzn.to/3yJt9E7)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+
 ### さよなら渓谷
 moderated in 2021-9-3 23:05:03<br/>
 <br/>
@@ -97,12 +103,6 @@ moderated in 2021-9-3 17:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODNjODIxZWEtZTliZC00ZTJmLWFlMDktY2MxMWIwNTVlOTJjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="小さな悪の華"><br/>
 [小さな悪の華 [PR]](https://amzn.to/3zLfv4s)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-
-### フレッシュ・ゴードン
-moderated in 2021-9-3 17:10:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZmM3NGE1MTktZGU2Mi00M2ZkLWI4N2YtMzc3NjQzZWEwNWJkXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_FMjpg_UX553_.jpg" alt="フレッシュ・ゴードン"><br/>
-[フレッシュ・ゴードン [PR]](https://amzn.to/38Jxe0d)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 索引
