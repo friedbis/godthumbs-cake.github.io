@@ -78,6 +78,79 @@ var echostar=(num)=>{
     }
     return result;
 }
+var removeVoicedMark=(kana)=>{
+    let kanaArray={};
+    kanaArray.voiced=[
+        'ガ', 
+        'ギ', 
+        'グ', 
+        'ゲ', 
+        'ゴ', 
+        'ザ',
+        'ジ',
+        'ズ',
+        'ゼ',
+        'ゾ',
+        'ダ',
+        'ヂ',
+        'ヅ',
+        'ッ',
+        'デ',
+        'ド',
+        'バ',
+        'ビ',
+        'ブ',
+        'ベ',
+        'ボ',
+        'パ',
+        'ピ',
+        'プ',
+        'ペ',
+        'ポ'
+    ];
+    kanaArray.kana=[
+        'カ',
+        'キ',
+        'ク',
+        'ケ',
+        'コ',
+        'サ',
+        'シ',
+        'ス',
+        'セ',
+        'ソ',
+        'タ',
+        'チ',
+        'ツ',
+        'ツ',
+        'テ',
+        'ト',
+        'ハ',
+        'ヒ',
+        'フ',
+        'ヘ',
+        'ホ',
+        'ハ',
+        'ヒ',
+        'フ',
+        'ヘ',
+        'ホ'
+    ];
+    let found=false;
+    let kanaIndex=-1;
+    for(let i=0;i<kanaArray.voiced.length;i++){
+        if(kanaArray.voiced[i]===kana){
+            found=!found;
+            kanaIndex=i;
+            //console.log('kanaArray was found:'+kana+' '+kanaArray.kana[i]);
+        }
+    }
+    if(found){
+        return kanaArray.kana[kanaIndex];
+    }else{
+        return kana;
+    }
+}
 
 
 /**
@@ -302,6 +375,7 @@ let doUpdate=(tweetData, auth)=>{
         let furigana=rawfurigana.toString();
         if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
         else furigana=furigana.substr(0,1);
+        furigana=removeVoicedMark(furigana);
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
