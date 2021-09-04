@@ -7,8 +7,7 @@ then
 fi
 
 SYSNAME=$(basename $0)
-JSFILE=$BASEDIR/../movies.js
-JSFILE2=$BASEDIR/../movies2.js
+JSFILE=$BASEDIR/../movies2.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/moderation.md
 MDFILEDIR=${BASEDIR}/../docs/_posts/1999-12-31
@@ -39,7 +38,6 @@ cd $BASEDIR
 cd ..
 _echo "lets get the movie moderation script started..."
 $NODEBIN $JSFILE
-$NODEBIN $JSFILE2
 if [ $? != 0 ];
 then
     _echo "${NODEBIN} occured with error[s]"
