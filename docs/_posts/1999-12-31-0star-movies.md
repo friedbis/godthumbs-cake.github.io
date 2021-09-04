@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: undefinedから始まる映画・ドラマ
+title: 0つ星の映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -44,8 +44,14 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 女神降臨 和地つかさ #136
-moderated in 2021-9-4 12:14:43<br/>
+### 食人族
+moderated in 2021-9-3 19:25:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjJkMzk1YjEtMTk5MC00YjJhLTg2ZWQtMzU0YTJhMzdhNzg2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="食人族"><br/>
+[食人族 [PR]](https://amzn.to/3gYBFJp)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-[女神降臨 和地つかさ #136](https://www.mondotv.jp/sp/idol/idol/megamikourin/136)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+### ネクロマンティック
+moderated in 2021-9-3 19:15:03<br/>
+<br/>
+[ネクロマンティック [PR]](https://amzn.to/3jIQ6TI)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
