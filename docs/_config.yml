@@ -127,6 +127,8 @@ navigation_header:
   url: /blog/
 - title: Moderation
   url: /moderation.html
+- title: Archive
+  url: /archive.html
 - title: Search
   url: /search.html
 
