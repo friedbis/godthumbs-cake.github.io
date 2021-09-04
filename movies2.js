@@ -363,6 +363,7 @@ function updateTweet(auth) {
             //console.log(tweetData.rawdata.length);
             if(tweetData.date.length>0){
                 //console.log(tweetData.poster[0]);
+                console.log('got tweet data');
                 doPost(tweetData, auth);
             }
         } else {
@@ -421,8 +422,8 @@ function doPost(tweetData, auth){
             let datamodbuf=databuf.replace(replacetitle,"Impression");
             let maxpostcount=10;
             for(let i=0;i<tweetData.valid.length;i++){
-                console.log('i:'+i);
-                console.log('dataObj length:'+dataObj.length);
+                //console.log('i:'+i);
+                //console.log('dataObj length:'+dataObj.length);
                 //console.log('valid:'+tweetData.valid[i]);
                 if(tweetData.valid[i]){
                     let linktitle=tweetData.description[i];
@@ -525,6 +526,7 @@ function doPost(tweetData, auth){
                 });
             }
         });
+        console.log('created md file');
         doUpdate(tweetData, auth);
     }else{
         console.log('template file['+templateMdFile+'] was not found.');
