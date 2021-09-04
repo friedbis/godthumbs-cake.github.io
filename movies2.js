@@ -389,6 +389,7 @@ let doUpdate=(tweetData, auth)=>{
         else furigana=furigana.substr(0,1);
         furigana=removeVoicedMark(furigana);
         furigana=gatherAlphabet(furigana);
+        //console.log(furigana);
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
@@ -409,7 +410,7 @@ let doUpdate=(tweetData, auth)=>{
         resource,
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
-        //console.log(res);
+        console.log(res);
         console.log('updated');
     });
 }
