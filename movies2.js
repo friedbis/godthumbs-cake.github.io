@@ -379,6 +379,7 @@ let doUpdate=(tweetData, auth)=>{
 
     //console.log(tweetData);
     //console.log(tweetData.date[0]);
+    console.log('tweetData.rawdata.length:'+tweetData.rawdata.length);
     let idx=0
     for(let i=tweetData.rawdata.length-1;i>=0;i--){
         let rawfurigana=execSync('echo "'+tweetData.rawdata[i]+'" |mecab |while read i;do echo $i |awk \'{print $2;}\' |awk \'BEGIN{FS=","} {print $8;}\' ;done |head -1 |tr -d "\r\n"');
