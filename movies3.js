@@ -38,7 +38,7 @@ const productionMdFile = BaseDir + '/docs/moderation.md';
 const productionDir = BaseDir + '/docs/_posts';
 const mdfilePrefix = '1999-12-31';
 const mdfilePostfix = '-movies.md';
-const starMdFile = BaseDir + '/' + mdfilePrefix + '-' + '===STAR===' + 'star-' + mdfilePostfix;
+const starMdFile = productionDir + '/' + mdfilePrefix + '-' + '===STAR===' + 'star' + mdfilePostfix;
 
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
 const TOKEN_PATH = 'token.json';
@@ -433,7 +433,9 @@ function doPost(tweetData, auth){
                     let linktitle=tweetData.description[i];
                     let postertag='';
                     let booldefined=false;
+                    let stardefined=false;
                     let tagindex=-1;
+                    let starindex=-1;
                     let dataresource={ tag: tweetData.tagindex[i], 
                                         body: databuf, 
                                         filename: productionDir+'/'+mdfilePrefix+'-'+tweetData.tagindex[i]+mdfilePostfix };
@@ -458,11 +460,19 @@ function doPost(tweetData, auth){
                         dataObj.push(dataresource);
                         tagindex=dataObj.length-1;
                     }
+                    console.log("data pushed :"+tagindex);
                     for(let k=0;k<starObj.length;k++){
                         if(starObj[k].star===tweetData.moderation[i]){
+                            stardefined=!stardefined;
+                            starindex=k;
+                            console.log('dupricated tweet was found '+starindex);
                         }
                     }
-                    console.log("data pushed :"+tagindex);
+                    if(!stardefined){
+                        starObj.push(starresource);
+                        starindex=starObj.length-1;
+                    }
+                    console.log("star pushed :"+starindex);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
@@ -487,6 +497,8 @@ function doPost(tweetData, auth){
                     if(i<maxpostcount)datamodbuf+=tweetBuf;
                     dataObj[tagindex].body+=tweetBuf;
                     dataObj[tagindex].body=dataObj[tagindex].body.replace(replacetitle,dataObj[tagindex].tag+"から始まる映画・ドラマ");
+                    starObj[starindex].body+=tweetBuf;
+                    starObj[starindex].body=starObj[starindex].body.replace(replacetitle,""+starObj[starindex].star+"つ星の映画・ドラマ");
                     //console.log(dataObj[tagindex]);
                     if(checkFileExist(dataObj[tagindex].filename)){
                         fs.readFile(dataObj[tagindex].filename, 'utf8', (err, postbuf)=>{
@@ -501,6 +513,21 @@ function doPost(tweetData, auth){
                     }else{
                         fs.writeFile(dataObj[tagindex].filename, dataObj[tagindex].body, 'utf8', ()=>{
                             console.log('production file['+dataObj[tagindex].filename+'] was generated.');
+                        });
+                    }
+                    if(checkFileExist(starObj[starindex].filename)){
+                        fs.readFile(starObj[starindex].filename, 'utf8', (err, postbuf)=>{
+                            if(postbuf==databuf){
+                                console.log('nothing was updated.');
+                            }else{
+                                fs.writeFile(starObj[starindex].filename, starObj[starindex].body, 'utf8', ()=>{
+                                    console.log('production file['+starObj[starindex].filename+'] was generated.');
+                                });
+                            }
+                        });
+                    }else{
+                        fs.writeFile(starObj[starindex].filename, starObj[starindex].body, 'utf8', ()=>{
+                            console.log('production file['+starObj[starindex].filename+'] was generated.');
                         });
                     }
                 }
