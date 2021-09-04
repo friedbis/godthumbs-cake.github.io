@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 捨てがたき人々
+moderated in 2021-9-4 21:25:03<br/>
+<img src="https://m.media-amazon.com/images/I/814m+yCH5kL._AC_SL1500_.jpg" alt="捨てがたき人々"><br/>
+[捨てがたき人々 [PR]](https://amzn.to/3mZtekM)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### 野獣刑事
 moderated in 2021-9-4 21:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDkzMjEwNjctNjAzOS00NzFiLThlOTQtY2RmZWY5MTQ4NDJlXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_FMjpg_UX365_.jpg" alt="野獣刑事"><br/>
@@ -97,12 +103,6 @@ moderated in 2021-9-4 06:05:03<br/>
 <br/>
 [人妻漂流](https://www.necoweb.com/neco/program/detail.php?id=4776)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### ベロニカは死ぬことにした
-moderated in 2021-9-3 23:10:04<br/>
-<br/>
-[ベロニカは死ぬことにした [PR]](https://amzn.to/3yJt9E7)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -140,6 +140,7 @@ moderated in 2021-9-3 23:10:04<br/>
 - [ミから始まる映画・ドラマ](/ミ-movies.html)
 - [メから始まる映画・ドラマ](/メ-movies.html)
 - [モから始まる映画・ドラマ](/モ-movies.html)
+- [ヤから始まる映画・ドラマ](/ヤ-movies.html)
 - [ユから始まる映画・ドラマ](/ユ-movies.html)
 - [ヨから始まる映画・ドラマ](/ヨ-movies.html)
 - [ラから始まる映画・ドラマ](/ラ-movies.html)
