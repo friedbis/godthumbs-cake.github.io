@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### 野獣刑事
+moderated in 2021-9-4 21:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDkzMjEwNjctNjAzOS00NzFiLThlOTQtY2RmZWY5MTQ4NDJlXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_FMjpg_UX365_.jpg" alt="野獣刑事"><br/>
+[野獣刑事 [PR]](https://amzn.to/3DK0zpL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### さよならみどりちゃん
+moderated in 2021-9-4 21:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGZhNjEwMjktZjMxMy00ZjZhLThmYjItZGVmM2E4ZDNmYjlmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX250_.jpg" alt="さよならみどりちゃん"><br/>
+[さよならみどりちゃん [PR]](https://amzn.to/3zL8wIZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ＪＯＨＮＥＮ 定の愛
 moderated in 2021-9-4 21:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTVjM2UxNzItOTNkMi00MGIwLWFjN2EtZDJmYjkxMTI3ZTI1XkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_FMjpg_UX420_.jpg" alt="ＪＯＨＮＥＮ 定の愛"><br/>
@@ -90,12 +102,6 @@ moderated in 2021-9-4 06:05:03<br/>
 moderated in 2021-9-3 23:10:04<br/>
 <br/>
 [ベロニカは死ぬことにした [PR]](https://amzn.to/3yJt9E7)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### さよなら渓谷
-moderated in 2021-9-3 23:05:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZGIwODVmY2YtOTI4ZS00NWVhLWI4NDEtZDU2Y2M5YTM2NjFjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1080_.jpg" alt="さよなら渓谷"><br/>
-[さよなら渓谷 [PR]](https://amzn.to/3mWCsyh)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>

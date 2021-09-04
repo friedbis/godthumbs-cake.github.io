@@ -44,14 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### でべそ DE ストリップ
-moderated in 2021-9-4 21:10:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNjI1NzM0NWEtY2ZmNC00MWRjLWI1MjctODAzZGZkMzFlMzlmXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_FMjpg_UX514_.jpg" alt="でべそ DE ストリップ"><br/>
-[でべそ DE ストリップ [PR]](https://amzn.to/3n2I367)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 百円の恋
-moderated in 2021-9-4 21:10:04<br/>
-<br/>
-[百円の恋 [PR]](https://amzn.to/3zGnujk)<br/>
+### 野獣刑事
+moderated in 2021-9-4 21:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDkzMjEwNjctNjAzOS00NzFiLThlOTQtY2RmZWY5MTQ4NDJlXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_FMjpg_UX365_.jpg" alt="野獣刑事"><br/>
+[野獣刑事 [PR]](https://amzn.to/3DK0zpL)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
