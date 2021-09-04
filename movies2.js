@@ -34,7 +34,7 @@ const halfstar='<i class="fas fa-star-half-alt"></i>';
 
 const BaseDir = '/srv/github/godthumbs-cake';
 const templateMdFile = BaseDir + '/bin/movies2.md';
-const productionMdFile = BaseDir + '/docs/movies.md';
+const productionMdFile = BaseDir + '/docs/moderation.md';
 const productionDir = BaseDir + '/docs/_posts';
 const mdfilePrefix = '1999-12-31';
 const mdfilePostfix = '-movies.md';
@@ -415,9 +415,11 @@ let doUpdate=(tweetData, auth)=>{
 function doPost(tweetData, auth){
     if(checkFileExist(templateMdFile)){
         let dataObj=[];
-        fs.readFile(templateMdFile, 'utf8', (err, databuf)=>{
-            let postbuf='';
+        fs.readFile(templateMdFile, 'utf8', async (err, databuf)=>{
             //console.log(tweetData);
+            let postbuf='';
+            let datamodbuf=databuf.replace(replacetitle,"Impression");
+            let maxpostcount=10;
             for(let i=0;i<tweetData.valid.length;i++){
                 console.log('i:'+i);
                 console.log('dataObj length:'+dataObj.length);
@@ -451,7 +453,7 @@ function doPost(tweetData, auth){
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
-                    dataObj[tagindex].body+=htbr
+                    let tweetBuf=htbr
                         +linefeed
                         +mdh2
                         +tweetData.description[i]
@@ -469,6 +471,8 @@ function doPost(tweetData, auth){
                         +htbr+linefeed
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed;
+                    if(i<maxpostcount)datamodbuf+=tweetBuf;
+                    dataObj[tagindex].body+=tweetBuf;
                     dataObj[tagindex].body=dataObj[tagindex].body.replace(replacetitle,dataObj[tagindex].tag+"から始まる映画・ドラマ");
                     //console.log(dataObj[tagindex]);
                     if(checkFileExist(dataObj[tagindex].filename)){
@@ -487,6 +491,38 @@ function doPost(tweetData, auth){
                         });
                     }
                 }
+            }
+            let footerindexbuf;
+            footerindexbuf=linefeed
+                +htbr+linefeed
+                +mdh2+'索引'+linefeed;
+                +htbr+linefeed;
+            let footerlist=await tweetData.tagindex.filter((x, i, self)=>{
+                return self.indexOf(x)===i;
+            });
+            await footerlist.sort((cur,nex)=>{
+                if(cur<nex)return -1;
+                if(cur>nex)return 1;
+                return 0;
+            });
+            for(let j=0;j<footerlist.length;j++){
+                footerindexbuf+='- ['+footerlist[j]+'から始まる映画・ドラマ](/'+footerlist[j]+'-movies.html)'+linefeed;
+            }
+            datamodbuf+=footerindexbuf;
+            if(checkFileExist(productionMdFile)){
+                fs.readFile(productionMdFile, 'utf8', (err, postmodbuf)=>{
+                    if(postmodbuf===datamodbuf){
+                        console.log('nothing was updated.');
+                    }else{
+                        fs.writeFile(productionMdFile, datamodbuf, 'utf8', ()=>{
+                            console.log('production file['+productionMdFile+'] was generated.');
+                        });
+                    }
+                });
+            }else{
+                fs.writeFile(productionMdFile, datamodbuf, 'utf8', ()=>{
+                    console.log('production file['+productionMdFile+'] was generated.');
+                });
             }
         });
         doUpdate(tweetData, auth);
