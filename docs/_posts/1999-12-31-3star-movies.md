@@ -44,6 +44,24 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 野獣刑事
+moderated in 2021-9-4 21:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDkzMjEwNjctNjAzOS00NzFiLThlOTQtY2RmZWY5MTQ4NDJlXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_FMjpg_UX365_.jpg" alt="野獣刑事"><br/>
+[野獣刑事 [PR]](https://amzn.to/3DK0zpL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### さよならみどりちゃん
+moderated in 2021-9-4 21:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGZhNjEwMjktZjMxMy00ZjZhLThmYjItZGVmM2E4ZDNmYjlmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX250_.jpg" alt="さよならみどりちゃん"><br/>
+[さよならみどりちゃん [PR]](https://amzn.to/3zL8wIZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 百円の恋
+moderated in 2021-9-4 21:10:04<br/>
+<br/>
+[百円の恋 [PR]](https://amzn.to/3zGnujk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 女神降臨 和地つかさ #136
 moderated in 2021-9-4 12:14:43<br/>
 <br/>
