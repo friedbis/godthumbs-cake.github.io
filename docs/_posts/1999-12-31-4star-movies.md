@@ -322,13 +322,13 @@ moderated in 2021-8-27 15:40:04<br/>
 <br/>
 ### ジョセと虎と魚たち
 moderated in 2021-8-27 15:35:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BY2YwMzBiMmMtNWNhMC00NzVkLWE2NzktMjkxNDQ3MjNkZmU4XkEyXkFqcGdeQXVyNzQ0MTcyMjU@._V1_FMjpg_UX1200_.jpg" alt="ジョセと虎と魚たち"><br/>
 [ジョセと虎と魚たち [PR]](https://amzn.to/3gCZ82u)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### うそつきパラドクス
 moderated in 2021-8-27 15:25:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYmJmMjliZTMtOTE2OC00YzBhLTkzMTktZDhlOWI0MzRiYzUxXkEyXkFqcGdeQXVyMjQ1MDI1OTU@._V1_FMjpg_UX1200_.jpg" alt="うそつきパラドクス"><br/>
 [うそつきパラドクス [PR]](https://amzn.to/3DlQuz0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
