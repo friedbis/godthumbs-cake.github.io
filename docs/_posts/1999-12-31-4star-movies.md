@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 風に濡れた女
+moderated in 2021-9-5 21:10:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGY1NTE0MTYtYjkzMC00MmJjLWFiNjQtMWU4ZTI0Zjk1YTRjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1280_.jpg" alt="風に濡れた女"><br/>
+[風に濡れた女 [PR]](https://amzn.to/2Yo5AnD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 東京難民
 moderated in 2021-9-5 21:05:03<br/>
 <br/>
@@ -328,7 +334,7 @@ moderated in 2021-8-27 15:25:03<br/>
 <br/>
 ### 純平、考え直せ
 moderated in 2021-8-27 14:50:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTUzYzJhNTQtMjEyNC00NmE2LTgwNGQtOTMzZDg2OTcxMGQ5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX320_.jpg" alt="純平、考え直せ"><br/>
 [純平、考え直せ [PR]](https://amzn.to/38mknAU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
