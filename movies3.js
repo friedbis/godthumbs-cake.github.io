@@ -554,6 +554,18 @@ function doPost(tweetData, auth){
             for(let j=0;j<footerlist.length;j++){
                 footerindexbuf+='- ['+footerlist[j]+'から始まる映画・ドラマ](/'+footerlist[j]+'-movies.html)'+linefeed;
             }
+            let starlist=[];
+            for(let k=0;k<starObj.length;k++){
+                starlist.push(starObj[k].star);
+            }
+            await starlist.sort((cur,nex)=>{
+                if(cur<nex)return -1;
+                if(cur>nex)return 1;
+                return 0;
+            });
+            for(let k=0;k<starlist.length;k++){
+                footerindexbuf+='- ['+returnUnitAmount(starlist[k].star)+'星の映画・ドラマ](/'+starlist[k].star+'star-movies.html)'+linefeed;
+            }
             datamodbuf+=footerindexbuf;
             if(checkFileExist(productionMdFile)){
                 fs.readFile(productionMdFile, 'utf8', (err, postmodbuf)=>{
