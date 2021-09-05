@@ -564,7 +564,7 @@ function doPost(tweetData, auth){
                 return 0;
             });
             for(let k=0;k<starlist.length;k++){
-                footerindexbuf+='- ['+returnUnitAmount(starlist[k].star)+'星の映画・ドラマ](/'+starlist[k].star+'star-movies.html)'+linefeed;
+                footerindexbuf+='- ['+returnUnitAmount(starlist[k])+'星の映画・ドラマ](/'+starlist[k]+'star-movies.html)'+linefeed;
             }
             datamodbuf+=footerindexbuf;
             if(checkFileExist(productionMdFile)){
