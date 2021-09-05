@@ -161,7 +161,13 @@ var gatherAlphabet=(argValue)=>{
         return argValue;
     }
 }
-
+var returnUnitAmount=(number)=>{
+    let unitStr='こ';
+    if(number>0&&10>number){
+        unitStr='つ';
+    }
+    return number+unitStr;
+}
 
 
 /**
@@ -498,7 +504,7 @@ function doPost(tweetData, auth){
                     dataObj[tagindex].body+=tweetBuf;
                     dataObj[tagindex].body=dataObj[tagindex].body.replace(replacetitle,dataObj[tagindex].tag+"から始まる映画・ドラマ");
                     starObj[starindex].body+=tweetBuf;
-                    starObj[starindex].body=starObj[starindex].body.replace(replacetitle,""+starObj[starindex].star+"つ星の映画・ドラマ");
+                    starObj[starindex].body=starObj[starindex].body.replace(replacetitle,""+returnUnitAmount(starObj[starindex].star)+"星の映画・ドラマ");
                     //console.log(dataObj[tagindex]);
                     if(checkFileExist(dataObj[tagindex].filename)){
                         fs.readFile(dataObj[tagindex].filename, 'utf8', (err, postbuf)=>{
