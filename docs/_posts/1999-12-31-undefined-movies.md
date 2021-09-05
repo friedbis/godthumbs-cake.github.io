@@ -44,8 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### バベル
-moderated in 2021-9-5 20:55:03<br/>
-<br/>
-[バベル [PR]](https://amzn.to/2VmY1wA)<br/>
+### 紙の月
+moderated in 2021-9-5 21:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTUzY2MwN2EtOGI4Yi00YTI1LTg4NDAtMGQzMzQzYzUzMWNjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjgxMjk3MTk@._V1_FMjpg_UX1280_.jpg" alt="紙の月"><br/>
+[紙の月 [PR]](https://amzn.to/3kT9Rr2)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
