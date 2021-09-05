@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 歯まん
+moderated in 2021-9-5 21:55:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODNhNDJhYTctMzMxNi00YjIyLWEyOTEtODc3YjcwNmIyYTYyXkEyXkFqcGdeQXVyNTg1MjQzODA@._V1_FMjpg_UY720_.jpg" alt="歯まん"><br/>
+[歯まん [PR]](https://amzn.to/2WWSwp1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### ちょっとかわいいアイアンメイデン
 moderated in 2021-9-5 21:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMWZhYjI5NTAtZWQxMi00MTk4LThkOTUtYTcwNzRkNDNmYTRhXkEyXkFqcGdeQXVyOTA0MzY4MjY@._V1_FMjpg_UX1280_.jpg" alt="ちょっとかわいいアイアンメイデン"><br/>
@@ -86,16 +92,16 @@ moderated in 2021-9-5 21:05:03<br/>
 [湯を沸かすほどの熱い愛 [PR]](https://amzn.to/3n1Dvgk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
+### 失恋殺人
+moderated in 2021-9-5 21:55:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGY0ZGRiMjItYWI5OS00MjgwLTllMTMtYWViNWQ0MjNiN2E4XkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_FMjpg_UX1200_.jpg" alt="失恋殺人"><br/>
+[失恋殺人 [PR]](https://amzn.to/3BKc3Ic)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 紙の月
 moderated in 2021-9-5 21:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTUzY2MwN2EtOGI4Yi00YTI1LTg4NDAtMGQzMzQzYzUzMWNjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjgxMjk3MTk@._V1_FMjpg_UX1280_.jpg" alt="紙の月"><br/>
 [紙の月 [PR]](https://amzn.to/3kT9Rr2)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### バベル
-moderated in 2021-9-5 20:55:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNzQ1MTc1MDMyMF5BMl5BanBnXkFtZTcwNDA4OTcxNA@@._V1_FMjpg_UX1280_.jpg" alt="バベル"><br/>
-[バベル [PR]](https://amzn.to/2VmY1wA)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
