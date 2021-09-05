@@ -7,7 +7,7 @@ then
 fi
 
 SYSNAME=$(basename $0)
-JSFILE=$BASEDIR/../movies2.js
+JSFILE=$BASEDIR/../movies3.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/moderation.md
 MDFILEDIR=${BASEDIR}/../docs/_posts/1999-12-31
