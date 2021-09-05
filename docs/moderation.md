@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### バベル
+moderated in 2021-9-5 20:55:03<br/>
+<br/>
+[バベル [PR]](https://amzn.to/2VmY1wA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 夜がまた来る
 moderated in 2021-9-5 11:55:04<br/>
 <br/>
@@ -97,12 +103,6 @@ moderated in 2021-9-4 21:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTVjM2UxNzItOTNkMi00MGIwLWFjN2EtZDJmYjkxMTI3ZTI1XkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_FMjpg_UX420_.jpg" alt="ＪＯＨＮＥＮ 定の愛"><br/>
 [ＪＯＨＮＥＮ 定の愛 [PR]](https://amzn.to/3n3vCHo)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### でべそ DE ストリップ
-moderated in 2021-9-4 21:10:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNjI1NzM0NWEtY2ZmNC00MWRjLWI1MjctODAzZGZkMzFlMzlmXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_FMjpg_UX514_.jpg" alt="でべそ DE ストリップ"><br/>
-[でべそ DE ストリップ [PR]](https://amzn.to/3n2I367)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -150,6 +150,7 @@ moderated in 2021-9-4 21:10:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

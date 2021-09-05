@@ -44,8 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 夜がまた来る
-moderated in 2021-9-5 11:55:04<br/>
+### バベル
+moderated in 2021-9-5 20:55:03<br/>
 <br/>
-[夜がまた来る [PR]](https://amzn.to/3BzOYI2)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+[バベル [PR]](https://amzn.to/2VmY1wA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>

@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### バベル
+moderated in 2021-9-5 20:55:03<br/>
+<br/>
+[バベル [PR]](https://amzn.to/2VmY1wA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### でべそ DE ストリップ
 moderated in 2021-9-4 21:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjI1NzM0NWEtY2ZmNC00MWRjLWI1MjctODAzZGZkMzFlMzlmXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_FMjpg_UX514_.jpg" alt="でべそ DE ストリップ"><br/>
