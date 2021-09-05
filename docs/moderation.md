@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### パルプ・フィクション
 moderated in 2021-9-5 09:20:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzIxOTAwOWEtNzAyNC00ODk0LWE4M2ItOThmNjUwN2M2OGY0XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_FMjpg_UX1280_.jpg" alt="パルプ・フィクション"><br/>
 [パルプ・フィクション [PR]](https://amzn.to/2VeNAuM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
