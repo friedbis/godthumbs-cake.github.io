@@ -44,6 +44,24 @@ title: Impression
 ## 作品
 
 <br/>
+### 東京難民
+moderated in 2021-9-5 21:05:03<br/>
+<br/>
+[東京難民 [PR]](https://amzn.to/2YuSSUn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### おんなの河童
+moderated in 2021-9-5 21:05:03<br/>
+<br/>
+[おんなの河童 [PR]](https://amzn.to/2WWkam6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 湯を沸かすほどの熱い愛
+moderated in 2021-9-5 21:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTUwYWFiMzMtODZmZC00OWViLTkxMDUtNzgzYTZkMTY2MzIxXkEyXkFqcGdeQXVyMTE3MDAwNDA4._V1_FMjpg_UX640_.jpg" alt="湯を沸かすほどの熱い愛"><br/>
+[湯を沸かすほどの熱い愛 [PR]](https://amzn.to/3n1Dvgk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 紙の月
 moderated in 2021-9-5 21:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTUzY2MwN2EtOGI4Yi00YTI1LTg4NDAtMGQzMzQzYzUzMWNjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjgxMjk3MTk@._V1_FMjpg_UX1280_.jpg" alt="紙の月"><br/>
@@ -85,24 +103,6 @@ moderated in 2021-9-4 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGRiNjg3NGEtYzE5My00ZmY4LTliZmQtOTVjZDA2YzQyZmM4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX599_.jpg" alt="妹"><br/>
 [妹 [PR]](https://amzn.to/38Cs4Ds)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### 捨てがたき人々
-moderated in 2021-9-4 21:25:03<br/>
-<img src="https://m.media-amazon.com/images/I/814m+yCH5kL._AC_SL1500_.jpg" alt="捨てがたき人々"><br/>
-[捨てがたき人々 [PR]](https://amzn.to/3mZtekM)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### 野獣刑事
-moderated in 2021-9-4 21:20:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZDkzMjEwNjctNjAzOS00NzFiLThlOTQtY2RmZWY5MTQ4NDJlXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_FMjpg_UX365_.jpg" alt="野獣刑事"><br/>
-[野獣刑事 [PR]](https://amzn.to/3DK0zpL)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### さよならみどりちゃん
-moderated in 2021-9-4 21:20:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOGZhNjEwMjktZjMxMy00ZjZhLThmYjItZGVmM2E4ZDNmYjlmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX250_.jpg" alt="さよならみどりちゃん"><br/>
-[さよならみどりちゃん [PR]](https://amzn.to/3zL8wIZ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
