@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: 0つ星の映画・ドラマ
+title: 0こ星の映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
