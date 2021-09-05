@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### スティルライフオブメモリーズ
 moderated in 2021-9-5 22:05:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDA1Mzg1NzAtNmM3Mi00ZDJjLTkzYzMtMTZjNmM0Njc4MWY5XkEyXkFqcGdeQXVyOTE2MDk0MzY@._V1_FMjpg_UX1280_.jpg" alt="スティルライフオブメモリーズ"><br/>
 [スティルライフオブメモリーズ [PR]](https://amzn.to/3mZEs8W)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
