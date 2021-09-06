@@ -44,6 +44,12 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 9 Songs
+moderated in 2021-9-6 23:15:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2I3YTcyZmMtYjMyZS00OWUyLTg1NjYtN2UyMzFhNTQ0NjE4XkEyXkFqcGdeQXVyNTI2ODA2NTc@._V1_FMjpg_UX1280_.jpg" alt="9 Songs"><br/>
+[9 Songs [PR]](https://amzn.to/3tg4jdS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### スパルタカス
 moderated in 2021-9-6 09:55:03<br/>
 <br/>
