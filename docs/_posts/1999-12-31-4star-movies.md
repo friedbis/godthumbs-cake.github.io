@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Sweet Angel 凜音とうか #118
+moderated in 2021-9-6 12:50:03<br/>
+<br/>
+[Sweet Angel 凜音とうか #118](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 好きでもないくせに
 moderated in 2021-9-5 22:05:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjZmMTRlNDAtZGY4ZC00MTQzLWJlMzQtNzVkMDU3Njc3MWI3XkEyXkFqcGdeQXVyMzQ1NjE5OTk@._V1_FMjpg_UX426_.jpg" alt="好きでもないくせに"><br/>
