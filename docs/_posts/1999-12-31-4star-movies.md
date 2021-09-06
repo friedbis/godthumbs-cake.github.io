@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 梅ケ島温泉編 #61 #62
+moderated in 2021-9-6 22:00:04<br/>
+<img src="https://pbs.twimg.com/media/E95Rk8qVcAMS2Aa?format=jpg&name=medium" alt="あなたと温泉に行ったら… 梅ケ島温泉編 #61 #62"><br/>
+[あなたと温泉に行ったら… 梅ケ島温泉編 #61 #62](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### あなたと温泉に行ったら… 下田温泉編 #63 #64
 moderated in 2021-9-6 20:50:03<br/>
 <img src="https://pbs.twimg.com/media/E95Rk8qVcAMS2Aa?format=jpg&name=medium" alt="あなたと温泉に行ったら… 下田温泉編 #63 #64"><br/>
