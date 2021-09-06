@@ -44,6 +44,18 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### トロイ
+moderated in 2021-9-6 09:55:03<br/>
+<br/>
+[トロイ [PR]](https://amzn.to/3h8saam)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 300〈スリーハンドレッド〉
+moderated in 2021-9-6 09:55:03<br/>
+<br/>
+[300〈スリーハンドレッド〉 [PR]](https://amzn.to/3n68k3t)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 湯を沸かすほどの熱い愛
 moderated in 2021-9-5 21:05:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTUwYWFiMzMtODZmZC00OWViLTkxMDUtNzgzYTZkMTY2MzIxXkEyXkFqcGdeQXVyMTE3MDAwNDA4._V1_FMjpg_UX640_.jpg" alt="湯を沸かすほどの熱い愛"><br/>
