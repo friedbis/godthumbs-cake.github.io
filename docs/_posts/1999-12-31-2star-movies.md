@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Sweet Angel 北条麻紀 #117
+moderated in 2021-9-6 12:45:04<br/>
+<br/>
+[Sweet Angel 北条麻紀 #117](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### フレッシュ・ゴードン
 moderated in 2021-9-3 17:10:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmM3NGE1MTktZGU2Mi00M2ZkLWI4N2YtMzc3NjQzZWEwNWJkXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_FMjpg_UX553_.jpg" alt="フレッシュ・ゴードン"><br/>
