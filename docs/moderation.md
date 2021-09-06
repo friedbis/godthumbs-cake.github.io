@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### フューリー
+moderated in 2021-9-6 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzc0MTBlYjUtNzI0Ni00NGY2LTg1NTAtYzhmOWQ1ODg4NGQ4XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_FMjpg_UX1280_.jpg" alt="フューリー"><br/>
+[フューリー [PR]](https://amzn.to/2YlvLve)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### トロイ
 moderated in 2021-9-6 09:55:03<br/>
 <br/>
@@ -91,18 +97,6 @@ moderated in 2021-9-5 21:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDJiNzI5ZDktZTQ2NS00ZDFiLWI5MTktMzJkMTMwOWI4ZjViXkEyXkFqcGdeQXVyMjIxMzA2MTI@._V1_FMjpg_UX1280_.jpg" alt="ジムノペディに乱れる"><br/>
 [ジムノペディに乱れる [PR]](https://amzn.to/3navCW5)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### 私の奴隷になりなさい
-moderated in 2021-9-5 21:40:03<br/>
-<br/>
-[私の奴隷になりなさい [PR]](https://amzn.to/2WR349k)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### 風に濡れた女
-moderated in 2021-9-5 21:10:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNGY1NTE0MTYtYjkzMC00MmJjLWFiNjQtMWU4ZTI0Zjk1YTRjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1280_.jpg" alt="風に濡れた女"><br/>
-[風に濡れた女 [PR]](https://amzn.to/2Yo5AnD)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

@@ -44,20 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### トロイ
-moderated in 2021-9-6 09:55:03<br/>
-<br/>
-[トロイ [PR]](https://amzn.to/3h8saam)<br/>
+### フューリー
+moderated in 2021-9-6 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzc0MTBlYjUtNzI0Ni00NGY2LTg1NTAtYzhmOWQ1ODg4NGQ4XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_FMjpg_UX1280_.jpg" alt="フューリー"><br/>
+[フューリー [PR]](https://amzn.to/2YlvLve)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 300〈スリーハンドレッド〉
-moderated in 2021-9-6 09:55:03<br/>
-<br/>
-[300〈スリーハンドレッド〉 [PR]](https://amzn.to/3n68k3t)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### スパルタカス
-moderated in 2021-9-6 09:55:03<br/>
-<br/>
-[スパルタカス [PR]](https://amzn.to/3kYPg4l)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
