@@ -44,8 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### Sweet Angel 凜音とうか #118
-moderated in 2021-9-6 12:50:03<br/>
+### 冷たい熱帯魚
+moderated in 2021-9-6 19:30:04<br/>
 <br/>
-[Sweet Angel 凜音とうか #118](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+[冷たい熱帯魚]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
