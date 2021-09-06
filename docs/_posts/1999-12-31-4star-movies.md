@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### XX ダブルエックス 美しき標的
+moderated in 2021-9-7 07:50:03<br/>
+<br/>
+[XX ダブルエックス 美しき標的 [PR]](https://amzn.to/3C1xVir)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 葉月つばさ 最後のKISS ~葉月つばさイメージ卒業作品~
 moderated in 2021-9-7 07:45:03<br/>
 <br/>
