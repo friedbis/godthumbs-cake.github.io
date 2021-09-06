@@ -44,12 +44,6 @@ title: Impression
 ## 作品
 
 <br/>
-### 愛のむきだし
-moderated in 2021-9-6 19:35:03<br/>
-<br/>
-[愛のむきだし [PR]](https://amzn.to/2WSpIxx)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 ### 冷たい熱帯魚
 moderated in 2021-9-6 19:30:04<br/>
 <br/>
@@ -103,6 +97,12 @@ moderated in 2021-9-5 22:05:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDA1Mzg1NzAtNmM3Mi00ZDJjLTkzYzMtMTZjNmM0Njc4MWY5XkEyXkFqcGdeQXVyOTE2MDk0MzY@._V1_FMjpg_UX1280_.jpg" alt="スティルライフオブメモリーズ"><br/>
 [スティルライフオブメモリーズ [PR]](https://amzn.to/3mZEs8W)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+### 好きでもないくせに
+moderated in 2021-9-5 22:05:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjZmMTRlNDAtZGY4ZC00MTQzLWJlMzQtNzVkMDU3Njc3MWI3XkEyXkFqcGdeQXVyMzQ1NjE5OTk@._V1_FMjpg_UX426_.jpg" alt="好きでもないくせに"><br/>
+[好きでもないくせに [PR]](https://amzn.to/2X0GfQl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
