@@ -45,19 +45,19 @@ title: 0こ星の映画・ドラマ
 
 <br/>
 ### 冷たい熱帯魚
-moderated in 2021-9-6 19:30:04<br/>
+reviewed in 2021-9-6 19:30:04<br/>
 <br/>
 [冷たい熱帯魚 [PR]](https://amzn.to/3tirTXm)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 食人族
-moderated in 2021-9-3 19:25:03<br/>
+reviewed in 2021-9-3 19:25:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjJkMzk1YjEtMTk5MC00YjJhLTg2ZWQtMzU0YTJhMzdhNzg2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="食人族"><br/>
 [食人族 [PR]](https://amzn.to/3gYBFJp)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### ネクロマンティック
-moderated in 2021-9-3 19:15:03<br/>
+reviewed in 2021-9-3 19:15:03<br/>
 <br/>
 [ネクロマンティック [PR]](https://amzn.to/3jIQ6TI)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>

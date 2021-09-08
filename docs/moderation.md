@@ -45,61 +45,61 @@ title: Impression
 
 <br/>
 ### 闘牌の天使
-moderated in 2021-9-8 14:30:04<br/>
+reviewed in 2021-9-8 14:30:04<br/>
 <br/>
 [闘牌の天使 [PR]](https://amzn.to/3jT9DAN)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 池田ゆり Sexy Body
-moderated in 2021-9-8 14:20:04<br/>
+reviewed in 2021-9-8 14:20:04<br/>
 <br/>
 [池田ゆり Sexy Body [PR]](https://amzn.to/3trSlOf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### ヤクザ対Ｇメン 囮（おとり）
-moderated in 2021-9-8 14:20:04<br/>
+reviewed in 2021-9-8 14:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDU5YTgyZWEtNTk4Ni00OTYzLWFiODYtY2MzZWQ2NWQ1ZmMwXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_FMjpg_UX559_.jpg" alt="ヤクザ対Ｇメン 囮（おとり）"><br/>
 [ヤクザ対Ｇメン 囮（おとり） [PR]](https://amzn.to/2VoBNdr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### クロコーチ 第１話
-moderated in 2021-9-8 14:10:04<br/>
+reviewed in 2021-9-8 14:10:04<br/>
 <br/>
 [クロコーチ 第１話 [PR]](https://amzn.to/2VnlxcG)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 新・女囚さそり 特殊房X
-moderated in 2021-9-8 14:05:04<br/>
+reviewed in 2021-9-8 14:05:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmQ5NmJjMzMtMzk0ZC00NzQ5LWEwM2EtZmMxZmJkN2E2ZTY1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="新・女囚さそり 特殊房X"><br/>
 [新・女囚さそり 特殊房X [PR]](https://amzn.to/3BQBg3D)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 恋の墓
-moderated in 2021-9-8 06:25:03<br/>
+reviewed in 2021-9-8 06:25:03<br/>
 <br/>
 [恋の墓](https://www.mondotv.jp/sp/cinema/koinohaka)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 農家に嫁いだ女 禁断の収穫
-moderated in 2021-9-8 05:25:03<br/>
+reviewed in 2021-9-8 05:25:03<br/>
 <br/>
 [農家に嫁いだ女 禁断の収穫 [PR]](https://amzn.to/3DSvrV8)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### パパ活 恋愛方程式
-moderated in 2021-9-8 05:00:05<br/>
+reviewed in 2021-9-8 05:00:05<br/>
 <br/>
 [パパ活 恋愛方程式](https://www.toeich.jp/program/1T0000014721/202109)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 刺青 堕ちた女郎蜘蛛
-moderated in 2021-9-7 19:40:03<br/>
+reviewed in 2021-9-7 19:40:03<br/>
 <br/>
 [刺青 堕ちた女郎蜘蛛](https://www.necoweb.com/neco/program/detail.php?id=3287)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 愛森ちえ えちえちえ
-moderated in 2021-9-7 12:55:03<br/>
+reviewed in 2021-9-7 12:55:03<br/>
 <br/>
 [愛森ちえ えちえちえ [PR]](https://amzn.to/3h8tzhm)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
