@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Higher Learning
+reviewed in 2021-9-8 20:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzM3NDEyNzUtNTJhMi00ZDZhLWI0YWQtZTYyNjI3N2ExZjJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX600_.jpg" alt="Higher Learning"><br/>
+[Higher Learning [PR]](https://amzn.to/3jQOnvx)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 魅せられて
 reviewed in 2021-9-8 20:25:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmZjZmNkNjYtODdjMS00ZDg3LWE3NzgtNjYwMzk0YzZmOGU1XkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_FMjpg_UY734_.jpg" alt="魅せられて"><br/>
