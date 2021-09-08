@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 毎度おさわがせします
 reviewed in 2021-9-8 16:15:04<br/>
-<br/>
+<img src="https://i.pinimg.com/originals/27/ee/16/27ee16854c3de909a8c178f8f76274d4.jpg" alt="毎度おさわがせします"><br/>
 [毎度おさわがせします [PR]](https://amzn.to/2X224Pm)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
