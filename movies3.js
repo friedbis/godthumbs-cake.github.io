@@ -487,7 +487,7 @@ function doPost(tweetData, auth){
                         +mdh2
                         +tweetData.description[i]
                         +linefeed
-                        +'moderated in '+tweetData.date[i]
+                        +'reviewed in '+tweetData.date[i]
                         +htbr+linefeed
                         +postertag
                         +htbr
