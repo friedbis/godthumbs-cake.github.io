@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 闘牌の天使
+moderated in 2021-9-8 14:30:04<br/>
+<br/>
+[闘牌の天使 [PR]](https://amzn.to/3jT9DAN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### クロコーチ 第１話
 moderated in 2021-9-8 14:10:04<br/>
 <br/>
