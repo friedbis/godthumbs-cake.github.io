@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### AKIRA
+reviewed in 2021-9-9 00:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjAyMmJmYTUtMDBlMi00OWU1LTg5Y2UtNjgwNDRjNWYzMDk0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX853_.jpg" alt="AKIRA"><br/>
+[AKIRA [PR]](https://amzn.to/3jQNGlM)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### スワップ・スワップ~伝説のセックスクラブ~
 reviewed in 2021-9-8 20:20:03<br/>
 <br/>
