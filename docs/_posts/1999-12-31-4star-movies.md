@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### ジャングル・フィーバー
 reviewed in 2021-9-8 21:35:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTc1ODQxMjM2NV5BMl5BanBnXkFtZTcwODE5NDgwMw@@._V1_FMjpg_UX1280_.jpg" alt="ジャングル・フィーバー"><br/>
 [ジャングル・フィーバー [PR]](https://amzn.to/3DZIyUs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
