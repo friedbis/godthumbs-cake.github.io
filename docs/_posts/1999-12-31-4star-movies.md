@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 魅せられて
+reviewed in 2021-9-8 20:25:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmZjZmNkNjYtODdjMS00ZDg3LWE3NzgtNjYwMzk0YzZmOGU1XkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_FMjpg_UY734_.jpg" alt="魅せられて"><br/>
+[魅せられて [PR]](https://amzn.to/3BRCz2h)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 毎度おさわがせします
 reviewed in 2021-9-8 16:15:04<br/>
 <img src="https://i.pinimg.com/originals/27/ee/16/27ee16854c3de909a8c178f8f76274d4.jpg" alt="毎度おさわがせします"><br/>
