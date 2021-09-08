@@ -44,6 +44,12 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### セキ☆ララ
+reviewed in 2021-9-8 20:10:04<br/>
+<br/>
+[セキ☆ララ](https://movies.yahoo.co.jp/movie/325033/)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 恋の墓
 reviewed in 2021-9-8 06:25:03<br/>
 <br/>
