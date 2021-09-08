@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ジャングル・フィーバー
+reviewed in 2021-9-8 21:35:04<br/>
+<br/>
+[ジャングル・フィーバー [PR]](https://amzn.to/3DZIyUs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Higher Learning
 reviewed in 2021-9-8 20:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzM3NDEyNzUtNTJhMi00ZDZhLWI0YWQtZTYyNjI3N2ExZjJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX600_.jpg" alt="Higher Learning"><br/>
