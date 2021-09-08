@@ -46,7 +46,9 @@ then
 fi
 _echo "done"
 _echo "sync with git repository..."
-rm ${MDFILEDIR}-undefined-movies.html
+git add $0
+git add $JSFILE
+git rm ${MDFILEDIR}-undefined-movies.md
 git add $OUTPUTFILE && git add ${MDFILEDIR}-* && git commit -m 'movie updated' && git push -u origin main
 _echo "done"
 
