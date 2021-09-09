@@ -44,9 +44,15 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Shelter Island
+reviewed in 2021-9-9 20:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDI2N2I1ZmMtNTEyOC00MzNiLTg4M2UtY2VhNDViNzgyNzdiXkEyXkFqcGdeQXVyNTk1MTExOA@@._V1_FMjpg_UX600_.jpg" alt="Shelter Island"><br/>
+[Shelter Island [PR]](https://amzn.to/3E0oH7J)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ラブファクトリー
 reviewed in 2021-9-9 20:25:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTY1NWY1NzctOThmYS00NjgxLWExM2EtZjIyZmMwMmM1MTgyXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_FMjpg_UX720_.jpg" alt="ラブファクトリー"><br/>
 [ラブファクトリー [PR]](https://amzn.to/3hfXXXd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
