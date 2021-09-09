@@ -44,6 +44,18 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ミアの告白
+reviewed in 2021-9-9 19:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZGIzZTM0NzUtNzkxNC00ZjRlLWI1Y2UtNzkyZTk3ODY2YTBlXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX500_.jpg" alt="ミアの告白"><br/>
+[ミアの告白 [PR]](https://amzn.to/3hcVFba)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### Who's Your Daddy?
+reviewed in 2021-9-9 19:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjgyOTc1NzczOF5BMl5BanBnXkFtZTcwNDcyMzcyMQ@@._V1_FMjpg_UX351_.jpg" alt="Who's Your Daddy?"><br/>
+[Who's Your Daddy?](https://www.imdb.com/title/tt0287138/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Twenty-One
 reviewed in 2021-9-9 19:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTkzODMzNDQ4OV5BMl5BanBnXkFtZTYwNjUzNTg4._V1_FMjpg_UX256_.jpg" alt="Twenty-One"><br/>
