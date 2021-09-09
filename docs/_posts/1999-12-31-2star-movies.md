@@ -46,7 +46,7 @@ title: 2つ星の映画・ドラマ
 <br/>
 ### フリーランサー NY捜査線
 reviewed in 2021-9-9 23:40:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTQ0MzI0MDQ5OV5BMl5BanBnXkFtZTcwMTQ0NDc4OA@@._V1_FMjpg_UX395_.jpg" alt="フリーランサー NY捜査線"><br/>
 [フリーランサー NY捜査線 [PR]](https://amzn.to/3DYGjRo)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
