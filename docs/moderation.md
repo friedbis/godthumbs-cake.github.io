@@ -44,10 +44,22 @@ title: Impression
 ## 作品
 
 <br/>
+### フリーランサー NY捜査線
+reviewed in 2021-9-9 23:40:03<br/>
+<br/>
+[フリーランサー NY捜査線 [PR]](https://amzn.to/3DYGjRo)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### Gun
+reviewed in 2021-9-9 23:40:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTMwMGUzMDctZjI5NS00OWZmLWI3ZTctNGUxZDcyMmNjMjBjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="Gun"><br/>
+[Gun](https://www.imdb.com/title/tt1560954/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Twelve
 reviewed in 2021-9-9 23:35:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjA0NDkyNTQtMDVmNy00ZDE2LThkYTItOGYyY2Y5Yjc1ZWNlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX853_.jpg" alt="Twelve"><br/>
-[Twelve]()<br/>
+[Twelve](https://www.imdb.com/title/tt1407084)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### ゲット・リッチ・オア・ダイ・トライン
@@ -90,18 +102,6 @@ reviewed in 2021-9-9 20:25:04<br/>
 reviewed in 2021-9-9 19:50:03<br/>
 <br/>
 [焦燥 [PR]](https://amzn.to/3ngngMl)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### Prince of Shadows (Beltenebros)
-reviewed in 2021-9-9 19:45:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYmViMWY2NTAtYTVjMS00NTU1LTkzZGEtMjg3N2ZlNGRjOGI5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1278_.jpg" alt="Prince of Shadows (Beltenebros)"><br/>
-[Prince of Shadows (Beltenebros) [PR]](https://amzn.to/3l1g2sQ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### Full Eclipse
-reviewed in 2021-9-9 19:40:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTU2MTUyNzgxNl5BMl5BanBnXkFtZTYwOTkzMzU5._V1_FMjpg_UX279_.jpg" alt="Full Eclipse"><br/>
-[Full Eclipse [PR]](https://amzn.to/3tu5Bln)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
