@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### Twenty-One
+reviewed in 2021-9-9 19:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTkzODMzNDQ4OV5BMl5BanBnXkFtZTYwNjUzNTg4._V1_FMjpg_UX256_.jpg" alt="Twenty-One"><br/>
+[Twenty-One [PR]](https://amzn.to/3henvUk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### リーサル・ウェポン2 炎の約束
+reviewed in 2021-9-9 19:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTdmZGU0NDYtNDUwNS00OTBkLTlkMTAtNmI4YzQ3M2Q0NjI5XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX1203_.jpg" alt="リーサル・ウェポン2 炎の約束"><br/>
+[リーサル・ウェポン2 炎の約束 [PR]](https://amzn.to/3C01Nvv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 奈月セナ セレナーデ
 reviewed in 2021-9-9 11:45:03<br/>
 <br/>
@@ -91,12 +103,6 @@ reviewed in 2021-9-8 20:20:03<br/>
 <br/>
 [衝撃!カルト教団!逮捕時の押収テープ流出 ~洗脳肉体セミナー「性の儀礼」の全貌~ [PR]](https://amzn.to/2YtnoOe)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 怪奇ミステリーファイル 潜入!! SEX教団!!
-reviewed in 2021-9-8 20:20:03<br/>
-<br/>
-[怪奇ミステリーファイル 潜入!! SEX教団!! [PR]](https://amzn.to/2WUl9Tr)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

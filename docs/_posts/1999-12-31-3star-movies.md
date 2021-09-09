@@ -44,6 +44,18 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Twenty-One
+reviewed in 2021-9-9 19:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTkzODMzNDQ4OV5BMl5BanBnXkFtZTYwNjUzNTg4._V1_FMjpg_UX256_.jpg" alt="Twenty-One"><br/>
+[Twenty-One [PR]](https://amzn.to/3henvUk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### リーサル・ウェポン2 炎の約束
+reviewed in 2021-9-9 19:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTdmZGU0NDYtNDUwNS00OTBkLTlkMTAtNmI4YzQ3M2Q0NjI5XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX1203_.jpg" alt="リーサル・ウェポン2 炎の約束"><br/>
+[リーサル・ウェポン2 炎の約束 [PR]](https://amzn.to/3C01Nvv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### AKIRA
 reviewed in 2021-9-9 00:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjAyMmJmYTUtMDBlMi00OWU1LTg5Y2UtNjgwNDRjNWYzMDk0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX853_.jpg" alt="AKIRA"><br/>
