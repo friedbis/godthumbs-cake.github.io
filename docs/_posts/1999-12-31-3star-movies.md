@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ラブファクトリー
+reviewed in 2021-9-9 20:25:04<br/>
+<br/>
+[ラブファクトリー [PR]](https://amzn.to/3hfXXXd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 焦燥
 reviewed in 2021-9-9 19:50:03<br/>
 <br/>
