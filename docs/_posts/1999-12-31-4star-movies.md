@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Prince of Shadows (Beltenebros)
+reviewed in 2021-9-9 19:45:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYmViMWY2NTAtYTVjMS00NTU1LTkzZGEtMjg3N2ZlNGRjOGI5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1278_.jpg" alt="Prince of Shadows (Beltenebros)"><br/>
+[Prince of Shadows (Beltenebros) [PR]](https://amzn.to/3l1g2sQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Blame It on the Bellboy
 reviewed in 2021-9-9 19:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BN2U5NTE0OTMtZjJiYy00NTQ0LTg4NDItY2E1MTI5MjA1YjRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg" alt="Blame It on the Bellboy"><br/>
