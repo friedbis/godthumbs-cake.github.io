@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### I Know Who Killed Me
+reviewed in 2021-9-9 21:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmUzNDBjNmEtZmQ4Yy00MDE1LTgwM2QtNmZkN2VmOTFhZjgwXkEyXkFqcGdeQXVyNTMwOTA0OTA@._V1_FMjpg_UX1063_.jpg" alt="I Know Who Killed Me"><br/>
+[I Know Who Killed Me [PR]](https://amzn.to/3nigsOA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Prince of Shadows (Beltenebros)
 reviewed in 2021-9-9 19:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmViMWY2NTAtYTVjMS00NTU1LTkzZGEtMjg3N2ZlNGRjOGI5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1278_.jpg" alt="Prince of Shadows (Beltenebros)"><br/>
