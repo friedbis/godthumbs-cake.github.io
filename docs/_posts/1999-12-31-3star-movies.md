@@ -46,7 +46,7 @@ title: 3つ星の映画・ドラマ
 <br/>
 ### Lindsay
 reviewed in 2021-9-9 20:35:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODdjZmJkYWYtOWJjZC00M2Y2LThkOGYtZjU1YjdjZTMwZjdlXkEyXkFqcGdeQXVyMzQxMTMwMDQ@._V1_FMjpg_UX1274_.jpg" alt="Lindsay"><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTQyYzM1YzctY2EzNi00ZTBlLWI2OWMtNTIzZTU5YWRkNWIxXkEyXkFqcGdeQXVyMzQxMTMwMDQ@._V1_FMjpg_UX1280_.jpg" alt="Lindsay"><br/>
 [Lindsay]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

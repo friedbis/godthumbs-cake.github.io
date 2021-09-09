@@ -44,6 +44,12 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ザ・ハリウッド セックスと野望
+reviewed in 2021-9-9 20:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzhlMTY1MjYtNWQ0Ni00ZmU4LWFmZjctOTkyYzZjNTAyYzNlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_FMjpg_UX1280_.jpg" alt="ザ・ハリウッド セックスと野望"><br/>
+[ザ・ハリウッド セックスと野望](https://www.imdb.com/title/tt2292959)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### ウルフ・オブ・ウォールストリート
 reviewed in 2021-9-8 20:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDNkM2FkNmQtMmI0MC00ODIwLWE4ZmEtNmVjNDVmNGQ2NDlmXkEyXkFqcGdeQXVyNzA0NTQ2NTc@._V1_FMjpg_UX1280_.jpg" alt="ウルフ・オブ・ウォールストリート"><br/>
