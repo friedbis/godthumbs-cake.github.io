@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 焦燥
+reviewed in 2021-9-9 19:50:03<br/>
+<br/>
+[焦燥 [PR]](https://amzn.to/3ngngMl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Prince of Shadows (Beltenebros)
 reviewed in 2021-9-9 19:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmViMWY2NTAtYTVjMS00NTU1LTkzZGEtMjg3N2ZlNGRjOGI5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1278_.jpg" alt="Prince of Shadows (Beltenebros)"><br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-9 19:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTdmZGU0NDYtNDUwNS00OTBkLTlkMTAtNmI4YzQ3M2Q0NjI5XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX1203_.jpg" alt="リーサル・ウェポン2 炎の約束"><br/>
 [リーサル・ウェポン2 炎の約束 [PR]](https://amzn.to/3C01Nvv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 奈月セナ セレナーデ
-reviewed in 2021-9-9 11:45:03<br/>
-<br/>
-[奈月セナ セレナーデ [PR]](https://amzn.to/3BSwRx5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
