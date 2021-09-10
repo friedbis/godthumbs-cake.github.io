@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Power
+reviewed in 2021-9-10 18:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzQ1ODk5NzMzM15BMl5BanBnXkFtZTgwMjMyODA5NTE@._V1_FMjpg_UX1280_.jpg" alt="Power"><br/>
+[Power [PR]](https://amzn.to/3nlN3mC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Nortorious
 reviewed in 2021-9-10 18:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjA1NjQ0MzU3OF5BMl5BanBnXkFtZTcwNjI5NTQyMg@@._V1_.jpg" alt="Nortorious"><br/>

@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### Power
+reviewed in 2021-9-10 18:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzQ1ODk5NzMzM15BMl5BanBnXkFtZTgwMjMyODA5NTE@._V1_FMjpg_UX1280_.jpg" alt="Power"><br/>
+[Power [PR]](https://amzn.to/3nlN3mC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Nortorious
 reviewed in 2021-9-10 18:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjA1NjQ0MzU3OF5BMl5BanBnXkFtZTcwNjI5NTQyMg@@._V1_.jpg" alt="Nortorious"><br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-9 20:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDI2N2I1ZmMtNTEyOC00MzNiLTg4M2UtY2VhNDViNzgyNzdiXkEyXkFqcGdeQXVyNTk1MTExOA@@._V1_FMjpg_UX600_.jpg" alt="Shelter Island"><br/>
 [Shelter Island [PR]](https://amzn.to/3E0oH7J)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### ラブファクトリー
-reviewed in 2021-9-9 20:25:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTY1NWY1NzctOThmYS00NjgxLWExM2EtZjIyZmMwMmM1MTgyXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_FMjpg_UX720_.jpg" alt="ラブファクトリー"><br/>
-[ラブファクトリー [PR]](https://amzn.to/3hfXXXd)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -150,6 +150,7 @@ reviewed in 2021-9-9 20:25:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
