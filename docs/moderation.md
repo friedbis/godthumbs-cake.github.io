@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### チャタレイ夫人の恋人
+reviewed in 2021-9-10 22:50:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzk0OWVjZmEtZjNiZC00MGYxLTk0OTQtZWQ1MTA2YjhkZDdkXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_FMjpg_UX1024_.jpg" alt="チャタレイ夫人の恋人"><br/>
+[チャタレイ夫人の恋人 [PR]](https://amzn.to/3jZV1Qg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### O嬢の物語
 reviewed in 2021-9-10 22:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmE2MjJkYTQtNjRiNy00Y2Y4LWE0ZjMtZWY5YWNmZThmOTU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_FMjpg_UX800_.jpg" alt="O嬢の物語"><br/>
@@ -144,7 +150,6 @@ reviewed in 2021-9-9 20:40:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

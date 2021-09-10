@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### チャタレイ夫人の恋人
+reviewed in 2021-9-10 22:50:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzk0OWVjZmEtZjNiZC00MGYxLTk0OTQtZWQ1MTA2YjhkZDdkXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_FMjpg_UX1024_.jpg" alt="チャタレイ夫人の恋人"><br/>
+[チャタレイ夫人の恋人 [PR]](https://amzn.to/3jZV1Qg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### I Know Who Killed Me
 reviewed in 2021-9-9 21:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmUzNDBjNmEtZmQ4Yy00MDE1LTgwM2QtNmZkN2VmOTFhZjgwXkEyXkFqcGdeQXVyNTMwOTA0OTA@._V1_FMjpg_UX1063_.jpg" alt="I Know Who Killed Me"><br/>
