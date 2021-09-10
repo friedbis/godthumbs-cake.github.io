@@ -44,6 +44,12 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### O嬢の物語
+reviewed in 2021-9-10 22:45:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmE2MjJkYTQtNjRiNy00Y2Y4LWE0ZjMtZWY5YWNmZThmOTU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_FMjpg_UX800_.jpg" alt="O嬢の物語"><br/>
+[O嬢の物語 [PR]](https://amzn.to/3z147Az)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### ザ・ハリウッド セックスと野望
 reviewed in 2021-9-9 20:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzhlMTY1MjYtNWQ0Ni00ZmU4LWFmZjctOTkyYzZjNTAyYzNlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_FMjpg_UX1280_.jpg" alt="ザ・ハリウッド セックスと野望"><br/>
