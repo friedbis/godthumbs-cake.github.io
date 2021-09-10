@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Nortorious
+reviewed in 2021-9-10 18:15:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjA1NjQ0MzU3OF5BMl5BanBnXkFtZTcwNjI5NTQyMg@@._V1_.jpg" alt="Nortorious"><br/>
+[Nortorious [PR]](https://amzn.to/2XbuLti)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ゲット・リッチ・オア・ダイ・トライン
 reviewed in 2021-9-9 23:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTYwNTg1NTk1NF5BMl5BanBnXkFtZTYwMDQ0OTc2._V1_FMjpg_UX485_.jpg" alt="ゲット・リッチ・オア・ダイ・トライン"><br/>
