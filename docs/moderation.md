@@ -44,9 +44,15 @@ title: Impression
 ## 作品
 
 <br/>
+### ダニエラという女
+reviewed in 2021-9-11 11:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDQwNGMxMDAtYmNkNC00NTY0LWExZDItZDA4YzM1ZmI2OGM2XkEyXkFqcGdeQXVyODMxOTk0MjQ@._V1_FMjpg_UX1280_.jpg" alt="ダニエラという女"><br/>
+[ダニエラという女 [PR]](https://amzn.to/3k1lPPZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### モニカ・ベルッチ　情事
 reviewed in 2021-9-11 11:10:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDk4YjhkMzgtODc0OS00ZTZkLThkZjctYmIzMzc4YmViZjFjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1280_.jpg" alt="モニカ・ベルッチ　情事"><br/>
 [モニカ・ベルッチ　情事 [PR]](https://amzn.to/2XfhgZN)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-10 22:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmE2MjJkYTQtNjRiNy00Y2Y4LWE0ZjMtZWY5YWNmZThmOTU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_FMjpg_UX800_.jpg" alt="O嬢の物語"><br/>
 [O嬢の物語 [PR]](https://amzn.to/3z147Az)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### Power
-reviewed in 2021-9-10 18:20:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNzQ1ODk5NzMzM15BMl5BanBnXkFtZTgwMjMyODA5NTE@._V1_FMjpg_UX1280_.jpg" alt="Power"><br/>
-[Power [PR]](https://amzn.to/3nlN3mC)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

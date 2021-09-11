@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ダニエラという女
+reviewed in 2021-9-11 11:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDQwNGMxMDAtYmNkNC00NTY0LWExZDItZDA4YzM1ZmI2OGM2XkEyXkFqcGdeQXVyODMxOTk0MjQ@._V1_FMjpg_UX1280_.jpg" alt="ダニエラという女"><br/>
+[ダニエラという女 [PR]](https://amzn.to/3k1lPPZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 三人の夫
 reviewed in 2021-9-11 08:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzhkNjY3YTQtYWVhMC00NDMzLTk4ZmEtOTQwNTI3YjI2OTc4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_FMjpg_UY676_.jpg" alt="三人の夫"><br/>
