@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 地獄
+reviewed in 2021-9-11 21:25:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmM2MDE0YWEtZmJiZi00ZTQxLWFlODYtMWQzMDA1NjIwODRlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX853_.jpg" alt="地獄"><br/>
+[地獄 [PR]](https://amzn.to/3EaeXYw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 「エロ事師たち」より 人類学入門
 reviewed in 2021-9-11 11:45:04<br/>
 <br/>
