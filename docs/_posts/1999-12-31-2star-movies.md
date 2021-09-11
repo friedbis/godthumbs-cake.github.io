@@ -44,6 +44,18 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Shoot'em Up
+reviewed in 2021-9-11 11:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTJlNTZlZTgtZGIxZC00YTExLTkxYWMtMDA2YTQwOGZlMTUyXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1280_.jpg" alt="Shoot'em Up"><br/>
+[Shoot'em Up [PR]](https://amzn.to/3jYprlU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### Manuale d'amore 2
+reviewed in 2021-9-11 11:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzMzY2Q2NmMtMWJmNS00MWRmLTgzNjAtZDY1YTA1MTk5ZDBlXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1141_.jpg" alt="Manuale d'amore 2"><br/>
+[Manuale d'amore 2 [PR]](https://amzn.to/3k33ZfG)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### フリーランサー NY捜査線
 reviewed in 2021-9-9 23:40:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTQ0MzI0MDQ5OV5BMl5BanBnXkFtZTcwMTQ0NDc4OA@@._V1_FMjpg_UX395_.jpg" alt="フリーランサー NY捜査線"><br/>

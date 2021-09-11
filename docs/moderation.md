@@ -44,11 +44,17 @@ title: Impression
 ## 作品
 
 <br/>
+### Shoot'em Up
+reviewed in 2021-9-11 11:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTJlNTZlZTgtZGIxZC00YTExLTkxYWMtMDA2YTQwOGZlMTUyXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1280_.jpg" alt="Shoot'em Up"><br/>
+[Shoot'em Up [PR]](https://amzn.to/3jYprlU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Manuale d'amore 2
 reviewed in 2021-9-11 11:00:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzMzY2Q2NmMtMWJmNS00MWRmLTgzNjAtZDY1YTA1MTk5ZDBlXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1141_.jpg" alt="Manuale d'amore 2"><br/>
 [Manuale d'amore 2 [PR]](https://amzn.to/3k33ZfG)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 三人の夫
 reviewed in 2021-9-11 08:55:03<br/>
@@ -96,12 +102,6 @@ reviewed in 2021-9-10 18:15:04<br/>
 reviewed in 2021-9-9 23:40:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTQ0MzI0MDQ5OV5BMl5BanBnXkFtZTcwMTQ0NDc4OA@@._V1_FMjpg_UX395_.jpg" alt="フリーランサー NY捜査線"><br/>
 [フリーランサー NY捜査線 [PR]](https://amzn.to/3DYGjRo)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### Gun
-reviewed in 2021-9-9 23:40:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYTMwMGUzMDctZjI5NS00OWZmLWI3ZTctNGUxZDcyMmNjMjBjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="Gun"><br/>
-[Gun](https://www.imdb.com/title/tt1560954/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
@@ -157,4 +157,3 @@ reviewed in 2021-9-9 23:40:03<br/>
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
-- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
