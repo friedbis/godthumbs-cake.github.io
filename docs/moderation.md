@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### ポルノ時代劇 忘八武士道
+reviewed in 2021-9-11 21:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjMzNDI0YjYtZWQ2YS00Nzc0LWEyODYtNjg2ODg0Njg4OTFmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UY677_.jpg" alt="ポルノ時代劇 忘八武士道"><br/>
+[ポルノ時代劇 忘八武士道]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### 人間失格
 reviewed in 2021-9-11 21:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzA0NjliNjQtZjY5MC00ZWVmLWJiYzMtYTYwZjc3ZTM5M2MyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="人間失格"><br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-11 11:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGUzMTkyY2ItNmYxZS00OTg4LTllYzMtNzU4MzNmM2ZlMmRmXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_FMjpg_UX1061_.jpg" alt="非行少女ヨーコ"><br/>
 [非行少女ヨーコ [PR]](https://amzn.to/3nmpIkB)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 屋根裏の殺人鬼 フリッツ・ホンカ
-reviewed in 2021-9-11 11:40:03<br/>
-<br/>
-[屋根裏の殺人鬼 フリッツ・ホンカ [PR]](https://amzn.to/3hmGfkM)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

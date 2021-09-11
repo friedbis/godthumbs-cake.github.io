@@ -44,6 +44,12 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ポルノ時代劇 忘八武士道
+reviewed in 2021-9-11 21:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjMzNDI0YjYtZWQ2YS00Nzc0LWEyODYtNjg2ODg0Njg4OTFmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UY677_.jpg" alt="ポルノ時代劇 忘八武士道"><br/>
+[ポルノ時代劇 忘八武士道]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### チョコレート
 reviewed in 2021-9-11 11:20:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGY5Mjg0OGItNmE3MS00NWY2LWJjYWYtNzcwZDliZjIzM2YwXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="チョコレート"><br/>
