@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### Manuale d'amore 2
+reviewed in 2021-9-11 11:00:05<br/>
+<br/>
+[Manuale d'amore 2 [PR]](https://amzn.to/3k33ZfG)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 三人の夫
 reviewed in 2021-9-11 08:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzhkNjY3YTQtYWVhMC00NDMzLTk4ZmEtOTQwNTI3YjI2OTc4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_FMjpg_UY676_.jpg" alt="三人の夫"><br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-9 23:40:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTMwMGUzMDctZjI5NS00OWZmLWI3ZTctNGUxZDcyMmNjMjBjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="Gun"><br/>
 [Gun](https://www.imdb.com/title/tt1560954/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### Twelve
-reviewed in 2021-9-9 23:35:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYjA0NDkyNTQtMDVmNy00ZDE2LThkYTItOGYyY2Y5Yjc1ZWNlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX853_.jpg" alt="Twelve"><br/>
-[Twelve](https://www.imdb.com/title/tt1407084)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -150,9 +150,11 @@ reviewed in 2021-9-9 23:35:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
+- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
