@@ -44,6 +44,12 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 最近、妹のようすがちょっとおかしいんだが。
+reviewed in 2021-9-11 22:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE5ZjZiZmQtOTIxOC00ZjlmLTg4OTUtYWVkYTZmMTM0ZTk4XkEyXkFqcGdeQXVyMTAzODUxMQ@@._V1_FMjpg_UX392_.jpg" alt="最近、妹のようすがちょっとおかしいんだが。"><br/>
+[最近、妹のようすがちょっとおかしいんだが。 [PR]](https://amzn.to/3k2CAKM)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### ポルノ時代劇 忘八武士道
 reviewed in 2021-9-11 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjMzNDI0YjYtZWQ2YS00Nzc0LWEyODYtNjg2ODg0Njg4OTFmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UY677_.jpg" alt="ポルノ時代劇 忘八武士道"><br/>

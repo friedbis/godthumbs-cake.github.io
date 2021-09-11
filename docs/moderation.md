@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 最近、妹のようすがちょっとおかしいんだが。
+reviewed in 2021-9-11 22:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE5ZjZiZmQtOTIxOC00ZjlmLTg4OTUtYWVkYTZmMTM0ZTk4XkEyXkFqcGdeQXVyMTAzODUxMQ@@._V1_FMjpg_UX392_.jpg" alt="最近、妹のようすがちょっとおかしいんだが。"><br/>
+[最近、妹のようすがちょっとおかしいんだが。 [PR]](https://amzn.to/3k2CAKM)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### 新 仁義なき戦い 組長の首
 reviewed in 2021-9-11 21:55:04<br/>
 <br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-11 21:25:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmM2MDE0YWEtZmJiZi00ZTQxLWFlODYtMWQzMDA1NjIwODRlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX853_.jpg" alt="地獄"><br/>
 [地獄 [PR]](https://amzn.to/3EaeXYw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 愛の嵐
-reviewed in 2021-9-11 18:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODQ1MjU0YjQtMTQ0OC00YmQ0LWIwY2YtY2YwNjI0NzZlOTY5XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_FMjpg_UX919_.jpg" alt="愛の嵐"><br/>
-[愛の嵐 [PR]](https://amzn.to/3hnfg8I)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
