@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 人間失格
+reviewed in 2021-9-11 21:35:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzA0NjliNjQtZjY5MC00ZWVmLWJiYzMtYTYwZjc3ZTM5M2MyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="人間失格"><br/>
+[人間失格 [PR]](https://amzn.to/2Xc3NBL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 愛の嵐
 reviewed in 2021-9-11 18:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODQ1MjU0YjQtMTQ0OC00YmQ0LWIwY2YtY2YwNjI0NzZlOTY5XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_FMjpg_UX919_.jpg" alt="愛の嵐"><br/>

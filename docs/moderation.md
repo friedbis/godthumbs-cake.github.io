@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 人間失格
+reviewed in 2021-9-11 21:35:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzA0NjliNjQtZjY5MC00ZWVmLWJiYzMtYTYwZjc3ZTM5M2MyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="人間失格"><br/>
+[人間失格 [PR]](https://amzn.to/2Xc3NBL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ばるぼら
 reviewed in 2021-9-11 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BM2I0NmU0ODUtZmYyNC00MzFmLTg0ZjItNDEzYmQ0MjM2ZTRhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX866_.jpg" alt="ばるぼら"><br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-11 11:40:03<br/>
 <br/>
 [屋根裏の殺人鬼 フリッツ・ホンカ [PR]](https://amzn.to/3hmGfkM)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### チョコレート
-reviewed in 2021-9-11 11:20:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOGY5Mjg0OGItNmE3MS00NWY2LWJjYWYtNzcwZDliZjIzM2YwXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="チョコレート"><br/>
-[チョコレート [PR]](https://amzn.to/3C1yg4C)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 
 <br/>
 ### 索引
