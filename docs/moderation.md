@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### 「エロ事師たち」より 人類学入門
+reviewed in 2021-9-11 11:45:04<br/>
+<br/>
+[「エロ事師たち」より 人類学入門 [PR]](https://amzn.to/2Xb7TK5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 非行少女ヨーコ
+reviewed in 2021-9-11 11:45:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGUzMTkyY2ItNmYxZS00OTg4LTllYzMtNzU4MzNmM2ZlMmRmXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_FMjpg_UX1061_.jpg" alt="非行少女ヨーコ"><br/>
+[非行少女ヨーコ [PR]](https://amzn.to/3nmpIkB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 屋根裏の殺人鬼 フリッツ・ホンカ
 reviewed in 2021-9-11 11:40:03<br/>
 <br/>
@@ -91,18 +103,6 @@ reviewed in 2021-9-11 08:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzhkNjY3YTQtYWVhMC00NDMzLTk4ZmEtOTQwNTI3YjI2OTc4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_FMjpg_UY676_.jpg" alt="三人の夫"><br/>
 [三人の夫 [PR]](https://amzn.to/3nuMWoy)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### ハリウッド★ホンコン
-reviewed in 2021-9-11 08:50:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYmZkZDU0ZDQtOTNlOC00MjBhLWFjZGEtZmZkZDI1ZDdkNWVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX450_.jpg" alt="ハリウッド★ホンコン"><br/>
-[ハリウッド★ホンコン [PR]](https://amzn.to/3A4BMub)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### ドリアンドリアン
-reviewed in 2021-9-11 08:45:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTA4MTcxMjIzNDJeQTJeQWpwZ15BbWU4MDc1MTE3NzIx._V1_FMjpg_UX330_.jpg" alt="ドリアンドリアン"><br/>
-[ドリアンドリアン [PR]](https://amzn.to/3tuIS94)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

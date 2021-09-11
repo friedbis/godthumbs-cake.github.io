@@ -44,8 +44,14 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 屋根裏の殺人鬼 フリッツ・ホンカ
-reviewed in 2021-9-11 11:40:03<br/>
+### 「エロ事師たち」より 人類学入門
+reviewed in 2021-9-11 11:45:04<br/>
 <br/>
-[屋根裏の殺人鬼 フリッツ・ホンカ [PR]](https://amzn.to/3hmGfkM)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[「エロ事師たち」より 人類学入門 [PR]](https://amzn.to/2Xb7TK5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 非行少女ヨーコ
+reviewed in 2021-9-11 11:45:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGUzMTkyY2ItNmYxZS00OTg4LTllYzMtNzU4MzNmM2ZlMmRmXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_FMjpg_UX1061_.jpg" alt="非行少女ヨーコ"><br/>
+[非行少女ヨーコ [PR]](https://amzn.to/3nmpIkB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>

@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 「エロ事師たち」より 人類学入門
+reviewed in 2021-9-11 11:45:04<br/>
+<br/>
+[「エロ事師たち」より 人類学入門 [PR]](https://amzn.to/2Xb7TK5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ダニエラという女
 reviewed in 2021-9-11 11:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDQwNGMxMDAtYmNkNC00NTY0LWExZDItZDA4YzM1ZmI2OGM2XkEyXkFqcGdeQXVyODMxOTk0MjQ@._V1_FMjpg_UX1280_.jpg" alt="ダニエラという女"><br/>
