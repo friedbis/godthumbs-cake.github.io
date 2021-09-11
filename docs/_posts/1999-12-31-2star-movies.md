@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### SCOOP!
+reviewed in 2021-9-11 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTJlZTRhNDMtZTA4Ny00MWQ1LThmYTEtNDUzODA2OGM5OGY3XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX610_.jpg" alt="SCOOP!"><br/>
+[SCOOP! [PR]](https://amzn.to/3z15cby)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 地獄
 reviewed in 2021-9-11 21:25:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmM2MDE0YWEtZmJiZi00ZTQxLWFlODYtMWQzMDA1NjIwODRlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX853_.jpg" alt="地獄"><br/>

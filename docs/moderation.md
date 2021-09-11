@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### ばるぼら
+reviewed in 2021-9-11 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2I0NmU0ODUtZmYyNC00MzFmLTg0ZjItNDEzYmQ0MjM2ZTRhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX866_.jpg" alt="ばるぼら"><br/>
+[ばるぼら [PR]](https://amzn.to/3k4jX9k)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### SCOOP!
+reviewed in 2021-9-11 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTJlZTRhNDMtZTA4Ny00MWQ1LThmYTEtNDUzODA2OGM5OGY3XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX610_.jpg" alt="SCOOP!"><br/>
+[SCOOP! [PR]](https://amzn.to/3z15cby)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 女虐
 reviewed in 2021-9-11 21:25:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGQ2MmMzNzctZGFmYi00OGFlLTg3NTAtYzg1MWNkMzJhYWE2XkEyXkFqcGdeQXVyOTEyMzM3NjM@._V1_FMjpg_UX1280_.jpg" alt="女虐"><br/>
@@ -91,18 +103,6 @@ reviewed in 2021-9-11 11:20:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGY5Mjg0OGItNmE3MS00NWY2LWJjYWYtNzcwZDliZjIzM2YwXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="チョコレート"><br/>
 [チョコレート [PR]](https://amzn.to/3C1yg4C)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### ダニエラという女
-reviewed in 2021-9-11 11:15:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMDQwNGMxMDAtYmNkNC00NTY0LWExZDItZDA4YzM1ZmI2OGM2XkEyXkFqcGdeQXVyODMxOTk0MjQ@._V1_FMjpg_UX1280_.jpg" alt="ダニエラという女"><br/>
-[ダニエラという女 [PR]](https://amzn.to/3k1lPPZ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### モニカ・ベルッチ　情事
-reviewed in 2021-9-11 11:10:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDk4YjhkMzgtODc0OS00ZTZkLThkZjctYmIzMzc4YmViZjFjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1280_.jpg" alt="モニカ・ベルッチ　情事"><br/>
-[モニカ・ベルッチ　情事 [PR]](https://amzn.to/2XfhgZN)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
