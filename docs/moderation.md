@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 忠臣蔵外伝 四谷怪談
+reviewed in 2021-9-11 22:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODJkMjhmZWYtMzAwZi00M2FmLWI3OTgtMGJjMGQxNjhlYTQwXkEyXkFqcGdeQXVyMTg1NTU2NjY@._V1_FMjpg_UX693_.jpg" alt="忠臣蔵外伝 四谷怪談"><br/>
+[忠臣蔵外伝 四谷怪談 [PR]](https://amzn.to/3hpaFCP)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 最近、妹のようすがちょっとおかしいんだが。
 reviewed in 2021-9-11 22:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGE5ZjZiZmQtOTIxOC00ZjlmLTg4OTUtYWVkYTZmMTM0ZTk4XkEyXkFqcGdeQXVyMTAzODUxMQ@@._V1_FMjpg_UX392_.jpg" alt="最近、妹のようすがちょっとおかしいんだが。"><br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-11 21:25:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGQ2MmMzNzctZGFmYi00OGFlLTg3NTAtYzg1MWNkMzJhYWE2XkEyXkFqcGdeQXVyOTEyMzM3NjM@._V1_FMjpg_UX1280_.jpg" alt="女虐"><br/>
 [女虐 [PR]](https://amzn.to/38Yz91h)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 地獄
-reviewed in 2021-9-11 21:25:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNmM2MDE0YWEtZmJiZi00ZTQxLWFlODYtMWQzMDA1NjIwODRlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX853_.jpg" alt="地獄"><br/>
-[地獄 [PR]](https://amzn.to/3EaeXYw)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 忠臣蔵外伝 四谷怪談
+reviewed in 2021-9-11 22:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODJkMjhmZWYtMzAwZi00M2FmLWI3OTgtMGJjMGQxNjhlYTQwXkEyXkFqcGdeQXVyMTg1NTU2NjY@._V1_FMjpg_UX693_.jpg" alt="忠臣蔵外伝 四谷怪談"><br/>
+[忠臣蔵外伝 四谷怪談 [PR]](https://amzn.to/3hpaFCP)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 新 仁義なき戦い 組長の首
 reviewed in 2021-9-11 21:55:04<br/>
 <br/>
