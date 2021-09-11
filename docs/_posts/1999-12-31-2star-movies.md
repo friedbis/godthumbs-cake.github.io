@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### モニカ・ベルッチ　情事
+reviewed in 2021-9-11 11:10:04<br/>
+<br/>
+[モニカ・ベルッチ　情事 [PR]](https://amzn.to/2XfhgZN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### Shoot'em Up
 reviewed in 2021-9-11 11:05:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTJlNTZlZTgtZGIxZC00YTExLTkxYWMtMDA2YTQwOGZlMTUyXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1280_.jpg" alt="Shoot'em Up"><br/>
