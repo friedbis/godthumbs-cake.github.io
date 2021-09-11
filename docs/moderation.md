@@ -48,7 +48,7 @@ title: Impression
 reviewed in 2021-9-11 11:45:04<br/>
 <br/>
 [「エロ事師たち」より 人類学入門 [PR]](https://amzn.to/2Xb7TK5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ### 非行少女ヨーコ
 reviewed in 2021-9-11 11:45:04<br/>
@@ -107,6 +107,7 @@ reviewed in 2021-9-11 08:55:03<br/>
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
+- [「から始まる映画・ドラマ](/「-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
 - [ウから始まる映画・ドラマ](/ウ-movies.html)
@@ -150,7 +151,6 @@ reviewed in 2021-9-11 08:55:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
