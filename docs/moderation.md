@@ -44,10 +44,16 @@ title: Impression
 ## 作品
 
 <br/>
+### 真・女立喰師列伝
+reviewed in 2021-9-11 21:50:04<br/>
+<br/>
+[真・女立喰師列伝 [PR]](https://amzn.to/3hj1KTB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ポルノ時代劇 忘八武士道
 reviewed in 2021-9-11 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjMzNDI0YjYtZWQ2YS00Nzc0LWEyODYtNjg2ODg0Njg4OTFmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UY677_.jpg" alt="ポルノ時代劇 忘八武士道"><br/>
-[ポルノ時代劇 忘八武士道]()<br/>
+[ポルノ時代劇 忘八武士道 [PR]](https://amzn.to/3nkNzRP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 ### 人間失格
@@ -97,12 +103,6 @@ reviewed in 2021-9-11 11:45:04<br/>
 <br/>
 [「エロ事師たち」より 人類学入門 [PR]](https://amzn.to/2Xb7TK5)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 非行少女ヨーコ
-reviewed in 2021-9-11 11:45:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMGUzMTkyY2ItNmYxZS00OTg4LTllYzMtNzU4MzNmM2ZlMmRmXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_FMjpg_UX1061_.jpg" alt="非行少女ヨーコ"><br/>
-[非行少女ヨーコ [PR]](https://amzn.to/3nmpIkB)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -150,6 +150,7 @@ reviewed in 2021-9-11 11:45:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
