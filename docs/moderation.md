@@ -44,6 +44,18 @@ title: Impression
 ## 作品
 
 <br/>
+### 新 仁義なき戦い 組長の首
+reviewed in 2021-9-11 21:55:04<br/>
+<br/>
+[新 仁義なき戦い 組長の首 [PR]](https://amzn.to/3npUpp4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 不良番長 一網打尽
+reviewed in 2021-9-11 21:55:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE1NWE4MTItYjg2Yi00MzQ5LTg1NWEtZDk4NjQ2OWJmZDg4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX900_.jpg" alt="不良番長 一網打尽"><br/>
+[不良番長 一網打尽 [PR]](https://amzn.to/3E4eg3b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 真・女立喰師列伝
 reviewed in 2021-9-11 21:50:04<br/>
 <br/>
@@ -91,18 +103,6 @@ reviewed in 2021-9-11 18:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODQ1MjU0YjQtMTQ0OC00YmQ0LWIwY2YtY2YwNjI0NzZlOTY5XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_FMjpg_UX919_.jpg" alt="愛の嵐"><br/>
 [愛の嵐 [PR]](https://amzn.to/3hnfg8I)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 悪魔のはらわた
-reviewed in 2021-9-11 18:30:04<br/>
-<br/>
-[悪魔のはらわた [PR]](https://amzn.to/3k0m3a0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 「エロ事師たち」より 人類学入門
-reviewed in 2021-9-11 11:45:04<br/>
-<br/>
-[「エロ事師たち」より 人類学入門 [PR]](https://amzn.to/2Xb7TK5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引

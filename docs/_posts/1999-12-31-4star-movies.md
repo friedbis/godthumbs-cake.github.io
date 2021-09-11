@@ -44,6 +44,18 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 新 仁義なき戦い 組長の首
+reviewed in 2021-9-11 21:55:04<br/>
+<br/>
+[新 仁義なき戦い 組長の首 [PR]](https://amzn.to/3npUpp4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 不良番長 一網打尽
+reviewed in 2021-9-11 21:55:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE1NWE4MTItYjg2Yi00MzQ5LTg1NWEtZDk4NjQ2OWJmZDg4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX900_.jpg" alt="不良番長 一網打尽"><br/>
+[不良番長 一網打尽 [PR]](https://amzn.to/3E4eg3b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 人間失格
 reviewed in 2021-9-11 21:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzA0NjliNjQtZjY5MC00ZWVmLWJiYzMtYTYwZjc3ZTM5M2MyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="人間失格"><br/>
