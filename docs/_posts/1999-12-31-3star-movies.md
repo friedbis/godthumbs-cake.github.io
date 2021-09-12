@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 狼の挽歌
+reviewed in 2021-9-13 01:25:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTVhYTlkNjEtMjhmMC00OTUyLWIyMGMtOTM0OTY5YzZlOGMyXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_FMjpg_UX800_.jpg" alt="狼の挽歌"><br/>
+[狼の挽歌](https://www.imdb.com/title/tt0065555)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### ばるぼら
 reviewed in 2021-9-11 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BM2I0NmU0ODUtZmYyNC00MzFmLTg0ZjItNDEzYmQ0MjM2ZTRhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX866_.jpg" alt="ばるぼら"><br/>

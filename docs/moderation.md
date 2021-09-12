@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 狼の挽歌
+reviewed in 2021-9-13 01:25:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTVhYTlkNjEtMjhmMC00OTUyLWIyMGMtOTM0OTY5YzZlOGMyXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_FMjpg_UX800_.jpg" alt="狼の挽歌"><br/>
+[狼の挽歌](https://www.imdb.com/title/tt0065555)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### やくざ刑事 マリファナ密売組織
 reviewed in 2021-9-13 01:20:04<br/>
 <br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-12 21:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTM3NjhlNmUtYTIyZS00YmUyLTliMDYtMWVkYWQwYmJiY2JiXkEyXkFqcGdeQXVyODczNTM5NDI@._V1_FMjpg_UX640_.jpg" alt="大福星"><br/>
 [大福星 [PR]](https://amzn.to/3Eb8w7B)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### モンブランの女
-reviewed in 2021-9-12 09:50:03<br/>
-<br/>
-[モンブランの女 [PR]](https://amzn.to/3hpeHeJ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 
 <br/>
 ### 索引

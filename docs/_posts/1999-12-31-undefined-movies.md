@@ -44,8 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### やくざ刑事 マリファナ密売組織
-reviewed in 2021-9-13 01:20:04<br/>
-<br/>
-[やくざ刑事 マリファナ密売組織 [PR]](https://amzn.to/3lh8mD3)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+### 狼の挽歌
+reviewed in 2021-9-13 01:25:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTVhYTlkNjEtMjhmMC00OTUyLWIyMGMtOTM0OTY5YzZlOGMyXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_FMjpg_UX800_.jpg" alt="狼の挽歌"><br/>
+[狼の挽歌](https://www.imdb.com/title/tt0065555)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
