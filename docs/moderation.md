@@ -91,6 +91,18 @@ reviewed in 2021-9-11 22:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGE5ZjZiZmQtOTIxOC00ZjlmLTg4OTUtYWVkYTZmMTM0ZTk4XkEyXkFqcGdeQXVyMTAzODUxMQ@@._V1_FMjpg_UX392_.jpg" alt="最近、妹のようすがちょっとおかしいんだが。"><br/>
 [最近、妹のようすがちょっとおかしいんだが。 [PR]](https://amzn.to/3k2CAKM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+### 新 仁義なき戦い 組長の首
+reviewed in 2021-9-11 21:55:04<br/>
+<br/>
+[新 仁義なき戦い 組長の首 [PR]](https://amzn.to/3npUpp4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 不良番長 一網打尽
+reviewed in 2021-9-11 21:55:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE1NWE4MTItYjg2Yi00MzQ5LTg1NWEtZDk4NjQ2OWJmZDg4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX900_.jpg" alt="不良番長 一網打尽"><br/>
+[不良番長 一網打尽 [PR]](https://amzn.to/3E4eg3b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -138,7 +150,6 @@ reviewed in 2021-9-11 22:00:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
