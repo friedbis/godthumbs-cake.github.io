@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### 七福星
 reviewed in 2021-9-12 21:40:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTI5NjQzMDU5N15BMl5BanBnXkFtZTcwNTc5OTEyMQ@@._V1_FMjpg_UX475_.jpg" alt="七福星"><br/>
 [七福星 [PR]](https://amzn.to/38Y84v4)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -150,7 +150,6 @@ reviewed in 2021-9-11 21:50:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

@@ -46,7 +46,7 @@ title: 2つ星の映画・ドラマ
 <br/>
 ### 七福星
 reviewed in 2021-9-12 21:40:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTI5NjQzMDU5N15BMl5BanBnXkFtZTcwNTc5OTEyMQ@@._V1_FMjpg_UX475_.jpg" alt="七福星"><br/>
 [七福星 [PR]](https://amzn.to/38Y84v4)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
