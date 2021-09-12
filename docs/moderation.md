@@ -44,9 +44,15 @@ title: Impression
 ## 作品
 
 <br/>
+### 七福星
+reviewed in 2021-9-12 21:40:04<br/>
+<br/>
+[七福星 [PR]](https://amzn.to/38Y84v4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 大福星
 reviewed in 2021-9-12 21:35:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTM3NjhlNmUtYTIyZS00YmUyLTliMDYtMWVkYWQwYmJiY2JiXkEyXkFqcGdeQXVyODczNTM5NDI@._V1_FMjpg_UX640_.jpg" alt="大福星"><br/>
 [大福星 [PR]](https://amzn.to/3Eb8w7B)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -97,12 +103,6 @@ reviewed in 2021-9-11 21:50:04<br/>
 <br/>
 [真・女立喰師列伝 [PR]](https://amzn.to/3hj1KTB)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### ポルノ時代劇 忘八武士道
-reviewed in 2021-9-11 21:40:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNjMzNDI0YjYtZWQ2YS00Nzc0LWEyODYtNjg2ODg0Njg4OTFmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UY677_.jpg" alt="ポルノ時代劇 忘八武士道"><br/>
-[ポルノ時代劇 忘八武士道 [PR]](https://amzn.to/3nkNzRP)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 
 <br/>
 ### 索引
