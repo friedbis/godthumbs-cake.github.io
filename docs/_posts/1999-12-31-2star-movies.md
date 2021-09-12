@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 大福星
+reviewed in 2021-9-12 21:35:03<br/>
+<br/>
+[大福星 [PR]](https://amzn.to/3Eb8w7B)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 真・女立喰師列伝
 reviewed in 2021-9-11 21:50:04<br/>
 <br/>
