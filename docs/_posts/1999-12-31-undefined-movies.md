@@ -44,14 +44,8 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ファイナル・ロリータ 完熟の蜜蜂
-reviewed in 2021-9-12 22:15:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTU4Mjk5Njk2Ml5BMl5BanBnXkFtZTcwOTI3OTkxMQ@@._V1_FMjpg_UX293_.jpg" alt="ファイナル・ロリータ 完熟の蜜蜂"><br/>
-[ファイナル・ロリータ 完熟の蜜蜂](https://www.imdb.com/title/tt0109345)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### マダム・ロリータ～爛熟の果実
-reviewed in 2021-9-12 22:15:03<br/>
-<br/>
-[マダム・ロリータ～爛熟の果実 [PR]](https://amzn.to/3Cjchq3)<br/>
+### Sex&禅/中国絶倫珍珍秘伝
+reviewed in 2021-9-12 22:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWY0NGFjMzktMDM3Yy00OGZiLWFlYjAtMTAyZDBlNDZlZWNlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1024_.jpg" alt="Sex&禅/中国絶倫珍珍秘伝"><br/>
+[Sex&禅/中国絶倫珍珍秘伝 [PR]](https://amzn.to/3k41b1F)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
