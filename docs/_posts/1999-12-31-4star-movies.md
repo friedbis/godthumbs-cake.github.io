@@ -44,6 +44,18 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マダム・ロリータ～爛熟の果実
+reviewed in 2021-9-12 22:15:03<br/>
+<br/>
+[マダム・ロリータ～爛熟の果実 [PR]](https://amzn.to/3Cjchq3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### ロレッタ・リーのハード・ロリータ ～禁断の果実～
+reviewed in 2021-9-12 22:00:04<br/>
+<br/>
+[ロレッタ・リーのハード・ロリータ ～禁断の果実～ [PR]](https://amzn.to/2Xh3qGk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 忠臣蔵外伝 四谷怪談
 reviewed in 2021-9-11 22:05:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODJkMjhmZWYtMzAwZi00M2FmLWI3OTgtMGJjMGQxNjhlYTQwXkEyXkFqcGdeQXVyMTg1NTU2NjY@._V1_FMjpg_UX693_.jpg" alt="忠臣蔵外伝 四谷怪談"><br/>

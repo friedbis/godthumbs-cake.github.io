@@ -44,12 +44,6 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### ロレッタ・リーのハード・ロリータ ～禁断の果実～
-reviewed in 2021-9-12 22:00:04<br/>
-<br/>
-[ロレッタ・リーのハード・ロリータ ～禁断の果実～ [PR]](https://amzn.to/2Xh3qGk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
 ### モンブランの女
 reviewed in 2021-9-12 09:50:03<br/>
 <br/>

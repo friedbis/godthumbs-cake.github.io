@@ -44,6 +44,18 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ファイナル・ロリータ 完熟の蜜蜂
+reviewed in 2021-9-12 22:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTU4Mjk5Njk2Ml5BMl5BanBnXkFtZTcwOTI3OTkxMQ@@._V1_FMjpg_UX293_.jpg" alt="ファイナル・ロリータ 完熟の蜜蜂"><br/>
+[ファイナル・ロリータ 完熟の蜜蜂](https://www.imdb.com/title/tt0109345)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 香港人肉竹輪
+reviewed in 2021-9-12 22:15:03<br/>
+<br/>
+[香港人肉竹輪 [PR]](https://amzn.to/3lykIXN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 七福星
 reviewed in 2021-9-12 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTI5NjQzMDU5N15BMl5BanBnXkFtZTcwNTc5OTEyMQ@@._V1_FMjpg_UX475_.jpg" alt="七福星"><br/>
