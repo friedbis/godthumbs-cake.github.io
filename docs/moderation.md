@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### ロレッタ・リーのハード・ロリータ ～禁断の果実～
+reviewed in 2021-9-12 22:00:04<br/>
+<br/>
+[ロレッタ・リーのハード・ロリータ ～禁断の果実～ [PR]](https://amzn.to/2Xh3qGk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### 七福星
 reviewed in 2021-9-12 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTI5NjQzMDU5N15BMl5BanBnXkFtZTcwNTc5OTEyMQ@@._V1_FMjpg_UX475_.jpg" alt="七福星"><br/>
@@ -85,18 +91,6 @@ reviewed in 2021-9-11 22:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGE5ZjZiZmQtOTIxOC00ZjlmLTg4OTUtYWVkYTZmMTM0ZTk4XkEyXkFqcGdeQXVyMTAzODUxMQ@@._V1_FMjpg_UX392_.jpg" alt="最近、妹のようすがちょっとおかしいんだが。"><br/>
 [最近、妹のようすがちょっとおかしいんだが。 [PR]](https://amzn.to/3k2CAKM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### 新 仁義なき戦い 組長の首
-reviewed in 2021-9-11 21:55:04<br/>
-<br/>
-[新 仁義なき戦い 組長の首 [PR]](https://amzn.to/3npUpp4)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 不良番長 一網打尽
-reviewed in 2021-9-11 21:55:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNGE1NWE4MTItYjg2Yi00MzQ5LTg1NWEtZDk4NjQ2OWJmZDg4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX900_.jpg" alt="不良番長 一網打尽"><br/>
-[不良番長 一網打尽 [PR]](https://amzn.to/3E4eg3b)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
