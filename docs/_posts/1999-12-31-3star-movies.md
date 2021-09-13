@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女帝 春日局
+reviewed in 2021-9-13 15:20:04<br/>
+<br/>
+[女帝 春日局 [PR]](https://amzn.to/3C9n0Tw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 狼の挽歌
 reviewed in 2021-9-13 01:25:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTVhYTlkNjEtMjhmMC00OTUyLWIyMGMtOTM0OTY5YzZlOGMyXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_FMjpg_UX800_.jpg" alt="狼の挽歌"><br/>
