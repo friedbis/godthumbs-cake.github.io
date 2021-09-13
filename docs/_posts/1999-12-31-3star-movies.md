@@ -44,12 +44,6 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 女神降臨 天木じゅん #132
-reviewed in 2021-9-13 23:40:04<br/>
-<br/>
-[女神降臨 天木じゅん #132](https://www.mondotv.jp/sp/idol/idol/megamikourin/132)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 ### 女帝 春日局
 reviewed in 2021-9-13 15:20:04<br/>
 <br/>
