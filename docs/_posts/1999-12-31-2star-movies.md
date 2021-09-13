@@ -44,6 +44,18 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 続大奥㊙物語
+reviewed in 2021-9-13 12:30:04<br/>
+<br/>
+[続大奥㊙物語 [PR]](https://amzn.to/3lzDSwr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+### 大奥㊙物語
+reviewed in 2021-9-13 12:30:04<br/>
+<br/>
+[大奥㊙物語 [PR]](https://amzn.to/2XjZRz1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### やくざ刑事 マリファナ密売組織
 reviewed in 2021-9-13 01:20:04<br/>
 <br/>
