@@ -44,12 +44,6 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 白藤有華/ぷるしりおゆか
-reviewed in 2021-9-14 11:45:04<br/>
-<br/>
-[白藤有華/ぷるしりおゆか [PR]](https://amzn.to/2XhZSU1)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 ### 女神降臨 橋本梨菜 #137
 reviewed in 2021-9-14 10:50:03<br/>
 <br/>
