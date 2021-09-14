@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### おやじ男優Z
 reviewed in 2021-9-14 08:50:04<br/>
-<br/>
+<img src="https://eiga.k-img.com/images/movie/80516/gallery/key_v-3_large.jpg" alt="おやじ男優Z"><br/>
 [おやじ男優Z [PR]](https://amzn.to/2XiesdV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
