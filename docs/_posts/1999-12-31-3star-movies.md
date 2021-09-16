@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 彼女がその名を知らない鳥たち
+reviewed in 2021-9-17 08:45:03<br/>
+<br/>
+[彼女がその名を知らない鳥たち [PR]](https://amzn.to/3hG3d6y)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### さよなら歌舞伎町
 reviewed in 2021-9-16 23:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTgxODA1MzM4N15BMl5BanBnXkFtZTgwMTg1NzI2MjE@._V1_FMjpg_UX1280_.jpg" alt="さよなら歌舞伎町"><br/>
