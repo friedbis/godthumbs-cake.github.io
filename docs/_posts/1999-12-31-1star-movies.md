@@ -44,6 +44,12 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 日本犯罪史 ~偽造の快楽~ 
+reviewed in 2021-9-17 17:20:04<br/>
+<br/>
+[日本犯罪史 ~偽造の快楽~  [PR]](https://amzn.to/2XjmF1D)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 怪奇ミステリーファイル 潜入!! SEX教団!!
 reviewed in 2021-9-8 20:20:03<br/>
 <br/>
