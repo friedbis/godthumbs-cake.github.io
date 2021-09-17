@@ -44,6 +44,12 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 身も心も
+reviewed in 2021-9-17 12:25:03<br/>
+<br/>
+[身も心も [PR]](https://amzn.to/3nHWsoC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
 ### モンブランの女
 reviewed in 2021-9-12 09:50:03<br/>
 <br/>
