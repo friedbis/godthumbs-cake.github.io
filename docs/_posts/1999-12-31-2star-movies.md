@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 麻雀放浪記2020
+reviewed in 2021-9-18 14:55:03<br/>
+<br/>
+[麻雀放浪記2020 [PR]](https://amzn.to/3CrtwFl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 女猫:ミカ プッシーキャット・ガールの発情恩返し
 reviewed in 2021-9-17 17:15:03<br/>
 <br/>
