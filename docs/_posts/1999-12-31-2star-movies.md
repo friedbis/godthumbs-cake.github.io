@@ -46,7 +46,7 @@ title: 2つ星の映画・ドラマ
 <br/>
 ### 麻雀放浪記2020
 reviewed in 2021-9-18 14:55:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTJiOTBiM2EtZjZhZC00YjRkLThkNzctNjg0NDc4ZjA5MDI1XkEyXkFqcGdeQXVyNzY0Mzc1ODM@._V1_FMjpg_UX1000_.jpg" alt="麻雀放浪記2020"><br/>
 [麻雀放浪記2020 [PR]](https://amzn.to/3CrtwFl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
