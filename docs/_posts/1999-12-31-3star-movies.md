@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### シャイニング
+reviewed in 2021-9-19 21:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_FMjpg_UX1200_.jpg" alt="シャイニング"><br/>
+[シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 極道の妻たち 決着
 reviewed in 2021-9-19 12:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDQwYWRhZmEtOTYwMS00NWFkLWFhODQtMGYwYWMzNGZkMTIxXkEyXkFqcGdeQXVyMTEyODk3NTgz._V1_FMjpg_UX1057_.jpg" alt="極道の妻たち 決着"><br/>

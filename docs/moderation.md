@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### シャイニング
+reviewed in 2021-9-19 21:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_FMjpg_UX1200_.jpg" alt="シャイニング"><br/>
+[シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 女神降臨 総集編 19 #138
 reviewed in 2021-9-19 20:30:04<br/>
 <br/>
@@ -144,7 +150,6 @@ reviewed in 2021-9-18 14:55:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
