@@ -44,6 +44,12 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ダークロマン 大聖堂
+reviewed in 2021-9-19 21:55:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTI3OTk1NzU5Nl5BMl5BanBnXkFtZTcwNzMwMzI2Mw@@._V1_FMjpg_UX1280_.jpg" alt="ダークロマン 大聖堂"><br/>
+[ダークロマン 大聖堂](https://www.imdb.com/title/tt1453159/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### シャイニング
 reviewed in 2021-9-19 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_FMjpg_UX1200_.jpg" alt="シャイニング"><br/>
