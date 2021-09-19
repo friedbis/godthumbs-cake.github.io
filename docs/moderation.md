@@ -44,6 +44,12 @@ title: Impression
 ## 作品
 
 <br/>
+### 極道の妻たち 決着
+reviewed in 2021-9-19 12:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDQwYWRhZmEtOTYwMS00NWFkLWFhODQtMGYwYWMzNGZkMTIxXkEyXkFqcGdeQXVyMTEyODk3NTgz._V1_FMjpg_UX1057_.jpg" alt="極道の妻たち 決着"><br/>
+[極道の妻たち 決着 [PR]](https://amzn.to/3nNykB8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 日本犯罪史 飼育の罠
 reviewed in 2021-9-19 12:30:04<br/>
 <br/>
