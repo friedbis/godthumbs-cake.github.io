@@ -97,12 +97,6 @@ reviewed in 2021-9-18 14:55:03<br/>
 <br/>
 [グラっちゃお！  #492：塩地美澄](https://www.entermeitele.com/idol/grachao.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-### 麻雀放浪記2020
-reviewed in 2021-9-18 14:55:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTJiOTBiM2EtZjZhZC00YjRkLThkNzctNjg0NDc4ZjA5MDI1XkEyXkFqcGdeQXVyNzY0Mzc1ODM@._V1_FMjpg_UX1000_.jpg" alt="麻雀放浪記2020"><br/>
-[麻雀放浪記2020 [PR]](https://amzn.to/3CrtwFl)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
@@ -150,6 +144,7 @@ reviewed in 2021-9-18 14:55:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
