@@ -44,6 +44,12 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 007 オクトパシー
+reviewed in 2021-9-19 13:10:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWNmYjNlMTUtMDVlOC00MGY2LThkYjgtMDMwMGMzZTk3NDI0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="007 オクトパシー"><br/>
+[007 オクトパシー [PR]](https://amzn.to/3u0huQA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 天使の誘惑　～白衣と手錠の淫らな関係～
 reviewed in 2021-9-19 11:15:03<br/>
 <br/>
