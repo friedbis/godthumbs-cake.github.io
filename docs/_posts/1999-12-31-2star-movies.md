@@ -44,6 +44,12 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 日本犯罪史 飼育の罠
+reviewed in 2021-9-19 12:30:04<br/>
+<br/>
+[日本犯罪史 飼育の罠 [PR]](https://amzn.to/2ZcTPkw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
 ### 麻雀放浪記2020
 reviewed in 2021-9-18 14:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTJiOTBiM2EtZjZhZC00YjRkLThkNzctNjg0NDc4ZjA5MDI1XkEyXkFqcGdeQXVyNzY0Mzc1ODM@._V1_FMjpg_UX1000_.jpg" alt="麻雀放浪記2020"><br/>
