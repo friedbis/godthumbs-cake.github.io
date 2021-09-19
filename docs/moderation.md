@@ -97,12 +97,6 @@ reviewed in 2021-9-17 12:25:03<br/>
 <br/>
 [身も心も [PR]](https://amzn.to/3nHWsoC)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-### 彼女がその名を知らない鳥たち
-reviewed in 2021-9-17 08:45:03<br/>
-<br/>
-[彼女がその名を知らない鳥たち [PR]](https://amzn.to/3hG3d6y)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 
 <br/>
 ### 索引
