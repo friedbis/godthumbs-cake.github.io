@@ -50,14 +50,14 @@ reviewed in 2021-9-20 14:30:04<br/>
 [XX ダブルエックス 美しき凶器 [PR]](https://amzn.to/39kglJV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-笑顔が素敵<br/>
+ <br/>
 ### おふろやさん日和2 #9
 reviewed in 2021-9-20 13:35:03<br/>
 <img src="https://m.media-amazon.com/images/I/71h9l4u2utL._AC_SL1500_.jpg" alt="おふろやさん日和2 #9"><br/>
 [おふろやさん日和2 #9](https://www.vpara.com/information/ofuroyasanbiyori2/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-undefined<br/>
+笑顔が素敵<br/>
 ### ダークロマン 大聖堂
 reviewed in 2021-9-19 21:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTI3OTk1NzU5Nl5BMl5BanBnXkFtZTcwNzMwMzI2Mw@@._V1_FMjpg_UX1280_.jpg" alt="ダークロマン 大聖堂"><br/>
