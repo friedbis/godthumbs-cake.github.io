@@ -106,7 +106,7 @@ reviewed in 2021-9-19 21:40:04<br/>
 [シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+こっからの落とし方が驚き<br/>
 ### 女神降臨 総集編 19 #138
 reviewed in 2021-9-19 20:30:04<br/>
 <br/>

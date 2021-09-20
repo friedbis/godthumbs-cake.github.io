@@ -78,7 +78,7 @@ reviewed in 2021-9-19 21:40:04<br/>
 [シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+こっからの落とし方が驚き<br/>
 ### 極道の妻たち 決着
 reviewed in 2021-9-19 12:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDQwYWRhZmEtOTYwMS00NWFkLWFhODQtMGYwYWMzNGZkMTIxXkEyXkFqcGdeQXVyMTEyODk3NTgz._V1_FMjpg_UX1057_.jpg" alt="極道の妻たち 決着"><br/>
