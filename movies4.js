@@ -484,7 +484,8 @@ function doPost(tweetData, auth){
                     console.log("star pushed :"+starindex);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
-                    if(tweetData.comment[i]!==''||tweetData.comment[i]!=='undefined') comment=tweetData.comment[i];
+                    console.log(tweetData.comment[i]);
+                    if(tweetData.comment[i]!==''&&tweetData.comment[i]!=='undefined') comment='**'+tweetData.comment[i]+'**';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
                     let tweetBuf=htbr
@@ -506,7 +507,7 @@ function doPost(tweetData, auth){
                         +modstar(tweetData.moderation[i])
                         +htbr+linefeed
                         +htbr+linefeed
-                        +'**'+comment+'**';
+                        +comment;
                     if(i<maxpostcount)datamodbuf+=tweetBuf;
                     dataObj[tagindex].body+=tweetBuf;
                     dataObj[tagindex].body=dataObj[tagindex].body.replace(replacetitle,dataObj[tagindex].tag+"から始まる映画・ドラマ");
