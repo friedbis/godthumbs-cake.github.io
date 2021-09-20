@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ミルキー・グラマー
+reviewed in 2021-9-20 13:55:03<br/>
+<br/>
+[ミルキー・グラマー [PR] [PR]](https://amzn.to/3hPYQpv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+**どちらかというと普通な感じで売り出してほしい**<br/>
 ### 傑作推理劇場 不安な階段
 reviewed in 2021-9-19 20:25:03<br/>
 <br/>

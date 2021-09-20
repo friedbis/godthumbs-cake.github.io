@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ミルキー・グラマー
+reviewed in 2021-9-20 13:55:03<br/>
+<br/>
+[ミルキー・グラマー [PR] [PR]](https://amzn.to/3hPYQpv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+**どちらかというと普通な感じで売り出してほしい**<br/>
 ### おふろやさん日和2 #9
 reviewed in 2021-9-20 13:35:03<br/>
 <img src="https://m.media-amazon.com/images/I/71h9l4u2utL._AC_SL1500_.jpg" alt="おふろやさん日和2 #9"><br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-19 19:35:03<br/>
 [嬢王夜曲2 美人キャバ嬢欲望満開ナイト [PR] [PR]](https://amzn.to/3hN0hVQ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-**undefined**<br/>
-### 007 オクトパシー
-reviewed in 2021-9-19 13:10:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZWNmYjNlMTUtMDVlOC00MGY2LThkYjgtMDMwMGMzZTk3NDI0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1280_.jpg" alt="007 オクトパシー"><br/>
-[007 オクトパシー [PR] [PR]](https://amzn.to/3u0huQA)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 **undefined**
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
