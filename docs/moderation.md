@@ -44,10 +44,10 @@ title: Impression
 ## 作品
 
 <br/>
-### ミルキー・グラマー
+### 麻亜子 ミルキー・グラマー
 reviewed in 2021-9-20 13:55:03<br/>
 <br/>
-[ミルキー・グラマー [PR] [PR]](https://amzn.to/3hPYQpv)<br/>
+[麻亜子 ミルキー・グラマー [PR]](https://amzn.to/3hPYQpv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **どちらかというと普通な感じで売り出してほしい**<br/>
@@ -68,7 +68,7 @@ reviewed in 2021-9-20 13:10:04<br/>
 ### 夜王誕生 ―真黒(くろ)の太陽―
 reviewed in 2021-9-20 12:35:03<br/>
 <br/>
-[夜王誕生 ―真黒(くろ)の太陽― [PR] [PR]](https://amzn.to/3Aq5lGW)<br/>
+[夜王誕生 ―真黒(くろ)の太陽― [PR]](https://amzn.to/3Aq5lGW)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -82,7 +82,7 @@ reviewed in 2021-9-19 21:55:03<br/>
 ### シャイニング
 reviewed in 2021-9-19 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_FMjpg_UX1200_.jpg" alt="シャイニング"><br/>
-[シャイニング [PR] [PR]](https://amzn.to/2ZbUVNr)<br/>
+[シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -110,7 +110,7 @@ reviewed in 2021-9-19 20:20:03<br/>
 ### 嬢王夜曲2 美人キャバ嬢欲望満開ナイト
 reviewed in 2021-9-19 19:35:03<br/>
 <br/>
-[嬢王夜曲2 美人キャバ嬢欲望満開ナイト [PR] [PR]](https://amzn.to/3hN0hVQ)<br/>
+[嬢王夜曲2 美人キャバ嬢欲望満開ナイト [PR]](https://amzn.to/3hN0hVQ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 

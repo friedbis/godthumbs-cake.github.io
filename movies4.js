@@ -505,7 +505,6 @@ function doPost(tweetData, auth){
                         &&tweetData.comment[i]!=='undefined'
                         &&tweetData.comment[i]!==undefined)
                         comment='**'+tweetData.comment[i]+'**';
-                    if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
                     let tweetBuf=htbr
                         +linefeed
