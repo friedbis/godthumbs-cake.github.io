@@ -46,11 +46,11 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 団地妻 昼下がりの情事
 reviewed in 2021-9-20 20:20:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjVhYzZlMjgtZTcwYS00MjFhLTgzODktMTA0NzAwZGFjNGI4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX500_.jpg" alt="団地妻 昼下がりの情事"><br/>
 [団地妻 昼下がりの情事 [PR]](https://amzn.to/3kqbPjs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-どちらかというと普通な感じで売り出してほしい<br/>
+普通な感じの方が<br/>
 ### グラっちゃお！  #489：林田百加
 reviewed in 2021-9-20 13:10:04<br/>
 <br/>
