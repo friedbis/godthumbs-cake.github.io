@@ -50,70 +50,70 @@ reviewed in 2021-9-20 14:30:04<br/>
 [XX ダブルエックス 美しき凶器 [PR]](https://amzn.to/39kglJV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+どちらかというと普通な感じで売り出してほしい<br/>
 ### 麻亜子 ミルキー・グラマー
 reviewed in 2021-9-20 13:55:03<br/>
 <br/>
 [麻亜子 ミルキー・グラマー [PR]](https://amzn.to/3hPYQpv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-**どちらかというと普通な感じで売り出してほしい**<br/>
+笑顔が素敵<br/>
 ### おふろやさん日和2 #9
 reviewed in 2021-9-20 13:35:03<br/>
 <img src="https://m.media-amazon.com/images/I/71h9l4u2utL._AC_SL1500_.jpg" alt="おふろやさん日和2 #9"><br/>
 [おふろやさん日和2 #9](https://www.vpara.com/information/ofuroyasanbiyori2/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-**笑顔が素敵**<br/>
+健康的なちっぱい<br/>
 ### グラっちゃお！  #489：林田百加
 reviewed in 2021-9-20 13:10:04<br/>
 <br/>
 [グラっちゃお！  #489：林田百加](https://www.entermeitele.com/idol/grachao.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-**健康的なちっぱい**<br/>
+健康的なちっぱい<br/>
 ### 夜王誕生 ―真黒(くろ)の太陽―
 reviewed in 2021-9-20 12:35:03<br/>
 <br/>
 [夜王誕生 ―真黒(くろ)の太陽― [PR]](https://amzn.to/3Aq5lGW)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+undefined<br/>
 ### ダークロマン 大聖堂
 reviewed in 2021-9-19 21:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTI3OTk1NzU5Nl5BMl5BanBnXkFtZTcwNzMwMzI2Mw@@._V1_FMjpg_UX1280_.jpg" alt="ダークロマン 大聖堂"><br/>
 [ダークロマン 大聖堂](https://www.imdb.com/title/tt1453159/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+undefined<br/>
 ### シャイニング
 reviewed in 2021-9-19 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_FMjpg_UX1200_.jpg" alt="シャイニング"><br/>
 [シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+undefined<br/>
 ### 女神降臨 総集編 19 #138
 reviewed in 2021-9-19 20:30:04<br/>
 <br/>
 [女神降臨 総集編 19 #138](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+undefined<br/>
 ### 傑作推理劇場 不安な階段
 reviewed in 2021-9-19 20:25:03<br/>
 <br/>
 [傑作推理劇場 不安な階段](https://www.toeich.jp/program/1T0000013506/202109)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+undefined<br/>
 ### 死人が夜ピアノを弾く
 reviewed in 2021-9-19 20:20:03<br/>
 <br/>
 [死人が夜ピアノを弾く](https://thetv.jp/program/0000012019/1/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-
+undefined
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)

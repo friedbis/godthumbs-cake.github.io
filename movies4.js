@@ -377,7 +377,7 @@ function updateTweet(auth) {
                     if(row[5]!==''&&row[5]!==undefined)tweetData.poster.unshift(row[5]);
                     else tweetData.poster.unshift('');
                     tweetData.tagindex.unshift(row[6]);
-                    tweetData.comment.unshift(row[7]);
+                    if(row[7]!==''&&row[7]!==undefined)tweetData.comment.unshift(row[7]);
                 }
                 
             });
@@ -413,7 +413,6 @@ let doUpdate=(tweetData, auth)=>{
         furigana=gatherAlphabet(furigana);
         //console.log(furigana);
         //console.log(tweetData.comment[i]);
-        if(tweetData.comment[i]!=='undefined')comment=tweetData.comment[i];
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
@@ -422,7 +421,7 @@ let doUpdate=(tweetData, auth)=>{
             tweetData.moderation[i],
             tweetData.poster[i],
             furigana,
-            comment
+            tweetData.comment[i]
         ]
         idx++;
     }
@@ -501,10 +500,7 @@ function doPost(tweetData, auth){
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(tweetData.comment[i]);
-                    if(tweetData.comment[i]!==''
-                        &&tweetData.comment[i]!=='undefined'
-                        &&tweetData.comment[i]!==undefined)
-                        comment='**'+tweetData.comment[i]+'**';
+                    if(tweetData.comment[i]!=='')comment=''+tweetData.comment[i]+'';
                     //console.log(dataObj);
                     let tweetBuf=htbr
                         +linefeed
