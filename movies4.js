@@ -378,6 +378,7 @@ function updateTweet(auth) {
                     else tweetData.poster.unshift('');
                     tweetData.tagindex.unshift(row[6]);
                     if(row[7]!==''&&row[7]!==undefined)tweetData.comment.unshift(row[7]);
+                    else tweetData.comment.unshift('');
                 }
                 
             });
@@ -406,7 +407,6 @@ let doUpdate=(tweetData, auth)=>{
         let rawfurigana=execSync('echo "'+tweetData.rawdata[i]+'" |mecab |while read i;do echo $i |awk \'{print $2;}\' |awk \'BEGIN{FS=","} {print $8;}\' ;done |head -1 |tr -d "\r\n"');
         //console.log(rawfurigana.toString());
         let furigana=rawfurigana.toString();
-        let comment='';
         if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
         else furigana=furigana.substr(0,1);
         furigana=removeVoicedMark(furigana);

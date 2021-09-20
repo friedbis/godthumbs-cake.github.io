@@ -85,35 +85,35 @@ reviewed in 2021-9-20 12:35:03<br/>
 [夜王誕生 ―真黒(くろ)の太陽― [PR]](https://amzn.to/3Aq5lGW)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-undefined<br/>
+<br/>
 ### ダークロマン 大聖堂
 reviewed in 2021-9-19 21:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTI3OTk1NzU5Nl5BMl5BanBnXkFtZTcwNzMwMzI2Mw@@._V1_FMjpg_UX1280_.jpg" alt="ダークロマン 大聖堂"><br/>
 [ダークロマン 大聖堂](https://www.imdb.com/title/tt1453159/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-undefined<br/>
+<br/>
 ### シャイニング
 reviewed in 2021-9-19 21:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_FMjpg_UX1200_.jpg" alt="シャイニング"><br/>
 [シャイニング [PR]](https://amzn.to/2ZbUVNr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-undefined<br/>
+<br/>
 ### 女神降臨 総集編 19 #138
 reviewed in 2021-9-19 20:30:04<br/>
 <br/>
 [女神降臨 総集編 19 #138](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-undefined<br/>
+<br/>
 ### 傑作推理劇場 不安な階段
 reviewed in 2021-9-19 20:25:03<br/>
 <br/>
 [傑作推理劇場 不安な階段](https://www.toeich.jp/program/1T0000013506/202109)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-undefined
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
