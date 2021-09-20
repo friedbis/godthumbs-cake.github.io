@@ -406,12 +406,14 @@ let doUpdate=(tweetData, auth)=>{
         let rawfurigana=execSync('echo "'+tweetData.rawdata[i]+'" |mecab |while read i;do echo $i |awk \'{print $2;}\' |awk \'BEGIN{FS=","} {print $8;}\' ;done |head -1 |tr -d "\r\n"');
         //console.log(rawfurigana.toString());
         let furigana=rawfurigana.toString();
+        let comment='';
         if(furigana=="")furigana=tweetData.rawdata[i].substr(0,1);
         else furigana=furigana.substr(0,1);
         furigana=removeVoicedMark(furigana);
         furigana=gatherAlphabet(furigana);
         //console.log(furigana);
-        console.log(tweetData.comment[i]);
+        //console.log(tweetData.comment[i]);
+        if(tweetData.comment[i]!=='undefined')comment=tweetData.comment[i];
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
@@ -420,7 +422,7 @@ let doUpdate=(tweetData, auth)=>{
             tweetData.moderation[i],
             tweetData.poster[i],
             furigana,
-            tweetData.comment[i]
+            comment
         ]
         idx++;
     }
@@ -498,8 +500,11 @@ function doPost(tweetData, auth){
                     console.log("star pushed :"+starindex);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
-                    console.log(tweetData.comment[i]);
-                    if(tweetData.comment[i]!==''&&tweetData.comment[i]!=='undefined') comment='**'+tweetData.comment[i]+'**';
+                    //console.log(tweetData.comment[i]);
+                    if(tweetData.comment[i]!==''
+                        &&tweetData.comment[i]!=='undefined'
+                        &&tweetData.comment[i]!==undefined)
+                        comment='**'+tweetData.comment[i]+'**';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
                     let tweetBuf=htbr
