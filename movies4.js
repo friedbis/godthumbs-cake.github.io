@@ -340,7 +340,20 @@ function updateTweet(auth) {
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
         const rows = res.data.values;
-        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [], poster: [], tagindex: [], comment: [] };
+        let tweetData={
+            date:[], 
+            valid:[], 
+            description:[], 
+            pass: [], 
+            moderation:[], 
+            producturl:[], 
+            rawdata: [], 
+            rawdate: [], 
+            amazoncheck: [], 
+            poster: [], 
+            tagindex: [], 
+            comment: [] 
+        };
         if (rows.length) {
             //console.log('Date, Pass, RawData');
             rows.map((row) => {
@@ -398,6 +411,7 @@ let doUpdate=(tweetData, auth)=>{
         furigana=removeVoicedMark(furigana);
         furigana=gatherAlphabet(furigana);
         //console.log(furigana);
+        console.log(tweetData.comment[i]);
         values[idx] = [ 
             tweetData.date[i],
             ('0000'+tweetData.pass[i]+'').slice(-4),
