@@ -50,7 +50,7 @@ reviewed in 2021-9-20 13:55:03<br/>
 [麻亜子 ミルキー・グラマー [PR]](https://amzn.to/3hPYQpv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-笑顔が素敵<br/>
+健康的なちっぱい<br/>
 ### 傑作推理劇場 不安な階段
 reviewed in 2021-9-19 20:25:03<br/>
 <br/>

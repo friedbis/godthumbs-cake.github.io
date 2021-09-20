@@ -50,7 +50,7 @@ reviewed in 2021-9-20 14:30:04<br/>
 [XX ダブルエックス 美しき凶器 [PR]](https://amzn.to/39kglJV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-どちらかというと普通な感じで売り出してほしい<br/>
+笑顔が素敵<br/>
 ### おふろやさん日和2 #9
 reviewed in 2021-9-20 13:35:03<br/>
 <img src="https://m.media-amazon.com/images/I/71h9l4u2utL._AC_SL1500_.jpg" alt="おふろやさん日和2 #9"><br/>
