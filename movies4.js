@@ -484,7 +484,7 @@ function doPost(tweetData, auth){
                     console.log("star pushed :"+starindex);
                     if(tweetData.poster[i]!=='')postertag='<img src="'+tweetData.poster[i]+'" alt="'+linktitle+'">';
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
-                    if(tweetData.comment[i]!=='') comment=tweetData.comment[i];
+                    if(tweetData.comment[i]!==''||tweetData.comment[i]!=='undefined') comment=tweetData.comment[i];
                     if(tweetData.amazoncheck[i]>0)linktitle+=' '+stramazon;
                     //console.log(dataObj);
                     let tweetBuf=htbr
