@@ -336,11 +336,11 @@ function updateTweet(auth) {
     const sheets = google.sheets({version: 'v4', auth});
     sheets.spreadsheets.values.get({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
-        range: 'シート1!A1:G',
+        range: 'シート1!A1:H',
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
         const rows = res.data.values;
-        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [], poster: [], tagindex: [] };
+        let tweetData={date:[], valid:[], description:[], pass: [], moderation:[], producturl:[], rawdata: [], rawdate: [], amazoncheck: [], poster: [], tagindex: [], comment: [] };
         if (rows.length) {
             //console.log('Date, Pass, RawData');
             rows.map((row) => {
@@ -364,6 +364,7 @@ function updateTweet(auth) {
                     if(row[5]!==''&&row[5]!==undefined)tweetData.poster.unshift(row[5]);
                     else tweetData.poster.unshift('');
                     tweetData.tagindex.unshift(row[6]);
+                    tweetData.comment.unshift(row[7]);
                 }
                 
             });
@@ -405,6 +406,7 @@ let doUpdate=(tweetData, auth)=>{
             tweetData.moderation[i],
             tweetData.poster[i],
             furigana,
+            tweetData.comment[i]
         ]
         idx++;
     }
@@ -412,7 +414,7 @@ let doUpdate=(tweetData, auth)=>{
     //console.log(values);
     sheets.spreadsheets.values.update({
         spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
-        range: 'シート1!A1:G',
+        range: 'シート1!A1:H',
         valueInputOption: 'RAW',
         resource,
     }, (err, res) => {
@@ -499,7 +501,9 @@ function doPost(tweetData, auth){
                         +")"
                         +htbr+linefeed
                         +modstar(tweetData.moderation[i])
-                        +htbr+linefeed;
+                        +htbr+linefeed
+                        +htbr+linefeed
+                        +'**'+tweetData.comment[i]+'**';
                     if(i<maxpostcount)datamodbuf+=tweetBuf;
                     dataObj[tagindex].body+=tweetBuf;
                     dataObj[tagindex].body=dataObj[tagindex].body.replace(replacetitle,dataObj[tagindex].tag+"から始まる映画・ドラマ");
