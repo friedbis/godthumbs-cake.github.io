@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### おふろやさん日和2 #9
+reviewed in 2021-9-20 13:35:03<br/>
+<img src="https://m.media-amazon.com/images/I/71h9l4u2utL._AC_SL1500_.jpg" alt="おふろやさん日和2 #9"><br/>
+[おふろやさん日和2 #9](https://www.vpara.com/information/ofuroyasanbiyori2/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+**笑顔が素敵**<br/>
 ### グラっちゃお！  #489：林田百加
 reviewed in 2021-9-20 13:10:04<br/>
 <br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-19 13:10:03<br/>
 [007 オクトパシー [PR]](https://amzn.to/3u0huQA)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-**undefined**<br/>
-### 極道の妻たち 決着
-reviewed in 2021-9-19 12:40:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMDQwYWRhZmEtOTYwMS00NWFkLWFhODQtMGYwYWMzNGZkMTIxXkEyXkFqcGdeQXVyMTEyODk3NTgz._V1_FMjpg_UX1057_.jpg" alt="極道の妻たち 決着"><br/>
-[極道の妻たち 決着 [PR]](https://amzn.to/3nNykB8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 **undefined**
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
