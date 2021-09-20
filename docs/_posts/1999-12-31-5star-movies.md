@@ -330,7 +330,7 @@ reviewed in 2021-8-25 12:16:19<br/>
 [プッシートーク [PR]](https://amzn.to/3jd7nE0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+フランス語しゃべるあそこ<br/>
 ### スペースバンパイア
 reviewed in 2021-8-25 08:21:44<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTQwZjc1MzItMTM1Zi00YTUxLThiZDMtZjg2MjJiNTRkM2VhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="スペースバンパイア"><br/>
