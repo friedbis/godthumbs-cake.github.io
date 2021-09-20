@@ -47,21 +47,21 @@ title: 1つ星の映画・ドラマ
 ### 夜王誕生 ―真黒(くろ)の太陽―
 reviewed in 2021-9-20 12:35:03<br/>
 <br/>
-[夜王誕生 ―真黒(くろ)の太陽― [PR]](https://amzn.to/3Aq5lGW)<br/>
+[夜王誕生 ―真黒(くろ)の太陽― [PR] [PR]](https://amzn.to/3Aq5lGW)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
 ### 日本犯罪史 ~偽造の快楽~ 
 reviewed in 2021-9-17 17:20:04<br/>
 <br/>
-[日本犯罪史 ~偽造の快楽~  [PR]](https://amzn.to/2XjmF1D)<br/>
+[日本犯罪史 ~偽造の快楽~  [PR] [PR]](https://amzn.to/2XjmF1D)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
 ### 怪奇ミステリーファイル 潜入!! SEX教団!!
 reviewed in 2021-9-8 20:20:03<br/>
 <br/>
-[怪奇ミステリーファイル 潜入!! SEX教団!! [PR]](https://amzn.to/2WUl9Tr)<br/>
+[怪奇ミステリーファイル 潜入!! SEX教団!! [PR] [PR]](https://amzn.to/2WUl9Tr)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
@@ -82,7 +82,7 @@ reviewed in 2021-9-8 06:25:03<br/>
 ### 銭湯童貞
 reviewed in 2021-9-7 07:45:03<br/>
 <br/>
-[銭湯童貞 [PR]](https://amzn.to/3halo41)<br/>
+[銭湯童貞 [PR] [PR]](https://amzn.to/3halo41)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
@@ -103,7 +103,7 @@ reviewed in 2021-9-3 09:10:03<br/>
 ### 北京原人 Who are you?
 reviewed in 2021-9-2 01:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjA0NTFjZTgtYTc4MS00MTE3LTkzNjEtMDhkYzk3MzZhMWVjXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_FMjpg_UX400_.jpg" alt="北京原人 Who are you?"><br/>
-[北京原人 Who are you? [PR]](https://amzn.to/3kMeJxQ)<br/>
+[北京原人 Who are you? [PR] [PR]](https://amzn.to/3kMeJxQ)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
@@ -117,21 +117,21 @@ reviewed in 2021-8-31 16:30:04<br/>
 ### 死霊の盆踊り
 reviewed in 2021-8-28 17:00:05<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Ed_wood_glen_or_glenda.jpg" alt="死霊の盆踊り"><br/>
-[死霊の盆踊り [PR]](https://amzn.to/3sSlZfg)<br/>
+[死霊の盆踊り [PR] [PR]](https://amzn.to/3sSlZfg)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
 ### あぶない女刑事
 reviewed in 2021-8-23 16:23:56<br/>
 <br/>
-[あぶない女刑事 [PR]](https://www.amazon.co.jp/%E3%81%82%E3%81%B6%E3%81%AA%E3%81%84%E5%A5%B3%E5%88%91%E4%BA%8B-DVD-%E5%8F%8B%E7%94%B0%E5%BD%A9%E4%B9%9F%E9%A6%99/dp/B00CPL8BT4?&linkCode=ll1&tag=httyf19net-22&linkId=56887bc9423b7078b2615e61e9261107&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[あぶない女刑事 [PR] [PR]](https://www.amazon.co.jp/%E3%81%82%E3%81%B6%E3%81%AA%E3%81%84%E5%A5%B3%E5%88%91%E4%BA%8B-DVD-%E5%8F%8B%E7%94%B0%E5%BD%A9%E4%B9%9F%E9%A6%99/dp/B00CPL8BT4?&linkCode=ll1&tag=httyf19net-22&linkId=56887bc9423b7078b2615e61e9261107&language=ja_JP&ref_=as_li_ss_tl)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
 ### SEX and the DEATH NOTE　伝説の魔導書　犯るか、殺られるか－
 reviewed in 2021-8-23 16:22:21<br/>
 <br/>
-[SEX and the DEATH NOTE　伝説の魔導書　犯るか、殺られるか－ [PR]](https://www.amazon.co.jp/SEX-DEATH-NOTE-%E4%BC%9D%E8%AA%AC%E3%81%AE%E9%AD%94%E5%B0%8E%E6%9B%B8-%E7%8A%AF%E3%82%8B%E3%81%8B%E3%80%81%E6%AE%BA%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B%EF%BC%8D-%E6%9C%89%E5%8E%9F%E3%81%82%E3%82%86%E3%81%BF/dp/B079GH2H2Z?&linkCode=ll1&tag=httyf19net-22&linkId=af3d9dec2e48f7a49df08c9ffe7f8efa&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[SEX and the DEATH NOTE　伝説の魔導書　犯るか、殺られるか－ [PR] [PR]](https://www.amazon.co.jp/SEX-DEATH-NOTE-%E4%BC%9D%E8%AA%AC%E3%81%AE%E9%AD%94%E5%B0%8E%E6%9B%B8-%E7%8A%AF%E3%82%8B%E3%81%8B%E3%80%81%E6%AE%BA%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B%EF%BC%8D-%E6%9C%89%E5%8E%9F%E3%81%82%E3%82%86%E3%81%BF/dp/B079GH2H2Z?&linkCode=ll1&tag=httyf19net-22&linkId=af3d9dec2e48f7a49df08c9ffe7f8efa&language=ja_JP&ref_=as_li_ss_tl)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 **undefined**<br/>
