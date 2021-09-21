@@ -44,13 +44,6 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### ミラクルガール
-reviewed in 2021-9-21 22:55:03<br/>
-<br/>
-[ミラクルガール [PR]](https://amzn.to/3zotmg5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-お色気加減がちょうどいい<br/>
 ### トップをねらえ！
 reviewed in 2021-9-20 23:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmJiNTc5NTYtYjI2Yi00YzhlLTk1OGEtODJlMzU0NGFlMGM4XkEyXkFqcGdeQXVyNTY0MDIzNzM@._V1_FMjpg_UX1280_.jpg" alt="トップをねらえ！"><br/>
