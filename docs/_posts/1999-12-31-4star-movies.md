@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 夜の演歌　しのび恋
 reviewed in 2021-9-22 17:50:03<br/>
-<br/>
+<img src="https://www.toeich.jp/assets/photo/program_master/1TT000003951/1TT000003951_l.jpg" alt="夜の演歌　しのび恋"><br/>
 [夜の演歌　しのび恋 [PR]](https://amzn.to/2ZbPQ7E)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

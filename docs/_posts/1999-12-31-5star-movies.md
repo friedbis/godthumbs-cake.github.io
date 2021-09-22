@@ -46,7 +46,7 @@ title: 5つ星の映画・ドラマ
 <br/>
 ### 華麗なるシニア～プレイボーイ/性の終活～
 reviewed in 2021-9-22 17:55:04<br/>
-<br/>
+<img src="https://www.toeich.jp/assets/photo/program_master/1TT000003739/1TT000003739_l.jpg" alt="華麗なるシニア～プレイボーイ/性の終活～"><br/>
 [華麗なるシニア～プレイボーイ/性の終活～](https://www.toeich.jp/program/1TT000003739/202110)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
