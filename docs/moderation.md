@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 華麗なるシニア～プレイボーイ/性の終活～
+reviewed in 2021-9-22 17:55:04<br/>
+<br/>
+[華麗なるシニア～プレイボーイ/性の終活～](https://www.toeich.jp/program/1TT000003739/202110)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+R18でもよい描写<br/>
 ### 夜の演歌　しのび恋
 reviewed in 2021-9-22 17:50:03<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-9-20 13:35:03<br/>
 [おふろやさん日和2 #9](https://www.vpara.com/information/ofuroyasanbiyori2/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-笑顔が素敵<br/>
-### グラっちゃお！  #489：林田百加
-reviewed in 2021-9-20 13:10:04<br/>
-<br/>
-[グラっちゃお！  #489：林田百加](https://www.entermeitele.com/idol/grachao.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-健康的なちっぱい
+笑顔が素敵
 <br/>
 ### 索引
 - [から始まる映画・ドラマ](/-movies.html)

@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 華麗なるシニア～プレイボーイ/性の終活～
+reviewed in 2021-9-22 17:55:04<br/>
+<br/>
+[華麗なるシニア～プレイボーイ/性の終活～](https://www.toeich.jp/program/1TT000003739/202110)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+R18でもよい描写<br/>
 ### 身も心も
 reviewed in 2021-9-17 12:25:03<br/>
 <br/>
