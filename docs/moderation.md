@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 夜の演歌　しのび恋
+reviewed in 2021-9-22 17:50:03<br/>
+<br/>
+[夜の演歌　しのび恋 [PR]](https://amzn.to/2ZbPQ7E)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+コメディとお色気のバランス<br/>
 ### 女神降臨 RaMu #133
 reviewed in 2021-9-22 06:35:04<br/>
 <br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-20 13:10:04<br/>
 [グラっちゃお！  #489：林田百加](https://www.entermeitele.com/idol/grachao.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-健康的なちっぱい<br/>
-### 夜王誕生 ―真黒(くろ)の太陽―
-reviewed in 2021-9-20 12:35:03<br/>
-<br/>
-[夜王誕生 ―真黒(くろ)の太陽― [PR]](https://amzn.to/3Aq5lGW)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+健康的なちっぱい
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
