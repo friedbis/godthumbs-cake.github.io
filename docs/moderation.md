@@ -106,14 +106,7 @@ reviewed in 2021-9-20 13:55:03<br/>
 [麻亜子 ミルキー・グラマー [PR]](https://amzn.to/3hPYQpv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-普通な感じの方が<br/>
-### おふろやさん日和2 #9
-reviewed in 2021-9-20 13:35:03<br/>
-<img src="https://m.media-amazon.com/images/I/71h9l4u2utL._AC_SL1500_.jpg" alt="おふろやさん日和2 #9"><br/>
-[おふろやさん日和2 #9](https://www.vpara.com/information/ofuroyasanbiyori2/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-笑顔が素敵
+普通な感じの方が
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -160,6 +153,7 @@ reviewed in 2021-9-20 13:35:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
