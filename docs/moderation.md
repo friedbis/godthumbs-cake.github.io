@@ -50,7 +50,7 @@ reviewed in 2021-9-23 20:15:04<br/>
 [別れてのちの恋歌](https://www.toeich.jp/program/1T0000013327/202109)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-大竹しのぶのベッドシーン<br/>
+大竹しのぶのベッドシーン。<br/>
 ### グラっちゃお！ #490：薄井しお里
 reviewed in 2021-9-23 17:00:05<br/>
 <br/>
@@ -116,7 +116,6 @@ reviewed in 2021-9-20 21:45:04<br/>
 
 <br/>
 ### 索引
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
