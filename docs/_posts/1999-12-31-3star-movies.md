@@ -44,13 +44,6 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### グラっちゃお！ #490：薄井しお里
-reviewed in 2021-9-23 17:00:05<br/>
-<br/>
-[グラっちゃお！ #490：薄井しお里](https://www.entermeitele.com/idol/grachao.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### グラっちゃお！ #491：高宮まり
 reviewed in 2021-9-23 16:55:03<br/>
 <br/>

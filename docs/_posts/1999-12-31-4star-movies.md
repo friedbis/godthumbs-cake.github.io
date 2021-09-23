@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### グラっちゃお！ #490：薄井しお里
+reviewed in 2021-9-23 17:00:05<br/>
+<br/>
+[グラっちゃお！ #490：薄井しお里](https://www.entermeitele.com/idol/grachao.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜の演歌　しのび恋
 reviewed in 2021-9-22 17:50:03<br/>
 <img src="https://www.toeich.jp/assets/photo/program_master/1TT000003951/1TT000003951_l.jpg" alt="夜の演歌　しのび恋"><br/>
