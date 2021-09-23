@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 喜劇特出しヒモ天国
+reviewed in 2021-9-23 20:30:04<br/>
+<img src="https://m.media-amazon.com/images/I/91KploxI6IS._AC_SL1500_.jpg" alt="喜劇特出しヒモ天国"><br/>
+[喜劇特出しヒモ天国](https://www.toei-video.co.jp/catalog/dstd20487/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### グラっちゃお！ #490：薄井しお里
 reviewed in 2021-9-23 17:00:05<br/>
 <br/>
