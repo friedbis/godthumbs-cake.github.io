@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 別れてのちの恋歌
+reviewed in 2021-9-23 20:15:04<br/>
+<br/>
+[別れてのちの恋歌](https://www.toeich.jp/program/1T0000013327/202109)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+大竹しのぶのベッドシーン<br/>
 ### ミラクルガール
 reviewed in 2021-9-21 22:55:03<br/>
 <br/>

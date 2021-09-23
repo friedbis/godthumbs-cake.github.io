@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 別れてのちの恋歌
+reviewed in 2021-9-23 20:15:04<br/>
+<br/>
+[別れてのちの恋歌](https://www.toeich.jp/program/1T0000013327/202109)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+大竹しのぶのベッドシーン<br/>
 ### グラっちゃお！ #490：薄井しお里
 reviewed in 2021-9-23 17:00:05<br/>
 <br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-20 21:45:04<br/>
 [淫霊の館　～手ごめにされた新妻～](https://www.toeich.jp/program/1TT000002671/202109)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 団地妻 昼下がりの情事
-reviewed in 2021-9-20 20:20:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjVhYzZlMjgtZTcwYS00MjFhLTgzODktMTA0NzAwZGFjNGI4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX500_.jpg" alt="団地妻 昼下がりの情事"><br/>
-[団地妻 昼下がりの情事 [PR]](https://amzn.to/3kqbPjs)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
- 
+
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
