@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ヤンキー女子高生 全国制覇への道 茨城編
+reviewed in 2021-9-24 15:50:04<br/>
+<br/>
+[ヤンキー女子高生 全国制覇への道 茨城編 [PR]](https://amzn.to/2ZiMKie)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 別れてのちの恋歌
 reviewed in 2021-9-23 20:15:04<br/>
 <br/>
