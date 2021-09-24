@@ -47,7 +47,7 @@ title: Impression
 ### 背徳小説
 reviewed in 2021-9-25 01:20:04<br/>
 <br/>
-[背徳小説]()<br/>
+[背徳小説 [PR]](https://amzn.to/2XVLCAU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
