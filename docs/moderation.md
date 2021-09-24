@@ -50,7 +50,7 @@ reviewed in 2021-9-25 01:20:04<br/>
 [背徳小説 [PR]](https://amzn.to/2XVLCAU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+人工装具っぽい。<br/>
 ### 愉楽への手ほどき
 reviewed in 2021-9-25 01:20:04<br/>
 <br/>
