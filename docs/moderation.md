@@ -44,6 +44,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 羞恥に溺れた美人妻
+reviewed in 2021-9-24 16:05:04<br/>
+<br/>
+[羞恥に溺れた美人妻 [PR]](https://amzn.to/3lVWjvm)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 不倫妻の性愛
+reviewed in 2021-9-24 16:05:04<br/>
+<br/>
+[不倫妻の性愛 [PR]](https://amzn.to/3lOGZ3w)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ヤンキー女子高生 全国制覇への道 茨城編
 reviewed in 2021-9-24 15:50:04<br/>
 <br/>
@@ -99,14 +113,7 @@ reviewed in 2021-9-22 17:50:03<br/>
 [夜の演歌　しのび恋 [PR]](https://amzn.to/2ZbPQ7E)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-コメディとお色気のバランス<br/>
-### 女神降臨 RaMu #133
-reviewed in 2021-9-22 06:35:04<br/>
-<br/>
-[女神降臨 RaMu #133](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-体育会系お姉さん
+コメディとお色気のバランス
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
