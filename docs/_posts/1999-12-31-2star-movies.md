@@ -44,6 +44,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ワタシの赤裸々性自伝
+reviewed in 2021-9-24 16:25:04<br/>
+<br/>
+[ワタシの赤裸々性自伝 [PR]](https://amzn.to/3zCxiKr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 淫獣〜貞淑妻の性愛〜
+reviewed in 2021-9-24 16:25:04<br/>
+<br/>
+[淫獣〜貞淑妻の性愛〜 [PR]](https://amzn.to/39zkud6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 羞恥に溺れた美人妻
 reviewed in 2021-9-24 16:05:04<br/>
 <br/>
