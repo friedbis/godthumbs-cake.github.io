@@ -44,6 +44,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愉楽への手ほどき
+reviewed in 2021-9-25 01:20:04<br/>
+<br/>
+[愉楽への手ほどき [PR]](https://amzn.to/3kKjMjT)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜王誕生 ―真黒(くろ)の太陽―
 reviewed in 2021-9-20 12:35:03<br/>
 <br/>
