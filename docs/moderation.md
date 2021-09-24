@@ -106,14 +106,7 @@ reviewed in 2021-9-22 06:35:04<br/>
 [女神降臨 RaMu #133](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-体育会系お姉さん<br/>
-### ミラクルガール
-reviewed in 2021-9-21 22:55:03<br/>
-<br/>
-[ミラクルガール [PR]](https://amzn.to/3zotmg5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-お色気加減がちょうどいい
+体育会系お姉さん
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
