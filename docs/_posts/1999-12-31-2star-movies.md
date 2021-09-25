@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 解散式
+reviewed in 2021-9-25 16:20:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWQ4MmQ2MzktZTRiZi00NjY2LTkxN2YtMTEzYTA4ODQyZTc2XkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_FMjpg_UX974_.jpg" alt="解散式"><br/>
+[解散式 [PR]](https://amzn.to/3ucmSQx)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ワタシの赤裸々性自伝
 reviewed in 2021-9-24 16:25:04<br/>
 <br/>
