@@ -46,11 +46,11 @@ title: 3つ星の映画・ドラマ
 <br/>
 ### 激突! 殺人拳
 reviewed in 2021-9-25 10:00:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTVkNjFhNDctY2EwNS00MGZlLWIwZDctYWJiMGU1NzUwZWM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="激突! 殺人拳"><br/>
 [激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+千葉真一のアウトローなかっこよさは本当に見ていて痛快。<br/>
 ### 不倫妻の性愛
 reviewed in 2021-9-24 16:05:04<br/>
 <br/>

@@ -46,11 +46,11 @@ title: Impression
 <br/>
 ### 激突! 殺人拳
 reviewed in 2021-9-25 10:00:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTVkNjFhNDctY2EwNS00MGZlLWIwZDctYWJiMGU1NzUwZWM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="激突! 殺人拳"><br/>
 [激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+千葉真一のアウトローなかっこよさは本当に見ていて痛快。<br/>
 ### 背徳小説
 reviewed in 2021-9-25 01:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMThjZGQzZTItMDUxZS00ZmI3LWFjMzktZTJiMGQ5NTQxYWQ0XkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_FMjpg_UX792_.jpg" alt="背徳小説"><br/>
@@ -160,7 +160,6 @@ reviewed in 2021-9-23 20:15:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
