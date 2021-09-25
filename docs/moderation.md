@@ -50,7 +50,7 @@ reviewed in 2021-9-25 10:00:04<br/>
 [激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-千葉真一のアウトローなかっこよさは本当に見ていて痛快。<br/>
+千葉真一のアウトローなかっこよさは本当に見ていて痛快。あと志穂美悦子と中島ゆたかのsexual abuse。<br/>
 ### 背徳小説
 reviewed in 2021-9-25 01:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMThjZGQzZTItMDUxZS00ZmI3LWFjMzktZTJiMGQ5NTQxYWQ0XkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_FMjpg_UX792_.jpg" alt="背徳小説"><br/>

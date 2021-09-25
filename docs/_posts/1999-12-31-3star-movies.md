@@ -50,7 +50,7 @@ reviewed in 2021-9-25 10:00:04<br/>
 [激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-千葉真一のアウトローなかっこよさは本当に見ていて痛快。<br/>
+千葉真一のアウトローなかっこよさは本当に見ていて痛快。あと志穂美悦子と中島ゆたかのsexual abuse。<br/>
 ### 不倫妻の性愛
 reviewed in 2021-9-24 16:05:04<br/>
 <br/>
