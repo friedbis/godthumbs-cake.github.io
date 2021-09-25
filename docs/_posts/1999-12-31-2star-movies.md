@@ -50,7 +50,7 @@ reviewed in 2021-9-25 16:20:03<br/>
 [解散式 [PR]](https://amzn.to/3ucmSQx)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+シャブ漬けの妹のために鉄砲玉に。<br/>
 ### ワタシの赤裸々性自伝
 reviewed in 2021-9-24 16:25:04<br/>
 <br/>
