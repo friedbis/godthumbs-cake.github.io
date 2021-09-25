@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 激突! 殺人拳
+reviewed in 2021-9-25 10:00:04<br/>
+<br/>
+[激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 不倫妻の性愛
 reviewed in 2021-9-24 16:05:04<br/>
 <br/>

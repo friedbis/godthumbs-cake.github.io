@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 激突! 殺人拳
+reviewed in 2021-9-25 10:00:04<br/>
+<br/>
+[激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 背徳小説
 reviewed in 2021-9-25 01:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMThjZGQzZTItMDUxZS00ZmI3LWFjMzktZTJiMGQ5NTQxYWQ0XkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_FMjpg_UX792_.jpg" alt="背徳小説"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-9-23 20:15:04<br/>
 [別れてのちの恋歌](https://www.toeich.jp/program/1T0000013327/202109)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-大竹しのぶのベッドシーン。<br/>
-### グラっちゃお！ #490：薄井しお里
-reviewed in 2021-9-23 17:00:05<br/>
-<br/>
-[グラっちゃお！ #490：薄井しお里](https://www.entermeitele.com/idol/grachao.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+大竹しのぶのベッドシーン。
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -160,6 +160,7 @@ reviewed in 2021-9-23 17:00:05<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
