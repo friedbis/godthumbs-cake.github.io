@@ -50,7 +50,7 @@ reviewed in 2021-9-26 14:25:03<br/>
 [プレイガール [PR]](https://amzn.to/3CHiTyk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-園子温監督で作ってくれないかな。<br/>
+園子温監督が作ってくれないかな。プレイ・スーパー・ミラクルって来たから、オーサムガールとかスペリアガールとかってタイトルでやってほしい。<br/>
 ### Sweet Angel 総集編 13 #91
 reviewed in 2021-9-26 09:20:04<br/>
 <br/>
