@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### プレイガール
+reviewed in 2021-9-26 14:25:03<br/>
+<img src="https://www.toeich.jp/assets/photo/program_master/1T0000006101/1T0000006101_l.jpg" alt="プレイガール"><br/>
+[プレイガール [PR]](https://amzn.to/3CHiTyk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+園子温監督で作ってくれないかな。<br/>
 ### Sweet Angel 総集編 13 #91
 reviewed in 2021-9-26 09:20:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-9-24 16:05:04<br/>
 [羞恥に溺れた美人妻 [PR]](https://amzn.to/3lVWjvm)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 不倫妻の性愛
-reviewed in 2021-9-24 16:05:04<br/>
-<br/>
-[不倫妻の性愛 [PR]](https://amzn.to/3lOGZ3w)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-クライマックスの鉢合わせが面白い。
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
