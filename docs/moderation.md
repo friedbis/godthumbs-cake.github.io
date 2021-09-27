@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 橘アヤコは見られたい
+reviewed in 2021-9-27 22:25:03<br/>
+<br/>
+[橘アヤコは見られたい [PR]](https://amzn.to/3iaKPD7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+前知識なしに見たけど、心霊か。<br/>
 ### 非情のライセンス
 reviewed in 2021-9-27 17:25:04<br/>
 <br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-25 10:00:04<br/>
 [激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-千葉真一のアウトローなかっこよさは本当に見ていて痛快。あと志穂美悦子と中島ゆたかのsexual abuse。<br/>
-### 背徳小説
-reviewed in 2021-9-25 01:20:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMThjZGQzZTItMDUxZS00ZmI3LWFjMzktZTJiMGQ5NTQxYWQ0XkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_FMjpg_UX792_.jpg" alt="背徳小説"><br/>
-[背徳小説 [PR]](https://amzn.to/2XVLCAU)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-人工装具っぽい。
+千葉真一のアウトローなかっこよさは本当に見ていて痛快。あと志穂美悦子と中島ゆたかのsexual abuse。
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
