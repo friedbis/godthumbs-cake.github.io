@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 新・女囚さそり 特殊房X
+reviewed in 2021-9-27 17:35:03<br/>
+<br/>
+[新・女囚さそり 特殊房X [PR]](https://amzn.to/3i718k7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 非情のライセンス
 reviewed in 2021-9-27 17:25:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-9-25 10:00:04<br/>
 [激突! 殺人拳 [PR]](https://amzn.to/39QAGXP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-千葉真一のアウトローなかっこよさは本当に見ていて痛快。あと志穂美悦子と中島ゆたかのsexual abuse。<br/>
-### 背徳小説
-reviewed in 2021-9-25 01:20:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMThjZGQzZTItMDUxZS00ZmI3LWFjMzktZTJiMGQ5NTQxYWQ0XkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_FMjpg_UX792_.jpg" alt="背徳小説"><br/>
-[背徳小説 [PR]](https://amzn.to/2XVLCAU)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-人工装具っぽい。
+千葉真一のアウトローなかっこよさは本当に見ていて痛快。あと志穂美悦子と中島ゆたかのsexual abuse。
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -160,6 +160,7 @@ reviewed in 2021-9-25 01:20:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

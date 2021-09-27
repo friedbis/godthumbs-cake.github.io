@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 新・女囚さそり 特殊房X
+reviewed in 2021-9-27 17:35:03<br/>
+<br/>
+[新・女囚さそり 特殊房X [PR]](https://amzn.to/3i718k7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 平成残侠伝 ぶった斬れ!
 reviewed in 2021-9-27 17:15:03<br/>
 <br/>
