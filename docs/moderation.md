@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 非情のライセンス
+reviewed in 2021-9-27 17:25:04<br/>
+<br/>
+[非情のライセンス [PR]](https://amzn.to/3kIJwwQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ストーリーは昭和でしか通用しないのもあるけど<br/>
 ### 平成残侠伝 ぶった斬れ!
 reviewed in 2021-9-27 17:15:03<br/>
 <br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-25 01:20:04<br/>
 [背徳小説 [PR]](https://amzn.to/2XVLCAU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-人工装具っぽい。<br/>
-### 愉楽への手ほどき
-reviewed in 2021-9-25 01:20:04<br/>
-<br/>
-[愉楽への手ほどき [PR]](https://amzn.to/3kKjMjT)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+人工装具っぽい。
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
