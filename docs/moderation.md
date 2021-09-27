@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 平成残侠伝 ぶった斬れ!
+reviewed in 2021-9-27 17:15:03<br/>
+<br/>
+[平成残侠伝 ぶった斬れ! [PR]](https://amzn.to/2Y70L2e)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+大竹一重さんが素晴らしい<br/>
 ### ミッドナイト・シンデレラ キュートで淫らな夜の妖艶美女
 reviewed in 2021-9-27 06:10:03<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2021-9-25 01:20:04<br/>
 <br/>
 [愉楽への手ほどき [PR]](https://amzn.to/3kKjMjT)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### ワタシの赤裸々性自伝
-reviewed in 2021-9-24 16:25:04<br/>
-<br/>
-[ワタシの赤裸々性自伝 [PR]](https://amzn.to/3zCxiKr)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
 <br/>
