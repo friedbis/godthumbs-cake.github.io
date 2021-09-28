@@ -106,14 +106,7 @@ reviewed in 2021-9-26 16:10:03<br/>
 [他人のSEXで生きてる人々](https://www.netflix.com/jp/title/80184629)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### プレイガール
-reviewed in 2021-9-26 14:25:03<br/>
-<img src="https://www.toeich.jp/assets/photo/program_master/1T0000006101/1T0000006101_l.jpg" alt="プレイガール"><br/>
-[プレイガール [PR]](https://amzn.to/3CHiTyk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-園子温監督が作ってくれないかな。
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)

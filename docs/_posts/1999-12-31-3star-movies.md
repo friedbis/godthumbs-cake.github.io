@@ -312,11 +312,11 @@ reviewed in 2021-9-9 20:25:04<br/>
 <br/>
 ### 焦燥
 reviewed in 2021-9-9 19:50:03<br/>
-<br/>
+<img src="https://pbs.twimg.com/media/FADUDu9VUAgFrTw?format=jpg&name=large" alt="焦燥"><br/>
 [焦燥 [PR]](https://amzn.to/3ngngMl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+セクシー番長<br/>
 ### Full Eclipse
 reviewed in 2021-9-9 19:40:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTU2MTUyNzgxNl5BMl5BanBnXkFtZTYwOTkzMzU5._V1_FMjpg_UX279_.jpg" alt="Full Eclipse"><br/>
