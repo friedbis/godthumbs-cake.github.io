@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### Sweet Angel 長瀬麻美 #75
+reviewed in 2021-9-29 17:20:03<br/>
+<br/>
+[Sweet Angel 長瀬麻美 #75](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女神降臨 西岡葉月 #134
 reviewed in 2021-9-29 17:15:04<br/>
 <br/>
@@ -106,17 +113,9 @@ reviewed in 2021-9-27 17:25:04<br/>
 [非情のライセンス [PR]](https://amzn.to/3kIJwwQ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ストーリーは昭和でしか通用しないのもあるけど<br/>
-### 平成残侠伝 ぶった斬れ!
-reviewed in 2021-9-27 17:15:03<br/>
-<br/>
-[平成残侠伝 ぶった斬れ! [PR]](https://amzn.to/2Y70L2e)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-大竹一重さんが素晴らしい
+ストーリーは昭和でしか通用しないのもあるけど
 <br/>
 ### 索引
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -161,6 +160,7 @@ reviewed in 2021-9-27 17:15:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
