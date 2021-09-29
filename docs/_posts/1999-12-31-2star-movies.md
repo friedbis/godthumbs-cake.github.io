@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ヤクザ刑事
+reviewed in 2021-9-30 01:45:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzRkOTNhNDQtODI4Yi00MWFmLTllMGItYWU5ZDY3OWIwODNjXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX491_.jpg" alt="ヤクザ刑事"><br/>
+[ヤクザ刑事 [PR]](https://amzn.to/3EZTvWF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+このシリーズは適度なお色気があって、さらにサニー・チバのアクションも見れて満足<br/>
 ### Anon
 reviewed in 2021-9-28 10:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjljNDZlZjUtOGI5NS00ZThjLWExZDAtYjFhZTY1NGIzODkxXkEyXkFqcGdeQXVyMzY0Mjc0NTM@._V1_FMjpg_UX1024_.jpg" alt="Anon"><br/>

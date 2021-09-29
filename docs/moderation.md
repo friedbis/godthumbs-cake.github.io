@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ヤクザ刑事
+reviewed in 2021-9-30 01:45:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzRkOTNhNDQtODI4Yi00MWFmLTllMGItYWU5ZDY3OWIwODNjXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX491_.jpg" alt="ヤクザ刑事"><br/>
+[ヤクザ刑事 [PR]](https://amzn.to/3EZTvWF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+このシリーズは適度なお色気があって、さらにサニー・チバのアクションも見れて満足<br/>
 ### グラドル向上委員会（仮）
 reviewed in 2021-9-29 19:35:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-9-27 23:30:05<br/>
 [新任女教師 未熟な進路指導 [PR]](https://amzn.to/3m20Ufq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-古川いおりさんが綺麗<br/>
-### 橘アヤコは見られたい
-reviewed in 2021-9-27 22:25:03<br/>
-<br/>
-[橘アヤコは見られたい [PR]](https://amzn.to/3iaKPD7)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-若妻ナマ配信　見せたがり(R18)   前知識なしに見たけど、心霊か。
+古川いおりさんが綺麗
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
