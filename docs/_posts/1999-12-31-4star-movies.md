@@ -50,7 +50,7 @@ reviewed in 2021-9-29 19:35:04<br/>
 [グラドル向上委員会（仮）](https://www.bs-sptv.com/program/6075/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+普段は聞けないグラドルの素の声が見れる<br/>
 ### Sweet Angel 長瀬麻美 #75
 reviewed in 2021-9-29 17:20:03<br/>
 <br/>
