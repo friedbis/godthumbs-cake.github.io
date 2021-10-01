@@ -57,7 +57,7 @@ reviewed in 2021-10-1 20:35:03<br/>
 [武田くノ一忍法伝 千代女 [PR]](https://amzn.to/3onP6Hb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+殺陣は残念<br/>
 ### デビルズ・ダブル　−ある影武者の物語−
 reviewed in 2021-10-1 20:20:03<br/>
 <br/>
