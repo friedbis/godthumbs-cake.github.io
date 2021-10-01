@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### デビルズ・ダブル　−ある影武者の物語−
+reviewed in 2021-10-1 20:20:03<br/>
+<br/>
+[デビルズ・ダブル　−ある影武者の物語− [PR]](https://amzn.to/2WA7scE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### グラドル向上委員会（仮）
 reviewed in 2021-9-29 19:35:04<br/>
 <br/>

@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### デビルズ・ダブル　−ある影武者の物語−
+reviewed in 2021-10-1 20:20:03<br/>
+<br/>
+[デビルズ・ダブル　−ある影武者の物語− [PR]](https://amzn.to/2WA7scE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### セーラー服 色情飼育
 reviewed in 2021-10-1 13:25:03<br/>
 <img src="https://www.nikkatsu-romanporno.com/movies/25974.jpg" alt="セーラー服 色情飼育"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-9-28 10:15:03<br/>
 [Anon [PR]](https://amzn.to/3kM38QQ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### おふろやさん日和2 #10
-reviewed in 2021-9-27 23:30:05<br/>
-<img src="https://m.media-amazon.com/images/I/41lF9wMCf2L._AC_.jpg" alt="おふろやさん日和2 #10"><br/>
-[おふろやさん日和2 #10](https://www.vpara.com/information/ofuroyasanbiyori2/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-藤木由貴さんの健康的な感じ
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -160,6 +160,7 @@ reviewed in 2021-9-27 23:30:05<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
