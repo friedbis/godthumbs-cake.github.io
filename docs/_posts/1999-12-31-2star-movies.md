@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 極道の妻たち 危険な賭け
+reviewed in 2021-10-1 23:20:03<br/>
+<br/>
+[極道の妻たち 危険な賭け [PR]](https://amzn.to/39VI8Rl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ヤクザ刑事
 reviewed in 2021-9-30 01:45:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzRkOTNhNDQtODI4Yi00MWFmLTllMGItYWU5ZDY3OWIwODNjXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX491_.jpg" alt="ヤクザ刑事"><br/>
