@@ -44,13 +44,6 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 武田くノ一忍法伝 千代女
-reviewed in 2021-10-1 20:35:03<br/>
-<img src="https://pbs.twimg.com/media/CUzoSj9UwAANa2v?format=jpg&name=large" alt="武田くノ一忍法伝 千代女"><br/>
-[武田くノ一忍法伝 千代女 [PR]](https://amzn.to/3onP6Hb)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 女神降臨 西岡葉月 #134
 reviewed in 2021-9-29 17:15:04<br/>
 <br/>
