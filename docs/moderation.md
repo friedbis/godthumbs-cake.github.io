@@ -46,11 +46,11 @@ title: Impression
 <br/>
 ### 女神降臨 川崎あや #140
 reviewed in 2021-10-1 23:40:03<br/>
-<br/>
+<img src="https://img.mixi.net/photo/news/217_20180625_29446_2.jpg" alt="女神降臨 川崎あや #140"><br/>
 [女神降臨 川崎あや #140](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ぬるツイは今後も続けてほしい。前の万歩計よりもよい。<br/>
 ### 極道の妻たち 危険な賭け
 reviewed in 2021-10-1 23:20:03<br/>
 <br/>
@@ -106,14 +106,7 @@ reviewed in 2021-9-29 17:15:04<br/>
 [女神降臨 西岡葉月 #134](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-田舎に住んでる色気たっぷりお姉さん<br/>
-### 野良猫とパパ活
-reviewed in 2021-9-29 14:50:03<br/>
-<br/>
-[野良猫とパパ活 [PR]](https://amzn.to/3CYMdR0)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+田舎に住んでる色気たっぷりお姉さん
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
