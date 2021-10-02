@@ -31,30 +31,6 @@ layout: default
 
 </main>
 
-<div id="caution">
-    <div class="caution_cont">
-        <div>性的コンテンツが含まれている可能性があります。あなたは１８歳以上であることが確実ですか？</div>
-        <div>We have some sexual or violent contents from here. Are you 18 years old or older??</div>
-        <button class="agree_to_see">はい / Yep yep</button>
-        <button class="get_away_from_here">いいえ / Nop</button>
-    </div>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-<script>
-$(document).ready(()=>{
-    let c=$.cookie('agree_to_see');
-    if(c===null){
-        $('.agree_to_see').on('click', ()=>{
-            $.cookie('agree_to_see', 'yepyep');
-            $('#caution').css('display', 'none');
-        });
-        $('.get_away_from_here').on('click',()=>{
-            window.location.href='http://www.yahoo.co.jp';
-        });
-    }else{
-        $('#caution').css('display', 'none');
-    }
-});
-</script>
+{% include site-caution.html %}
 
 {% include site-footer.html %}
