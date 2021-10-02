@@ -516,21 +516,21 @@ pre code {
 }
 
 #caution > div > div {
-    float: left;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
+    margin-top: 40px;
     margin-bottom: auto;
+    width: 300px;
+    height: 100px;
 }
 
 .agree_to_see {
     border-style: double;
     border-width: 2px;
     border-radius: 10px;
-    border-color: #444;
+    border-color: #676767;
     background: #007E66;
-    color: #343434;
-    float: left;
+    color: #555;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
@@ -544,7 +544,6 @@ pre code {
     border-color: #666;
     background: #E5E2E4;
     color: #343434;
-    float: left;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
