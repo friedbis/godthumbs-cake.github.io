@@ -504,6 +504,11 @@ pre code {
     background: #eee;
     color: #666;
     font-weight: bold;
+    text-align: center;
+}
+
+#caution caption {
+    float: left;
 }
 
 .agree_to_see {
@@ -513,6 +518,7 @@ pre code {
     border-color: #444;
     background: #007E66;
     color: #343434;
+    float: left;
 }
 
 .get_away_from_here {
@@ -522,5 +528,6 @@ pre code {
     border-color: #666;
     background: #E5E2E4;
     color: #343434;
+    float: left;
 }
 
