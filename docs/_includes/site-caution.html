@@ -12,7 +12,7 @@ $(document).ready(()=>{
     let c=$.cookie('agree_to_see');
     if(c==null||c===undefined){
         $('.agree_to_see').on('click', ()=>{
-            $.cookie('agree_to_see', 'yepyep');
+            $.cookie('agree_to_see', 'yepyep', {path: '/', domain: 'gerwalk.yf-19.net'});
             $('#caution').css('display', 'none');
         });
         $('.get_away_from_here').on('click',()=>{
