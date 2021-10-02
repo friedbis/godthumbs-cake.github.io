@@ -498,17 +498,24 @@ pre code {
 
 #caution {
     display: block;
-    width: 100%;
-    height: 100%;
+    width: 1000px;
+    height: 1000px;
     z-index: 10000;
-    background: #eee;
+    background: #fff;
     color: #666;
     font-weight: bold;
     text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
-#caution caption {
+#caution div {
     float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .agree_to_see {
@@ -519,6 +526,10 @@ pre code {
     background: #007E66;
     color: #343434;
     float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .get_away_from_here {
@@ -529,5 +540,9 @@ pre code {
     background: #E5E2E4;
     color: #343434;
     float: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
