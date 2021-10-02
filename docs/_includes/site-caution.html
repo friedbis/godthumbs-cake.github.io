@@ -13,6 +13,7 @@ $(document).ready(()=>{
     if(c==null||c===undefined){
         $('.agree_to_see').on('click', ()=>{
             $.cookie('agree_to_see', 'yepyep', {path: '/', domain: 'gerwalk.yf-19.net'});
+            $('#caution').css('animation', 'fadeOut 0.2s ease 0.3s 1 normal');
             $('#caution').css('display', 'none');
         });
         $('.get_away_from_here').on('click',()=>{
