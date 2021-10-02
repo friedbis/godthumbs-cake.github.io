@@ -127,6 +127,12 @@ body {
     @include justify-content(center);
     @include flex-direction(row);
   }
+    animation: fadeIn 0.2s ease 0.3s 1 normal;
+}
+
+@keyframes fadeIn {
+  0% {opacity: 0}
+  100% {opacity: 1}
 }
 
 #go_see_or_not {
