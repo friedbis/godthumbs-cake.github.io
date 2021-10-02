@@ -495,3 +495,32 @@ pre code {
     width: 100%;
     text-align: center;
 }
+
+#caution {
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    background: #eee;
+    color: #666;
+    font-weight: bold;
+}
+
+.agree_to_see {
+    border-style: double;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #444;
+    background: #007E66;
+    color: #343434;
+}
+
+.get_away_from_here {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #666;
+    background: #E5E2E4;
+    color: #343434;
+}
+
