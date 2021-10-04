@@ -47,10 +47,10 @@ title: Impression
 ### オーガズムリポートI 制御不能の男と女
 reviewed in 2021-10-5 01:35:03<br/>
 <br/>
-[オーガズムリポートI 制御不能の男と女](https://www.dmm.com/digital/videomarket/movie/-/detail/=/title_id=370150/)<br/>
+[オーガズムリポートI 制御不能の男と女](https://www.entermeitele.com/movie/orgasm.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-R18指定で良いと思う。<br/>
+R18指定の内容。<br/>
 ### Sweet Angel 羽咲みはる #76
 reviewed in 2021-10-1 23:50:03<br/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/81xUn3A+4mL.jpg" alt="Sweet Angel 羽咲みはる #76"><br/>
@@ -116,7 +116,6 @@ reviewed in 2021-9-29 17:20:03<br/>
 
 <br/>
 ### 索引
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

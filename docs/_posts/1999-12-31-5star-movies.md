@@ -47,10 +47,10 @@ title: 5つ星の映画・ドラマ
 ### オーガズムリポートI 制御不能の男と女
 reviewed in 2021-10-5 01:35:03<br/>
 <br/>
-[オーガズムリポートI 制御不能の男と女](https://www.dmm.com/digital/videomarket/movie/-/detail/=/title_id=370150/)<br/>
+[オーガズムリポートI 制御不能の男と女](https://www.entermeitele.com/movie/orgasm.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-R18指定で良いと思う。<br/>
+R18指定の内容。<br/>
 ### セーラー服 色情飼育
 reviewed in 2021-10-1 13:25:03<br/>
 <img src="https://www.nikkatsu-romanporno.com/movies/25974.jpg" alt="セーラー服 色情飼育"><br/>
