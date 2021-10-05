@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### セックス喜劇 鼻血ブー
+reviewed in 2021-10-5 18:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjY1Y2I3MjMtMjVhMi00OWY0LWJlODctZTY3MzNkZjFjY2MwXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UY483_.jpg" alt="セックス喜劇 鼻血ブー"><br/>
+[セックス喜劇 鼻血ブー [PR]](https://amzn.to/3lbXRCd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+R18指定である必要あるかな。<br/>
 ### 極道の妻たち 危険な賭け
 reviewed in 2021-10-1 23:20:03<br/>
 <br/>

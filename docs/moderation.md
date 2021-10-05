@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### セックス喜劇 鼻血ブー
+reviewed in 2021-10-5 18:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjY1Y2I3MjMtMjVhMi00OWY0LWJlODctZTY3MzNkZjFjY2MwXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UY483_.jpg" alt="セックス喜劇 鼻血ブー"><br/>
+[セックス喜劇 鼻血ブー [PR]](https://amzn.to/3lbXRCd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+R18指定である必要あるかな。<br/>
 ### オーガズムリポートI 制御不能の男と女
 reviewed in 2021-10-5 01:35:03<br/>
 <br/>
@@ -106,16 +113,10 @@ reviewed in 2021-9-29 19:35:04<br/>
 [グラドル向上委員会（仮）](https://www.bs-sptv.com/program/6075/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-普段は聞けないグラドルの素の声が見れる<br/>
-### Sweet Angel 長瀬麻美 #75
-reviewed in 2021-9-29 17:20:03<br/>
-<img src="https://image.news.livedoor.com/newsimage/6/b/6b904_756_073011d9_f06da612.jpg" alt="Sweet Angel 長瀬麻美 #75"><br/>
-[Sweet Angel 長瀬麻美 #75](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+普段は聞けないグラドルの素の声が見れる
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
