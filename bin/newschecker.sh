@@ -33,7 +33,8 @@ echo "cleaning post files..."
 #find $destdir -mtime +5 -iregex "^.*\/2[0-9][0-9][0-9].*\.md$" -exec cat {} |grep -A 10 "^$" >>$archivefile && rm -v {} \;
 cat <(find $destdir -mtime +5 -iregex "^.*\/2[0-9][0-9][0-9].*\.md$" -print) |while read i;
 do
-    cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
+    #cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
+    cat $i |grep -A 100 "## " |grep -v -E "^(feature_image|image):" |grep -v "^\-\-\-" >>$archivefile && rm -v $i && git rm $i
 done
 mdfilecount=$(ls -l $destdir/2[0-9][0-9][0-9].*\.md |wc -l)
 if [ $mdfilecount -gt $mdcntthreshold ];
