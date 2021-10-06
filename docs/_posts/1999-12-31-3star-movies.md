@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 熊切あさ美 甘い生活
+reviewed in 2021-10-7 00:00:04<br/>
+<img src="https://m.media-amazon.com/images/I/715GslK96LS._AC_SL1500_.jpg" alt="熊切あさ美 甘い生活"><br/>
+[熊切あさ美 甘い生活 [PR]](https://amzn.to/3FqeTo2)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Sweet Angel 羽咲みはる #76
 reviewed in 2021-10-1 23:50:03<br/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/81xUn3A+4mL.jpg" alt="Sweet Angel 羽咲みはる #76"><br/>
