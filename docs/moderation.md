@@ -106,16 +106,10 @@ reviewed in 2021-9-30 01:45:03<br/>
 [ヤクザ刑事 [PR]](https://amzn.to/3EZTvWF)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-このシリーズは適度なお色気があって、さらにサニー・チバのアクションも見れて満足<br/>
-### グラドル向上委員会（仮）
-reviewed in 2021-9-29 19:35:04<br/>
-<br/>
-[グラドル向上委員会（仮）](https://www.bs-sptv.com/program/6075/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-普段は聞けないグラドルの素の声が見れる
+このシリーズは適度なお色気があって、さらにサニー・チバのアクションも見れて満足
 <br/>
 ### 索引
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
