@@ -22,7 +22,7 @@ templatefile=$(dirname $0)/post-template.txt
 postdate=$(date +%Y-%m-%d)
 #postcount=$(head -1 $countoffsetfile)
 destdir=$(dirname $0)/../docs/_posts
-archivefile=$destdir/1999-01-07-archive.md
+archivefile=$destdir/1999-01-08-archive.md
 mdcntthreshold=100
 
 cd $basedir/
@@ -41,7 +41,8 @@ if [ $mdfilecount -gt $mdcntthreshold ];
 then
     cat <(find $destdir -mtime +3 -iregex "^.*\/*.md$" -print) |while read i;
     do
-        cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
+        #cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
+        cat $i |grep -A 100 "## " |grep -v -E "^(feature_image|image):" |grep -v "^\-\-\-" >>$archivefile && rm -v $i && git rm $i
     done
 fi
 #rm -f $destdir/*.md
