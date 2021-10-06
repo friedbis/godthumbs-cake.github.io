@@ -43,6 +43,7 @@ then
     cat <(find $destdir -mtime +3 -iregex "^.*\/*.md$" -print) |while read i;
     do
         #cat $i |grep -A 10 "^$" >>$archivefile && rm -v $i && git rm $i
+        echo "">>$archivefile
         cat $i |grep -A 100 "## " |sed -e 's/^[^#]*#/#/' |grep -v -E "^(feature_image|image):" |grep -v "^\-\-\-" >>$archivefile && rm -v $i && git rm $i
     done
 fi
