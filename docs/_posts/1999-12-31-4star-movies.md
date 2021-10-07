@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Sweet Angel 桃乃木かな #77
+reviewed in 2021-10-8 03:15:03<br/>
+<img src="https://m.media-amazon.com/images/I/41QQ66qs-lS.jpg" alt="Sweet Angel 桃乃木かな #77"><br/>
+[Sweet Angel 桃乃木かな #77](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 武田くノ一忍法伝 千代女
 reviewed in 2021-10-1 20:35:03<br/>
 <img src="https://pbs.twimg.com/media/CUzoSj9UwAANa2v?format=jpg&name=large" alt="武田くノ一忍法伝 千代女"><br/>
