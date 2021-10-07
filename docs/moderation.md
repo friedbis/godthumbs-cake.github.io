@@ -48,9 +48,9 @@ title: Impression
 reviewed in 2021-10-8 03:05:03<br/>
 <img src="https://m.media-amazon.com/images/I/71YJeVf95YL._AC_SL1378_.jpg" alt="怪猫トルコ風呂"><br/>
 [怪猫トルコ風呂 [PR]](https://amzn.to/3BooV6L)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ホラーパートとエロパートが半々になっているので、心が揺さぶられる。<br/>
 ### 眠れる森のミチコ
 reviewed in 2021-10-8 02:55:03<br/>
 <br/>
@@ -160,7 +160,6 @@ reviewed in 2021-10-1 23:50:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

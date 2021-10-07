@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 怪猫トルコ風呂
+reviewed in 2021-10-8 03:05:03<br/>
+<img src="https://m.media-amazon.com/images/I/71YJeVf95YL._AC_SL1378_.jpg" alt="怪猫トルコ風呂"><br/>
+[怪猫トルコ風呂 [PR]](https://amzn.to/3BooV6L)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ホラーパートとエロパートが半々になっているので、心が揺さぶられる。<br/>
 ### 熊切あさ美 甘い生活
 reviewed in 2021-10-7 00:00:04<br/>
 <img src="https://m.media-amazon.com/images/I/715GslK96LS._AC_SL1500_.jpg" alt="熊切あさ美 甘い生活"><br/>
