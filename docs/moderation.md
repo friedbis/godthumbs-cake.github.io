@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### グラっちゃお！ #494：桐山瑠衣
+reviewed in 2021-10-8 03:20:03<br/>
+<br/>
+[グラっちゃお！ #494：桐山瑠衣](https://www.entermeitele.com/idol/grachao.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Sweet Angel 桃乃木かな #77
 reviewed in 2021-10-8 03:15:03<br/>
 <img src="https://m.media-amazon.com/images/I/41QQ66qs-lS.jpg" alt="Sweet Angel 桃乃木かな #77"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-10-5 18:30:04<br/>
 [セックス喜劇 鼻血ブー [PR]](https://amzn.to/3lbXRCd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-R18指定である必要あるかな。<br/>
-### オーガズムリポートI 制御不能の男と女
-reviewed in 2021-10-5 01:35:03<br/>
-<br/>
-[オーガズムリポートI 制御不能の男と女](https://www.entermeitele.com/movie/orgasm.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-R18指定の内容。
+R18指定である必要あるかな。
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
