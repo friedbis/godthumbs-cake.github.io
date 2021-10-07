@@ -44,6 +44,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 断罪
+reviewed in 2021-10-7 12:55:03<br/>
+<br/>
+[断罪](https://www.toeich.jp/program/1T0000014848/202110)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 駅路
+reviewed in 2021-10-7 12:55:03<br/>
+<br/>
+[駅路](https://www.toeich.jp/program/1T0000014244/202110)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+古手川祐子さんの、、、。<br/>
 ### 熊切あさ美 甘い生活
 reviewed in 2021-10-7 00:00:04<br/>
 <img src="https://m.media-amazon.com/images/I/715GslK96LS._AC_SL1500_.jpg" alt="熊切あさ美 甘い生活"><br/>
@@ -99,14 +113,7 @@ reviewed in 2021-10-1 20:35:03<br/>
 [武田くノ一忍法伝 千代女 [PR]](https://amzn.to/3onP6Hb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-殺陣は残念<br/>
-### デビルズ・ダブル　−ある影武者の物語−
-reviewed in 2021-10-1 20:20:03<br/>
-<br/>
-[デビルズ・ダブル　−ある影武者の物語− [PR]](https://amzn.to/2WA7scE)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+殺陣は残念
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)

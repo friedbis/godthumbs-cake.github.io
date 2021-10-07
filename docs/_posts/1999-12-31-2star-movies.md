@@ -44,6 +44,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 断罪
+reviewed in 2021-10-7 12:55:03<br/>
+<br/>
+[断罪](https://www.toeich.jp/program/1T0000014848/202110)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 駅路
+reviewed in 2021-10-7 12:55:03<br/>
+<br/>
+[駅路](https://www.toeich.jp/program/1T0000014244/202110)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+古手川祐子さんの、、、。<br/>
 ### 妄執の女
 reviewed in 2021-10-6 23:40:03<br/>
 <br/>
