@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### グラっちゃお！ #494：桐山瑠衣
 reviewed in 2021-10-8 03:20:03<br/>
-<br/>
+<img src="https://www.sponichi.co.jp/entertainment/news/2016/11/05/jpeg/G20161105013665390_view.jpg" alt="グラっちゃお！ #494：桐山瑠衣"><br/>
 [グラっちゃお！ #494：桐山瑠衣](https://www.entermeitele.com/idol/grachao.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
