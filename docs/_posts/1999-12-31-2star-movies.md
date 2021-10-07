@@ -44,13 +44,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 千年の恋 ひかる源氏物語
+reviewed in 2021-10-8 02:45:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWM5ODQyNjItMTg3MC00YzFhLTgwMDItMWRhZDZmNWFhY2RmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UY453_.jpg" alt="千年の恋 ひかる源氏物語"><br/>
+[千年の恋 ひかる源氏物語 [PR]](https://amzn.to/3oDpgPH)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+斉藤麻衣さん、細川ふみえさん、西丸優子さん<br/>
 ### 断罪
 reviewed in 2021-10-7 12:55:03<br/>
 <br/>
 [断罪](https://www.toeich.jp/program/1T0000014848/202110)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+冒頭の数秒<br/>
 ### 駅路
 reviewed in 2021-10-7 12:55:03<br/>
 <br/>
