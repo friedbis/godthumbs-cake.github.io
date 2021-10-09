@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… いわき湯本温泉編 #37 #38
+reviewed in 2021-10-9 23:50:03<br/>
+<img src="https://pbs.twimg.com/media/FBLktBYVQAESVFZ?format=jpg&name=large" alt="あなたと温泉に行ったら… いわき湯本温泉編 #37 #38"><br/>
+[あなたと温泉に行ったら… いわき湯本温泉編 #37 #38](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### グラっちゃお！ #494：桐山瑠衣
 reviewed in 2021-10-8 03:20:03<br/>
 <img src="https://www.sponichi.co.jp/entertainment/news/2016/11/05/jpeg/G20161105013665390_view.jpg" alt="グラっちゃお！ #494：桐山瑠衣"><br/>
@@ -879,11 +886,11 @@ reviewed in 2021-8-24 20:46:49<br/>
 <br/>
 ### あなたと温泉に行ったら… 北川温泉編 #65 #66
 reviewed in 2021-8-24 13:08:20<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/81659l1hPEL._AC_SY445_.jpg" alt="あなたと温泉に行ったら… 北川温泉編 #65 #66"><br/>
 [あなたと温泉に行ったら… 北川温泉編 #65 #66](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+一目惚れ<br/>
 ### アンダー・ユア・ベッド
 reviewed in 2021-8-24 13:08:20<br/>
 <br/>
