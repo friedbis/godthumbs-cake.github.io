@@ -799,7 +799,7 @@ reviewed in 2021-8-26 08:00:04<br/>
 [あなたと温泉に行ったら… 網代温泉編 #67 #68](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+一目惚れ<br/>
 ### 愚行録
 reviewed in 2021-8-25 21:15:04<br/>
 <br/>
