@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エンボク
+reviewed in 2021-10-11 23:20:03<br/>
+<br/>
+[エンボク](https://www.cinemacafe.net/movies/30561/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ウルトラエレクト　超興奮
 reviewed in 2021-10-11 21:40:03<br/>
 <br/>

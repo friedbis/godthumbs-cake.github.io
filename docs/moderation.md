@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### エンボク
+reviewed in 2021-10-11 23:20:03<br/>
+<br/>
+[エンボク](https://www.cinemacafe.net/movies/30561/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ウルトラエレクト　超興奮
 reviewed in 2021-10-11 21:40:03<br/>
 <br/>
@@ -153,7 +160,6 @@ reviewed in 2021-10-8 02:45:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
