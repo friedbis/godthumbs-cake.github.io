@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ウルトラエレクト　超興奮
+reviewed in 2021-10-11 21:40:03<br/>
+<br/>
+[ウルトラエレクト　超興奮](https://www.entermeitele.com/movie/ultraelect.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+エロドキュメント　超・変態実話(R18版)<br/>
 ### 妻の秘密 しげみの奥まで
 reviewed in 2021-10-11 00:50:04<br/>
 <br/>
