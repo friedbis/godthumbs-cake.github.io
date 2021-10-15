@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 下部温泉編 #47 #48
+reviewed in 2021-10-16 03:55:03<br/>
+<br/>
+[あなたと温泉に行ったら… 下部温泉編 #47 #48](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ボーイズ＆ガールズ
 reviewed in 2021-10-13 20:25:03<br/>
 <br/>

@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 下部温泉編 #47 #48
+reviewed in 2021-10-16 03:55:03<br/>
+<br/>
+[あなたと温泉に行ったら… 下部温泉編 #47 #48](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜王誕生２
 reviewed in 2021-10-15 23:05:03<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-10-11 00:50:04<br/>
 [妻の秘密 しげみの奥まで](https://www.toeich.jp/program/1TT000004956/202111)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-巨乳浮気妻 しげみの奥まで…(R18版)  若妻 しげみの奥まで(R18版)<br/>
-### 四季・奈津子
-reviewed in 2021-10-10 10:25:03<br/>
-<img src="https://m.media-amazon.com/images/I/71tCzvHsAdL._AC_SL1042_.jpg" alt="四季・奈津子"><br/>
-[四季・奈津子 [PR]](https://amzn.to/3AmCsuo)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+巨乳浮気妻 しげみの奥まで…(R18版)  若妻 しげみの奥まで(R18版)
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
