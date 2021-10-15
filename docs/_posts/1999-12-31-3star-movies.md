@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜王誕生２
+reviewed in 2021-10-15 23:05:03<br/>
+<br/>
+[夜王誕生２](https://bangumi.skyperfectv.co.jp/S/?uid=i20056663)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Sweet Angel 総集編 16 #112
 reviewed in 2021-10-15 01:35:03<br/>
 <br/>
