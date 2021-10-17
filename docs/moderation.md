@@ -44,6 +44,20 @@ title: Impression
 ## 作品
 
 <br/>
+### ラブレター
+reviewed in 2021-10-17 12:10:04<br/>
+<br/>
+[ラブレター [PR]](https://amzn.to/2YVSYV0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
+### DOOR
+reviewed in 2021-10-17 12:10:04<br/>
+<br/>
+[DOOR [PR]](https://amzn.to/2XjkdIO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 下部温泉編 #47 #48
 reviewed in 2021-10-16 03:55:03<br/>
 <br/>
@@ -99,14 +113,7 @@ reviewed in 2021-10-11 23:20:03<br/>
 [エンボク](https://www.cinemacafe.net/movies/30561/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ウルトラエレクト　超興奮
-reviewed in 2021-10-11 21:40:03<br/>
-<br/>
-[ウルトラエレクト　超興奮](https://www.entermeitele.com/movie/ultraelect.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-連続絶頂　イキまくる女達(R18版) エロドキュメント　超・変態実話(R18版) 
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
