@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 麻雀宝湯記 石和の亀篇・伊東の黒豹篇
+reviewed in 2021-10-17 12:30:04<br/>
+<br/>
+[麻雀宝湯記 石和の亀篇・伊東の黒豹篇 [PR]](https://amzn.to/3DRa5qy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 白波瀬海来 KYRA流デート
 reviewed in 2021-10-17 12:25:04<br/>
 <img src="https://www.sponichi.co.jp/entertainment/news/2021/05/21/jpeg/20210521s00041000166000p_view.jpg" alt="白波瀬海来 KYRA流デート"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-10-12 04:10:03<br/>
 [エクスタシー・キャットメイドRINKO 誘惑雌猫のHな恩返し [PR]](https://amzn.to/3DvwVno)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### MISTY
-reviewed in 2021-10-12 04:00:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODUwZDk4MDctYzU5Ny00ODQwLThlNGYtNjkxMmU3YmUyOTkzXkEyXkFqcGdeQXVyNjk5NzY4OTk@._V1_FMjpg_UX721_.jpg" alt="MISTY"><br/>
-[MISTY [PR]](https://amzn.to/3FFH5Uq)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-貴重な作品。
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)

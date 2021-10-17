@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 麻雀宝湯記 石和の亀篇・伊東の黒豹篇
+reviewed in 2021-10-17 12:30:04<br/>
+<br/>
+[麻雀宝湯記 石和の亀篇・伊東の黒豹篇 [PR]](https://amzn.to/3DRa5qy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### DOOR
 reviewed in 2021-10-17 12:10:04<br/>
 <br/>
