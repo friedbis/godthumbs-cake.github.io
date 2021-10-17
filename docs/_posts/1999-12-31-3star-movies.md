@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 白波瀬海来 KYRA流デート
+reviewed in 2021-10-17 12:25:04<br/>
+<img src="https://www.sponichi.co.jp/entertainment/news/2021/05/21/jpeg/20210521s00041000166000p_view.jpg" alt="白波瀬海来 KYRA流デート"><br/>
+[白波瀬海来 KYRA流デート [PR]](https://amzn.to/3n3Hzeb)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜王誕生２
 reviewed in 2021-10-15 23:05:03<br/>
 <br/>

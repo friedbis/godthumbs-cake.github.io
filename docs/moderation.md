@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 白波瀬海来 KYRA流デート
+reviewed in 2021-10-17 12:25:04<br/>
+<img src="https://www.sponichi.co.jp/entertainment/news/2021/05/21/jpeg/20210521s00041000166000p_view.jpg" alt="白波瀬海来 KYRA流デート"><br/>
+[白波瀬海来 KYRA流デート [PR]](https://amzn.to/3n3Hzeb)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ラブレター
 reviewed in 2021-10-17 12:10:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-10-12 04:00:04<br/>
 [MISTY [PR]](https://amzn.to/3FFH5Uq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-貴重な作品。<br/>
-### エンボク
-reviewed in 2021-10-11 23:20:03<br/>
-<br/>
-[エンボク](https://www.cinemacafe.net/movies/30561/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+貴重な作品。
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -160,6 +160,7 @@ reviewed in 2021-10-11 23:20:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
