@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 邪願霊
+reviewed in 2021-10-18 19:15:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDJhYjdiMjgtMWQzNi00ZDk1LThjOGEtNDRiZWZlMzVlM2E2XkEyXkFqcGdeQXVyODQ0NzkyMDk@._V1_FMjpg_UX467_.jpg" alt="邪願霊"><br/>
+[邪願霊 [PR]](https://amzn.to/3vtPR2X)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+本物っぽい演出<br/>
 ### 神々の深き欲望
 reviewed in 2021-10-18 09:50:03<br/>
 <br/>
