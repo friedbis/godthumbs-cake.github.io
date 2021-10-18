@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 神々の深き欲望
+reviewed in 2021-10-18 09:50:03<br/>
+<br/>
+[神々の深き欲望 [PR]](https://amzn.to/3lNfbOf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ガッと鷲掴み。<br/>
 ### 麻雀宝湯記 石和の亀篇・伊東の黒豹篇
 reviewed in 2021-10-17 12:30:04<br/>
 <br/>
