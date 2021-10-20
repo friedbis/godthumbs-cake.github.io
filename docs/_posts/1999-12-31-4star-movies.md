@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 私が愛したヘミングウェイ／ヘミングウェイ＆ゲルホーン
+reviewed in 2021-10-21 07:50:03<br/>
+<br/>
+[私が愛したヘミングウェイ／ヘミングウェイ＆ゲルホーン [PR]](https://amzn.to/30PGdN3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ペーパーボーイ 真夏の引力
 reviewed in 2021-10-20 22:10:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWQ1NzcyYTQtNTUzZS00NTAzLWIxZjktOTA3N2JmOTYyYzM5XkEyXkFqcGdeQXVyNzA0NTQ2NTc@._V1_FMjpg_UX1280_.jpg" alt="ペーパーボーイ 真夏の引力"><br/>
