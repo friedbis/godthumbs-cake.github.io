@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### アイズワイドシャット
+reviewed in 2021-10-20 22:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjI3Njk4NjAtZjg0NS00MjY2LTk1OGYtNzkyYzQzOGNiZWRhXkEyXkFqcGdeQXVyNDAyMjk2NDI@._V1_FMjpg_UX1280_.jpg" alt="アイズワイドシャット"><br/>
+[アイズワイドシャット [PR]](https://amzn.to/3aW6HOE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 山内鈴蘭／Natural Lily
 reviewed in 2021-10-20 12:45:03<br/>
 <br/>
