@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### グラっちゃお！ #496：脊山麻理子
+reviewed in 2021-10-23 20:20:03<br/>
+<br/>
+[グラっちゃお！ #496：脊山麻理子](https://www.entermeitele.com/idol/grachao.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+元アナウンサーだから朗読があるのかな<br/>
 ### グラっちゃお！ #495：橋本ひかり
 reviewed in 2021-10-23 20:15:03<br/>
 <br/>
