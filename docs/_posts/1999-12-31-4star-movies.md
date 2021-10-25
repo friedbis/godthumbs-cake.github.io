@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### ねじ式
 reviewed in 2021-10-26 08:20:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/51494EJDNCL._AC_.jpg" alt="ねじ式"><br/>
 [ねじ式 [PR]](https://amzn.to/3mdg42M)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
