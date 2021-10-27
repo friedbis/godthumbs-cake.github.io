@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Sweet Angel 高橋しょう子 #79
+reviewed in 2021-10-28 03:45:04<br/>
+<br/>
+[Sweet Angel 高橋しょう子 #79](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ねじ式
 reviewed in 2021-10-26 08:20:03<br/>
 <img src="https://m.media-amazon.com/images/I/51494EJDNCL._AC_.jpg" alt="ねじ式"><br/>
