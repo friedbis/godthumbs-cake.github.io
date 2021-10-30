@@ -44,6 +44,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Sweet Angel AIKA #81
+reviewed in 2021-10-30 10:35:03<br/>
+<br/>
+[Sweet Angel AIKA #81](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### Sweet Angel RION #78
+reviewed in 2021-10-30 10:35:03<br/>
+<br/>
+[Sweet Angel RION #78](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Sweet Angel 高橋しょう子 #79
 reviewed in 2021-10-28 03:45:04<br/>
 <br/>
