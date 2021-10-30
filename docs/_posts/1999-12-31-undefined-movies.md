@@ -44,16 +44,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### Sweet Angel AIKA #81
-reviewed in 2021-10-30 10:35:03<br/>
+### Sweet Angel あやみ旬果 #82
+reviewed in 2021-10-30 10:40:04<br/>
 <br/>
-[Sweet Angel AIKA #81](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### Sweet Angel RION #78
-reviewed in 2021-10-30 10:35:03<br/>
-<br/>
-[Sweet Angel RION #78](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+[Sweet Angel あやみ旬果 #82](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

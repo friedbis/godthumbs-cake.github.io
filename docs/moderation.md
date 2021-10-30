@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### Sweet Angel あやみ旬果 #82
+reviewed in 2021-10-30 10:40:04<br/>
+<br/>
+[Sweet Angel あやみ旬果 #82](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Sweet Angel AIKA #81
 reviewed in 2021-10-30 10:35:03<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2021-10-21 07:50:03<br/>
 <br/>
 [聖なる鹿殺し キリング・オブ・ア・セイクリッド・ディア [PR]](https://amzn.to/3neWRNj)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### ペーパーボーイ 真夏の引力
-reviewed in 2021-10-20 22:10:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWQ1NzcyYTQtNTUzZS00NTAzLWIxZjktOTA3N2JmOTYyYzM5XkEyXkFqcGdeQXVyNzA0NTQ2NTc@._V1_FMjpg_UX1280_.jpg" alt="ペーパーボーイ 真夏の引力"><br/>
-[ペーパーボーイ 真夏の引力 [PR]](https://amzn.to/3lVMFKo)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
 <br/>
