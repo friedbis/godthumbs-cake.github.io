@@ -46,11 +46,11 @@ title: Impression
 <br/>
 ### あなたと温泉に行ったら… 飯坂温泉編 #41 #42
 reviewed in 2021-10-30 10:45:03<br/>
-<br/>
+<img src="https://pbs.twimg.com/media/FA53Pt9UcAITLWX?format=jpg&name=medium" alt="あなたと温泉に行ったら… 飯坂温泉編 #41 #42"><br/>
 [あなたと温泉に行ったら… 飯坂温泉編 #41 #42](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+お名前だけ聞くとあのキャラクターと間違って認識してしまう<br/>
 ### Sweet Angel あやみ旬果 #82
 reviewed in 2021-10-30 10:40:04<br/>
 <br/>
@@ -160,11 +160,9 @@ reviewed in 2021-10-21 07:50:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
-- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)

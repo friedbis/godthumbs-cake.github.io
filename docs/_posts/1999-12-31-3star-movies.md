@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 飯坂温泉編 #41 #42
+reviewed in 2021-10-30 10:45:03<br/>
+<img src="https://pbs.twimg.com/media/FA53Pt9UcAITLWX?format=jpg&name=medium" alt="あなたと温泉に行ったら… 飯坂温泉編 #41 #42"><br/>
+[あなたと温泉に行ったら… 飯坂温泉編 #41 #42](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+お名前だけ聞くとあのキャラクターと間違って認識してしまう<br/>
 ### グラっちゃお！ #496：脊山麻理子
 reviewed in 2021-10-23 20:20:03<br/>
 <br/>
