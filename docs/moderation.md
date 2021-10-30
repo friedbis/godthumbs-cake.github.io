@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 飯坂温泉編 #41 #42
+reviewed in 2021-10-30 10:45:03<br/>
+<br/>
+[あなたと温泉に行ったら… 飯坂温泉編 #41 #42](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Sweet Angel あやみ旬果 #82
 reviewed in 2021-10-30 10:40:04<br/>
 <br/>
@@ -106,13 +113,6 @@ reviewed in 2021-10-21 07:50:03<br/>
 [私が愛したヘミングウェイ／ヘミングウェイ＆ゲルホーン [PR]](https://amzn.to/30PGdN3)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 聖なる鹿殺し キリング・オブ・ア・セイクリッド・ディア
-reviewed in 2021-10-21 07:50:03<br/>
-<br/>
-[聖なる鹿殺し キリング・オブ・ア・セイクリッド・ディア [PR]](https://amzn.to/3neWRNj)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -167,3 +167,4 @@ reviewed in 2021-10-21 07:50:03<br/>
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
+- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
