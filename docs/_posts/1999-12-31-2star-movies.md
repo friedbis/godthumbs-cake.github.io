@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### シオリノインム
+reviewed in 2021-11-4 08:25:03<br/>
+<br/>
+[シオリノインム [PR]](https://amzn.to/2ZT6hWI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 聖なる鹿殺し キリング・オブ・ア・セイクリッド・ディア
 reviewed in 2021-10-21 07:50:03<br/>
 <br/>
