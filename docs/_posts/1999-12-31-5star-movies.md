@@ -46,11 +46,11 @@ title: 5つ星の映画・ドラマ
 <br/>
 ### 魔界転生
 reviewed in 2021-11-6 14:40:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjdmZjRkN2UtNzk0NC00MTFjLWJlMWMtNjQxZTFjMjJmYjk2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX797_.jpg" alt="魔界転生"><br/>
 [魔界転生 [PR]](https://amzn.to/3bOnx2a)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+ビジュアル、エロ、アクション、ホラーと豪華な作品。<br/>
 ### ラブレター
 reviewed in 2021-10-17 12:10:04<br/>
 <br/>
