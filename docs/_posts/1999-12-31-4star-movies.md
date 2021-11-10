@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 赫い髪の女
+reviewed in 2021-11-10 19:25:02<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWQ4NGI0MzItMjZkNC00YTUzLWJmMTktNjNkNWRmNzYzM2NkXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX422_.jpg" alt="赫い髪の女"><br/>
+[赫い髪の女 [PR]](https://amzn.to/3n35zzE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+THEにっかつ<br/>
 ### ピンクのカーテン
 reviewed in 2021-11-10 19:20:03<br/>
 <br/>
