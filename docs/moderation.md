@@ -116,7 +116,6 @@ reviewed in 2021-11-6 14:40:03<br/>
 ビジュアル、エロ、アクション、ホラーと豪華な作品。
 <br/>
 ### 索引
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -161,6 +160,7 @@ reviewed in 2021-11-6 14:40:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [赫から始まる映画・ドラマ](/赫-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
