@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 平成残侠伝 狼が斬る！
+reviewed in 2021-11-10 19:20:03<br/>
+<img src="https://m.toei-video.co.jp/data/img/tieup/T0000010840_480.jpg" alt="平成残侠伝 狼が斬る！"><br/>
+[平成残侠伝 狼が斬る！](https://m.toei-video.co.jp/default.asp?d=70;t_T0000010840)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 佐藤聖羅／聖なるふくらみ
 reviewed in 2021-11-7 18:40:04<br/>
 <br/>

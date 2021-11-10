@@ -44,6 +44,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 平成残侠伝 狼が斬る！
+reviewed in 2021-11-10 19:20:03<br/>
+<img src="https://m.toei-video.co.jp/data/img/tieup/T0000010840_480.jpg" alt="平成残侠伝 狼が斬る！"><br/>
+[平成残侠伝 狼が斬る！](https://m.toei-video.co.jp/default.asp?d=70;t_T0000010840)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ピンクのカーテン
+reviewed in 2021-11-10 19:20:03<br/>
+<br/>
+[ピンクのカーテン [PR]](https://amzn.to/3H4Npp0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 美人家庭教師の肉体レッスン
 reviewed in 2021-11-8 01:00:04<br/>
 <br/>
@@ -99,21 +113,7 @@ reviewed in 2021-11-6 10:50:03<br/>
 [徳川セックス禁止令 色情大名 [PR]](https://amzn.to/3mOnABu)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### シオリノインム
-reviewed in 2021-11-4 08:25:03<br/>
-<br/>
-[シオリノインム [PR]](https://amzn.to/2ZT6hWI)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### あなたと温泉に行ったら… 飯坂温泉編 #41 #42
-reviewed in 2021-10-30 10:45:03<br/>
-<img src="https://pbs.twimg.com/media/FA53Pt9UcAITLWX?format=jpg&name=medium" alt="あなたと温泉に行ったら… 飯坂温泉編 #41 #42"><br/>
-[あなたと温泉に行ったら… 飯坂温泉編 #41 #42](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-お名前だけ聞くとあのキャラクターと間違って認識してしまう
+
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -160,6 +160,7 @@ reviewed in 2021-10-30 10:45:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
