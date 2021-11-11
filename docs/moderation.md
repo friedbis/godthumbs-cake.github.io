@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### XX ダブルエックス 美しき獣
+reviewed in 2021-11-12 08:05:03<br/>
+<br/>
+[XX ダブルエックス 美しき獣 [PR]](https://amzn.to/3olTipd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 赫い髪の女
 reviewed in 2021-11-10 19:25:02<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWQ4NGI0MzItMjZkNC00YTUzLWJmMTktNjNkNWRmNzYzM2NkXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX422_.jpg" alt="赫い髪の女"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-11-6 21:00:04<br/>
 [痴漢透明人間III ワイセツ？](https://movie-tsutaya.tsite.jp/netdvd/vod/artDetail.do?pT=0&ttvArtCd=101027426)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-名作コメディ<br/>
-### 魔界転生
-reviewed in 2021-11-6 14:40:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjdmZjRkN2UtNzk0NC00MTFjLWJlMWMtNjQxZTFjMjJmYjk2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX797_.jpg" alt="魔界転生"><br/>
-[魔界転生 [PR]](https://amzn.to/3bOnx2a)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-ビジュアル、エロ、アクション、ホラーと豪華な作品。
+名作コメディ
 <br/>
 ### 索引
 - [A1から始まる映画・ドラマ](/A1-movies.html)
@@ -161,6 +161,7 @@ reviewed in 2021-11-6 14:40:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [赫から始まる映画・ドラマ](/赫-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
