@@ -46,7 +46,7 @@ title: 3つ星の映画・ドラマ
 <br/>
 ### 冴え冴えてなほ滑稽な月を観る
 reviewed in 2021-11-13 10:40:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/A1pWgNfdMKL._AC_SL1500_.jpg" alt="冴え冴えてなほ滑稽な月を観る"><br/>
 [冴え冴えてなほ滑稽な月を観る [PR]](https://amzn.to/3HhCcRY)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -60,7 +60,7 @@ reviewed in 2021-11-10 19:20:03<br/>
 <br/>
 ### 佐藤聖羅／聖なるふくらみ
 reviewed in 2021-11-7 18:40:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/810TwKalbzL._AC_SL1500_.jpg" alt="佐藤聖羅／聖なるふくらみ"><br/>
 [佐藤聖羅／聖なるふくらみ [PR]](https://amzn.to/3nZKxRA)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

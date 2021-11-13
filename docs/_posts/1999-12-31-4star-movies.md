@@ -60,7 +60,7 @@ reviewed in 2021-11-10 19:25:02<br/>
 THEにっかつ<br/>
 ### ピンクのカーテン
 reviewed in 2021-11-10 19:20:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjIyMGE1ZDgtM2ZlYy00ODQxLTlmMzMtZjZmNTU0ZWY4NTE5XkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX636_.jpg" alt="ピンクのカーテン"><br/>
 [ピンクのカーテン [PR]](https://amzn.to/3H4Npp0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
