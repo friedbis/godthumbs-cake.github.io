@@ -563,7 +563,7 @@ function doPost(tweetData, auth){
             let footerindexbuf;
             footerindexbuf=linefeed
                 +htbr+linefeed
-                +mdh2+'索引'+linefeed;
+                +mdh2+'索引'+linefeed
                 +htbr+linefeed;
             let footerlist=await tweetData.tagindex.filter((x, i, self)=>{
                 return self.indexOf(x)===i;
