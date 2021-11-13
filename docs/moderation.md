@@ -44,10 +44,10 @@ title: Impression
 ## 作品
 
 <br/>
-### あなたと温泉に行ったら… 下賀茂温泉編 前篇 #87 #88
+### あなたと温泉に行ったら… 下賀茂温泉編 #87 #88
 reviewed in 2021-11-13 22:05:03<br/>
 <br/>
-[あなたと温泉に行ったら… 下賀茂温泉編 前篇 #87 #88](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+[あなたと温泉に行ったら… 下賀茂温泉編 #87 #88](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
