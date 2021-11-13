@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 冴え冴えてなほ滑稽な月を観る
+reviewed in 2021-11-13 10:40:04<br/>
+<br/>
+[冴え冴えてなほ滑稽な月を観る [PR]](https://amzn.to/3HhCcRY)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 平成残侠伝 狼が斬る！
 reviewed in 2021-11-10 19:20:03<br/>
 <img src="https://m.toei-video.co.jp/data/img/tieup/T0000010840_480.jpg" alt="平成残侠伝 狼が斬る！"><br/>
