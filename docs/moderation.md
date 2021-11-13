@@ -44,9 +44,16 @@ title: Impression
 ## 作品
 
 <br/>
+### キラー・テナント
+reviewed in 2021-11-14 02:35:03<br/>
+<br/>
+[キラー・テナント [PR]](https://amzn.to/30nOrve)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### グラっちゃお！ #501：松嶋えいみ
 reviewed in 2021-11-14 02:30:04<br/>
-<br/>
+<img src="https://img.sirabee.com/wp-content/uploads/2020/09/sirabee20200915matsushimaeimi-scaled.jpg" alt="グラっちゃお！ #501：松嶋えいみ"><br/>
 [グラっちゃお！ #501：松嶋えいみ](https://www.entermeitele.com/idol/grachao.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-11-10 19:20:03<br/>
 [ピンクのカーテン [PR]](https://amzn.to/3H4Npp0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 美人家庭教師の肉体レッスン
-reviewed in 2021-11-8 01:00:04<br/>
-<br/>
-[美人家庭教師の肉体レッスン [PR]](https://amzn.to/3mOKYPk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-個人レッスン 触ってあげる(R18版) 
+
 <br/>
 ### 索引
 <br/>
