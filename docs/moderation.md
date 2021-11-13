@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### 八月の濡れた砂
 reviewed in 2021-11-13 11:10:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2Q0ZjU0ZmItNTg3Ni00ZjQyLWI4MjEtOTg3ODIxMmM1MjFiXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX500_.jpg" alt="八月の濡れた砂"><br/>
 [八月の濡れた砂 [PR]](https://amzn.to/3kzCf1P)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -67,7 +67,7 @@ reviewed in 2021-11-13 10:40:04<br/>
 <br/>
 ### XX ダブルエックス 美しき獣
 reviewed in 2021-11-12 08:05:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTgyYzRlMDYtNTQ1MC00YTIwLWI1MjAtZjBlMTRiMmQzZDg1XkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX1016_.jpg" alt="XX ダブルエックス 美しき獣"><br/>
 [XX ダブルエックス 美しき獣 [PR]](https://amzn.to/3olTipd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
