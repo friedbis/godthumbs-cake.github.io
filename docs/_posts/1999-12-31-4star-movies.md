@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 天使のはらわた 赤い教室
+reviewed in 2021-11-14 03:15:04<br/>
+<br/>
+[天使のはらわた 赤い教室 [PR]](https://amzn.to/3c5KSwC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 星名美津紀 きみはぼくのもの
 reviewed in 2021-11-14 02:45:04<br/>
 <br/>
