@@ -53,7 +53,7 @@ reviewed in 2021-11-14 22:35:03<br/>
 <br/>
 ### 告発の行方
 reviewed in 2021-11-14 22:35:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzYyNzYzMGQtODgwNi00YjNlLWEwNjQtYjI2MDQxNDlhYmYxXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_FMjpg_UX1280_.jpg" alt="告発の行方"><br/>
 [告発の行方 [PR]](https://amzn.to/3CeRcMI)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
