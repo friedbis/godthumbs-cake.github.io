@@ -44,6 +44,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愛の嵐
+reviewed in 2021-11-14 22:35:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGMwN2M2N2MtMmFjMy00ZmY0LTlmYTgtM2IwZDE5OTc1NTczXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_FMjpg_UX961_.jpg" alt="愛の嵐"><br/>
+[愛の嵐 [PR]](https://amzn.to/3CeX2ha)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 告発の行方
+reviewed in 2021-11-14 22:35:03<br/>
+<br/>
+[告発の行方 [PR]](https://amzn.to/3CeRcMI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 天使のはらわた 赤い教室
 reviewed in 2021-11-14 03:15:04<br/>
 <img src="https://m.media-amazon.com/images/I/41pD7jy5NSL._AC_.jpg" alt="天使のはらわた 赤い教室"><br/>
