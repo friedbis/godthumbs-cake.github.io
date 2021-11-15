@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### グラっちゃお！ #500：COCO
 reviewed in 2021-11-15 21:40:04<br/>
-<br/>
+<img src="https://thetv.jp/i/nw/1012581/10108180.jpg" alt="グラっちゃお！ #500：COCO"><br/>
 [グラっちゃお！ #500：COCO](https://www.entermeitele.com/idol/grachao.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
