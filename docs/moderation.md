@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 仁義なき戦い
+reviewed in 2021-11-15 23:45:04<br/>
+<br/>
+[仁義なき戦い [PR]](https://amzn.to/3Dl3Xqr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+やはり面白い<br/>
 ### グラっちゃお！ #500：COCO
 reviewed in 2021-11-15 21:40:04<br/>
 <img src="https://thetv.jp/i/nw/1012581/10108180.jpg" alt="グラっちゃお！ #500：COCO"><br/>
@@ -154,7 +161,6 @@ reviewed in 2021-11-14 02:30:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 仁義なき戦い
+reviewed in 2021-11-15 23:45:04<br/>
+<br/>
+[仁義なき戦い [PR]](https://amzn.to/3Dl3Xqr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+やはり面白い<br/>
 ### グラっちゃお！ #500：COCO
 reviewed in 2021-11-15 21:40:04<br/>
 <img src="https://thetv.jp/i/nw/1012581/10108180.jpg" alt="グラっちゃお！ #500：COCO"><br/>
