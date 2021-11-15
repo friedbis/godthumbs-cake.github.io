@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### グラっちゃお！ #500：COCO
+reviewed in 2021-11-15 21:40:04<br/>
+<br/>
+[グラっちゃお！ #500：COCO](https://www.entermeitele.com/idol/grachao.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 愛の嵐
 reviewed in 2021-11-14 22:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGMwN2M2N2MtMmFjMy00ZmY0LTlmYTgtM2IwZDE5OTc1NTczXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_FMjpg_UX961_.jpg" alt="愛の嵐"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-11-13 22:05:03<br/>
 [あなたと温泉に行ったら… 下賀茂温泉編 #87 #88](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 八月の濡れた砂
-reviewed in 2021-11-13 11:10:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BM2Q0ZjU0ZmItNTg3Ni00ZjQyLWI4MjEtOTg3ODIxMmM1MjFiXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX500_.jpg" alt="八月の濡れた砂"><br/>
-[八月の濡れた砂 [PR]](https://amzn.to/3kzCf1P)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-名作
+
 <br/>
 ### 索引
 <br/>
@@ -161,6 +161,7 @@ reviewed in 2021-11-13 11:10:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
