@@ -44,13 +44,6 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 奈月セナ セレナーデ
-reviewed in 2021-11-17 22:45:04<br/>
-<img src="https://m.media-amazon.com/images/I/81HNgOfE+ZL._AC_SL1500_.jpg" alt="奈月セナ セレナーデ"><br/>
-[奈月セナ セレナーデ [PR]](https://amzn.to/3nr6yd7)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-The 下乳 of 下乳<br/>
 ### 仁義なき戦い
 reviewed in 2021-11-15 23:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDcyZmE5N2YtODJkMy00YTg0LWIyNjEtZTY1MzdjMjdmOTc2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX1216_.jpg" alt="仁義なき戦い"><br/>
