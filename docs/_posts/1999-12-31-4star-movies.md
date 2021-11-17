@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 仁義なき戦い
 reviewed in 2021-11-15 23:45:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDcyZmE5N2YtODJkMy00YTg0LWIyNjEtZTY1MzdjMjdmOTc2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX1216_.jpg" alt="仁義なき戦い"><br/>
 [仁義なき戦い [PR]](https://amzn.to/3Dl3Xqr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
