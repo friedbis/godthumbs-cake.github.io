@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 実録 夜桜銀次
+reviewed in 2021-11-18 00:00:05<br/>
+<br/>
+[実録 夜桜銀次](https://eigadb.com/10032691)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+松田優作の歌がよい。<br/>
 ### 女神降臨 総集編22 #159
 reviewed in 2021-11-17 23:30:04<br/>
 <br/>

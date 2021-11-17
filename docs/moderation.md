@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 実録 夜桜銀次
+reviewed in 2021-11-18 00:00:05<br/>
+<br/>
+[実録 夜桜銀次](https://eigadb.com/10032691)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+松田優作の歌がよい。<br/>
 ### 女神降臨 総集編22 #159
 reviewed in 2021-11-17 23:30:04<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2021-11-14 22:35:03<br/>
 [告発の行方 [PR]](https://amzn.to/3CeRcMI)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 天使のはらわた 赤い教室
-reviewed in 2021-11-14 03:15:04<br/>
-<img src="https://m.media-amazon.com/images/I/41pD7jy5NSL._AC_.jpg" alt="天使のはらわた 赤い教室"><br/>
-[天使のはらわた 赤い教室 [PR]](https://amzn.to/3c5KSwC)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
