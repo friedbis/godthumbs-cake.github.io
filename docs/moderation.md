@@ -50,7 +50,7 @@ reviewed in 2021-11-18 01:15:03<br/>
 [松本清張の断線 [PR]](https://amzn.to/30xmDEO)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+蘇る金狼の方が卑猥さはある。<br/>
 ### 実録 夜桜銀次
 reviewed in 2021-11-18 00:00:05<br/>
 <br/>
