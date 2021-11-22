@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 最も危険な遊戯
+reviewed in 2021-11-22 16:20:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTNlNDg3OTItZjU2Ni00ODgzLTgzMWYtYzFiNjg5YWRiZGRhXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_FMjpg_UX500_.jpg" alt="最も危険な遊戯"><br/>
+[最も危険な遊戯 [PR]](https://amzn.to/3cD3x2V)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+非常に良いバランス。<br/>
 ### 仁義なき戦い
 reviewed in 2021-11-15 23:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDcyZmE5N2YtODJkMy00YTg0LWIyNjEtZTY1MzdjMjdmOTc2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX1216_.jpg" alt="仁義なき戦い"><br/>
