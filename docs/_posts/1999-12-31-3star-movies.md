@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 肉弾
+reviewed in 2021-11-23 02:40:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDdhODJmNDItYTM3Yi00N2Q0LThkZDEtYjY3YThlYjU4MTQ2XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_FMjpg_UX457_.jpg" alt="肉弾"><br/>
+[肉弾 [PR]](https://amzn.to/2ZhGJTy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 愛虐の昼顔妻
 reviewed in 2021-11-23 01:05:03<br/>
 <br/>
