@@ -72,13 +72,6 @@ reviewed in 2021-11-15 21:40:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### 女からの眺め
-reviewed in 2021-11-14 22:35:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMGMwN2M2N2MtMmFjMy00ZmY0LTlmYTgtM2IwZDE5OTc1NTczXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_FMjpg_UX961_.jpg" alt="女からの眺め"><br/>
-[女からの眺め [PR]](https://amzn.to/3CeX2ha)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 告発の行方
 reviewed in 2021-11-14 22:35:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzYyNzYzMGQtODgwNi00YjNlLWEwNjQtYjI2MDQxNDlhYmYxXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_FMjpg_UX1280_.jpg" alt="告発の行方"><br/>
