@@ -1177,7 +1177,7 @@ reviewed in 2021-8-23 15:02:11<br/>
 [童貞幽霊 あの世の果てでイキまくれ！](https://www.necoweb.com/neco/program/detail.php?id=5533)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+TV版とR18版で同じタイトル？<br/>
 ### 翻弄された献身妻
 reviewed in 2021-8-23 15:02:11<br/>
 <br/>
