@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女の眺め
+reviewed in 2021-11-26 22:20:03<br/>
+<br/>
+[女の眺め](http://www.tvdrama-db.com/drama_info/p/id-23355)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+城源寺くるみさんのが見れる。 あと、川上麻衣子さんのが少し。<br/>
 ### 嬢王輪舞曲 時をかけるキャバ嬢と極上の一夜
 reviewed in 2021-11-26 00:20:03<br/>
 <br/>
