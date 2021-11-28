@@ -701,7 +701,7 @@ reviewed in 2021-9-4 21:20:04<br/>
 [野獣刑事 [PR]](https://amzn.to/3DK0zpL)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+いしだあゆみさんの関西弁素敵やんな<br/>
 ### さよならみどりちゃん
 reviewed in 2021-9-4 21:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGZhNjEwMjktZjMxMy00ZjZhLThmYjItZGVmM2E4ZDNmYjlmXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX250_.jpg" alt="さよならみどりちゃん"><br/>
