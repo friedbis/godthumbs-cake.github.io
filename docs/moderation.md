@@ -50,7 +50,7 @@ reviewed in 2021-11-30 17:45:03<br/>
 [トラック野郎 爆走一番星 [PR]](https://amzn.to/315Lssp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-トルコ嬢との談話シーンがよいんだけど、春川ますみママが結構好きかも。<br/>
+トルコ嬢との談話シーンがよいんだけど、春川ますみママが結構好きかも。でもどちらもこのポスターに載っていないのが残念。<br/>
 ### マリッジリング
 reviewed in 2021-11-30 17:45:03<br/>
 <br/>
