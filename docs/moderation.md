@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### アーメン！熟女シスター
+reviewed in 2021-12-5 00:20:04<br/>
+<br/>
+[アーメン！熟女シスター [PR]](https://amzn.to/32P4svw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+熟女シスター 巨乳でアーメン!（別タイトル）<br/>
 ### マネーハンター美鈴 極嬢が企む甘くキケンな誘惑
 reviewed in 2021-12-4 00:55:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2021-11-26 00:20:03<br/>
 [嬢王輪舞曲 時をかけるキャバ嬢と極上の一夜 [PR]](https://amzn.to/3xn2hdM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-斬新なストーリー<br/>
-### 多重不倫
-reviewed in 2021-11-25 23:35:03<br/>
-<br/>
-[多重不倫 [PR]](https://amzn.to/3cLe8ce)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+斬新なストーリー
 <br/>
 ### 索引
 <br/>
