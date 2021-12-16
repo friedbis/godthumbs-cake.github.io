@@ -50,7 +50,7 @@ reviewed in 2021-12-16 22:55:04<br/>
 [こえをきかせて [PR]](https://amzn.to/3s0vcUw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ダイナマイト<br/>
 ### Sweet Angel 総集編 13 #91
 reviewed in 2021-12-9 00:45:04<br/>
 <br/>
