@@ -46,11 +46,11 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### こえをきかせて
 reviewed in 2021-12-16 22:55:04<br/>
-<br/>
+<img src="https://cv.bkmkn.kodansha.co.jp/06A0000000000135954J/06A0000000000135954J_w.jpg" alt="こえをきかせて"><br/>
 [こえをきかせて [PR]](https://amzn.to/3s0vcUw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ダイナマイト<br/>
+ダイナマイト。<br/>
 ### Sweet Angel 総集編 13 #91
 reviewed in 2021-12-9 00:45:04<br/>
 <br/>
