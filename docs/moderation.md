@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 新・嬢王ゲーム SEX or LOVE
+reviewed in 2021-12-18 21:45:05<br/>
+<br/>
+[新・嬢王ゲーム SEX or LOVE [PR]](https://amzn.to/3p3NJxk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+おしぼり会社の人の話が面白かった。抗ウイルスおしぼりの話に笑ってしまった。おしぼりの抗〇〇って駄目じゃんと。<br/>
 ### こえをきかせて
 reviewed in 2021-12-16 22:55:04<br/>
 <img src="https://cv.bkmkn.kodansha.co.jp/06A0000000000135954J/06A0000000000135954J_w.jpg" alt="こえをきかせて"><br/>
@@ -154,7 +161,6 @@ reviewed in 2021-12-4 00:45:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

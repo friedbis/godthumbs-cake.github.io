@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 新・嬢王ゲーム SEX or LOVE
+reviewed in 2021-12-18 21:45:05<br/>
+<br/>
+[新・嬢王ゲーム SEX or LOVE [PR]](https://amzn.to/3p3NJxk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+おしぼり会社の人の話が面白かった。抗ウイルスおしぼりの話に笑ってしまった。おしぼりの抗〇〇って駄目じゃんと。<br/>
 ### 恥じらいの若妻
 reviewed in 2021-12-14 12:35:03<br/>
 <br/>
