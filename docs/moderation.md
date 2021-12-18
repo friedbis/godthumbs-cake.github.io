@@ -50,7 +50,7 @@ reviewed in 2021-12-18 21:45:05<br/>
 [新・嬢王ゲーム SEX or LOVE [PR]](https://amzn.to/3p3NJxk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-おしぼり会社の人の話が面白かった。抗ウイルスおしぼりの話に笑ってしまった。おしぼりの抗〇〇って駄目じゃんと。<br/>
+おしぼり会社の人の話が面白かった。抗ウイルスおしぼりの話に笑ってしまった。おしぼりの抗〇〇って駄目じゃんと。、、、、って書いたあとに調べたら出るわ出るわ抗ウイルスおしぼり。えーなんで？だって手に付いたいろんなものを拭ってほしいのに抗ウイルスだったらいろんなバイキン弾きそうじゃん。<br/>
 ### こえをきかせて
 reviewed in 2021-12-16 22:55:04<br/>
 <img src="https://cv.bkmkn.kodansha.co.jp/06A0000000000135954J/06A0000000000135954J_w.jpg" alt="こえをきかせて"><br/>
