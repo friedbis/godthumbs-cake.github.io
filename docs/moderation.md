@@ -48,9 +48,9 @@ title: Impression
 reviewed in 2021-12-19 10:05:03<br/>
 <br/>
 [エロスは蒲団の香り [PR]](https://amzn.to/3236LLJ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ストーリーはよいと思う。<br/>
 ### 新・嬢王ゲーム SEX or LOVE
 reviewed in 2021-12-18 21:45:05<br/>
 <br/>

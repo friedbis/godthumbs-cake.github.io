@@ -44,6 +44,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エロスは蒲団の香り
+reviewed in 2021-12-19 10:05:03<br/>
+<br/>
+[エロスは蒲団の香り [PR]](https://amzn.to/3236LLJ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ストーリーはよいと思う。<br/>
 ### デリシャスボディガール・瞳 超高級食パンのセクシーディナーを召し上がれ
 reviewed in 2021-12-11 06:15:03<br/>
 <br/>
