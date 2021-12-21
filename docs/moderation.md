@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### 大日本帝国
 reviewed in 2021-12-21 12:55:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmI4OTJlM2UtMjU5MC00YjQ4LWJlNmQtMTI3MDQwMzIzZDE3XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_FMjpg_UX400_.jpg" alt="大日本帝国"><br/>
 [大日本帝国 [PR]](https://amzn.to/3FbmZ3z)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
