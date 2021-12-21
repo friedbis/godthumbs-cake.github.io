@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 大日本帝国
+reviewed in 2021-12-21 12:55:03<br/>
+<br/>
+[大日本帝国 [PR]](https://amzn.to/3FbmZ3z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+徴兵前に何回もするところが良い。<br/>
 ### ITバブルと寝た女たち
 reviewed in 2021-12-19 14:25:03<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2021-12-5 11:10:04<br/>
 [戸田れい/アールグレイ~こころに残る美尻の味わい [PR]](https://amzn.to/3dq1W0I)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### アーメン！熟女シスター
-reviewed in 2021-12-5 00:20:04<br/>
-<br/>
-[アーメン！熟女シスター [PR]](https://amzn.to/32P4svw)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-熟女シスター 巨乳でアーメン!（別タイトル）
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

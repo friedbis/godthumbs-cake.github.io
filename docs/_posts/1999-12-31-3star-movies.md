@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 大日本帝国
+reviewed in 2021-12-21 12:55:03<br/>
+<br/>
+[大日本帝国 [PR]](https://amzn.to/3FbmZ3z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+徴兵前に何回もするところが良い。<br/>
 ### 新・嬢王ゲーム SEX or LOVE
 reviewed in 2021-12-18 21:45:05<br/>
 <br/>
