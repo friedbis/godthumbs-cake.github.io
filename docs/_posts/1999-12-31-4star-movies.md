@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 後妻業の悪女
+reviewed in 2021-12-22 21:25:03<br/>
+<br/>
+[後妻業の悪女 [PR]](https://www.amazon.co.jp/gp/video/detail/B08HHVD6QX/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ストーリーとからみが秀逸。<br/>
 ### こえをきかせて
 reviewed in 2021-12-16 22:55:04<br/>
 <img src="https://cv.bkmkn.kodansha.co.jp/06A0000000000135954J/06A0000000000135954J_w.jpg" alt="こえをきかせて"><br/>
