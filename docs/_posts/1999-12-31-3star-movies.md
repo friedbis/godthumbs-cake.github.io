@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 悪魔が来りて笛を吹く
+reviewed in 2021-12-22 20:00:04<br/>
+<br/>
+[悪魔が来りて笛を吹く [PR]](https://amzn.to/3EltcJ4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+鰐淵晴子さんのベッドシーン<br/>
 ### 大日本帝国
 reviewed in 2021-12-21 12:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmI4OTJlM2UtMjU5MC00YjQ4LWJlNmQtMTI3MDQwMzIzZDE3XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_FMjpg_UX400_.jpg" alt="大日本帝国"><br/>
