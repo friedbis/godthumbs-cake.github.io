@@ -46,14 +46,14 @@ title: 1つ星の映画・ドラマ
 <br/>
 ### ITバブルと寝た女たち
 reviewed in 2021-12-19 14:25:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/41AXQZEjhBL._AC_.jpg" alt="ITバブルと寝た女たち"><br/>
 [ITバブルと寝た女たち [PR]](https://amzn.to/3J5h4ze)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ストーリーはよいと思う。<br/>
 ### エロスは蒲団の香り
 reviewed in 2021-12-19 10:05:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/81lQkpmY+sL._AC_SL1085_.jpg" alt="エロスは蒲団の香り"><br/>
 [エロスは蒲団の香り [PR]](https://amzn.to/3236LLJ)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

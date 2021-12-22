@@ -46,7 +46,7 @@ title: 3つ星の映画・ドラマ
 <br/>
 ### 悪魔が来りて笛を吹く
 reviewed in 2021-12-22 20:00:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjUwNjE0ZmQtYTEzNC00MjYxLTkyOWQtNTRlNDAzNzdmZjgxXkEyXkFqcGdeQXVyMTk3NTc0MTk@._V1_FMjpg_UX640_.jpg" alt="悪魔が来りて笛を吹く"><br/>
 [悪魔が来りて笛を吹く [PR]](https://amzn.to/3EltcJ4)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -60,7 +60,7 @@ reviewed in 2021-12-21 12:55:03<br/>
 徴兵前に何回もするところが良い。<br/>
 ### 新・嬢王ゲーム SEX or LOVE
 reviewed in 2021-12-18 21:45:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/61Ax0znHDfL._AC_.jpg" alt="新・嬢王ゲーム SEX or LOVE"><br/>
 [新・嬢王ゲーム SEX or LOVE [PR]](https://amzn.to/3p3NJxk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
