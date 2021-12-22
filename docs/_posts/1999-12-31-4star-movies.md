@@ -46,7 +46,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 後妻業の悪女
 reviewed in 2021-12-22 21:25:03<br/>
-<br/>
+<img src="https://cdn.img.tsutaya-tv.net/img/10101/101013231/101013231_1_c_sp_l.jpg" alt="後妻業の悪女"><br/>
 [後妻業の悪女 [PR]](https://www.amazon.co.jp/gp/video/detail/B08HHVD6QX/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

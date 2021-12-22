@@ -44,10 +44,10 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 快楽写真館
+### 快楽写真館 ~エロスは暗室の中に~
 reviewed in 2021-12-22 20:25:03<br/>
-<br/>
-[快楽写真館 [PR]](https://amzn.to/3JaScpP)<br/>
+<img src="https://m.media-amazon.com/images/I/81ENcHu-ckL._AC_SL1500_.jpg" alt="快楽写真館 ~エロスは暗室の中に~"><br/>
+[快楽写真館 ~エロスは暗室の中に~ [PR]](https://amzn.to/3JaScpP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 安定の古川いおりさん<br/>

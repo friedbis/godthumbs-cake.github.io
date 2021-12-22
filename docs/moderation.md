@@ -46,15 +46,15 @@ title: Impression
 <br/>
 ### 後妻業の悪女
 reviewed in 2021-12-22 21:25:03<br/>
-<br/>
+<img src="https://cdn.img.tsutaya-tv.net/img/10101/101013231/101013231_1_c_sp_l.jpg" alt="後妻業の悪女"><br/>
 [後妻業の悪女 [PR]](https://www.amazon.co.jp/gp/video/detail/B08HHVD6QX/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ストーリーとからみが秀逸。<br/>
-### 快楽写真館
+### 快楽写真館 ~エロスは暗室の中に~
 reviewed in 2021-12-22 20:25:03<br/>
-<br/>
-[快楽写真館 [PR]](https://amzn.to/3JaScpP)<br/>
+<img src="https://m.media-amazon.com/images/I/81ENcHu-ckL._AC_SL1500_.jpg" alt="快楽写真館 ~エロスは暗室の中に~"><br/>
+[快楽写真館 ~エロスは暗室の中に~ [PR]](https://amzn.to/3JaScpP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 安定の古川いおりさん<br/>
