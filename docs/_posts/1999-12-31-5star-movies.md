@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ドリーマーズ
+reviewed in 2021-12-26 11:40:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmFjNWYwNjUtMTk5OS00ODc5LTk5ZTUtMjVkYjFkZTMwYzI0XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_FMjpg_UX1280_.jpg" alt="ドリーマーズ"><br/>
+[ドリーマーズ [PR]](https://amzn.to/3mAszW1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+エヴァ・グリーンさんが素敵すぎる<br/>
 ### 猟人日記
 reviewed in 2021-12-26 09:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BY2RkYzMxZTUtMmFiYy00M2JhLTlhNWMtZmE1MWNhMjMyMDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX600_.jpg" alt="猟人日記"><br/>
