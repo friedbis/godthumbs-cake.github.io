@@ -106,13 +106,6 @@ reviewed in 2021-12-19 14:25:03<br/>
 [ITバブルと寝た女たち [PR]](https://amzn.to/3J5h4ze)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ストーリーはよいと思う。<br/>
-### エロスは蒲団の香り
-reviewed in 2021-12-19 10:05:03<br/>
-<img src="https://m.media-amazon.com/images/I/81lQkpmY+sL._AC_SL1085_.jpg" alt="エロスは蒲団の香り"><br/>
-[エロスは蒲団の香り [PR]](https://amzn.to/3236LLJ)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 ストーリーはよいと思う。
 <br/>
 ### 索引
@@ -161,6 +154,7 @@ reviewed in 2021-12-19 10:05:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
