@@ -106,14 +106,7 @@ reviewed in 2021-12-21 12:55:03<br/>
 [大日本帝国 [PR]](https://amzn.to/3FbmZ3z)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-徴兵前に何回もするところが良い。<br/>
-### ITバブルと寝た女たち
-reviewed in 2021-12-19 14:25:03<br/>
-<img src="https://m.media-amazon.com/images/I/41AXQZEjhBL._AC_.jpg" alt="ITバブルと寝た女たち"><br/>
-[ITバブルと寝た女たち [PR]](https://amzn.to/3J5h4ze)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ストーリーはよいと思う。
+徴兵前に何回もするところが良い。
 <br/>
 ### 索引
 <br/>
@@ -161,6 +154,7 @@ reviewed in 2021-12-19 14:25:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
