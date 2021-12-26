@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### さらば愛しき大地
+reviewed in 2021-12-26 09:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODc1YjdlNmQtY2NiOC00ZGM1LTk2MTktODdmMzM2YWFiMmIyXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX581_.jpg" alt="さらば愛しき大地"><br/>
+[さらば愛しき大地 [PR]](https://amzn.to/32Cz4Ac)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+演出・脚本が今じゃ絶対やらないだろうなって感じのが多い。山口美也子さんとのからみがよい。余談だが、秋吉久美子さんの危うさというか憂いのある感じの女性は当時の夜の街には結構いたと思う。<br/>
 ### 黒い牝豹M
 reviewed in 2021-12-26 09:05:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWMwNWYyOGItZWEzNi00YTU1LWFiN2MtMDc5N2M0ZGRhNGI4XkEyXkFqcGdeQXVyMTY4MTc4NA@@._V1_FMjpg_UX533_.jpg" alt="黒い牝豹M"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-12-19 10:05:03<br/>
 [エロスは蒲団の香り [PR]](https://amzn.to/3236LLJ)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ストーリーはよいと思う。<br/>
-### 新・嬢王ゲーム SEX or LOVE
-reviewed in 2021-12-18 21:45:05<br/>
-<img src="https://m.media-amazon.com/images/I/61Ax0znHDfL._AC_.jpg" alt="新・嬢王ゲーム SEX or LOVE"><br/>
-[新・嬢王ゲーム SEX or LOVE [PR]](https://amzn.to/3p3NJxk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-おしぼり会社の人の話が面白かった。抗ウイルスおしぼりの話に笑ってしまった。おしぼりの抗〇〇って駄目じゃんと。、、、、って書いたあとに調べたら出るわ出るわ抗ウイルスおしぼり。えーなんで？だって手に付いたいろんなものを拭ってほしいのに抗ウイルスだったらいろんなバイキン弾きそうじゃん。
+ストーリーはよいと思う。
 <br/>
 ### 索引
 <br/>
