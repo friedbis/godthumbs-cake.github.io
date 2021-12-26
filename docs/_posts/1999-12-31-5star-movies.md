@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 猟人日記
+reviewed in 2021-12-26 09:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BY2RkYzMxZTUtMmFiYy00M2JhLTlhNWMtZmE1MWNhMjMyMDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX600_.jpg" alt="猟人日記"><br/>
+[猟人日記 [PR]](https://amzn.to/3yWuLfs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+脚本が素晴らしいし、何より出演者の演技が素晴らしい。<br/>
 ### 女神降臨 藤田恵名 #141
 reviewed in 2021-11-17 23:10:04<br/>
 <img src="https://img.hmv.co.jp/image/jacket/400/86/9/2/788.jpg" alt="女神降臨 藤田恵名 #141"><br/>
