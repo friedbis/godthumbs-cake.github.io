@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 闇に抱かれて
+reviewed in 2021-12-29 03:05:03<br/>
+<img src="https://cdn.img.tsutaya-tv.net/img/10101/101016037/101016037_1_c_sp_l.jpg" alt="闇に抱かれて"><br/>
+[闇に抱かれて [PR]](https://amzn.to/3pBaMju)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+風祭ゆきさんが素敵すぎた。<br/>
 ### 生贄の女たち
 reviewed in 2021-12-29 02:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGViYmZhMDctYTI0MS00OGI4LWFkMmQtNTgxMDQ1MzQ4N2U4XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX407_.jpg" alt="生贄の女たち"><br/>
@@ -106,17 +113,11 @@ reviewed in 2021-12-25 00:10:03<br/>
 [スケベな三兄妹 [PR]](https://amzn.to/32AgpFd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-コメディとしては「艶色女体巡り」の次に面白い。<br/>
-### 後妻業の悪女
-reviewed in 2021-12-22 21:25:03<br/>
-<img src="https://cdn.img.tsutaya-tv.net/img/10101/101013231/101013231_1_c_sp_l.jpg" alt="後妻業の悪女"><br/>
-[後妻業の悪女 [PR]](https://www.amazon.co.jp/gp/video/detail/B08HHVD6QX/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ストーリーとからみが秀逸。
+コメディとしては「艶色女体巡り」の次に面白い。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
