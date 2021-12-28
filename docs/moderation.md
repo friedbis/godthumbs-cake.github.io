@@ -50,7 +50,7 @@ reviewed in 2021-12-29 03:05:03<br/>
 [闇に抱かれて [PR]](https://amzn.to/3pBaMju)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-風祭ゆきさんが素敵すぎた。<br/>
+風祭ゆきさんが素敵すぎた<br/>
 ### 生贄の女たち
 reviewed in 2021-12-29 02:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGViYmZhMDctYTI0MS00OGI4LWFkMmQtNTgxMDQ1MzQ4N2U4XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX407_.jpg" alt="生贄の女たち"><br/>
@@ -117,7 +117,6 @@ reviewed in 2021-12-25 00:10:03<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

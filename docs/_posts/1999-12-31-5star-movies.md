@@ -50,7 +50,7 @@ reviewed in 2021-12-29 03:05:03<br/>
 [闇に抱かれて [PR]](https://amzn.to/3pBaMju)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-風祭ゆきさんが素敵すぎた。<br/>
+風祭ゆきさんが素敵すぎた<br/>
 ### ドリーマーズ
 reviewed in 2021-12-26 11:40:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmFjNWYwNjUtMTk5OS00ODc5LTk5ZTUtMjVkYjFkZTMwYzI0XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_FMjpg_UX1280_.jpg" alt="ドリーマーズ"><br/>
