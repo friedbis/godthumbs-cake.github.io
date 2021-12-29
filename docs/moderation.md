@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 義母たちの誘惑
+reviewed in 2021-12-30 05:30:03<br/>
+<br/>
+[義母たちの誘惑 [PR]](https://amzn.to/3mFlWl2)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+「義母のススメ 妻の母、湧きデル甘汁」　「義母愛 強制輪姦」　「妻の母と同居します 愛欲に溺れた性活」<br/>
 ### 極道アパート メゾン・ド・エロスへようこそ!
 reviewed in 2021-12-30 04:50:04<br/>
 <img src="https://m.media-amazon.com/images/I/517QRV+BUWS._AC_.jpg" alt="極道アパート メゾン・ド・エロスへようこそ!"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-12-26 09:30:04<br/>
 [猟人日記 [PR]](https://amzn.to/3yWuLfs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-脚本が素晴らしいし、何より出演者の演技が素晴らしい。<br/>
-### さらば愛しき大地
-reviewed in 2021-12-26 09:20:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODc1YjdlNmQtY2NiOC00ZGM1LTk2MTktODdmMzM2YWFiMmIyXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX581_.jpg" alt="さらば愛しき大地"><br/>
-[さらば愛しき大地 [PR]](https://amzn.to/32Cz4Ac)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-演出・脚本が今じゃ絶対やらないだろうなって感じのが多い。山口美也子さんとのからみがよい。余談だが、秋吉久美子さんの危うさというか憂いのある感じの女性は当時の夜の街には結構いたと思う。
+脚本が素晴らしいし、何より出演者の演技が素晴らしい。
 <br/>
 ### 索引
 <br/>
