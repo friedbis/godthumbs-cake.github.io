@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 札幌・横浜・雄琴・博多 トルコ渡り鳥
+reviewed in 2021-12-30 04:30:04<br/>
+<img src="https://shop25-makeshop.akamaized.net/shopimages/toeivideo/0000000096322_dtEjrcN.jpg" alt="札幌・横浜・雄琴・博多 トルコ渡り鳥"><br/>
+[札幌・横浜・雄琴・博多 トルコ渡り鳥](https://shop.toei-video.co.jp/view/item/000000009632)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 闇に抱かれて
 reviewed in 2021-12-29 03:05:03<br/>
 <img src="https://cdn.img.tsutaya-tv.net/img/10101/101016037/101016037_1_c_sp_l.jpg" alt="闇に抱かれて"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-12-25 12:25:03<br/>
 [つれこむ女　ハレンチ異空間 [PR]](https://www.amazon.co.jp/gp/video/detail/B08X4B37J7/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-つれこむ女 したがりぼっち（R18版）<br/>
-### スケベな三兄妹
-reviewed in 2021-12-25 00:10:03<br/>
-<br/>
-[スケベな三兄妹 [PR]](https://amzn.to/32AgpFd)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-コメディとしては「艶色女体巡り」の次に面白い。
+つれこむ女 したがりぼっち（R18版）
 <br/>
 ### 索引
 <br/>
@@ -161,6 +161,7 @@ reviewed in 2021-12-25 00:10:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
