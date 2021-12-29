@@ -50,7 +50,7 @@ reviewed in 2021-12-29 02:40:03<br/>
 [暴行切り裂きジャック [PR]](https://amzn.to/3mGzE7g)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+本当どうしようもない連中。<br/>
 ### さらば愛しき大地
 reviewed in 2021-12-26 09:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODc1YjdlNmQtY2NiOC00ZGM1LTk2MTktODdmMzM2YWFiMmIyXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX581_.jpg" alt="さらば愛しき大地"><br/>
