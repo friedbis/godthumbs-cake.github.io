@@ -50,7 +50,7 @@ reviewed in 2021-12-30 04:30:04<br/>
 [札幌・横浜・雄琴・博多 トルコ渡り鳥](https://shop.toei-video.co.jp/view/item/000000009632)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ドキュメンタリーっぽくしたのが<br/>
+ドキュメンタリーっぽくしたのが今では異色に映る<br/>
 ### 生贄の女たち
 reviewed in 2021-12-29 02:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGViYmZhMDctYTI0MS00OGI4LWFkMmQtNTgxMDQ1MzQ4N2U4XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX407_.jpg" alt="生贄の女たち"><br/>
