@@ -50,7 +50,7 @@ reviewed in 2021-12-30 04:40:03<br/>
 [愛欲怪談　人妻と愛人に宿る霊 [PR]](https://amzn.to/3ED558P)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-変態怪談　し放題され放題（R18版）<br/>
+変態怪談　し放題され放題（R18版） やさしい男 女淫霊いわく憑き物件（別タイトル）<br/>
 ### ITバブルと寝た女たち
 reviewed in 2021-12-19 14:25:03<br/>
 <img src="https://m.media-amazon.com/images/I/41AXQZEjhBL._AC_.jpg" alt="ITバブルと寝た女たち"><br/>
