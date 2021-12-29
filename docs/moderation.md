@@ -50,7 +50,7 @@ reviewed in 2021-12-30 04:30:04<br/>
 [札幌・横浜・雄琴・博多 トルコ渡り鳥](https://shop.toei-video.co.jp/view/item/000000009632)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ドキュメンタリーっぽくしたのが<br/>
 ### 闇に抱かれて
 reviewed in 2021-12-29 03:05:03<br/>
 <img src="https://cdn.img.tsutaya-tv.net/img/10101/101016037/101016037_1_c_sp_l.jpg" alt="闇に抱かれて"><br/>
@@ -161,7 +161,6 @@ reviewed in 2021-12-25 12:25:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
