@@ -106,11 +106,17 @@ reviewed in 2021-12-26 09:30:04<br/>
 [猟人日記 [PR]](https://amzn.to/3yWuLfs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-脚本が素晴らしいし、何より出演者の演技が素晴らしい。
+脚本が素晴らしいし、何より出演者の演技が素晴らしい。<br/>
+### さらば愛しき大地
+reviewed in 2021-12-26 09:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODc1YjdlNmQtY2NiOC00ZGM1LTk2MTktODdmMzM2YWFiMmIyXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX581_.jpg" alt="さらば愛しき大地"><br/>
+[さらば愛しき大地 [PR]](https://amzn.to/32Cz4Ac)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+演出・脚本が今じゃ絶対やらないだろうなって感じのが多い。山口美也子さんとのからみがよい。余談だが、秋吉久美子さんの危うさというか憂いのある感じの女性は当時の夜の街には結構いたと思う。
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
