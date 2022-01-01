@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### えろぼん! オヤジとムスコの性春日記
+reviewed in 2022-1-1 12:30:04<br/>
+<br/>
+[えろぼん! オヤジとムスコの性春日記 [PR]](https://amzn.to/3EKMB6v)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+年相応のシナリオがささる。<br/>
 ### 闇に抱かれて
 reviewed in 2021-12-29 03:05:03<br/>
 <img src="https://cdn.img.tsutaya-tv.net/img/10101/101016037/101016037_1_c_sp_l.jpg" alt="闇に抱かれて"><br/>
