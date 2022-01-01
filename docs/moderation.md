@@ -106,14 +106,7 @@ reviewed in 2021-12-26 11:35:03<br/>
 [処刑軍団ザップ [PR]](https://amzn.to/3eq9GR6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 猟人日記
-reviewed in 2021-12-26 09:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BY2RkYzMxZTUtMmFiYy00M2JhLTlhNWMtZmE1MWNhMjMyMDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_FMjpg_UX600_.jpg" alt="猟人日記"><br/>
-[猟人日記 [PR]](https://amzn.to/3yWuLfs)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-脚本が素晴らしいし、何より出演者の演技が素晴らしい。
+
 <br/>
 ### 索引
 <br/>
@@ -161,6 +154,7 @@ reviewed in 2021-12-26 09:30:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
