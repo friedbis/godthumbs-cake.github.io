@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ゴーギャン タヒチ、楽園への旅
+reviewed in 2022-1-2 16:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTQ0ZDlkNWUtNGI0OC00ZTVjLTk3NjMtNTE3YzNkOTg5NDJiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="ゴーギャン タヒチ、楽園への旅"><br/>
+[ゴーギャン タヒチ、楽園への旅 [PR]](https://amzn.to/3JxCEwK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ヴァンサン・カッセルがここまでゴーギャンに寄せてくるとは。<br/>
 ### さすらいの女神(ディーバ)たち
 reviewed in 2022-1-2 16:05:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmNkYmQ3MjktMDQwZi00NmI3LTkxNWItMjZiNjM3YzdmMTZhXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_FMjpg_UX728_.jpg" alt="さすらいの女神(ディーバ)たち"><br/>
