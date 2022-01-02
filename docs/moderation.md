@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 墨東綺譚
+reviewed in 2022-1-2 15:55:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYWU0NTUxNTQtNjA3Ni00MTk4LWFiMTEtOTdiMWE1MGU4NjNiXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UX680_.jpg" alt="墨東綺譚"><br/>
+[墨東綺譚 [PR]](https://amzn.to/3zjj4jd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+墨田ユキさんの魅力はやはりデビュー作。<br/>
 ### 台風クラブ
 reviewed in 2022-1-2 00:50:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjE4ZDk3MzQtMDg2NC00MDNiLTg1YWQtY2QwZjQ3ZTA4MGVjXkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_FMjpg_UX1001_.jpg" alt="台風クラブ"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-12-29 02:40:03<br/>
 [暴行切り裂きジャック [PR]](https://amzn.to/3mGzE7g)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-本当どうしようもない連中。<br/>
-### ドリーマーズ
-reviewed in 2021-12-26 11:40:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNmFjNWYwNjUtMTk5OS00ODc5LTk5ZTUtMjVkYjFkZTMwYzI0XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_FMjpg_UX1280_.jpg" alt="ドリーマーズ"><br/>
-[ドリーマーズ [PR]](https://amzn.to/3mAszW1)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-エヴァ・グリーンさんが素敵すぎる
+本当どうしようもない連中。
 <br/>
 ### 索引
 <br/>

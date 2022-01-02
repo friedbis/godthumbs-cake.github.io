@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 墨東綺譚
+reviewed in 2022-1-2 15:55:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYWU0NTUxNTQtNjA3Ni00MTk4LWFiMTEtOTdiMWE1MGU4NjNiXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UX680_.jpg" alt="墨東綺譚"><br/>
+[墨東綺譚 [PR]](https://amzn.to/3zjj4jd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+墨田ユキさんの魅力はやはりデビュー作。<br/>
 ### えろぼん! オヤジとムスコの性春日記
 reviewed in 2022-1-1 12:30:04<br/>
 <br/>
