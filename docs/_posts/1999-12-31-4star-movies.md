@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### さすらいの女神(ディーバ)たち
+reviewed in 2022-1-2 16:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmNkYmQ3MjktMDQwZi00NmI3LTkxNWItMjZiNjM3YzdmMTZhXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_FMjpg_UX728_.jpg" alt="さすらいの女神(ディーバ)たち"><br/>
+[さすらいの女神(ディーバ)たち [PR]](https://amzn.to/32YrkZS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 義母たちの誘惑
 reviewed in 2021-12-30 05:30:03<br/>
 <br/>

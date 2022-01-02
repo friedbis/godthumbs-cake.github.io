@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### さすらいの女神(ディーバ)たち
+reviewed in 2022-1-2 16:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmNkYmQ3MjktMDQwZi00NmI3LTkxNWItMjZiNjM3YzdmMTZhXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_FMjpg_UX728_.jpg" alt="さすらいの女神(ディーバ)たち"><br/>
+[さすらいの女神(ディーバ)たち [PR]](https://amzn.to/32YrkZS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 墨東綺譚
 reviewed in 2022-1-2 15:55:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYWU0NTUxNTQtNjA3Ni00MTk4LWFiMTEtOTdiMWE1MGU4NjNiXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UX680_.jpg" alt="墨東綺譚"><br/>
@@ -99,14 +106,7 @@ reviewed in 2021-12-29 03:05:03<br/>
 [闇に抱かれて [PR]](https://amzn.to/3pBaMju)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-風祭ゆきさんが素敵すぎた<br/>
-### 生贄の女たち
-reviewed in 2021-12-29 02:45:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMGViYmZhMDctYTI0MS00OGI4LWFkMmQtNTgxMDQ1MzQ4N2U4XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_FMjpg_UX407_.jpg" alt="生贄の女たち"><br/>
-[生贄の女たち](https://www.imdb.com/title/tt1294996/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-日米コラボのポルノコメディ
+風祭ゆきさんが素敵すぎた
 <br/>
 ### 索引
 <br/>
