@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 泪壺
+reviewed in 2022-1-4 21:55:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWRmYTY2MTgtZDI3My00ZGZlLWJhM2EtMTgzNWVlZWNmODZiXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_FMjpg_UX327_.jpg" alt="泪壺"><br/>
+[泪壺 [PR]](https://amzn.to/3JythNc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+she has a one in a trillion one.<br/>
 ### ダニエラ 17歳の本能
 reviewed in 2022-1-4 21:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjMxNzMzODA4OV5BMl5BanBnXkFtZTcwNTQ3Nzg3OA@@._V1_FMjpg_UX1280_.jpg" alt="ダニエラ 17歳の本能"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-12-30 04:40:03<br/>
 [愛欲怪談　人妻と愛人に宿る霊 [PR]](https://amzn.to/3ED558P)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-変態怪談　し放題され放題（R18版） やさしい男 女淫霊いわく憑き物件（別タイトル）<br/>
-### 札幌・横浜・雄琴・博多 トルコ渡り鳥
-reviewed in 2021-12-30 04:30:04<br/>
-<img src="https://shop25-makeshop.akamaized.net/shopimages/toeivideo/0000000096322_dtEjrcN.jpg" alt="札幌・横浜・雄琴・博多 トルコ渡り鳥"><br/>
-[札幌・横浜・雄琴・博多 トルコ渡り鳥](https://shop.toei-video.co.jp/view/item/000000009632)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ドキュメンタリーっぽくしたのが今では異色に映る
+変態怪談　し放題され放題（R18版） やさしい男 女淫霊いわく憑き物件（別タイトル）
 <br/>
 ### 索引
 <br/>
