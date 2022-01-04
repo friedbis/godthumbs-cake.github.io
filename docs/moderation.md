@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ダニエラ 17歳の本能
+reviewed in 2022-1-4 21:10:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjMxNzMzODA4OV5BMl5BanBnXkFtZTcwNTQ3Nzg3OA@@._V1_FMjpg_UX1280_.jpg" alt="ダニエラ 17歳の本能"><br/>
+[ダニエラ 17歳の本能 [PR]](https://amzn.to/3JGkB7x)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ゴーギャン タヒチ、楽園への旅
 reviewed in 2022-1-2 16:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTQ0ZDlkNWUtNGI0OC00ZTVjLTk3NjMtNTE3YzNkOTg5NDJiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="ゴーギャン タヒチ、楽園への旅"><br/>
@@ -106,14 +113,7 @@ reviewed in 2021-12-30 04:30:04<br/>
 [札幌・横浜・雄琴・博多 トルコ渡り鳥](https://shop.toei-video.co.jp/view/item/000000009632)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ドキュメンタリーっぽくしたのが今では異色に映る<br/>
-### 闇に抱かれて
-reviewed in 2021-12-29 03:05:03<br/>
-<img src="https://cdn.img.tsutaya-tv.net/img/10101/101016037/101016037_1_c_sp_l.jpg" alt="闇に抱かれて"><br/>
-[闇に抱かれて [PR]](https://amzn.to/3pBaMju)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-風祭ゆきさんが素敵すぎた
+ドキュメンタリーっぽくしたのが今では異色に映る
 <br/>
 ### 索引
 <br/>
@@ -161,6 +161,7 @@ reviewed in 2021-12-29 03:05:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
