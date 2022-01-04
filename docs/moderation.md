@@ -106,7 +106,14 @@ reviewed in 2021-12-30 04:40:03<br/>
 [愛欲怪談　人妻と愛人に宿る霊 [PR]](https://amzn.to/3ED558P)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-変態怪談　し放題され放題（R18版） やさしい男 女淫霊いわく憑き物件（別タイトル）
+変態怪談　し放題され放題（R18版） やさしい男 女淫霊いわく憑き物件（別タイトル）<br/>
+### 札幌・横浜・雄琴・博多 トルコ渡り鳥
+reviewed in 2021-12-30 04:30:04<br/>
+<img src="https://shop25-makeshop.akamaized.net/shopimages/toeivideo/0000000096322_dtEjrcN.jpg" alt="札幌・横浜・雄琴・博多 トルコ渡り鳥"><br/>
+[札幌・横浜・雄琴・博多 トルコ渡り鳥](https://shop.toei-video.co.jp/view/item/000000009632)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ドキュメンタリーっぽくしたのが今では異色に映る
 <br/>
 ### 索引
 <br/>
@@ -154,7 +161,6 @@ reviewed in 2021-12-30 04:40:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
