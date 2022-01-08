@@ -48,7 +48,7 @@ title: Impression
 reviewed in 2022-1-8 10:00:04<br/>
 <br/>
 [ひまわりDays 全身が性感帯 [PR]](https://amzn.to/3K2ba2C)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 不良番長
