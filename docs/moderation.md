@@ -44,13 +44,20 @@ title: Impression
 ## 作品
 
 <br/>
+### グラグラ
+reviewed in 2022-1-11 17:35:04<br/>
+<img src="https://m.media-amazon.com/images/I/71tIGsUzhDL._AC_SL1500_.jpg" alt="グラグラ"><br/>
+[グラグラ [PR]](https://amzn.to/3fbtasZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### さわこの恋 上手な嘘の恋愛講座
 reviewed in 2022-1-11 14:15:04<br/>
 <img src="https://m.media-amazon.com/images/I/515Q0QDOWjL._AC_.jpg" alt="さわこの恋 上手な嘘の恋愛講座"><br/>
 [さわこの恋 上手な嘘の恋愛講座 [PR]](https://amzn.to/34F5fQM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+90年代のあの感じ。あの感じが非常によく出ている。なんというかアンニュイ<br/>
 ### 未亡人のピンクサロン よりどりみどりの熟女たち
 reviewed in 2022-1-11 14:10:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-1-4 21:10:04<br/>
 [TANIZAKI TRIBUTE 神と人との間 [PR]](https://www.amazon.co.jp/dp/B07CCHZWKC/ref=cm_sw_r_as_gl_apa_glt_i_4R19KGW2HJ7GD4DB6M4R?linkCode=ml2&tag=httyf19net-22)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ゴーギャン タヒチ、楽園への旅
-reviewed in 2022-1-2 16:15:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTQ0ZDlkNWUtNGI0OC00ZTVjLTk3NjMtNTE3YzNkOTg5NDJiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="ゴーギャン タヒチ、楽園への旅"><br/>
-[ゴーギャン タヒチ、楽園への旅 [PR]](https://amzn.to/3JxCEwK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ヴァンサン・カッセルがここまでゴーギャンに寄せてくるとは。
+
 <br/>
 ### 索引
 <br/>
@@ -161,6 +161,7 @@ reviewed in 2022-1-2 16:15:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
