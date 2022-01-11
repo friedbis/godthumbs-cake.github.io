@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 未亡人のピンクサロン よりどりみどりの熟女たち
+reviewed in 2022-1-11 14:10:04<br/>
+<br/>
+[未亡人のピンクサロン よりどりみどりの熟女たち [PR]](https://www.amazon.co.jp/dp/B09MMPQHT7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+一連の行為をポイント制にして定量的に評価できたら面白いかも。 悶絶!!未亡人サロン（R18版）<br/>
 ### ダニエラ １７歳の本能
 reviewed in 2022-1-7 12:20:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjMxNzMzODA4OV5BMl5BanBnXkFtZTcwNTQ3Nzg3OA@@._V1_FMjpg_UX1280_.jpg" alt="ダニエラ １７歳の本能"><br/>
