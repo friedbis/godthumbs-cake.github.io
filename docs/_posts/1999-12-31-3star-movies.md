@@ -50,7 +50,7 @@ reviewed in 2022-1-11 14:15:04<br/>
 [さわこの恋 上手な嘘の恋愛講座 [PR]](https://amzn.to/34F5fQM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-90年代のあの感じ。あの感じが非常によく出ている。なんというかアンニュイ<br/>
+90年代のあの感じが非常によく出ている。なんというかアンニュイでナンセンスで意味ない感じといえばよいのか。ただ音楽がよい。<br/>
 ### 世にもエロスな物語〜昇天〜
 reviewed in 2022-1-8 03:40:03<br/>
 <br/>

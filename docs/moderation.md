@@ -57,7 +57,7 @@ reviewed in 2022-1-11 14:15:04<br/>
 [さわこの恋 上手な嘘の恋愛講座 [PR]](https://amzn.to/34F5fQM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-90年代のあの感じ。あの感じが非常によく出ている。なんというかアンニュイ<br/>
+90年代のあの感じが非常によく出ている。なんというかアンニュイでナンセンスで意味ない感じといえばよいのか。ただ音楽がよい。<br/>
 ### 未亡人のピンクサロン よりどりみどりの熟女たち
 reviewed in 2022-1-11 14:10:04<br/>
 <br/>
@@ -161,7 +161,6 @@ reviewed in 2022-1-4 21:10:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
