@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Lady Ninja　～青い影 ～
+reviewed in 2022-1-13 00:10:04<br/>
+<br/>
+[Lady Ninja　～青い影 ～ [PR]](https://amzn.to/33uEKNq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 野獣の城 女囚1316
 reviewed in 2022-1-13 00:00:05<br/>
 <br/>

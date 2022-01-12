@@ -44,6 +44,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 女囚処刑人マリア
+reviewed in 2022-1-13 00:10:04<br/>
+<br/>
+[女囚処刑人マリア [PR]](https://amzn.to/33bl6Gk)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### Lady Ninja　～青い影 ～
+reviewed in 2022-1-13 00:10:04<br/>
+<br/>
+[Lady Ninja　～青い影 ～ [PR]](https://amzn.to/33uEKNq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 野獣の城 女囚1316
 reviewed in 2022-1-13 00:00:05<br/>
 <br/>
@@ -99,14 +113,7 @@ reviewed in 2022-1-7 23:50:03<br/>
 [モーレツ! 透明変態人間 ~透け透けミラクル☆エロス [PR]](https://amzn.to/3n4OmW0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-海空花さんの声が好き。  山岸逢花のスレンダー 凄テク美女が導く究極快感誘惑性交（R18版）<br/>
-### ダニエラ １７歳の本能
-reviewed in 2022-1-7 12:20:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjMxNzMzODA4OV5BMl5BanBnXkFtZTcwNTQ3Nzg3OA@@._V1_FMjpg_UX1280_.jpg" alt="ダニエラ １７歳の本能"><br/>
-[ダニエラ １７歳の本能 [PR]](https://amzn.to/32QJ0H8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+海空花さんの声が好き。  山岸逢花のスレンダー 凄テク美女が導く究極快感誘惑性交（R18版）
 <br/>
 ### 索引
 <br/>
