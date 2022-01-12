@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### どうしようもない恋の唄
+reviewed in 2022-1-13 02:05:03<br/>
+<img src="https://m.media-amazon.com/images/I/81XT-ZQY1WL._AC_SL1500_.jpg" alt="どうしようもない恋の唄"><br/>
+[どうしようもない恋の唄 [PR]](https://amzn.to/3rb7jYq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女猫
 reviewed in 2022-1-13 01:25:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGRkZjEyM2QtMDVhYi00M2Y4LWFiYjQtZjU5ODVmYTQ3NDVhXkEyXkFqcGdeQXVyMTIyNjQ1OTMy._V1_FMjpg_UX1280_.jpg" alt="女猫"><br/>
