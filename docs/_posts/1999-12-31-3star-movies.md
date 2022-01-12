@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女囚処刑人マリア　劇場版
+reviewed in 2022-1-13 00:20:03<br/>
+<br/>
+[女囚処刑人マリア　劇場版 [PR]](https://amzn.to/3fj5seo)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+最初の犠牲者のスケスケ感<br/>
 ### さわこの恋 上手な嘘の恋愛講座
 reviewed in 2022-1-11 14:15:04<br/>
 <img src="https://m.media-amazon.com/images/I/515Q0QDOWjL._AC_.jpg" alt="さわこの恋 上手な嘘の恋愛講座"><br/>
