@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～恥辱と愉悦で揺れる女たち～
+reviewed in 2022-1-14 21:30:06<br/>
+<br/>
+[令和エロス噺～恥辱と愉悦で揺れる女たち～ [PR]](https://amzn.to/34QhOsC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+人妻性奴● 清楚な美人妻が淫らなメス犬に堕ちる一部始終（R18版）  人妻盗撮 覗かれた私性活（R18版）<br/>
 ### 令和エロス噺〜痴態に酔う女たち〜 
 reviewed in 2022-1-14 21:25:03<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2022-1-14 10:05:03<br/>
 [江戸川乱歩の淫獣 [PR]](https://amzn.to/3foGcDy)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 歌舞伎町ブラックスワン
-reviewed in 2022-1-14 09:50:04<br/>
-<br/>
-[歌舞伎町ブラックスワン [PR]](https://amzn.to/3I0vVtC)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-意外に面白かった。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
