@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 友達のお母さん ドキドキ初体験
+reviewed in 2022-1-14 09:15:03<br/>
+<br/>
+[友達のお母さん ドキドキ初体験](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=h_082acce01060/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### どうしようもない恋の唄
 reviewed in 2022-1-13 02:05:03<br/>
 <img src="https://m.media-amazon.com/images/I/81XT-ZQY1WL._AC_SL1500_.jpg" alt="どうしようもない恋の唄"><br/>
@@ -106,14 +113,7 @@ reviewed in 2022-1-11 14:15:04<br/>
 [さわこの恋 上手な嘘の恋愛講座 [PR]](https://amzn.to/34F5fQM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-90年代のあの感じが非常によく出ている。なんというかアンニュイでナンセンスで意味ない感じといえばよいのか。ただ音楽がよい。<br/>
-### 未亡人のピンクサロン よりどりみどりの熟女たち
-reviewed in 2022-1-11 14:10:04<br/>
-<br/>
-[未亡人のピンクサロン よりどりみどりの熟女たち [PR]](https://www.amazon.co.jp/dp/B09MMPQHT7)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-一連の行為をポイント制にして定量的に評価できたら面白いかも。 悶絶!!未亡人サロン（R18版）
+90年代のあの感じが非常によく出ている。なんというかアンニュイでナンセンスで意味ない感じといえばよいのか。ただ音楽がよい。
 <br/>
 ### 索引
 <br/>
@@ -161,6 +161,7 @@ reviewed in 2022-1-11 14:10:04<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
