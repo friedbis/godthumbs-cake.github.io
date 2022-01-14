@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～欲望まみれの情事に溺れる女たち～
+reviewed in 2022-1-14 21:45:03<br/>
+<br/>
+[令和エロス噺～欲望まみれの情事に溺れる女たち～](https://www.necoweb.com/neco/program/detail.php?id=5678)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+肉体の悶（R18版）  奪われた婚約者 逃れられない淫欲の掟（R18版）  バツイチ女と暮らす愛と欲望の部屋（R18版）<br/>
 ### 令和エロス噺～恥辱と愉悦で揺れる女たち～
 reviewed in 2022-1-14 21:30:06<br/>
 <br/>
@@ -99,24 +106,11 @@ reviewed in 2022-1-14 11:20:03<br/>
 [美女メシ！花音のセクシーサンドイッチ [PR]](https://amzn.to/3rfGF0j)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### Another XX ダブルエックス 赤い殺人者
-reviewed in 2022-1-14 10:10:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYzI0ODkyZTQtYTBlNS00YTI5LWJlZDgtZTY2Zjc0OTNiYzYzXkEyXkFqcGdeQXVyNTI0Mzc3Ng@@._V1_FMjpg_UX1055_.jpg" alt="Another XX ダブルエックス 赤い殺人者"><br/>
-[Another XX ダブルエックス 赤い殺人者 [PR]](https://amzn.to/3qp4wvi)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-サスペンスとしてもよくできている。<br/>
-### 江戸川乱歩の淫獣
-reviewed in 2022-1-14 10:05:03<br/>
-<br/>
-[江戸川乱歩の淫獣 [PR]](https://amzn.to/3foGcDy)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
