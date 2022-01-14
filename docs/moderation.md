@@ -106,11 +106,17 @@ reviewed in 2022-1-14 11:20:03<br/>
 [美女メシ！花音のセクシーサンドイッチ [PR]](https://amzn.to/3rfGF0j)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-
+<br/>
+### Another XX ダブルエックス 赤い殺人者
+reviewed in 2022-1-14 10:10:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzI0ODkyZTQtYTBlNS00YTI5LWJlZDgtZTY2Zjc0OTNiYzYzXkEyXkFqcGdeQXVyNTI0Mzc3Ng@@._V1_FMjpg_UX1055_.jpg" alt="Another XX ダブルエックス 赤い殺人者"><br/>
+[Another XX ダブルエックス 赤い殺人者 [PR]](https://amzn.to/3qp4wvi)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+サスペンスとしてもよくできている。
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
