@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～結局求める女たち～
+reviewed in 2022-1-15 03:50:03<br/>
+<br/>
+[令和エロス噺～結局求める女たち～ [PR]](https://amzn.to/3tw5Cr8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+３話目のコメディさで声出して笑った。　　禁断のトライアングル ～逃れられない運命の兄妹交尾～（R18版） 人妻性奴隷（R18版）  私は何度も犯される……。（R18版）<br/>
 ### 令和エロス噺～欲望まみれの情事に溺れる女たち～
 reviewed in 2022-1-14 21:45:03<br/>
 <br/>
@@ -99,21 +106,7 @@ reviewed in 2022-1-14 15:40:03<br/>
 [ヴァンパイア・フレンズ 〜吸血少女の孤独〜 [PR]](https://amzn.to/3nkthXN)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-レズビアン・ヴァンパイア 〜吸血鬼たちとの夏〜（R18版）<br/>
-### 美女メシ！花音のセクシーサンドイッチ
-reviewed in 2022-1-14 11:20:03<br/>
-<br/>
-[美女メシ！花音のセクシーサンドイッチ [PR]](https://amzn.to/3rfGF0j)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### Another XX ダブルエックス 赤い殺人者
-reviewed in 2022-1-14 10:10:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYzI0ODkyZTQtYTBlNS00YTI5LWJlZDgtZTY2Zjc0OTNiYzYzXkEyXkFqcGdeQXVyNTI0Mzc3Ng@@._V1_FMjpg_UX1055_.jpg" alt="Another XX ダブルエックス 赤い殺人者"><br/>
-[Another XX ダブルエックス 赤い殺人者 [PR]](https://amzn.to/3qp4wvi)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-サスペンスとしてもよくできている。
+レズビアン・ヴァンパイア 〜吸血鬼たちとの夏〜（R18版）
 <br/>
 ### 索引
 <br/>
@@ -162,6 +155,7 @@ reviewed in 2022-1-14 10:10:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

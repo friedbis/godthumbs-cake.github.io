@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～結局求める女たち～
+reviewed in 2022-1-15 03:50:03<br/>
+<br/>
+[令和エロス噺～結局求める女たち～ [PR]](https://amzn.to/3tw5Cr8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+３話目のコメディさで声出して笑った。　　禁断のトライアングル ～逃れられない運命の兄妹交尾～（R18版） 人妻性奴隷（R18版）  私は何度も犯される……。（R18版）<br/>
 ### 令和エロス噺～恥辱と愉悦で揺れる女たち～
 reviewed in 2022-1-14 21:30:06<br/>
 <br/>
