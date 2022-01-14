@@ -106,7 +106,14 @@ reviewed in 2022-1-14 10:10:05<br/>
 [Another XX ダブルエックス 赤い殺人者 [PR]](https://amzn.to/3qp4wvi)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-サスペンスとしてもよくできている。
+サスペンスとしてもよくできている。<br/>
+### 江戸川乱歩の淫獣
+reviewed in 2022-1-14 10:05:03<br/>
+<br/>
+[江戸川乱歩の淫獣 [PR]](https://amzn.to/3foGcDy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+
 <br/>
 ### 索引
 <br/>
@@ -155,7 +162,6 @@ reviewed in 2022-1-14 10:10:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
