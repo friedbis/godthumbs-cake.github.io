@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Another XX ダブルエックス 赤い殺人者
+reviewed in 2022-1-14 10:10:05<br/>
+<br/>
+[Another XX ダブルエックス 赤い殺人者 [PR]](https://amzn.to/3qp4wvi)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+サスペンスとしてもよくできている。<br/>
 ### 淫獣
 reviewed in 2022-1-14 10:05:03<br/>
 <br/>

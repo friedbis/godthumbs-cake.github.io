@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### Another XX ダブルエックス 赤い殺人者
+reviewed in 2022-1-14 10:10:05<br/>
+<br/>
+[Another XX ダブルエックス 赤い殺人者 [PR]](https://amzn.to/3qp4wvi)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+サスペンスとしてもよくできている。<br/>
 ### 淫獣
 reviewed in 2022-1-14 10:05:03<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2022-1-13 00:10:04<br/>
 [女囚処刑人マリア [PR]](https://amzn.to/33bl6Gk)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### Lady Ninja　～青い影 ～
-reviewed in 2022-1-13 00:10:04<br/>
-<br/>
-[Lady Ninja　～青い影 ～ [PR]](https://amzn.to/33uEKNq)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
