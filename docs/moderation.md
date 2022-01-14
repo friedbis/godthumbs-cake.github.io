@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ヴァンパイア・フレンズ 〜吸血少女の孤独〜
+reviewed in 2022-1-14 15:40:03<br/>
+<br/>
+[ヴァンパイア・フレンズ 〜吸血少女の孤独〜 [PR]](https://amzn.to/3nkthXN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+レズビアン・ヴァンパイア 〜吸血鬼たちとの夏〜（R18版）<br/>
 ### 美女メシ！花音のセクシーサンドイッチ
 reviewed in 2022-1-14 11:20:03<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-1-13 00:25:03<br/>
 [女囚処刑人マリア2 [PR]](https://amzn.to/3qkDlC3)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 女囚処刑人マリア　劇場版
-reviewed in 2022-1-13 00:20:03<br/>
-<br/>
-[女囚処刑人マリア　劇場版 [PR]](https://amzn.to/3fj5seo)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-最初の犠牲者のスケスケ感
+
 <br/>
 ### 索引
 <br/>
@@ -161,6 +161,7 @@ reviewed in 2022-1-13 00:20:03<br/>
 - [レから始まる映画・ドラマ](/レ-movies.html)
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
+- [ヴから始まる映画・ドラマ](/ヴ-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
