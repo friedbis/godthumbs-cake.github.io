@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 前科おんな殺し節
+reviewed in 2022-1-15 04:00:04<br/>
+<br/>
+[前科おんな殺し節 [PR]](https://amzn.to/34Lmm3f)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 令和エロス噺～結局求める女たち～
 reviewed in 2022-1-15 03:50:03<br/>
 <br/>
