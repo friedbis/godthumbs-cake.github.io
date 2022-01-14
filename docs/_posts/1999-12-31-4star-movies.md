@@ -51,10 +51,10 @@ reviewed in 2022-1-14 10:10:05<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 サスペンスとしてもよくできている。<br/>
-### 淫獣
+### 江戸川乱歩の淫獣
 reviewed in 2022-1-14 10:05:03<br/>
 <br/>
-[淫獣 [PR]](https://amzn.to/3foGcDy)<br/>
+[江戸川乱歩の淫獣 [PR]](https://amzn.to/3foGcDy)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
