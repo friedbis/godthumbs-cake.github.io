@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 清楚妻の失われた理性
+reviewed in 2022-1-14 09:30:04<br/>
+<br/>
+[清楚妻の失われた理性 [PR]](https://amzn.to/3zYBNAX)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+人妻性奴隷～美乳清楚妻がマゾ覚醒するまで～（R18版）<br/>
 ### どうしようもない恋の唄
 reviewed in 2022-1-13 02:05:03<br/>
 <img src="https://m.media-amazon.com/images/I/81XT-ZQY1WL._AC_SL1500_.jpg" alt="どうしようもない恋の唄"><br/>

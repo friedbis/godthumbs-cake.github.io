@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 清楚妻の失われた理性
+reviewed in 2022-1-14 09:30:04<br/>
+<br/>
+[清楚妻の失われた理性 [PR]](https://amzn.to/3zYBNAX)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+人妻性奴隷～美乳清楚妻がマゾ覚醒するまで～（R18版）<br/>
 ### 友達のお母さん ドキドキ初体験
 reviewed in 2022-1-14 09:15:03<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2022-1-11 17:35:04<br/>
 [グラグラ [PR]](https://amzn.to/3fbtasZ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### さわこの恋 上手な嘘の恋愛講座
-reviewed in 2022-1-11 14:15:04<br/>
-<img src="https://m.media-amazon.com/images/I/515Q0QDOWjL._AC_.jpg" alt="さわこの恋 上手な嘘の恋愛講座"><br/>
-[さわこの恋 上手な嘘の恋愛講座 [PR]](https://amzn.to/34F5fQM)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-90年代のあの感じが非常によく出ている。なんというかアンニュイでナンセンスで意味ない感じといえばよいのか。ただ音楽がよい。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
