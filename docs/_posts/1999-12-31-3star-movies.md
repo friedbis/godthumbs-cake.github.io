@@ -50,7 +50,7 @@ reviewed in 2022-1-14 09:50:04<br/>
 [歌舞伎町ブラックスワン [PR]](https://amzn.to/3I0vVtC)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+意外に面白かった。<br/>
 ### 女囚処刑人マリア2
 reviewed in 2022-1-13 00:25:03<br/>
 <br/>
