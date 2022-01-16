@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ベーゼ・モア
+reviewed in 2022-1-16 16:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODQ0M2QzOTMtMGVjNy00ZjNiLWI2M2YtZDQyMTg2NmUwNjBmXkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_FMjpg_UX1024_.jpg" alt="ベーゼ・モア"><br/>
+[ベーゼ・モア [PR]](https://amzn.to/3Iq5xd1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+初めて観たときこんなタイトルだったけかな？<br/>
 ### 獣は月夜に夢を見る
 reviewed in 2022-1-16 12:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjE3OTM3MzQyOV5BMl5BanBnXkFtZTgwOTYyOTE2NjE@._V1_FMjpg_UX1280_.jpg" alt="獣は月夜に夢を見る"><br/>
