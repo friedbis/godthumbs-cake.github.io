@@ -50,7 +50,7 @@ reviewed in 2022-1-16 11:05:03<br/>
 [WILD（わたしの中の獣） [PR]](https://amzn.to/3Kd3bQd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+やっと見れた。こういう類いの映画ってすぐレンタルビデオ屋からなくなることがあるから、見たいとおもったときに見逃すと一生見れないときある。<br/>
 ### 堀尾実咲 癒してアゲちゃう
 reviewed in 2022-1-15 04:15:03<br/>
 <br/>
