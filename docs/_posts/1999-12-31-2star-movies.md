@@ -46,7 +46,7 @@ title: 2つ星の映画・ドラマ
 <br/>
 ### 獣は月夜に夢を見る
 reviewed in 2022-1-16 12:20:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjE3OTM3MzQyOV5BMl5BanBnXkFtZTgwOTYyOTE2NjE@._V1_FMjpg_UX1280_.jpg" alt="獣は月夜に夢を見る"><br/>
 [獣は月夜に夢を見る [PR]](https://amzn.to/3I8nYm7)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
