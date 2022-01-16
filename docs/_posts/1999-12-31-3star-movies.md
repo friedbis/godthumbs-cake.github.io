@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Battle in Heaven
+reviewed in 2022-1-16 16:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWNmOWMwNWQtOGY5OC00NWZiLTk2NmMtZTc5YWE1OTZjNGZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1018_.jpg" alt="Battle in Heaven"><br/>
+[Battle in Heaven [PR]](https://amzn.to/34Lej6A)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 流されて…
 reviewed in 2022-1-16 12:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmUyMWM5YmYtNWQ0OS00YWI4LWJmMjUtMjE2MGVjZDAwMDgxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1058_.jpg" alt="流されて…"><br/>
