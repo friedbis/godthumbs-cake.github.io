@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### WILD（わたしの中の獣）
+reviewed in 2022-1-16 11:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGM1OTg2ODMtZTZhZC00ZWU2LThhZDAtYmU3ZTQyYzU4YzQzXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_FMjpg_UX1280_.jpg" alt="WILD（わたしの中の獣）"><br/>
+[WILD（わたしの中の獣） [PR]](https://amzn.to/3Kd3bQd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 堀尾実咲 癒してアゲちゃう
 reviewed in 2022-1-15 04:15:03<br/>
 <br/>
