@@ -106,14 +106,7 @@ reviewed in 2022-1-16 12:10:04<br/>
 [流されて… [PR]](https://amzn.to/3Kj00GA)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### WILD（わたしの中の獣）
-reviewed in 2022-1-16 11:05:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOGM1OTg2ODMtZTZhZC00ZWU2LThhZDAtYmU3ZTQyYzU4YzQzXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_FMjpg_UX1280_.jpg" alt="WILD（わたしの中の獣）"><br/>
-[WILD（わたしの中の獣） [PR]](https://amzn.to/3Kd3bQd)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-やっと見れた。こういう類いの映画ってすぐレンタルビデオ屋からなくなることがあるから、見たいとおもったときに見逃すと一生見れないときある。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +155,7 @@ reviewed in 2022-1-16 11:05:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
