@@ -106,14 +106,7 @@ reviewed in 2022-1-16 11:05:03<br/>
 [WILD（わたしの中の獣） [PR]](https://amzn.to/3Kd3bQd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-やっと見れた。こういう類いの映画ってすぐレンタルビデオ屋からなくなることがあるから、見たいとおもったときに見逃すと一生見れないときある。<br/>
-### セックス発電
-reviewed in 2022-1-16 11:05:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOGFhNGE5ZmUtNzMyNC00ZDBmLTg5MWEtYTQyMWE3YzZiMmQ2XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_FMjpg_UX1100_.jpg" alt="セックス発電"><br/>
-[セックス発電 [PR]](https://amzn.to/3rlsgjs)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+やっと見れた。こういう類いの映画ってすぐレンタルビデオ屋からなくなることがあるから、見たいとおもったときに見逃すと一生見れないときある。
 <br/>
 ### 索引
 <br/>
