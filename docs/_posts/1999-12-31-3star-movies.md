@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 台風に疼く女～港の葬儀社・澪～
+reviewed in 2022-1-18 03:00:04<br/>
+<br/>
+[台風に疼く女～港の葬儀社・澪～ [PR]](https://amzn.to/34ZL2Fu)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ヘクトパスカル　疼く女（別タイトル）<br/>
 ### 新・嬢王ゲーム 〜帰ってきた伝説の女〜
 reviewed in 2022-1-17 21:50:03<br/>
 <br/>
