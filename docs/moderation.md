@@ -46,7 +46,7 @@ title: Impression
 <br/>
 ### 女子大生 ひと夏の経験
 reviewed in 2022-1-18 02:45:03<br/>
-<br/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81K1SSxfRxL._SX300_.jpg" alt="女子大生 ひと夏の経験"><br/>
 [女子大生 ひと夏の経験 [PR]](https://amzn.to/3IcyDw5)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -117,7 +117,6 @@ reviewed in 2022-1-16 16:15:03<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
