@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 新・嬢王ゲーム 〜帰ってきた伝説の女〜
+reviewed in 2022-1-17 21:50:03<br/>
+<br/>
+[新・嬢王ゲーム 〜帰ってきた伝説の女〜 [PR]](https://amzn.to/3fwTjCJ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 青い果実
 reviewed in 2022-1-16 17:10:04<br/>
 <br/>
@@ -106,13 +113,6 @@ reviewed in 2022-1-16 12:20:04<br/>
 [獣は月夜に夢を見る [PR]](https://amzn.to/3I8nYm7)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 流されて…
-reviewed in 2022-1-16 12:10:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNmUyMWM5YmYtNWQ0OS00YWI4LWJmMjUtMjE2MGVjZDAwMDgxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1058_.jpg" alt="流されて…"><br/>
-[流されて… [PR]](https://amzn.to/3Kj00GA)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2022-1-16 12:10:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
