@@ -48,7 +48,7 @@ title: Impression
 reviewed in 2022-1-21 23:25:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmY4NWJlZTYtY2UxOC00NzI2LWFhNTAtOGYyMGY5OGJkYjY1XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_FMjpg_UX484_.jpg" alt="巨大バスト９９ Ｄカップの女"><br/>
 [巨大バスト９９ Ｄカップの女](https://software-online.shop/nkdr-1024/)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 女子大生と美熟女 言い出しかねて
@@ -162,7 +162,6 @@ reviewed in 2022-1-18 03:00:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
