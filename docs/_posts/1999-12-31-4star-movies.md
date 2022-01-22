@@ -44,6 +44,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愛獣 熱く凌す
+reviewed in 2022-1-22 23:20:04<br/>
+<br/>
+[愛獣 熱く凌す](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=141nkt263/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ＳＭ教室　失禁
+reviewed in 2022-1-22 23:20:04<br/>
+<br/>
+[ＳＭ教室　失禁](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=141nkt00604/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### マゾヒスト
 reviewed in 2022-1-22 22:50:03<br/>
 <br/>
