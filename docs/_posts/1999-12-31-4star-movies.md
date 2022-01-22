@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マゾヒスト
+reviewed in 2022-1-22 22:50:03<br/>
+<br/>
+[マゾヒスト [PR]](https://amzn.to/3FTANzf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 聖熟女
 reviewed in 2022-1-22 00:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmE4NGM4NDItYjYwMC00N2Y4LWIwMmItNDk4MzU1ZDcxN2E2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX659_.jpg" alt="聖熟女"><br/>
