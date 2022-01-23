@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 美少女プロレス　失神１０秒前
+reviewed in 2022-1-23 15:30:04<br/>
+<br/>
+[美少女プロレス　失神１０秒前](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=141nkt125/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+下らなさよりも面白さが勝る。<br/>
 ### ヴァンパイア・フレンズ 〜吸血少女の孤独〜
 reviewed in 2022-1-14 15:40:03<br/>
 <br/>
