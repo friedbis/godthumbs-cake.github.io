@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 痴漢日記　尻を撫でまわしつづけた男
+reviewed in 2022-1-25 16:05:03<br/>
+<br/>
+[痴漢日記　尻を撫でまわしつづけた男 [PR]](https://amzn.to/3rLTrE3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+意外に面白かった<br/>
 ### ザ・娼年倶楽部2 女たちを悦ばせる性戯の秘訣
 reviewed in 2022-1-25 13:25:03<br/>
 <br/>
