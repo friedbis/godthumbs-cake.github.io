@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 狂った果実
+reviewed in 2022-1-28 10:20:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGFhNGU4ZDgtODk0Ni00ZWUwLWE5NGItNjkwNzBkMWJmZmU5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX856_.jpg" alt="狂った果実"><br/>
+[狂った果実 [PR]](https://amzn.to/33YhHuT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+にっかつロマンポルノの中では私のベスト。<br/>
 ### (秘)色情めす市場
 reviewed in 2022-1-23 15:50:04<br/>
 <br/>
