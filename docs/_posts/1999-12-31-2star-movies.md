@@ -50,7 +50,7 @@ reviewed in 2022-1-28 08:50:03<br/>
 [純情ホステス 谷間で歌う♪ [PR]](https://amzn.to/3u66RgV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-主人公の演技が苦手。<br/>
+主人公の演技が苦手。  純情巨乳 谷間で歌う（R18版）<br/>
 ### 女子大生と美熟女　言い出しかねて
 reviewed in 2022-1-25 13:40:03<br/>
 <br/>
