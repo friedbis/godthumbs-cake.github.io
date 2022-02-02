@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愛の小さな歴史 誰でもない恋人たちの風景 vol.1
+reviewed in 2022-2-2 17:45:03<br/>
+<br/>
+[愛の小さな歴史 誰でもない恋人たちの風景 vol.1 [PR]](https://amzn.to/3Ho2BgD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 純情ホステス 谷間で歌う♪
 reviewed in 2022-1-28 08:50:03<br/>
 <br/>
