@@ -48,7 +48,7 @@ title: Impression
 reviewed in 2022-2-3 22:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjQ5ODQyN2EtYzMwMC00OGM4LTkzMWMtMjYwYjkzMzhkY2NjXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UY677_.jpg" alt="薄化粧"><br/>
 [薄化粧 [PR]](https://amzn.to/3J0hPJ7)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### SADA 戯作・阿部定の生涯
@@ -162,8 +162,6 @@ reviewed in 2022-1-28 08:50:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

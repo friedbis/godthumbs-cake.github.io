@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 薄化粧
+reviewed in 2022-2-3 22:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjQ5ODQyN2EtYzMwMC00OGM4LTkzMWMtMjYwYjkzMzhkY2NjXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UY677_.jpg" alt="薄化粧"><br/>
+[薄化粧 [PR]](https://amzn.to/3J0hPJ7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 不機嫌な果実
 reviewed in 2022-2-3 22:05:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTQ4OTY3Nzk4NF5BMl5BanBnXkFtZTgwNDI2OTk1MDE@._V1_FMjpg_UX375_.jpg" alt="不機嫌な果実"><br/>
