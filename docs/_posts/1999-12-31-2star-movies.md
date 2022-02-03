@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### SADA 戯作・阿部定の生涯
+reviewed in 2022-2-3 22:15:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzdkZmRhOGQtZDljYy00YmY0LTg3YTktNWM4MmU0NjE2MjZiXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UX680_.jpg" alt="SADA 戯作・阿部定の生涯"><br/>
+[SADA 戯作・阿部定の生涯 [PR]](https://amzn.to/3Grakt7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 嵯峨野の宿
 reviewed in 2022-2-2 18:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDY5YjgxZTktMDFhMS00OTgyLTk4MmEtMDU2OGQ3NTQ3NzlmXkEyXkFqcGdeQXVyMjM1MDEyNjU@._V1_FMjpg_UX550_.jpg" alt="嵯峨野の宿"><br/>
