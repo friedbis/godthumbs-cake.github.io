@@ -106,14 +106,7 @@ reviewed in 2022-1-25 16:05:03<br/>
 [痴漢日記　尻を撫でまわしつづけた男 [PR]](https://amzn.to/3rLTrE3)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-意外に面白かった<br/>
-### 小悪魔妻 美乳で誘う
-reviewed in 2022-1-25 14:35:04<br/>
-<br/>
-[小悪魔妻 美乳で誘う [PR]](https://amzn.to/3fUHsi1)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+意外に面白かった
 <br/>
 ### 索引
 <br/>
