@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 異人たちとの夏
+reviewed in 2022-2-3 22:25:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjAzZTI1ZWQtYmMxZS00YjNmLWI4OWEtNWU4NjFkYTljMWIxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="異人たちとの夏"><br/>
+[異人たちとの夏 [PR]](https://amzn.to/3ghtcAh)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ラストの名取裕子さんが衝撃。全般的に風間杜夫さんのダンディヌードが多め。<br/>
 ### 宇能鴻一郎の　人妻いじめ
 reviewed in 2022-2-2 18:15:04<br/>
 <br/>

@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 異人たちとの夏
+reviewed in 2022-2-3 22:25:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjAzZTI1ZWQtYmMxZS00YjNmLWI4OWEtNWU4NjFkYTljMWIxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="異人たちとの夏"><br/>
+[異人たちとの夏 [PR]](https://amzn.to/3ghtcAh)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ラストの名取裕子さんが衝撃。全般的に風間杜夫さんのダンディヌードが多め。<br/>
 ### 薄化粧
 reviewed in 2022-2-3 22:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjQ5ODQyN2EtYzMwMC00OGM4LTkzMWMtMjYwYjkzMzhkY2NjXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UY677_.jpg" alt="薄化粧"><br/>
@@ -106,17 +113,11 @@ reviewed in 2022-1-28 09:00:04<br/>
 [美乳迷宮 さまよう女 [PR]](https://amzn.to/3r7XnQH)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-疑心乱交 闇夜にうごめく雌尻（R18版）<br/>
-### 純情ホステス 谷間で歌う♪
-reviewed in 2022-1-28 08:50:03<br/>
-<br/>
-[純情ホステス 谷間で歌う♪ [PR]](https://amzn.to/3u66RgV)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-主人公の演技が苦手。  純情巨乳 谷間で歌う（R18版）
+疑心乱交 闇夜にうごめく雌尻（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
