@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### TANNKA 短歌
+reviewed in 2022-2-4 23:50:03<br/>
+<br/>
+[TANNKA 短歌 [PR]](https://amzn.to/3ooFefq)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### メア・オブ・イーストタウン／ある殺人事件の真実
 reviewed in 2022-2-4 11:35:03<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-2-3 22:05:04<br/>
 [不機嫌な果実 [PR]](https://amzn.to/3olEJme)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 宇能鴻一郎の　人妻いじめ
-reviewed in 2022-2-2 18:15:04<br/>
-<br/>
-[宇能鴻一郎の　人妻いじめ [PR]](https://amzn.to/343jhff)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-丹古母鬼馬二さんを本当に久しぶりに見た。
+
 <br/>
 ### 索引
 <br/>
@@ -162,9 +162,11 @@ reviewed in 2022-2-2 18:15:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
+- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
