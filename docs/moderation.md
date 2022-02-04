@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### アリスサンクチュアリ～双子姉妹監禁～
+reviewed in 2022-2-4 11:20:03<br/>
+<br/>
+[アリスサンクチュアリ～双子姉妹監禁～ [PR]](https://amzn.to/3HvGZz2)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ヴァイブレーター
 reviewed in 2022-2-4 11:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjEwMTY0NDIwNl5BMl5BanBnXkFtZTcwNzQyMDU0MQ@@._V1_FMjpg_UX353_.jpg" alt="ヴァイブレーター"><br/>
@@ -106,14 +113,7 @@ reviewed in 2022-2-2 18:10:04<br/>
 [嵯峨野の宿 [PR]](https://amzn.to/3of1ZST)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-最初のからみが笑った。菖蒲（しょうぶ）と菖蒲（あやめ）の違い、いつになったら教えてくれるのか。<br/>
-### 愛の小さな歴史 誰でもない恋人たちの風景 vol.1
-reviewed in 2022-2-2 17:45:03<br/>
-<br/>
-[愛の小さな歴史 誰でもない恋人たちの風景 vol.1 [PR]](https://amzn.to/3Ho2BgD)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+最初のからみが笑った。菖蒲（しょうぶ）と菖蒲（あやめ）の違い、いつになったら教えてくれるのか。
 <br/>
 ### 索引
 <br/>
