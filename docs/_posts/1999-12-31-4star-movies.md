@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 宇能鴻一郎の　むちむちぷりん
+reviewed in 2022-2-5 01:35:04<br/>
+<br/>
+[宇能鴻一郎の　むちむちぷりん](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=141nkt00428/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+この静かなギャグが癖になる。<br/>
 ### メア・オブ・イーストタウン／ある殺人事件の真実
 reviewed in 2022-2-4 11:35:03<br/>
 <br/>
