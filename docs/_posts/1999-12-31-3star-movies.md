@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### TANNKA 短歌
+reviewed in 2022-2-4 23:50:03<br/>
+<br/>
+[TANNKA 短歌 [PR]](https://amzn.to/3ooFefq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### アリスサンクチュアリ～双子姉妹監禁～
 reviewed in 2022-2-4 11:20:03<br/>
 <br/>
