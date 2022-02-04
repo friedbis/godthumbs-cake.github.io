@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### つやのよる ある愛に関わった、女たちの物語
+reviewed in 2022-2-4 09:45:04<br/>
+<br/>
+[つやのよる ある愛に関わった、女たちの物語 [PR]](https://amzn.to/34dKMTf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+超豪華俳優陣。<br/>
 ### SADA 戯作・阿部定の生涯
 reviewed in 2022-2-3 22:15:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzdkZmRhOGQtZDljYy00YmY0LTg3YTktNWM4MmU0NjE2MjZiXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_FMjpg_UX680_.jpg" alt="SADA 戯作・阿部定の生涯"><br/>
