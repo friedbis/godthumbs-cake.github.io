@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 赤ｘピンク
+reviewed in 2022-2-5 00:40:03<br/>
+<br/>
+[赤ｘピンク [PR]](https://amzn.to/34gnJHq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+いろいろ気になるところはあるが、素晴らしい。<br/>
 ### TANNKA 短歌
 reviewed in 2022-2-4 23:50:03<br/>
 <br/>
@@ -155,7 +162,6 @@ reviewed in 2022-2-3 22:15:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

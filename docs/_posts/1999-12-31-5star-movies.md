@@ -44,6 +44,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 赤ｘピンク
+reviewed in 2022-2-5 00:40:03<br/>
+<br/>
+[赤ｘピンク [PR]](https://amzn.to/34gnJHq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+いろいろ気になるところはあるが、素晴らしい。<br/>
 ### 狂った果実
 reviewed in 2022-1-28 10:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGFhNGU4ZDgtODk0Ni00ZWUwLWE5NGItNjkwNzBkMWJmZmU5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX856_.jpg" alt="狂った果実"><br/>
