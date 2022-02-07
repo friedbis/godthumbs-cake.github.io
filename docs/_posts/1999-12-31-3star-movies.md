@@ -44,6 +44,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### オトナのしおり ひらいて、とじて
+reviewed in 2022-2-7 12:45:03<br/>
+<br/>
+[オトナのしおり ひらいて、とじて]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 第三の女
+reviewed in 2022-2-7 12:45:03<br/>
+<br/>
+[第三の女](http://www.tvdrama-db.com/drama_info/p/id-19679)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### TANNKA 短歌
 reviewed in 2022-2-4 23:50:03<br/>
 <br/>
