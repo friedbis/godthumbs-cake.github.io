@@ -47,7 +47,7 @@ title: 3つ星の映画・ドラマ
 ### オトナのしおり ひらいて、とじて
 reviewed in 2022-2-7 12:45:03<br/>
 <br/>
-[オトナのしおり ひらいて、とじて]()<br/>
+[オトナのしおり ひらいて、とじて [PR]](https://amzn.to/3HBaU9c)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
