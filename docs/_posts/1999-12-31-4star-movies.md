@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マンネリ
+reviewed in 2022-2-7 20:10:03<br/>
+<br/>
+[マンネリ [PR]](https://amzn.to/3J5HPTy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 宇能鴻一郎の　むちむちぷりん
 reviewed in 2022-2-5 01:35:04<br/>
 <br/>
