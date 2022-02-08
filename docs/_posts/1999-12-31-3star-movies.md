@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### TANIZAKI TRIBUTE 悪魔
+reviewed in 2022-2-8 09:40:03<br/>
+<br/>
+[TANIZAKI TRIBUTE 悪魔 [PR]](https://amzn.to/3B93mbk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### TANIZAKI TRIBUTE 富美子の足
 reviewed in 2022-2-8 09:30:04<br/>
 <br/>
