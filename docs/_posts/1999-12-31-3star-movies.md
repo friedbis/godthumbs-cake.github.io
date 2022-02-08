@@ -44,13 +44,6 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 恥辱の美人妻
-reviewed in 2022-2-8 11:55:08<br/>
-<br/>
-[恥辱の美人妻 [PR]](https://amzn.to/3GxcUxJ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-昭和姦通物語～恥辱に耐える美人妻～（R18版）<br/>
 ### さわこの恋2 1000マイルも離れて
 reviewed in 2022-2-8 11:30:04<br/>
 <br/>
