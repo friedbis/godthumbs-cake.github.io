@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### TANIZAKI TRIBUTE 富美子の足
+reviewed in 2022-2-8 09:30:04<br/>
+<br/>
+[TANIZAKI TRIBUTE 富美子の足 [PR]](https://amzn.to/3LjUzba)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+片山萌美さん<br/>
 ### オトナのしおり ひらいて、とじて
 reviewed in 2022-2-7 12:45:03<br/>
 <br/>
