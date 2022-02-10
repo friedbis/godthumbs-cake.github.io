@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -44,10 +44,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 殺し屋・蘭
+### 実録阿部定
 reviewed in 2022-2-10 18:25:03<br/>
 <br/>
-[殺し屋・蘭 [PR]](https://amzn.to/3uMMjdE)<br/>
+[実録阿部定 [PR]](https://amzn.to/34Gj3KC)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-範田紗々さんがなつかしい。

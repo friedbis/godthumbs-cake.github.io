@@ -44,6 +44,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 殺し屋・蘭
+reviewed in 2022-2-10 18:25:03<br/>
+<br/>
+[殺し屋・蘭 [PR]](https://amzn.to/3uMMjdE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+範田紗々さんがなつかしい。<br/>
+### 実録阿部定
+reviewed in 2022-2-10 18:25:03<br/>
+<br/>
+[実録阿部定 [PR]](https://amzn.to/34Gj3KC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### さわこの恋2 1000マイルも離れて
 reviewed in 2022-2-8 11:30:04<br/>
 <br/>
