@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### チンピラ人生 むしむしころころ
+reviewed in 2022-2-12 01:15:04<br/>
+<br/>
+[チンピラ人生 むしむしころころ](https://www.allcinema.net/cinema/238044)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+つぐみさん<br/>
 ### 殺し屋・蘭
 reviewed in 2022-2-10 18:25:03<br/>
 <br/>
@@ -99,14 +106,7 @@ reviewed in 2022-2-8 09:40:03<br/>
 [TANIZAKI TRIBUTE 悪魔 [PR]](https://amzn.to/3B93mbk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### TANIZAKI TRIBUTE 富美子の足
-reviewed in 2022-2-8 09:30:04<br/>
-<br/>
-[TANIZAKI TRIBUTE 富美子の足 [PR]](https://amzn.to/3LjUzba)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-片山萌美さん
+
 <br/>
 ### 索引
 <br/>
