@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 地方紙を買う女（1981）
+reviewed in 2022-2-12 11:20:04<br/>
+<br/>
+[地方紙を買う女（1981）](http://www.tvdrama-db.com/drama_info/p/id-19040)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+安奈淳さんの美しさが際立つ。そして脇を固める室田日出男さんと宮井えりなさんの演技が特に良い。<br/>
 ### 殺し屋・蘭
 reviewed in 2022-2-10 18:25:03<br/>
 <br/>

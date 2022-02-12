@@ -47,8 +47,8 @@ title: Impression
 ### 地方紙を買う女（1981）
 reviewed in 2022-2-12 11:20:04<br/>
 <br/>
-[地方紙を買う女（1981）]()<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[地方紙を買う女（1981）](http://www.tvdrama-db.com/drama_info/p/id-19040)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 安奈淳さんの美しさが際立つ。そして脇を固める室田日出男さんと宮井えりなさんの演技が特に良い。<br/>
 ### 性感エステ妻 超絶快感テクニック
@@ -106,14 +106,7 @@ reviewed in 2022-2-8 11:45:04<br/>
 [待ちきれない人妻 [PR]](https://amzn.to/3LavZJA)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-待ちきれなくて 倉多まお（R18版）<br/>
-### 午後の奥様　～初めてのアロママッサージ～
-reviewed in 2022-2-8 11:35:03<br/>
-<br/>
-[午後の奥様　～初めてのアロママッサージ～ [PR]](https://amzn.to/34pKQiP)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+待ちきれなくて 倉多まお（R18版）
 <br/>
 ### 索引
 <br/>
@@ -162,7 +155,7 @@ reviewed in 2022-2-8 11:35:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
