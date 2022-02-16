@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 詐話師 STING
+reviewed in 2022-2-17 00:00:04<br/>
+<br/>
+[詐話師 STING [PR]](https://amzn.to/3JyfrcO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### つや女房
 reviewed in 2022-2-16 12:30:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-2-12 11:20:04<br/>
 [地方紙を買う女（1981）](http://www.tvdrama-db.com/drama_info/p/id-19040)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-安奈淳さんの美しさが際立つ。そして脇を固める室田日出男さんと宮井えりなさんの演技が特に良い。<br/>
-### 性感エステ妻 超絶快感テクニック
-reviewed in 2022-2-12 02:40:04<br/>
-<br/>
-[性感エステ妻 超絶快感テクニック](https://www.dmm.com/digital/videomarket/movie/-/detail/=/title_id=370164/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-コメディで済まされる時代。
+安奈淳さんの美しさが際立つ。そして脇を固める室田日出男さんと宮井えりなさんの演技が特に良い。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-2-12 02:40:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

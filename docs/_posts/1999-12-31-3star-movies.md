@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 詐話師 STING
+reviewed in 2022-2-17 00:00:04<br/>
+<br/>
+[詐話師 STING [PR]](https://amzn.to/3JyfrcO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 妻三人 狂乱の夜
 reviewed in 2022-2-15 21:10:04<br/>
 <br/>
