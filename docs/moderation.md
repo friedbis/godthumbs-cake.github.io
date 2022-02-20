@@ -118,6 +118,7 @@ reviewed in 2022-2-12 11:35:03<br/>
 ### 索引
 <br/>
 - [A1から始まる映画・ドラマ](/A1-movies.html)
+- [ぱから始まる映画・ドラマ](/ぱ-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
 - [ウから始まる映画・ドラマ](/ウ-movies.html)
@@ -162,7 +163,6 @@ reviewed in 2022-2-12 11:35:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
