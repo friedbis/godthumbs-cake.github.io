@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ぱいぱいでか美 STAY GOLD
+reviewed in 2022-2-20 19:35:03<br/>
+<br/>
+[ぱいぱいでか美 STAY GOLD [PR]](https://amzn.to/3BA4x3v)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### つや女房
 reviewed in 2022-2-16 12:30:04<br/>
 <br/>

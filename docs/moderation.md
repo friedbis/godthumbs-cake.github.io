@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ぱいぱいでか美 STAY GOLD
+reviewed in 2022-2-20 19:35:03<br/>
+<br/>
+[ぱいぱいでか美 STAY GOLD [PR]](https://amzn.to/3BA4x3v)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 詐話師 STING
 reviewed in 2022-2-17 00:00:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-2-12 11:35:03<br/>
 [授業参観の女](http://www.tvdrama-db.com/drama_info/p/id-21141)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-萬田久子さんと藤田弓子さん、正直どちらも魅力的で。シナリオがよかった。<br/>
-### 地方紙を買う女（1981）
-reviewed in 2022-2-12 11:20:04<br/>
-<br/>
-[地方紙を買う女（1981）](http://www.tvdrama-db.com/drama_info/p/id-19040)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-安奈淳さんの美しさが際立つ。そして脇を固める室田日出男さんと宮井えりなさんの演技が特に良い。
+萬田久子さんと藤田弓子さん、正直どちらも魅力的で。シナリオがよかった。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-2-12 11:20:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
