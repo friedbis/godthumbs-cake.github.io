@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 仁義スロッター冴子
+reviewed in 2022-2-22 00:05:03<br/>
+<br/>
+[仁義スロッター冴子 [PR]](https://amzn.to/3sSCJ6M)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女子高生暴力教室 牝蜂の復讐
 reviewed in 2022-2-21 23:30:04<br/>
 <br/>
