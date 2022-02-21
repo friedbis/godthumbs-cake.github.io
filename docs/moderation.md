@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 爆裂さすらいスロッター椿
+reviewed in 2022-2-22 00:10:03<br/>
+<br/>
+[爆裂さすらいスロッター椿 [PR]](https://amzn.to/3sVJhkV)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 仁義スロッター冴子
 reviewed in 2022-2-22 00:05:03<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-2-15 21:10:04<br/>
 [妻三人 狂乱の夜 [PR]](https://amzn.to/3LApnUX)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-衝撃のコメディタッチのエピローグ。<br/>
-### 失われた意識の中で
-reviewed in 2022-2-15 16:45:03<br/>
-<br/>
-[失われた意識の中で [PR]](https://amzn.to/34KZgKt)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-誰かがワタシを犯してる（R18版）
+衝撃のコメディタッチのエピローグ。
 <br/>
 ### 索引
 <br/>
