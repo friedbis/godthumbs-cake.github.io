@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ある少女の告白 禁断の果実
+reviewed in 2022-3-1 13:15:03<br/>
+<img src="https://www.nikkatsu.com/cms-data/images/movie/9srpkn51e0eov2xshnqgqb4txxnhfz.jpg" alt="ある少女の告白 禁断の果実"><br/>
+[ある少女の告白 禁断の果実](https://www.nikkatsu.com/movie/21087.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 殺し屋　エリカ
 reviewed in 2022-2-22 00:20:04<br/>
 <br/>
@@ -106,14 +113,7 @@ reviewed in 2022-2-15 21:50:05<br/>
 [欲しがり奈々ちゃん〜ひとくち、ちょうだい〜 [PR]](https://amzn.to/3gKr04m)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 性獣のいけにえ
-reviewed in 2022-2-15 21:35:03<br/>
-<br/>
-[性獣のいけにえ [PR]](https://amzn.to/3LDB1hS)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-分からない。
+
 <br/>
 ### 索引
 <br/>
