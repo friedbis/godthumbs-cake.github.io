@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 友達のお母さん 魅惑の香り
+reviewed in 2022-3-4 13:15:04<br/>
+<br/>
+[友達のお母さん 魅惑の香り [PR]](https://amzn.to/3vCSYaQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+例のあの事件のやつね。<br/>
 ### ある色魔の告白　色欲の果て
 reviewed in 2022-3-4 09:05:03<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2022-2-20 19:35:03<br/>
 [ぱいぱいでか美 STAY GOLD [PR]](https://amzn.to/3BA4x3v)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 詐話師 STING
-reviewed in 2022-2-17 00:00:04<br/>
-<br/>
-[詐話師 STING [PR]](https://amzn.to/3JyfrcO)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-神乃鞠絵さんと、芹野理恵さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

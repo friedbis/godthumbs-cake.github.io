@@ -44,6 +44,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 友達のお母さん 魅惑の香り
+reviewed in 2022-3-4 13:15:04<br/>
+<br/>
+[友達のお母さん 魅惑の香り [PR]](https://amzn.to/3vCSYaQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+例のあの事件のやつね。<br/>
 ### アララト 誰でもない恋人たちの風景 vol.3
 reviewed in 2022-3-2 20:05:04<br/>
 <br/>
