@@ -44,6 +44,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 妖美伝奇新説　牡丹灯籠　弐　～さよなら～
+reviewed in 2022-3-4 13:50:04<br/>
+<br/>
+[妖美伝奇新説　牡丹灯籠　弐　～さよなら～ [PR]](https://amzn.to/3tpyQq9)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 爆裂さすらいスロッター椿
 reviewed in 2022-2-22 00:10:03<br/>
 <br/>
