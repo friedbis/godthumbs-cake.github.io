@@ -44,6 +44,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ある色魔の告白　色欲の果て
+reviewed in 2022-3-4 09:05:03<br/>
+<br/>
+[ある色魔の告白　色欲の果て](https://www.nikkatsu.com/movie/21081.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 殺し屋　エリカ
 reviewed in 2022-2-22 00:20:04<br/>
 <br/>
