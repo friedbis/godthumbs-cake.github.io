@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 盗聴する女
+reviewed in 2022-3-11 13:50:05<br/>
+<br/>
+[盗聴する女](http://www.tvdrama-db.com/drama_info/p/id-23281)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+浅野ゆう子さんの。。。<br/>
 ### 被虐願望の女
 reviewed in 2022-3-8 13:30:05<br/>
 <br/>
