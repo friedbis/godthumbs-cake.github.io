@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 義務と演技
+reviewed in 2022-3-11 14:50:05<br/>
+<br/>
+[義務と演技 [PR]](https://amzn.to/3Kyg9r8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+高島礼子さんと清水美砂さん、、、選べません。<br/>
 ### 盗聴する女
 reviewed in 2022-3-11 13:50:05<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2022-3-1 13:15:03<br/>
 [ある少女の告白 禁断の果実](https://www.nikkatsu.com/movie/21087.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 殺し屋　エリカ
-reviewed in 2022-2-22 00:20:04<br/>
-<br/>
-[殺し屋　エリカ [PR]](https://amzn.to/3p3i1Qg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
