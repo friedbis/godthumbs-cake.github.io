@@ -44,6 +44,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 忍びの卍
+reviewed in 2022-3-16 20:30:04<br/>
+<br/>
+[忍びの卍](https://www.imdb.com/title/tt0200131/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+下半身が鱗だらけになったら、、、<br/>
 ### XX ダブルエックス しなやかな美獣
 reviewed in 2022-3-16 12:45:03<br/>
 <br/>

@@ -44,6 +44,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 忍びの卍
+reviewed in 2022-3-16 20:30:04<br/>
+<br/>
+[忍びの卍](https://www.imdb.com/title/tt0200131/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+下半身が鱗だらけになったら、、、<br/>
 ### XX ダブルエックス しなやかな美獣
 reviewed in 2022-3-16 12:45:03<br/>
 <br/>
@@ -106,17 +113,11 @@ reviewed in 2022-3-4 13:50:04<br/>
 [妖美伝奇新説　牡丹灯籠　弐　～さよなら～ [PR]](https://amzn.to/3tpyQq9)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 友達のお母さん 魅惑の香り
-reviewed in 2022-3-4 13:15:04<br/>
-<br/>
-[友達のお母さん 魅惑の香り [PR]](https://amzn.to/3vCSYaQ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-例のあの事件のやつね。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
