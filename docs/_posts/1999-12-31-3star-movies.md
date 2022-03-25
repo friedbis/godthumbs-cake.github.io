@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 新・嬢王夜曲　野望と愛欲に踊るキャバ嬢たち
+reviewed in 2022-3-26 06:35:03<br/>
+<br/>
+[新・嬢王夜曲　野望と愛欲に踊るキャバ嬢たち [PR]](https://amzn.to/3NmFS8d)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 令和エロス噺～濃厚で密な女たち～
 reviewed in 2022-3-22 09:30:05<br/>
 <br/>
