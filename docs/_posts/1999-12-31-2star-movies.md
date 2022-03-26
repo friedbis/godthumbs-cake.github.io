@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～官能に堕ちた女たち～
+reviewed in 2022-3-26 10:30:04<br/>
+<br/>
+[令和エロス噺～官能に堕ちた女たち～ [PR]](https://amzn.to/3wF96t8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女因さそり 殺人予告
 reviewed in 2022-3-22 17:35:04<br/>
 <br/>
