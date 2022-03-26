@@ -105,17 +105,11 @@ reviewed in 2022-3-17 12:25:03<br/>
 [ナチュラルウーマン2010 [PR]](https://amzn.to/3waTH3q)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 忍びの卍
-reviewed in 2022-3-16 20:30:04<br/>
-<br/>
-[忍びの卍](https://www.imdb.com/title/tt0200131/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-下半身が鱗だらけになったら、、、
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
