@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### エスパイ
+reviewed in 2022-3-26 21:45:04<br/>
+<br/>
+[エスパイ [PR]](https://amzn.to/3JHZ0et)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+もちろん由美かおるさん。<br/>
+### サンダカン八番娼館　望郷
+reviewed in 2022-3-26 21:45:04<br/>
+<br/>
+[サンダカン八番娼館　望郷](https://kakaku.com/item/D0111112101/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+鍵のネックレスが邪魔。高橋洋子さんが綺麗すぎた。<br/>
 ### 妄想する女～マッサージ師・瑛子～
 reviewed in 2022-3-26 11:10:03<br/>
 <br/>
@@ -98,24 +112,11 @@ reviewed in 2022-3-22 09:30:05<br/>
 [令和エロス噺～濃厚で密な女たち～ [PR]](https://amzn.to/3iwKZEp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-人妻ア●ル調教（R18版） 調教オフィス ア●ル淫虐に涙を流す美人OL（R18版） 催●調教 奪われた美人妻（R18版）<br/>
-### ナチュラルウーマン2010
-reviewed in 2022-3-17 12:25:03<br/>
-<br/>
-[ナチュラルウーマン2010 [PR]](https://amzn.to/3waTH3q)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 忍びの卍
-reviewed in 2022-3-16 20:30:04<br/>
-<br/>
-[忍びの卍](https://www.imdb.com/title/tt0200131/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-下半身が鱗だらけになったら、、、
+人妻ア●ル調教（R18版） 調教オフィス ア●ル淫虐に涙を流す美人OL（R18版） 催●調教 奪われた美人妻（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

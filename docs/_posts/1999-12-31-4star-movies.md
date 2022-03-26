@@ -43,6 +43,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エスパイ
+reviewed in 2022-3-26 21:45:04<br/>
+<br/>
+[エスパイ [PR]](https://amzn.to/3JHZ0et)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+もちろん由美かおるさん。<br/>
+### サンダカン八番娼館　望郷
+reviewed in 2022-3-26 21:45:04<br/>
+<br/>
+[サンダカン八番娼館　望郷](https://kakaku.com/item/D0111112101/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+鍵のネックレスが邪魔。高橋洋子さんが綺麗すぎた。<br/>
 ### オーガズムリポートII 更なる快楽を求めて
 reviewed in 2022-3-25 14:10:04<br/>
 <br/>
