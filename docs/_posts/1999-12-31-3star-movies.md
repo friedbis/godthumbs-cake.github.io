@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ガキ帝国
+reviewed in 2022-3-27 22:55:03<br/>
+<br/>
+[ガキ帝国 [PR]](https://amzn.to/3iFeHaI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 東京湾炎上
 reviewed in 2022-3-26 22:05:03<br/>
 <br/>
