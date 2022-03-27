@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### キスより簡単
+reviewed in 2022-3-27 23:05:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BY2E1MjFiMTctODE2MC00OTEzLWE3OGItZDRmNDBiM2YyNWIyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX515_.jpg" alt="キスより簡単"><br/>
+[キスより簡単 [PR]](https://amzn.to/3iG61Ra)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 犬猿
 reviewed in 2022-3-27 23:00:04<br/>
 <br/>
