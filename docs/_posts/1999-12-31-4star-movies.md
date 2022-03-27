@@ -57,10 +57,10 @@ reviewed in 2022-3-27 23:00:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 筧美和子さん<br/>
-### TATOO<刺青>あり
+### TATOO ＜刺青＞あり
 reviewed in 2022-3-27 21:30:04<br/>
 <br/>
-[TATOO<刺青>あり [PR]](https://amzn.to/3qE32Nw)<br/>
+[TATOO ＜刺青＞あり [PR]](https://amzn.to/3qE32Nw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 忍海よしこさんと太田あや子さんがかわいい。<br/>
