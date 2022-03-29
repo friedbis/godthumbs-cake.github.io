@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 薔薇の標的
+reviewed in 2022-3-29 10:10:04<br/>
+<br/>
+[薔薇の標的 [PR]](https://amzn.to/38dDZuB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+明日香七穂さん<br/>
 ### 疑惑
 reviewed in 2022-3-27 23:35:04<br/>
 <br/>
