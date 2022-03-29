@@ -46,8 +46,8 @@ title: Impression
 ### 殺意
 reviewed in 2022-3-29 13:55:11<br/>
 <br/>
-[殺意]()<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[殺意](http://www.tvdrama-db.com/drama_info/p/id-18102)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 宮井えりなさん<br/>
 ### 薔薇の標的
@@ -116,7 +116,6 @@ reviewed in 2022-3-26 22:05:03<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,7 +161,6 @@ reviewed in 2022-3-26 22:05:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
