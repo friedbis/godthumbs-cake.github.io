@@ -43,10 +43,9 @@ title: こ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 殺意
-reviewed in 2022-3-29 13:55:11<br/>
+### 温泉こんにゃく芸者
+reviewed in 2022-3-31 13:00:05<br/>
 <br/>
-[殺意]()<br/>
+[温泉こんにゃく芸者 [PR]](https://amzn.to/3iRmFxu)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-宮井えりなさん
