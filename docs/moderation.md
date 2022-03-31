@@ -47,9 +47,9 @@ title: Impression
 reviewed in 2022-3-31 13:00:05<br/>
 <br/>
 [温泉こんにゃく芸者 [PR]](https://amzn.to/3iRmFxu)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+情緒ある雰囲気<br/>
 ### 優しいおしおき おやすみ、ご主人様
 reviewed in 2022-3-29 14:05:03<br/>
 <br/>
@@ -161,7 +161,6 @@ reviewed in 2022-3-27 22:55:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
