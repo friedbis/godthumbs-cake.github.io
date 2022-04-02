@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### モンスター・パニック
+reviewed in 2022-4-2 16:55:04<br/>
+<br/>
+[モンスター・パニック [PR]](https://amzn.to/3LykPOf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 優しいおしおき おやすみ、ご主人様
 reviewed in 2022-3-29 14:05:03<br/>
 <br/>

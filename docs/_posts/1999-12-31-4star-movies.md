@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜の歌謡シリーズ　女のみち
+reviewed in 2022-4-2 16:55:04<br/>
+<br/>
+[夜の歌謡シリーズ　女のみち](https://www.japanese-cinema-db.jp/Details?id=12031)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+オーノーは笑った<br/>
 ### 悪人
 reviewed in 2022-3-27 23:45:03<br/>
 <br/>
