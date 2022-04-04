@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜王誕生　女を喰らう男たち
+reviewed in 2022-4-5 02:05:03<br/>
+<br/>
+[夜王誕生　女を喰らう男たち [PR]](https://amzn.to/3DLEVlp)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 温泉こんにゃく芸者
 reviewed in 2022-3-31 13:00:05<br/>
 <br/>
