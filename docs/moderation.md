@@ -49,7 +49,7 @@ reviewed in 2022-4-5 09:30:05<br/>
 [バージン協奏曲 それゆけ純白パンツ！ [PR]](https://amzn.to/37gzHCb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+アメリカン・パイのような青春コメディ。<br/>
 ### 女闇金-ユリ-
 reviewed in 2022-4-5 09:00:04<br/>
 <br/>
@@ -161,7 +161,6 @@ reviewed in 2022-3-29 13:55:11<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
