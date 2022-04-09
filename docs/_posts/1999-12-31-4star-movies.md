@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 俺達に墓はない
+reviewed in 2022-4-10 00:05:03<br/>
+<br/>
+[俺達に墓はない [PR]](https://amzn.to/3unIY4b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+竹田かほりさんが好きなので。<br/>
 ### 農家に嫁いだ女 熟れた果実
 reviewed in 2022-4-10 00:05:03<br/>
 <br/>
