@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 幼なじみ 発情てんこ盛り
+reviewed in 2022-4-12 08:35:03<br/>
+<br/>
+[幼なじみ 発情てんこ盛り [PR]](https://amzn.to/3uuTQgF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+普通にドラマとしてよくできている<br/>
 ### 俺達に墓はない
 reviewed in 2022-4-10 00:05:03<br/>
 <br/>

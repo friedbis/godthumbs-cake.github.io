@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 幼なじみ 発情てんこ盛り
+reviewed in 2022-4-12 08:35:03<br/>
+<br/>
+[幼なじみ 発情てんこ盛り [PR]](https://amzn.to/3uuTQgF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+普通にドラマとしてよくできている<br/>
 ### 俺達に墓はない
 reviewed in 2022-4-10 00:05:03<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-4-5 09:30:05<br/>
 [バージン協奏曲 それゆけ純白パンツ！ [PR]](https://amzn.to/37gzHCb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-アメリカン・パイのような青春コメディ。<br/>
-### 女闇金-ユリ-
-reviewed in 2022-4-5 09:00:04<br/>
-<br/>
-[女闇金-ユリ- [PR]](https://amzn.to/3LFykM3)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+アメリカン・パイのような青春コメディ。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
