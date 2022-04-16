@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 魔少年
+reviewed in 2022-4-16 10:50:04<br/>
+<br/>
+[魔少年](https://www.toeich.jp/keiji/?p=1335)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+松尾嘉代さん<br/>
 ### 息子の為に抱かれる女
 reviewed in 2022-4-5 17:35:03<br/>
 <br/>

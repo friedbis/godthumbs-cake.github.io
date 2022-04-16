@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 魔少年
+reviewed in 2022-4-16 10:50:04<br/>
+<br/>
+[魔少年](https://www.toeich.jp/keiji/?p=1335)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+松尾嘉代さん<br/>
 ### 母娘監禁 牝
 reviewed in 2022-4-12 09:50:03<br/>
 <br/>
@@ -104,13 +111,6 @@ reviewed in 2022-4-5 17:40:03<br/>
 <br/>
 [夜這い村とやらせる詐欺の女](https://www.dmm.com/digital/videomarket/movie/-/detail/=/title_id=370167/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 新・嬢王夜曲　夢とSEXに溺れる女どもの飽くなき欲望
-reviewed in 2022-4-5 17:40:03<br/>
-<br/>
-[新・嬢王夜曲　夢とSEXに溺れる女どもの飽くなき欲望 [PR]](https://amzn.to/36Wym3t)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
 <br/>
