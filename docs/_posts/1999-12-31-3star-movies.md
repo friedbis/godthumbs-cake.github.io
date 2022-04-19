@@ -661,7 +661,7 @@ reviewed in 2021-11-17 07:00:04<br/>
 <br/>
 ### 女神降臨 篠原冴美 #157 
 reviewed in 2021-11-14 22:35:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMGMwN2M2N2MtMmFjMy00ZmY0LTlmYTgtM2IwZDE5OTc1NTczXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_FMjpg_UX961_.jpg" alt="女神降臨 篠原冴美 #157 "><br/>
+<br/>
 [女神降臨 篠原冴美 #157 ](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -794,7 +794,7 @@ reviewed in 2021-10-1 23:50:03<br/>
 お胸が魅力だがやはり見えないと若干残念<br/>
 ### 女神降臨 川崎あや #140
 reviewed in 2021-10-1 23:40:03<br/>
-<img src="https://img.mixi.net/photo/news/217_20180625_29446_2.jpg" alt="女神降臨 川崎あや #140"><br/>
+<br/>
 [女神降臨 川崎あや #140](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
