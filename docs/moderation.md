@@ -49,7 +49,7 @@ reviewed in 2022-4-24 13:45:03<br/>
 [文学賞殺人事件　大いなる助走 [PR]](https://amzn.to/3Lf1a64)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-甲斐えつ子<br/>
+甲斐えつ子さん<br/>
 ### 魔少年
 reviewed in 2022-4-16 10:50:04<br/>
 <br/>
@@ -116,7 +116,6 @@ reviewed in 2022-4-5 17:45:04<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
