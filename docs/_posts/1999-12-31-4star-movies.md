@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 文学賞殺人事件　大いなる助走
+reviewed in 2022-4-24 13:45:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODI1YzMzNzctMDAyMS00NDkwLTgzYTctN2Q2NjY2ZTM1ZDZlXkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_.jpg" alt="文学賞殺人事件　大いなる助走"><br/>
+[文学賞殺人事件　大いなる助走 [PR]](https://amzn.to/3Lf1a64)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+甲斐えつ子<br/>
 ### 母娘監禁 牝
 reviewed in 2022-4-12 09:50:03<br/>
 <br/>
