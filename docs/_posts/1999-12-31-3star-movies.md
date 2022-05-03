@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～責められ好きな女たち～
+reviewed in 2022-5-3 23:20:04<br/>
+<br/>
+[令和エロス噺～責められ好きな女たち～ [PR]](https://amzn.to/3vFWyko)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+マゾで変態な私を調教してください。（R18版）<br/>
 ### ウルフガイ　燃えろ狼男
 reviewed in 2022-4-29 04:15:03<br/>
 <br/>
