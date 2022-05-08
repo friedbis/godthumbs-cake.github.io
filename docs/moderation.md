@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 温泉みみず芸者
+reviewed in 2022-5-8 18:25:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2I0N2FmYzQtNDMzMC00NzBjLTlmMDUtMDc1NDYxZTBlMWJhXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="温泉みみず芸者"><br/>
+[温泉みみず芸者 [PR]](https://amzn.to/3kSJ0f8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+池玲子さん<br/>
 ### 快感キャリアウーマン
 reviewed in 2022-5-8 18:20:03<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-4-12 09:50:03<br/>
 [母娘監禁 牝 [PR]](https://amzn.to/3KxD06L)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ポルノの女王 にっぽんSEX旅行
-reviewed in 2022-4-12 08:55:03<br/>
-<br/>
-[ポルノの女王 にっぽんSEX旅行 [PR]](https://www.amazon.co.jp/dp/B08GL1KM7M)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-監禁、暴力、ドラッグを絡めた純愛ラブストーリーと言えばよいか。
+
 <br/>
 ### 索引
 <br/>

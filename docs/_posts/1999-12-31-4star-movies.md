@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 温泉みみず芸者
+reviewed in 2022-5-8 18:25:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2I0N2FmYzQtNDMzMC00NzBjLTlmMDUtMDc1NDYxZTBlMWJhXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="温泉みみず芸者"><br/>
+[温泉みみず芸者 [PR]](https://amzn.to/3kSJ0f8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+池玲子さん<br/>
 ### 文学賞殺人事件　大いなる助走
 reviewed in 2022-4-24 13:45:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODI1YzMzNzctMDAyMS00NDkwLTgzYTctN2Q2NjY2ZTM1ZDZlXkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_.jpg" alt="文学賞殺人事件　大いなる助走"><br/>
