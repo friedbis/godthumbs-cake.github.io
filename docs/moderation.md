@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 快感キャリアウーマン
+reviewed in 2022-5-8 18:20:03<br/>
+<br/>
+[快感キャリアウーマン [PR]](https://amzn.to/388v4Lg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+陵辱キャリアウーマン～堕ちていく心と体～（R18版）<br/>
 ### 令和エロス噺～悦びを抑えられない女たち～
 reviewed in 2022-5-8 18:15:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-4-12 08:55:03<br/>
 [ポルノの女王 にっぽんSEX旅行 [PR]](https://www.amazon.co.jp/dp/B08GL1KM7M)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-監禁、暴力、ドラッグを絡めた純愛ラブストーリーと言えばよいか。<br/>
-### 幼なじみ 発情てんこ盛り
-reviewed in 2022-4-12 08:35:03<br/>
-<br/>
-[幼なじみ 発情てんこ盛り [PR]](https://amzn.to/3uuTQgF)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-普通にドラマとしてよくできている
+監禁、暴力、ドラッグを絡めた純愛ラブストーリーと言えばよいか。
 <br/>
 ### 索引
 <br/>
