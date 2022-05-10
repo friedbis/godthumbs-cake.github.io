@@ -47,7 +47,7 @@ title: Impression
 reviewed in 2022-5-11 05:40:04<br/>
 <br/>
 [フルムーンラバーズ [PR]](https://amzn.to/3PbH27p)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 月夜の密通 ゾロ目の人妻（R15版） 月夜の密通　人妻禁断の出会い（R15版）<br/>
 ### エクスタシー霊媒師 ミコ
@@ -116,7 +116,6 @@ reviewed in 2022-5-3 23:10:03<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -163,7 +162,6 @@ reviewed in 2022-5-3 23:10:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
