@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 新・夜王誕生 ~女の金と魂をしゃぶり尽くす犬ども
+reviewed in 2022-5-11 05:10:03<br/>
+<br/>
+[新・夜王誕生 ~女の金と魂をしゃぶり尽くす犬ども [PR]](https://amzn.to/3FB6E9b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 刺青女と生尻娘 ～とってもエッチな遊び～
 reviewed in 2022-5-11 05:05:03<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-4-24 13:45:03<br/>
 [文学賞殺人事件　大いなる助走 [PR]](https://amzn.to/3Lf1a64)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-甲斐えつ子さん<br/>
-### 魔少年
-reviewed in 2022-4-16 10:50:04<br/>
-<br/>
-[魔少年](https://www.toeich.jp/keiji/?p=1335)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-松尾嘉代さん
+甲斐えつ子さん
 <br/>
 ### 索引
 <br/>
