@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 恋人交換殺人事件
+reviewed in 2022-5-12 21:00:05<br/>
+<br/>
+[恋人交換殺人事件](http://www.tvdrama-db.com/drama_info/p/id-19238)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 妖美伝奇新説　牡丹灯籠　壱～この世の果て～
 reviewed in 2022-5-11 05:20:04<br/>
 <br/>
@@ -1608,13 +1615,6 @@ reviewed in 2021-8-25 19:57:21<br/>
 reviewed in 2021-8-25 08:21:44<br/>
 <br/>
 [スピーシーズ 種の起源 [PR]](https://amzn.to/3jculuX)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 世にもエロスな物語〜昇天〜
-reviewed in 2021-8-24 23:25:40<br/>
-<br/>
-[世にもエロスな物語〜昇天〜](https://www.necoweb.com/neco/program/detail.php?id=5602)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
