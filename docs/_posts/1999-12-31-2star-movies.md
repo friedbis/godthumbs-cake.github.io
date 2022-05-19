@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜の歌謡シリーズ 伊勢佐木町ブルース
+reviewed in 2022-5-19 16:40:03<br/>
+<br/>
+[夜の歌謡シリーズ 伊勢佐木町ブルース [PR]](https://amzn.to/3wAFMCg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 背徳奉仕
 reviewed in 2022-5-19 16:30:03<br/>
 <br/>
