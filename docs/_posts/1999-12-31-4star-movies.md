@@ -43,13 +43,6 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 農家に嫁いだ女
-reviewed in 2022-5-22 04:20:04<br/>
-<br/>
-[農家に嫁いだ女 [PR]](https://amzn.to/3Npmuqg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### エクスタシー霊媒師 ミコ
 reviewed in 2022-5-11 05:30:04<br/>
 <br/>

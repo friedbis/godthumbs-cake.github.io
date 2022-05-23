@@ -44,10 +44,10 @@ title: Impression
 
 <br/>
 ### 農家に嫁いだ女
-reviewed in 2022-5-22 04:20:04<br/>
+reviewed in 2022-5-23 09:45:03<br/>
 <br/>
-[農家に嫁いだ女 [PR]](https://amzn.to/3Npmuqg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+[農家に嫁いだ女 [PR]](https://amzn.to/3MCJORy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### スプリング・ブレイカーズ
