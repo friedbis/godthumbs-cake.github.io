@@ -49,7 +49,7 @@ reviewed in 2022-5-23 11:45:03<br/>
 [暴力教室 [PR]](https://amzn.to/3wCgNQe)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-安西マリアさん<br/>
+安西マリアさん、山本由香里さん<br/>
 ### 農家に嫁いだ女
 reviewed in 2022-5-23 09:45:03<br/>
 <br/>
@@ -116,7 +116,6 @@ reviewed in 2022-5-15 03:35:03<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
