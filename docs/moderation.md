@@ -66,7 +66,7 @@ reviewed in 2022-5-25 00:45:03<br/>
 <br/>
 ### 夜汽車
 reviewed in 2022-5-25 00:45:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWEyOTdiMmItMGY1YS00NDQ1LThjODUtNDJmNDczYTk2N2ZjXkEyXkFqcGdeQXVyNTg2NDk1Mjk@._V1_.jpg" alt="夜汽車"><br/>
 [夜汽車 [PR]](https://amzn.to/3wJeqdb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -80,7 +80,7 @@ reviewed in 2022-5-25 00:45:03<br/>
 下らないけど面白い<br/>
 ### コズモポリス
 reviewed in 2022-5-23 18:15:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BY2E3YzQyNWMtMTg1MS00NWM1LWFjOGUtMTNlMDQ3ZTdlNDYwXkEyXkFqcGdeQXVyMTk5MjkzMjU@._V1_FMjpg_UX1280_.jpg" alt="コズモポリス"><br/>
 [コズモポリス [PR]](https://amzn.to/3Gdiyqs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -116,7 +116,6 @@ reviewed in 2022-5-19 23:30:05<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
