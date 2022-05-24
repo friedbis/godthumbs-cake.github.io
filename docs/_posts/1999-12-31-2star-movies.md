@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～秘め事に酔う女たち～
+reviewed in 2022-5-25 01:15:04<br/>
+<br/>
+[令和エロス噺～秘め事に酔う女たち～ [PR]](https://amzn.to/3Nxln7X)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+淫猥調教 私はあなたの奴隷です……。社内全裸とスパンキング・責められるほどに疼く肉体。（R18版） あなた 見ないで（R18版）<br/>
 ### エクスタシー・キャットウィッチLISA　Hな雌猫と恋のマジカルパニック！
 reviewed in 2022-5-25 00:45:03<br/>
 <br/>

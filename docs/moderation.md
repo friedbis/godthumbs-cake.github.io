@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～秘め事に酔う女たち～
+reviewed in 2022-5-25 01:15:04<br/>
+<br/>
+[令和エロス噺～秘め事に酔う女たち～ [PR]](https://amzn.to/3Nxln7X)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+淫猥調教 私はあなたの奴隷です……。社内全裸とスパンキング・責められるほどに疼く肉体。（R18版） あなた 見ないで（R18版）<br/>
 ### 下宿屋女将の愛欲
 reviewed in 2022-5-25 00:55:03<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-5-19 23:30:05<br/>
 [スプリング・ブレイカーズ [PR]](https://amzn.to/39BA4bj)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 夜の歌謡シリーズ 伊勢佐木町ブルース
-reviewed in 2022-5-19 16:40:03<br/>
-<br/>
-[夜の歌謡シリーズ 伊勢佐木町ブルース [PR]](https://amzn.to/3wAFMCg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
