@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 消えた男
+reviewed in 2022-5-26 18:50:03<br/>
+<br/>
+[消えた男]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+秋吉久美子さん<br/>
 ### 鞭で泣かす
 reviewed in 2022-5-25 01:25:04<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-5-23 12:10:04<br/>
 [悲しきヒットマン [PR]](https://amzn.to/3lwF3Nk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-萬田久子さん<br/>
-### 暴力教室
-reviewed in 2022-5-23 11:45:03<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTg3MGJmNTctNDkwOS00NDJiLThhZGQtN2UwNjYxMmMyMDAxXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="暴力教室"><br/>
-[暴力教室 [PR]](https://amzn.to/3wCgNQe)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-安西マリアさん、山本由香利さん
+萬田久子さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
