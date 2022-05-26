@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ツンデレ娘 奥手な初体験
+reviewed in 2022-5-27 03:45:04<br/>
+<br/>
+[ツンデレ娘 奥手な初体験 [PR]](https://amzn.to/38lijNi)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+R18？<br/>
 ### 消えた男
 reviewed in 2022-5-26 18:50:03<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-5-23 18:15:04<br/>
 [コズモポリス [PR]](https://amzn.to/3Gdiyqs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 悲しきヒットマン
-reviewed in 2022-5-23 12:10:04<br/>
-<br/>
-[悲しきヒットマン [PR]](https://amzn.to/3lwF3Nk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-萬田久子さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
