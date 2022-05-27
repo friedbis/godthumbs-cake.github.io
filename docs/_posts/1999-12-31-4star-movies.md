@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 悲しき天使
+reviewed in 2022-5-27 20:20:03<br/>
+<br/>
+[悲しき天使 [PR]](https://amzn.to/3wYWP1g)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 鞭で泣かす
 reviewed in 2022-5-25 01:25:04<br/>
 <br/>
