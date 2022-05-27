@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 続 女の警察
+reviewed in 2022-5-27 19:45:04<br/>
+<br/>
+[続 女の警察 [PR]](https://amzn.to/3Gn7IOo)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女の警察
 reviewed in 2022-5-27 19:40:03<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-5-25 00:45:03<br/>
 [夜汽車 [PR]](https://amzn.to/3wJeqdb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 揉めよドラゴン　炎の爆乳三番勝負
-reviewed in 2022-5-25 00:45:03<br/>
-<br/>
-[揉めよドラゴン　炎の爆乳三番勝負 [PR]](https://amzn.to/3MQrVik)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-下らないけど面白い
+
 <br/>
 ### 索引
 <br/>
