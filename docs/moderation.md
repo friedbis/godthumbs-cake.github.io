@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 姐（あね） 極道を愛した女・桐子
+reviewed in 2022-5-30 20:30:04<br/>
+<br/>
+[姐（あね） 極道を愛した女・桐子 [PR]](https://amzn.to/3wYK1ZW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 悲しき天使
 reviewed in 2022-5-27 20:20:03<br/>
 <br/>

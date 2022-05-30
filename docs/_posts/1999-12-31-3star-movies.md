@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 姐（あね） 極道を愛した女・桐子
+reviewed in 2022-5-30 20:30:04<br/>
+<br/>
+[姐（あね） 極道を愛した女・桐子 [PR]](https://amzn.to/3wYK1ZW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜汽車
 reviewed in 2022-5-25 00:45:03<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZWEyOTdiMmItMGY1YS00NDQ1LThjODUtNDJmNDczYTk2N2ZjXkEyXkFqcGdeQXVyNTg2NDk1Mjk@._V1_.jpg" alt="夜汽車"><br/>
