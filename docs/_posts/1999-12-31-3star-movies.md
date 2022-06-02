@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 悪の華
+reviewed in 2022-6-2 12:50:03<br/>
+<br/>
+[悪の華](https://eiga.com/movie/34468/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 姐（あね） 極道を愛した女・桐子
 reviewed in 2022-5-30 20:30:04<br/>
 <br/>
