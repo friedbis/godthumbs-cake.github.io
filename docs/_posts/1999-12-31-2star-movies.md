@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### チワワちゃん
+reviewed in 2022-6-4 07:50:03<br/>
+<br/>
+[チワワちゃん [PR]](https://www.amazon.co.jp/gp/video/detail/B07SQFP3LK/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 続 女の警察
 reviewed in 2022-5-27 19:45:04<br/>
 <br/>
