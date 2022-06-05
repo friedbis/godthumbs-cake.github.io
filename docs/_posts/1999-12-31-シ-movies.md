@@ -49,7 +49,7 @@ reviewed in 2022-6-5 14:00:06<br/>
 [白肌を覆う女～弁当工場・沙夜子～ [PR]](https://amzn.to/3zdOv0d)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ラバーズ〜覆う女〜<br/>
+ラバーズ〜覆う女〜(R18版)<br/>
 ### 滴る女～牛乳配達人・めぐみ～
 reviewed in 2022-6-5 13:55:03<br/>
 <br/>
