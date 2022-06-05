@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 新・銭湯童貞
+reviewed in 2022-6-5 13:50:05<br/>
+<br/>
+[新・銭湯童貞 [PR]](https://amzn.to/3NUmkrf)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+新・銭湯童貞　チェリーボーイの沸騰寸前5秒前<br/>
 ### チワワちゃん
 reviewed in 2022-6-4 07:50:03<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-5-26 18:50:03<br/>
 [消えた男]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-秋吉久美子さん<br/>
-### 鞭で泣かす
-reviewed in 2022-5-25 01:25:04<br/>
-<br/>
-[鞭で泣かす [PR]](https://amzn.to/3wEuqwY)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+秋吉久美子さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
