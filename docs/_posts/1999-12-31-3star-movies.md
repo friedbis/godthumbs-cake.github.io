@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 百円硬貨
+reviewed in 2022-6-5 14:40:05<br/>
+<br/>
+[百円硬貨](http://www.tvdrama-db.com/drama_info/p/id-18816)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+いしだあゆみさん<br/>
 ### 赤と黒の熱情 Passion
 reviewed in 2022-6-5 14:00:06<br/>
 <br/>

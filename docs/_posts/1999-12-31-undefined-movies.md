@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 百円硬貨
+### メビウスの悪女 赤い部屋
 reviewed in 2022-6-5 14:40:05<br/>
 <br/>
-[百円硬貨](http://www.tvdrama-db.com/drama_info/p/id-18816)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[メビウスの悪女 赤い部屋 [PR]](https://amzn.to/3zdPLAt)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-いしだあゆみさん
