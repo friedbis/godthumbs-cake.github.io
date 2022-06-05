@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 赤と黒の熱情 Passion
+reviewed in 2022-6-5 14:00:06<br/>
+<br/>
+[赤と黒の熱情 Passion [PR]](https://amzn.to/3NjTMaL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+麻生祐未さん<br/>
 ### 悪の華
 reviewed in 2022-6-2 12:50:03<br/>
 <br/>
