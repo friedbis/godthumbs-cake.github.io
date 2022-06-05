@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 若妻悶々物語　～さくら色に染めて～
+reviewed in 2022-6-5 14:30:05<br/>
+<br/>
+[若妻悶々物語　～さくら色に染めて～ [PR]](https://amzn.to/3Q3rcfq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 白肌を覆う女～弁当工場・沙夜子～
 reviewed in 2022-6-5 14:00:06<br/>
 <br/>
