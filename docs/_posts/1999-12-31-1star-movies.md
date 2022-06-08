@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### コータローまかりとおる！
+reviewed in 2022-6-8 12:35:03<br/>
+<br/>
+[コータローまかりとおる！]()<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 新・銭湯童貞
 reviewed in 2022-6-5 13:50:05<br/>
 <br/>
