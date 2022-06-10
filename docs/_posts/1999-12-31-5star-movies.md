@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 痴女昇天
+reviewed in 2022-6-10 13:15:04<br/>
+<br/>
+[痴女昇天](https://www.nikkatsu.com/movie/25553.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+最後のオチが良かった。<br/>
 ### 夫婦専用シェアハウス ヴィーナス 前後編
 reviewed in 2022-5-19 16:15:03<br/>
 <br/>
