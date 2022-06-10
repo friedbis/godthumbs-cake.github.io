@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### あぶない刑事
+reviewed in 2022-6-10 10:20:07<br/>
+<br/>
+[あぶない刑事 [PR]](https://amzn.to/3xcx9Os)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+導入部<br/>
 ### コータローまかりとおる！
 reviewed in 2022-6-8 12:35:03<br/>
 <br/>
 [コータローまかりとおる！ [PR]](https://amzn.to/3aSpzRP)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+冒頭シーン<br/>
 ### 女が見ていた
 reviewed in 2022-6-6 18:25:03<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-6-5 14:00:06<br/>
 [白肌を覆う女～弁当工場・沙夜子～ [PR]](https://amzn.to/3zdOv0d)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ラバーズ〜覆う女〜(R18版)<br/>
-### 赤と黒の熱情 Passion
-reviewed in 2022-6-5 14:00:06<br/>
-<br/>
-[赤と黒の熱情 Passion [PR]](https://amzn.to/3NjTMaL)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-麻生祐未さん
+ラバーズ〜覆う女〜(R18版)
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
