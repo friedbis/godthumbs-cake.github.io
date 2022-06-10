@@ -46,7 +46,7 @@ title: Impression
 ### コータローまかりとおる！
 reviewed in 2022-6-8 12:35:03<br/>
 <br/>
-[コータローまかりとおる！]()<br/>
+[コータローまかりとおる！ [PR]](https://amzn.to/3aSpzRP)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
