@@ -49,7 +49,7 @@ reviewed in 2022-6-17 09:50:06<br/>
 [極東黒社会 DRUG CONNECTION [PR]](https://amzn.to/3b6I5G0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-斉藤レイ子さん、北原佐和子さん<br/>
+斉藤レイ子さん、北原佐和子さん、ジェシカ・ランスロットさん<br/>
 ### 若妻悶々物語　～さくら色に染めて～
 reviewed in 2022-6-5 14:30:05<br/>
 <br/>
