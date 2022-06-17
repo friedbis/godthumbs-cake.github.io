@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 極東黒社会 DRUG CONNECTION
+reviewed in 2022-6-17 09:50:06<br/>
+<br/>
+[極東黒社会 DRUG CONNECTION [PR]](https://amzn.to/3b6I5G0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+斉藤レイ子さん、北原佐和子さん<br/>
 ### 「ダメ…」禁断欲情秘話～団地妻 他～
 reviewed in 2022-6-14 11:20:05<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-6-5 14:40:05<br/>
 [メビウスの悪女 赤い部屋 [PR]](https://amzn.to/3zdPLAt)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 百円硬貨
-reviewed in 2022-6-5 14:40:05<br/>
-<br/>
-[百円硬貨](http://www.tvdrama-db.com/drama_info/p/id-18816)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-いしだあゆみさん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
