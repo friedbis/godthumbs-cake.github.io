@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 暗い穴の底で
+reviewed in 2022-6-19 21:10:05<br/>
+<br/>
+[暗い穴の底で](http://www.tvdrama-db.com/drama_info/p/id-18818)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 極東黒社会 DRUG CONNECTION
 reviewed in 2022-6-17 09:50:06<br/>
 <br/>
