@@ -105,17 +105,11 @@ reviewed in 2022-6-10 13:15:04<br/>
 [痴女昇天](https://www.nikkatsu.com/movie/25553.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-最後のオチが良かった。<br/>
-### Another XX ダブルエックス 黒い追跡者
-reviewed in 2022-6-10 13:10:06<br/>
-<br/>
-[Another XX ダブルエックス 黒い追跡者 [PR]](https://amzn.to/3H7Zla5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+最後のオチが良かった。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
