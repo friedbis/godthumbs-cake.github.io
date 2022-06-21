@@ -47,7 +47,7 @@ title: Impression
 reviewed in 2022-6-21 14:05:03<br/>
 <br/>
 [たわわなときめき [PR]](https://amzn.to/3ucyh4j)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
 ### わたしのヒモ男　本能のままに
