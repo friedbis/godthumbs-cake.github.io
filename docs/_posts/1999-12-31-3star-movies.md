@@ -1310,13 +1310,6 @@ reviewed in 2021-9-8 14:20:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### 0721
-reviewed in 2021-9-8 05:00:05<br/>
-<br/>
-[0721](https://www.toeich.jp/program/1T0000014721/202109)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 刺青 堕ちた女郎蜘蛛
 reviewed in 2021-9-7 19:40:03<br/>
 <br/>
