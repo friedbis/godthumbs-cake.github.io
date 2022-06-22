@@ -693,7 +693,7 @@ reviewed in 2021-11-14 02:35:03<br/>
 [キラー・テナント [PR]](https://amzn.to/30nOrve)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+キラー・テナント 迷宮の宴（別タイトル）、怪談回春荘 こんな私に入居して（R18版）<br/>
 ### グラっちゃお！ #501：松嶋えいみ
 reviewed in 2021-11-14 02:30:04<br/>
 <img src="https://img.sirabee.com/wp-content/uploads/2020/09/sirabee20200915matsushimaeimi-scaled.jpg" alt="グラっちゃお！ #501：松嶋えいみ"><br/>
