@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 耳をかく女
+reviewed in 2022-7-3 19:30:05<br/>
+<br/>
+[耳をかく女 [PR]](https://amzn.to/3OHIjlR)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 闇稼業 詐欺道
 reviewed in 2022-6-21 13:20:04<br/>
 <br/>
