@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ザ・ヒットマン 血はバラの匂い
+reviewed in 2022-7-14 06:00:05<br/>
+<br/>
+[ザ・ヒットマン 血はバラの匂い [PR]](https://amzn.to/3axvUlX)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 蒼い経験　禁断SPECIAL
 reviewed in 2022-6-21 08:50:04<br/>
 <br/>
