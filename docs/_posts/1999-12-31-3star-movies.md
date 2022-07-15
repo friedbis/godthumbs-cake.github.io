@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 質屋のおかみさん～シチグサはなた～
+reviewed in 2022-7-16 06:00:05<br/>
+<br/>
+[質屋のおかみさん～シチグサはなた～ [PR]](https://amzn.to/3RwQinT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 続・網走番外地
 reviewed in 2022-6-24 22:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjQ1YmU3ODctNzgyMS00NzkyLWFiZDEtYjhiYTQ2Y2ZhZjY3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="続・網走番外地"><br/>
