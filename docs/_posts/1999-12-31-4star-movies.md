@@ -45,7 +45,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 天国の駅
 reviewed in 2022-7-19 05:55:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTUwNjIyMzA0NF5BMl5BanBnXkFtZTgwOTIwMTg3NjE@._V1_.jpg" alt="天国の駅"><br/>
 [天国の駅 [PR]](https://amzn.to/3IP0FPV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
