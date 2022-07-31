@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### サイコ３
+reviewed in 2022-7-31 16:15:04<br/>
+<br/>
+[サイコ３ [PR]](https://amzn.to/3cIbpn4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### サイコ２
+reviewed in 2022-7-31 16:15:04<br/>
+<br/>
+[サイコ２ [PR]](https://amzn.to/3OKvbLZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ファンタズムII
 reviewed in 2022-7-31 16:00:05<br/>
 <br/>
