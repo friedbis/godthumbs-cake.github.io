@@ -106,10 +106,10 @@ reviewed in 2022-7-19 05:55:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### 質屋のおかみさん～シチグサはなた～
+### 質屋のおかみさん～シチグサはあなた～
 reviewed in 2022-7-16 06:00:05<br/>
 <br/>
-[質屋のおかみさん～シチグサはなた～ [PR]](https://amzn.to/3RwQinT)<br/>
+[質屋のおかみさん～シチグサはあなた～ [PR]](https://amzn.to/3RwQinT)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
