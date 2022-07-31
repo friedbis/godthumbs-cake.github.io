@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ファンタズムII
+reviewed in 2022-7-31 16:00:05<br/>
+<br/>
+[ファンタズムII [PR]](https://amzn.to/3PPvJ4P)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 雀鬼くずれ1
 reviewed in 2022-7-21 19:00:05<br/>
 <br/>
