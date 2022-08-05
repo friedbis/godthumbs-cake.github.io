@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 新・雪国
+reviewed in 2022-8-5 14:31:55<br/>
+<br/>
+[新・雪国 [PR]](https://amzn.to/3JxR7ZN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 燃え上がる不倫妻
 reviewed in 2022-8-5 11:10:09<br/>
 <br/>
