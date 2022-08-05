@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ラブホテル
+reviewed in 2022-8-5 16:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BN2UzMTllMmUtNmVmZi00OTEyLTlhMzMtNzQ1NGQ5Yjg1YjI0XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg" alt="ラブホテル"><br/>
+[ラブホテル](https://www.nikkatsu.com/movie/26245.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 隠し妻
 reviewed in 2022-8-5 15:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGIzZjhkYTQtMzc2MS00MjAxLWFmOTQtODZhY2RiYWQ1NzFkXkEyXkFqcGdeQXVyMTAxMzc2MTkw._V1_.jpg" alt="隠し妻"><br/>
