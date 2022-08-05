@@ -44,7 +44,7 @@ title: Impression
 
 <br/>
 ### 新・雪国
-reviewed in 2022-8-5 14:30:40<br/>
+reviewed in 2022-8-5 14:31:55<br/>
 <br/>
 [新・雪国 [PR]](https://amzn.to/3JxR7ZN)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
