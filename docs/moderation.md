@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 夫婦でいくスワップの旅
+reviewed in 2022-8-5 15:40:04<br/>
+<br/>
+[夫婦でいくスワップの旅 [PR]](https://amzn.to/3Qies3W)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ネトラレ妄想〜刺激を求める人妻
 reviewed in 2022-8-5 14:55:04<br/>
 <br/>
@@ -103,13 +110,6 @@ reviewed in 2022-7-31 16:15:04<br/>
 reviewed in 2022-7-31 16:15:04<br/>
 <br/>
 [サイコ２ [PR]](https://amzn.to/3OKvbLZ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### ファンタズムII
-reviewed in 2022-7-31 16:00:05<br/>
-<br/>
-[ファンタズムII [PR]](https://amzn.to/3PPvJ4P)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
