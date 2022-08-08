@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ドレミファ娘の血は騒ぐ
+reviewed in 2022-8-9 08:25:04<br/>
+<br/>
+[ドレミファ娘の血は騒ぐ [PR]](https://amzn.to/3BNoPZH)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夫婦でいくスワップの旅
 reviewed in 2022-8-5 15:40:04<br/>
 <br/>
