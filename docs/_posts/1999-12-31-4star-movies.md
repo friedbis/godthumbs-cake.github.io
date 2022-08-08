@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 菊村到の妻よ安らかに眠れ
+reviewed in 2022-8-8 16:00:05<br/>
+<br/>
+[菊村到の妻よ安らかに眠れ](http://www.tvdrama-db.com/drama_info/p/id-19300)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+畑中葉子さん<br/>
 ### 天国の駅
 reviewed in 2022-7-19 05:55:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTUwNjIyMzA0NF5BMl5BanBnXkFtZTgwOTIwMTg3NjE@._V1_.jpg" alt="天国の駅"><br/>
