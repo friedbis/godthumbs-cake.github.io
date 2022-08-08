@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ネオ チンピラ 鉄砲玉ぴゅー
+reviewed in 2022-8-8 12:00:08<br/>
+<br/>
+[ネオ チンピラ 鉄砲玉ぴゅー [PR]](https://amzn.to/3zEkjdb)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+青山知可子さん、あ、あと哀川翔さんのバク宙。<br/>
 ### アダン　禁断の果実
 reviewed in 2022-8-6 05:45:05<br/>
 <br/>
