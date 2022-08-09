@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 柘榴館
+reviewed in 2022-8-9 17:30:07<br/>
+<br/>
+[柘榴館 [PR]](https://amzn.to/3zKczqc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ドレミファ娘の血は騒ぐ
 reviewed in 2022-8-9 08:25:04<br/>
 <br/>
