@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 宮本から君へ
+reviewed in 2022-8-15 22:45:04<br/>
+<br/>
+[宮本から君へ [PR]](https://amzn.to/3w7Hz2h)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### ネオ チンピラ 鉄砲玉ぴゅー
 reviewed in 2022-8-8 12:00:08<br/>
 <br/>
