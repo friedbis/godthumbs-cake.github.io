@@ -43,44 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 暴行深夜バス ーノンストップクレイジーツアー
-reviewed in 2022-8-15 21:35:04<br/>
+### 高校教師 生徒なのに...
+reviewed in 2022-8-15 21:40:04<br/>
 <br/>
-[暴行深夜バス ーノンストップクレイジーツアー [PR]](https://amzn.to/3phVbEr)<br/>
+[高校教師 生徒なのに... [PR]](https://amzn.to/3AlxtNF)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### SHAME－シェイム－
-reviewed in 2022-8-15 21:35:04<br/>
-<br/>
-[SHAME－シェイム－ [PR]](https://amzn.to/3AkBthC)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 禁愛 コリアン･ラブ
-reviewed in 2022-8-15 21:35:04<br/>
-<br/>
-[禁愛 コリアン･ラブ [PR]](https://amzn.to/3T1RQqK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 新ヤンママトラッカー 涙街道・爆走かぐや姫！
-reviewed in 2022-8-15 21:35:04<br/>
-<br/>
-[新ヤンママトラッカー 涙街道・爆走かぐや姫！ [PR]](https://amzn.to/3dt0aiQ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 新ヤンママトラッカー けじめつけます
-reviewed in 2022-8-15 21:35:04<br/>
-<br/>
-[新ヤンママトラッカー けじめつけます [PR]](https://amzn.to/3bZ38LK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### ヤンママトラッカー 飛龍伝
-reviewed in 2022-8-15 21:35:04<br/>
-<br/>
-[ヤンママトラッカー 飛龍伝 [PR]](https://amzn.to/3zZ9ouU)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 高校教師 生徒なのに...
+reviewed in 2022-8-15 21:40:04<br/>
+<br/>
+[高校教師 生徒なのに... [PR]](https://amzn.to/3AlxtNF)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 暴行深夜バス ーノンストップクレイジーツアー
 reviewed in 2022-8-15 21:35:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-8-14 21:55:04<br/>
 [美人嫁と義父 [PR]](https://amzn.to/3Cm0s5J)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-義父と美人嫁～一線を越えた禁断恋慕～（R18版）<br/>
-### 狙われる若妻
-reviewed in 2022-8-14 21:55:04<br/>
-<br/>
-[狙われる若妻]()<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-狙われた若妻（R18版）
+義父と美人嫁～一線を越えた禁断恋慕～（R18版）
 <br/>
 ### 索引
 <br/>
