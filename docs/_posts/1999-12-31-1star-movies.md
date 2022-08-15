@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 奇説 魔界転生 ―呪殺女虐叫―
+reviewed in 2022-8-15 22:25:03<br/>
+<br/>
+[奇説 魔界転生 ―呪殺女虐叫― [PR]](https://amzn.to/3C6t9TT)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### The Rachi 踊れ監禁ダンス
 reviewed in 2022-8-15 22:20:04<br/>
 <br/>
