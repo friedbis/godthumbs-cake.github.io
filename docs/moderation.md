@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 殺す女 女の犯罪ファイル
+reviewed in 2022-8-15 21:45:04<br/>
+<br/>
+[殺す女 女の犯罪ファイル [PR]](https://amzn.to/3pmtUR2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 高校教師 生徒なのに...
 reviewed in 2022-8-15 21:40:04<br/>
 <br/>
@@ -68,7 +75,7 @@ reviewed in 2022-8-15 21:35:04<br/>
 reviewed in 2022-8-15 21:35:04<br/>
 <br/>
 [禁愛 コリアン･ラブ [PR]](https://amzn.to/3T1RQqK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 新ヤンママトラッカー 涙街道・爆走かぐや姫！
@@ -105,14 +112,7 @@ reviewed in 2022-8-15 19:50:04<br/>
 [女教師日記 禁じられた性 [PR]](https://amzn.to/3Qp2RAD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 美人嫁と義父
-reviewed in 2022-8-14 21:55:04<br/>
-<br/>
-[美人嫁と義父 [PR]](https://amzn.to/3Cm0s5J)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-義父と美人嫁～一線を越えた禁断恋慕～（R18版）
+
 <br/>
 ### 索引
 <br/>
