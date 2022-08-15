@@ -43,16 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 奇説 魔界転生 ―呪殺女虐叫―
-reviewed in 2022-8-15 22:25:03<br/>
+### 眠れる美女の限界
+reviewed in 2022-8-15 22:30:04<br/>
 <br/>
-[奇説 魔界転生 ―呪殺女虐叫― [PR]](https://amzn.to/3C6t9TT)<br/>
+[眠れる美女の限界 [PR]](https://amzn.to/3SNKLd8)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 女狼 淫殺裸身剣舞
-reviewed in 2022-8-15 22:25:03<br/>
-<br/>
-[女狼 淫殺裸身剣舞 [PR]](https://amzn.to/3PpyU25)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
