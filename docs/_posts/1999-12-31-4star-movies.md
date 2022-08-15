@@ -43,6 +43,27 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### SHAME－シェイム－
+reviewed in 2022-8-15 21:35:04<br/>
+<br/>
+[SHAME－シェイム－ [PR]](https://amzn.to/3AkBthC)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 禁愛 コリアン･ラブ
+reviewed in 2022-8-15 21:35:04<br/>
+<br/>
+[禁愛 コリアン･ラブ [PR]](https://amzn.to/3T1RQqK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ヤンママトラッカー 飛龍伝
+reviewed in 2022-8-15 21:35:04<br/>
+<br/>
+[ヤンママトラッカー 飛龍伝 [PR]](https://amzn.to/3zZ9ouU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女教師日記２ 暴かれた性
 reviewed in 2022-8-15 19:50:04<br/>
 <br/>
