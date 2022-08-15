@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 透明変態人間
+reviewed in 2022-8-15 21:50:04<br/>
+<br/>
+[透明変態人間 [PR]](https://amzn.to/3bT78NQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### プチ温泉芸者
+reviewed in 2022-8-15 21:50:04<br/>
+<br/>
+[プチ温泉芸者 [PR]](https://amzn.to/3zZ7lH0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 殺す女 女の犯罪ファイル
 reviewed in 2022-8-15 21:45:04<br/>
 <br/>
@@ -96,20 +110,6 @@ reviewed in 2022-8-15 21:35:04<br/>
 reviewed in 2022-8-15 21:35:04<br/>
 <br/>
 [ヤンママトラッカー 飛龍伝 [PR]](https://amzn.to/3zZ9ouU)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 女教師日記２ 暴かれた性
-reviewed in 2022-8-15 19:50:04<br/>
-<br/>
-[女教師日記２ 暴かれた性 [PR]](https://amzn.to/3wsC9zh)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 女教師日記 禁じられた性
-reviewed in 2022-8-15 19:50:04<br/>
-<br/>
-[女教師日記 禁じられた性 [PR]](https://amzn.to/3Qp2RAD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 

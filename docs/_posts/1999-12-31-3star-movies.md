@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### プチ温泉芸者
+reviewed in 2022-8-15 21:50:04<br/>
+<br/>
+[プチ温泉芸者 [PR]](https://amzn.to/3zZ7lH0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 禁愛 コリアン･ラブ
 reviewed in 2022-8-15 21:35:04<br/>
 <br/>

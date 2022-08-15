@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 透明変態人間
+reviewed in 2022-8-15 21:50:04<br/>
+<br/>
+[透明変態人間 [PR]](https://amzn.to/3bT78NQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 新ヤンママトラッカー 涙街道・爆走かぐや姫！
 reviewed in 2022-8-15 21:35:04<br/>
 <br/>
