@@ -45,7 +45,7 @@ title: 5つ星の映画・ドラマ
 <br/>
 ### 宮本から君へ
 reviewed in 2022-8-15 22:45:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTRjMmQ4YzMtZGY5Yi00ZTVhLWFmOWYtMjFmMjQzYTRiZTZmXkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_.jpg" alt="宮本から君へ"><br/>
 [宮本から君へ [PR]](https://amzn.to/3w7Hz2h)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
