@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜の歌謡シリーズ 悪党ブルース
+reviewed in 2022-8-25 12:45:04<br/>
+<br/>
+[夜の歌謡シリーズ 悪党ブルース [PR]](https://www.amazon.co.jp/gp/video/detail/B09BBNWJRZ/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### プチ温泉芸者
 reviewed in 2022-8-15 21:50:04<br/>
 <br/>
