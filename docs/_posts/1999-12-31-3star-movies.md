@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 温泉おさな芸者
+reviewed in 2022-8-27 17:50:05<br/>
+<br/>
+[温泉おさな芸者 [PR]](https://amzn.to/3PWgu9c)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 恋するオヤジ
 reviewed in 2022-8-27 17:35:03<br/>
 <br/>
