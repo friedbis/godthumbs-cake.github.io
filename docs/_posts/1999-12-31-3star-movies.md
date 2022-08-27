@@ -43,6 +43,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 恋するオヤジ
+reviewed in 2022-8-27 17:35:03<br/>
+<br/>
+[恋するオヤジ [PR]](https://amzn.to/3PTf2EL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+恋するオヤジ ビンビンなお留守番（別タイトル）<br/>
+### 優しいおしおき おやすみ、ご主人様
+reviewed in 2022-8-27 17:30:05<br/>
+<br/>
+[優しいおしおき おやすみ、ご主人様 [PR]](https://amzn.to/3POr6Hr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 尻を撫でまわしつづけた男 痴漢日記6
 reviewed in 2022-8-27 17:25:04<br/>
 <br/>

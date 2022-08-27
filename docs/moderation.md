@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 恋するオヤジ
+reviewed in 2022-8-27 17:35:03<br/>
+<br/>
+[恋するオヤジ [PR]](https://amzn.to/3PTf2EL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+恋するオヤジ ビンビンなお留守番（別タイトル）<br/>
+### 優しいおしおき おやすみ、ご主人様
+reviewed in 2022-8-27 17:30:05<br/>
+<br/>
+[優しいおしおき おやすみ、ご主人様 [PR]](https://amzn.to/3POr6Hr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 絶倫! 透明変態人間 アブノーマル・エクスタシー
 reviewed in 2022-8-27 17:25:04<br/>
 <br/>
@@ -98,17 +112,11 @@ reviewed in 2022-8-15 22:30:04<br/>
 [眠れる美女の限界 [PR]](https://amzn.to/3SNKLd8)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 奇説 魔界転生 ―呪殺女虐叫―
-reviewed in 2022-8-15 22:25:03<br/>
-<br/>
-[奇説 魔界転生 ―呪殺女虐叫― [PR]](https://amzn.to/3C6t9TT)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -155,7 +163,6 @@ reviewed in 2022-8-15 22:25:03<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
