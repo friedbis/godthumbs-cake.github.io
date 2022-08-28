@@ -1,0 +1,19 @@
+---
+title: 全数把握巡り反旗 都知事の胸の内
+categories:
+- news
+excerpt: |
+  
+feature_text: |
+  ## 全数把握巡り反旗 都知事の胸の内...
+  Sun, 28 Aug 2022 02:48:44 GMT
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
+
+[https://news.yahoo.co.jp/pickup/6436942?source=rss](https://news.yahoo.co.jp/pickup/6436942?source=rss)
+posted on Sun, 28 Aug 2022 02:48:44 GMT
+
+<!--more-->
+
+
