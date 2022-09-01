@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### セミマゲドン
+reviewed in 2022-9-1 15:45:04<br/>
+<br/>
+[セミマゲドン]()<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+最高に下らないけど、楽しめる。<br/>
 ### 眠れる美女の限界
 reviewed in 2022-8-15 22:30:04<br/>
 <br/>
