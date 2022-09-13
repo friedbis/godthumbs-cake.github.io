@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 化身
+reviewed in 2022-9-13 11:55:04<br/>
+<br/>
+[化身 [PR]](https://amzn.to/3dg31vE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 宮本から君へ
 reviewed in 2022-8-15 22:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTRjMmQ4YzMtZGY5Yi00ZTVhLWFmOWYtMjFmMjQzYTRiZTZmXkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_.jpg" alt="宮本から君へ"><br/>
