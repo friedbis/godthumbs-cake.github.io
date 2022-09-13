@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 桜の樹の下で 
+reviewed in 2022-9-13 12:00:07<br/>
+<br/>
+[桜の樹の下で  [PR]](https://amzn.to/3xiex0G)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 化身
 reviewed in 2022-9-13 11:55:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-8-27 17:35:03<br/>
 [恋するオヤジ [PR]](https://amzn.to/3PTf2EL)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-恋するオヤジ ビンビンなお留守番（別タイトル）<br/>
-### 優しいおしおき おやすみ、ご主人様
-reviewed in 2022-8-27 17:30:05<br/>
-<br/>
-[優しいおしおき おやすみ、ご主人様 [PR]](https://amzn.to/3POr6Hr)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+恋するオヤジ ビンビンなお留守番（別タイトル）
 <br/>
 ### 索引
 <br/>
