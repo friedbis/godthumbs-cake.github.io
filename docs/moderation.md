@@ -43,11 +43,18 @@ title: Impression
 ## 作品
 
 <br/>
+### 極道の妻たち Neo
+reviewed in 2022-9-27 15:50:04<br/>
+<br/>
+[極道の妻たち Neo [PR]](https://amzn.to/3UF91Pz)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 極道の妻たち 情炎
 reviewed in 2022-9-27 15:45:04<br/>
 <br/>
 [極道の妻たち 情炎 [PR]](https://amzn.to/3RcB2Ln)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 別れぬ理由
@@ -104,13 +111,6 @@ reviewed in 2022-9-13 12:00:07<br/>
 <br/>
 [桜の樹の下で  [PR]](https://amzn.to/3xiex0G)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 化身
-reviewed in 2022-9-13 11:55:04<br/>
-<br/>
-[化身 [PR]](https://amzn.to/3dg31vE)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 
 <br/>
