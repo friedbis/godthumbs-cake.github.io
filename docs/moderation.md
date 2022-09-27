@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 別れぬ理由
+reviewed in 2022-9-27 15:30:05<br/>
+<br/>
+[別れぬ理由 [PR]](https://amzn.to/3SiC7CD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 死者の木霊
 reviewed in 2022-9-27 15:15:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-9-13 11:50:04<br/>
 [五月みどりの かまきり夫人の告白 [PR]](https://amzn.to/3B8o9fj)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### セミマゲドン
-reviewed in 2022-9-1 15:45:04<br/>
-<br/>
-[セミマゲドン]()<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-最高に下らないけど、楽しめる。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-9-1 15:45:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
