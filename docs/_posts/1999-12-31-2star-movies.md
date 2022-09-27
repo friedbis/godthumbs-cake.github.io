@@ -52,7 +52,7 @@ reviewed in 2022-9-27 15:50:04<br/>
 <br/>
 ### 極道の妻たち 情炎
 reviewed in 2022-9-27 15:45:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGUzODJiMDktYjZlZC00M2VmLWFjNmEtNWMyYmQ4MTc1OTQ5XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg" alt="極道の妻たち 情炎"><br/>
 [極道の妻たち 情炎 [PR]](https://amzn.to/3RcB2Ln)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
