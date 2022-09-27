@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 死者の木霊
+reviewed in 2022-9-27 15:15:04<br/>
+<br/>
+[死者の木霊](http://www.tvdrama-db.com/drama_info/p/id-19907)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+結城しのぶさん<br/>
 ### マニアックドライバー
 reviewed in 2022-9-23 11:50:05<br/>
 <br/>
