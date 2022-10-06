@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 京舞妓殺人事件
+reviewed in 2022-10-6 10:10:04<br/>
+<br/>
+[京舞妓殺人事件](http://www.tvdrama-db.com/drama_info/p/id-17888)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+キャスト、挿入歌が好みだった。<br/>
 ### 痴漢電車 ちんちん発車
 reviewed in 2022-10-4 20:08:43<br/>
 <br/>

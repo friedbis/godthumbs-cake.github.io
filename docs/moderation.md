@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 京舞妓殺人事件
+reviewed in 2022-10-6 10:10:04<br/>
+<br/>
+[京舞妓殺人事件](http://www.tvdrama-db.com/drama_info/p/id-17888)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+キャスト、挿入歌が好みだった。<br/>
 ### 痴漢電車 ちんちん発車
 reviewed in 2022-10-4 20:08:43<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-9-13 13:40:08<br/>
 [人妻熟女(秘)劇場 貴方のいない昼下がりに…]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
- <br/>
-### 葵ちゃんはやらせてくれない
-reviewed in 2022-9-13 13:25:03<br/>
-<br/>
-[葵ちゃんはやらせてくれない [PR]](https://amzn.to/3BaWJ8F)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+ 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
