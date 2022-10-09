@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### リボルバー
+reviewed in 2022-10-10 02:00:05<br/>
+<br/>
+[リボルバー [PR]](https://amzn.to/3yscAPy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 京舞妓殺人事件
 reviewed in 2022-10-6 10:10:04<br/>
 <br/>
