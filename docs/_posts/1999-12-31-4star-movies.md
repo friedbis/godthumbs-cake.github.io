@@ -43,6 +43,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マグマのごとく
+reviewed in 2022-10-11 21:55:04<br/>
+<br/>
+[マグマのごとく [PR]](https://amzn.to/3EznLtI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### QUESTION
+reviewed in 2022-10-11 21:55:04<br/>
+<br/>
+[QUESTION [PR]](https://amzn.to/3T8tg7j)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### リボルバー
 reviewed in 2022-10-10 02:00:05<br/>
 <br/>

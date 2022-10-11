@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### マグマのごとく
+reviewed in 2022-10-11 21:55:04<br/>
+<br/>
+[マグマのごとく [PR]](https://amzn.to/3EznLtI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### QUESTION
+reviewed in 2022-10-11 21:55:04<br/>
+<br/>
+[QUESTION [PR]](https://amzn.to/3T8tg7j)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 裏アカ
 reviewed in 2022-10-11 21:50:04<br/>
 <br/>
@@ -98,21 +112,7 @@ reviewed in 2022-9-27 15:15:04<br/>
 [死者の木霊](http://www.tvdrama-db.com/drama_info/p/id-19907)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-結城しのぶさん<br/>
-### マニアックドライバー
-reviewed in 2022-9-23 11:50:05<br/>
-<br/>
-[マニアックドライバー [PR]](https://amzn.to/3Su112a)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 痴漢電車　エッチが大好き！
-reviewed in 2022-9-13 16:45:04<br/>
-<br/>
-[痴漢電車　エッチが大好き！](https://www.dmm.com/digital/videomarket/movie/-/detail/=/title_id=370165/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+結城しのぶさん
 <br/>
 ### 索引
 <br/>
