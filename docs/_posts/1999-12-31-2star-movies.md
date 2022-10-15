@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 瀬戸内海殺人事件
+reviewed in 2022-10-15 12:10:04<br/>
+<br/>
+[瀬戸内海殺人事件](http://www.tvdrama-db.com/drama_info/p/id-20146)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+池波志乃さん<br/>
 ### 極道の妻たち Neo
 reviewed in 2022-9-27 15:50:04<br/>
 <br/>
