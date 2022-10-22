@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 感じるんです
+reviewed in 2022-10-22 09:40:04<br/>
+<br/>
+[感じるんです [PR]](https://www.amazon.co.jp/gp/video/detail/B07TJB8QG7/ref=atv_dp_share_cu_r)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 色情霊 カノジョノシタタリ
 reviewed in 2022-10-22 09:35:03<br/>
 <br/>
 [色情霊 カノジョノシタタリ [PR]](https://www.amazon.co.jp/gp/video/detail/B09V2NX7KB/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+アノコノシタタリ（別タイトル）<br/>
 ### 恥辱と快楽
 reviewed in 2022-10-22 09:35:03<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-10-10 02:00:05<br/>
 [リボルバー [PR]](https://amzn.to/3yscAPy)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 京舞妓殺人事件
-reviewed in 2022-10-6 10:10:04<br/>
-<br/>
-[京舞妓殺人事件](http://www.tvdrama-db.com/drama_info/p/id-17888)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-キャスト、挿入歌が好みだった。
+
 <br/>
 ### 索引
 <br/>
@@ -169,3 +169,4 @@ reviewed in 2022-10-6 10:10:04<br/>
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
+- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
