@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 極道アパート partII 僕とあの娘のエクスタシーDAYS
+reviewed in 2022-10-30 06:25:04<br/>
+<br/>
+[極道アパート partII 僕とあの娘のエクスタシーDAYS [PR]](https://www.amazon.co.jp/gp/video/detail/B09MPWQX9R/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 戦慓女子 霊にもてる女編
 reviewed in 2022-10-27 08:00:05<br/>
 <br/>
