@@ -43,10 +43,10 @@ title: Impression
 ## 作品
 
 <br/>
-### 女詐欺師と巨乳妻　エロと騙しの技
+### 女詐欺師と巨乳妻 エロと騙しの技
 reviewed in 2022-10-31 01:25:04<br/>
 <br/>
-[女詐欺師と巨乳妻　エロと騙しの技]()<br/>
+[女詐欺師と巨乳妻 エロと騙しの技 [PR]](https://www.amazon.co.jp/dp/B0B5PSMMM7)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 女詐欺師レン キケンな情事を追え！（別タイトル） 悪女の色仕掛け カモって快感！（R18版）<br/>
@@ -105,14 +105,7 @@ reviewed in 2022-10-22 09:35:03<br/>
 [色情霊 カノジョノシタタリ [PR]](https://www.amazon.co.jp/gp/video/detail/B09V2NX7KB/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-アノコノシタタリ（別タイトル）<br/>
-### 恥辱と快楽
-reviewed in 2022-10-22 09:35:03<br/>
-<br/>
-[恥辱と快楽]()<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-人妻性奴隷 夫のいる女の狂わせ方（R18版）
+アノコノシタタリ（別タイトル）
 <br/>
 ### 索引
 <br/>
