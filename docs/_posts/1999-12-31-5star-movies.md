@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 花と蛇
+reviewed in 2022-10-31 02:00:04<br/>
+<br/>
+[花と蛇 [PR]](https://amzn.to/3Dpa0M3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 感じるんです
 reviewed in 2022-10-22 09:40:04<br/>
 <br/>

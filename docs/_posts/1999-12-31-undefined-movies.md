@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 義弟との情事
+### 花と蛇
 reviewed in 2022-10-31 02:00:04<br/>
 <br/>
-[義弟との情事 [PR]](https://www.amazon.co.jp/dp/B08TW7VLK4)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[花と蛇 [PR]](https://amzn.to/3Dpa0M3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-夫と義弟の間でゆらめく性欲（R18版）
