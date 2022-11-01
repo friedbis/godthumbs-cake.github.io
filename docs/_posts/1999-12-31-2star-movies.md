@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### LEGACY TIME
+reviewed in 2022-11-2 08:30:05<br/>
+<br/>
+[LEGACY TIME [PR]](https://amzn.to/3DvpHRV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 友達のお母さん 完熟DELUXE
 reviewed in 2022-10-31 01:55:03<br/>
 <br/>
