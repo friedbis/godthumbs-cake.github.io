@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エクス・マキナ
+reviewed in 2022-11-2 08:30:05<br/>
+<br/>
+[エクス・マキナ [PR]](https://amzn.to/3NqHYEo)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 新女囚さそり 701号
 reviewed in 2022-11-2 06:05:04<br/>
 <br/>
