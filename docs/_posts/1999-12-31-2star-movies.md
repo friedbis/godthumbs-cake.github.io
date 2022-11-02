@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ミッドナイト・シンデレラ２ 真夜中の小アクマ美女に気をつけろ！
+reviewed in 2022-11-2 09:35:04<br/>
+<br/>
+[ミッドナイト・シンデレラ２ 真夜中の小アクマ美女に気をつけろ！ [PR]](https://amzn.to/3Ul8xNH)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### マジック・ボーイズ
+reviewed in 2022-11-2 09:35:04<br/>
+<br/>
+[マジック・ボーイズ [PR]](https://amzn.to/3frBR68)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### LEGACY TIME
 reviewed in 2022-11-2 08:30:05<br/>
 <br/>
