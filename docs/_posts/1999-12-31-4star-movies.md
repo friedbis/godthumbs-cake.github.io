@@ -43,6 +43,27 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### いちどは行きたい女風呂
+reviewed in 2022-11-2 09:25:04<br/>
+<br/>
+[いちどは行きたい女風呂 [PR]](https://amzn.to/3sUFRz6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ホテルローヤル
+reviewed in 2022-11-2 09:25:04<br/>
+<br/>
+[ホテルローヤル [PR]](https://amzn.to/3fnlPui)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+小説の方が何倍もよいのだが、こちらも情緒があってよかった。<br/>
+### 美女缶
+reviewed in 2022-11-2 09:25:04<br/>
+<br/>
+[美女缶 [PR]](https://amzn.to/3Wgvzah)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ピーカン夫婦
 reviewed in 2022-11-2 08:40:04<br/>
 <br/>

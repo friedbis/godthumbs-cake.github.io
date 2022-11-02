@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ホテルローヤル
+### いちどは行きたい女風呂
 reviewed in 2022-11-2 09:25:04<br/>
 <br/>
-[ホテルローヤル [PR]](https://amzn.to/3fnlPui)<br/>
+[いちどは行きたい女風呂 [PR]](https://amzn.to/3sUFRz6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-小説の方が何倍もよいのだが、こちらも情緒があってよかった。
