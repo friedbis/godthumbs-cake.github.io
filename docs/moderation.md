@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 新入生痴漢ゼミナール
+reviewed in 2022-11-2 13:20:04<br/>
+<br/>
+[新入生痴漢ゼミナール [PR]](https://amzn.to/3zzYZXg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ヘルムート・ニュートンと12人の女たち
 reviewed in 2022-11-2 12:35:03<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-11-2 09:25:04<br/>
 [いちどは行きたい女風呂 [PR]](https://amzn.to/3sUFRz6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ホテルローヤル
-reviewed in 2022-11-2 09:25:04<br/>
-<br/>
-[ホテルローヤル [PR]](https://amzn.to/3fnlPui)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-小説の方が何倍もよいのだが、こちらも情緒があってよかった。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-11-2 09:25:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
