@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 孤狼の血
+reviewed in 2022-11-5 14:00:05<br/>
+<br/>
+[孤狼の血 [PR]](https://amzn.to/3DGUZoS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 楢山節考
 reviewed in 2022-11-4 09:50:04<br/>
 <br/>
