@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スターマン/愛・宇宙はるかに
+reviewed in 2022-11-8 16:00:05<br/>
+<br/>
+[スターマン/愛・宇宙はるかに [PR]](https://amzn.to/3DS6QRd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+カレン・アレンさん<br/>
 ### 箱女 ~見られる人妻~
 reviewed in 2022-11-8 11:45:04<br/>
 <br/>
