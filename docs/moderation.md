@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### はだか拳Ω
+reviewed in 2022-11-8 16:10:04<br/>
+<br/>
+[はだか拳Ω [PR]](https://amzn.to/3DPLJPn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### はだか拳
+reviewed in 2022-11-8 16:10:04<br/>
+<br/>
+[はだか拳 [PR]](https://amzn.to/3WM9aSv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### スターマン/愛・宇宙はるかに
 reviewed in 2022-11-8 16:00:05<br/>
 <br/>
@@ -98,20 +112,6 @@ reviewed in 2022-11-8 09:55:04<br/>
 [人妻ドラゴン 何度も昇天拳]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 孤狼の血
-reviewed in 2022-11-5 14:00:05<br/>
-<br/>
-[孤狼の血 [PR]](https://amzn.to/3DGUZoS)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 楢山節考
-reviewed in 2022-11-4 09:50:04<br/>
-<br/>
-[楢山節考 [PR]](https://amzn.to/3fzCSZW)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2022-11-4 09:50:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
