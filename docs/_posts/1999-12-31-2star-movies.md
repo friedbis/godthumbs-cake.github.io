@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マザー！
+reviewed in 2022-11-11 03:25:04<br/>
+<br/>
+[マザー！]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+旧約聖書だと気づいて全て合点がいったような。<br/>
 ### はだか拳
 reviewed in 2022-11-8 16:10:04<br/>
 <br/>
