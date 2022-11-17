@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ファースト・ミッション
+reviewed in 2022-11-17 21:30:05<br/>
+<br/>
+[ファースト・ミッション [PR]](https://amzn.to/3hJYELj)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ジャッキーの映画で泣ける数少ない作品。そしてサモハンのおしり。<br/>
 ### ストックホルムケース
 reviewed in 2022-11-14 08:40:04<br/>
 <br/>
