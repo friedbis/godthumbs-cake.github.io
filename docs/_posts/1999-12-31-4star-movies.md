@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 蘇える金狼
+reviewed in 2022-11-17 21:15:03<br/>
+<br/>
+[蘇える金狼 [PR]](https://amzn.to/3Ejdi3M)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 舐める女
 reviewed in 2022-11-8 12:05:04<br/>
 <br/>
