@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 眺めのいい部屋
+reviewed in 2022-11-17 21:25:03<br/>
+<br/>
+[眺めのいい部屋 [PR]](https://amzn.to/3GpjMkn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 蘇える金狼
 reviewed in 2022-11-17 21:15:03<br/>
 <br/>
 [蘇える金狼 [PR]](https://amzn.to/3Ejdi3M)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+風吹ジュンさん<br/>
 ### ブルーベルベット
 reviewed in 2022-11-15 14:50:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDMwYzU2OWEtZmVkMS00OTY2LWE1MWYtZGVjNDEzZjgwMWI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="ブルーベルベット"><br/>
@@ -105,14 +112,7 @@ reviewed in 2022-11-8 16:00:05<br/>
 [スターマン/愛・宇宙はるかに [PR]](https://amzn.to/3DS6QRd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-カレン・アレンさん<br/>
-### 舐める女
-reviewed in 2022-11-8 12:05:04<br/>
-<br/>
-[舐める女 [PR]](https://amzn.to/3TfVa0b)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-配役が面白かった。
+カレン・アレンさん
 <br/>
 ### 索引
 <br/>

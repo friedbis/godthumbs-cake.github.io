@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 眺めのいい部屋
+reviewed in 2022-11-17 21:25:03<br/>
+<br/>
+[眺めのいい部屋 [PR]](https://amzn.to/3GpjMkn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ブルーベルベット
 reviewed in 2022-11-15 14:50:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDMwYzU2OWEtZmVkMS00OTY2LWE1MWYtZGVjNDEzZjgwMWI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="ブルーベルベット"><br/>
