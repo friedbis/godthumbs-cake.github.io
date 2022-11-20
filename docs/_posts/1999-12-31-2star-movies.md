@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～恥部を抱える女たち～
+reviewed in 2022-11-20 23:20:04<br/>
+<br/>
+[令和エロス噺～恥部を抱える女たち～ [PR]](https://amzn.to/3AxeSxT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ファースト・ミッション
 reviewed in 2022-11-17 21:30:05<br/>
 <br/>
