@@ -43,13 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 令和エロス噺～恥部を抱える女たち～
-reviewed in 2022-11-20 23:20:04<br/>
+### 令和エロス噺～誘う女たち～
+reviewed in 2022-11-20 23:35:03<br/>
 <br/>
-[令和エロス噺～恥部を抱える女たち～ [PR]](https://amzn.to/3AxeSxT)<br/>
+[令和エロス噺～誘う女たち～](https://www.skyperfectv.co.jp/program/detail/?uid=i22086739)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+マゾなお義姉さんの誘惑 義弟に調教されたい美人妻（R18版） 牝蛇教師 ～舌が纏わる痴虐な授業～（R18版） 変態でマゾな私の願望を叶えてください。（R18版）<br/>
 ### ファースト・ミッション
 reviewed in 2022-11-17 21:30:05<br/>
 <br/>
