@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 女教師 もっと淫らに
+reviewed in 2022-11-20 23:50:04<br/>
+<br/>
+[女教師 もっと淫らに [PR]](https://amzn.to/3goprwr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### デリヘル嬢 癒しの肉体
 reviewed in 2022-11-20 23:45:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-11-17 21:25:03<br/>
 [眺めのいい部屋 [PR]](https://amzn.to/3GpjMkn)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 蘇える金狼
-reviewed in 2022-11-17 21:15:03<br/>
-<br/>
-[蘇える金狼 [PR]](https://amzn.to/3Ejdi3M)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-風吹ジュンさん
+
 <br/>
 ### 索引
 <br/>
