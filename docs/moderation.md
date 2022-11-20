@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### デリヘル嬢 癒しの肉体
+reviewed in 2022-11-20 23:45:04<br/>
+<br/>
+[デリヘル嬢 癒しの肉体 [PR]](https://amzn.to/3VfnEbF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 新宿乱れ街 いくまで待って
 reviewed in 2022-11-20 23:40:04<br/>
 <br/>
@@ -105,18 +112,10 @@ reviewed in 2022-11-17 21:15:03<br/>
 [蘇える金狼 [PR]](https://amzn.to/3Ejdi3M)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-風吹ジュンさん<br/>
-### ブルーベルベット
-reviewed in 2022-11-15 14:50:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZDMwYzU2OWEtZmVkMS00OTY2LWE1MWYtZGVjNDEzZjgwMWI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="ブルーベルベット"><br/>
-[ブルーベルベット [PR]](https://amzn.to/3Eg1D62)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+風吹ジュンさん
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
