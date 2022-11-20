@@ -442,13 +442,6 @@ reviewed in 2022-5-27 19:40:03<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### ツンデレ娘 奥手な初体験
-reviewed in 2022-5-27 03:45:04<br/>
-<br/>
-[ツンデレ娘 奥手な初体験 [PR]](https://amzn.to/38lijNi)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-R18？<br/>
 ### 消えた男
 reviewed in 2022-5-26 18:50:03<br/>
 <br/>
