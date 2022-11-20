@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 恋人たちは濡れた
+reviewed in 2022-11-21 00:15:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmEyMDQzMjUtZmE3Yi00YTZlLWJkODUtNjUwMTlkYzg4NGRlXkEyXkFqcGdeQXVyMjIxMzA2MTI@._V1_.jpg" alt="恋人たちは濡れた"><br/>
+[恋人たちは濡れた [PR]](https://amzn.to/3gjMpon)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 令和エロス噺～恥部を抱える女たち～
 reviewed in 2022-11-20 23:20:04<br/>
 <br/>
