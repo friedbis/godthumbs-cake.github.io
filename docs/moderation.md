@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ウィッシュ・ルーム
+reviewed in 2022-11-21 00:20:04<br/>
+<br/>
+[ウィッシュ・ルーム [PR]](https://amzn.to/3glDgvD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 恋人たちは濡れた
 reviewed in 2022-11-21 00:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmEyMDQzMjUtZmE3Yi00YTZlLWJkODUtNjUwMTlkYzg4NGRlXkEyXkFqcGdeQXVyMjIxMzA2MTI@._V1_.jpg" alt="恋人たちは濡れた"><br/>
@@ -105,14 +112,7 @@ reviewed in 2022-11-20 23:40:04<br/>
 [徳川女刑罰絵巻 牛裂きの刑 [PR]](https://amzn.to/3hWISwW)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ソドムの市を意識している？<br/>
-### 令和エロス噺～誘う女たち～
-reviewed in 2022-11-20 23:35:03<br/>
-<br/>
-[令和エロス噺～誘う女たち～](https://www.skyperfectv.co.jp/program/detail/?uid=i22086739)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-マゾなお義姉さんの誘惑 義弟に調教されたい美人妻（R18版） 牝蛇教師 ～舌が纏わる痴虐な授業～（R18版） 変態でマゾな私の願望を叶えてください。（R18版）
+ソドムの市を意識している？
 <br/>
 ### 索引
 <br/>
