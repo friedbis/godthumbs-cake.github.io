@@ -64,20 +64,13 @@ reviewed in 2022-11-25 17:05:03<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 レア度だけで評価<br/>
-### 夜の歌謡シリーズ　伊勢佐木町ブルース
-reviewed in 2022-11-25 17:05:03<br/>
-<br/>
-[夜の歌謡シリーズ　伊勢佐木町ブルース [PR]](https://amzn.to/3F0G6j9)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 夜の歌謡シリーズ　なみだ恋
 reviewed in 2022-11-25 16:15:04<br/>
 <br/>
 [夜の歌謡シリーズ　なみだ恋 [PR]](https://amzn.to/3AIfnpc)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-中島ゆたかさん、<br/>
+中島ゆたかさん、片山由美子さん<br/>
 ### ウィッシュ・ルーム
 reviewed in 2022-11-21 00:20:04<br/>
 <br/>
@@ -112,7 +105,14 @@ reviewed in 2022-11-20 23:55:04<br/>
 [清楚妻の開花 [PR]](https://amzn.to/3EpSI1S)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-人妻性奴隷 美人若妻メス犬調教日誌（R18版）
+人妻性奴隷 美人若妻メス犬調教日誌（R18版）<br/>
+### 地獄麻雀 好色バトルロワイヤル　168時間！
+reviewed in 2022-11-20 23:55:04<br/>
+<br/>
+[地獄麻雀 好色バトルロワイヤル　168時間！ [PR]](https://amzn.to/3V86bmd)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+
 <br/>
 ### 索引
 <br/>
