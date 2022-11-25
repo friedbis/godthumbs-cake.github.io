@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 怨霊女子学園
+reviewed in 2022-11-25 17:05:03<br/>
+<br/>
+[怨霊女子学園](http://www.tvdrama-db.com/drama_info/p/id-18819)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+レア度だけで評価<br/>
 ### デリヘル嬢 癒しの肉体
 reviewed in 2022-11-20 23:45:04<br/>
 <br/>
