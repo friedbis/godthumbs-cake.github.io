@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 処女喪失
+reviewed in 2022-11-27 11:45:03<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDFlN2Q1NzktNDc0MC00ODIyLWJjYjYtNDMxMTkxZmMyYzA5XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="処女喪失"><br/>
+[処女喪失](https://www.nikkatsu.com/movie/20865.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 恋人たちは濡れた
 reviewed in 2022-11-21 00:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmEyMDQzMjUtZmE3Yi00YTZlLWJkODUtNjUwMTlkYzg4NGRlXkEyXkFqcGdeQXVyMjIxMzA2MTI@._V1_.jpg" alt="恋人たちは濡れた"><br/>
