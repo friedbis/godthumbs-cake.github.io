@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ザ・娼年倶楽部5　竿師が与える無限の快感と恍惚
+reviewed in 2022-12-2 09:20:06<br/>
+<br/>
+[ザ・娼年倶楽部5　竿師が与える無限の快感と恍惚 [PR]](https://amzn.to/3uek0DL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ザ・娼年倶楽部4 肉欲遊戯を駆け抜けるオンナの性
 reviewed in 2022-12-2 09:10:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-11-25 16:15:04<br/>
 [夜の歌謡シリーズ　なみだ恋 [PR]](https://amzn.to/3AIfnpc)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-中島ゆたかさん、片山由美子さん<br/>
-### ウィッシュ・ルーム
-reviewed in 2022-11-21 00:20:04<br/>
-<br/>
-[ウィッシュ・ルーム [PR]](https://amzn.to/3glDgvD)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+中島ゆたかさん、片山由美子さん
 <br/>
 ### 索引
 <br/>
