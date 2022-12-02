@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### キカ
+reviewed in 2022-12-2 14:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzM2ZDJhZDktZTdlNS00MjA1LWE4MWYtMGM0NzE2YjIxNDU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="キカ"><br/>
+[キカ [PR]](https://amzn.to/3uipcq5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### イーストサイド・ワルツ 悦楽の園
 reviewed in 2022-12-2 11:35:04<br/>
 <br/>
