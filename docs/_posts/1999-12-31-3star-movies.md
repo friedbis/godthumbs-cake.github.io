@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 花を喰う蟲
+reviewed in 2022-12-4 02:15:04<br/>
+<br/>
+[花を喰う蟲 [PR]](https://amzn.to/3VOQGPP)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+太地喜和子さん<br/>
 ### キカ
 reviewed in 2022-12-2 14:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzM2ZDJhZDktZTdlNS00MjA1LWE4MWYtMGM0NzE2YjIxNDU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="キカ"><br/>
