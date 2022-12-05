@@ -47,9 +47,9 @@ title: Impression
 reviewed in 2022-12-5 14:15:04<br/>
 <br/>
 [ホステスNo.1再建屋みなみ]()<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+お名前を知りたい。<br/>
 ### 花を喰う蟲
 reviewed in 2022-12-4 02:15:04<br/>
 <br/>
