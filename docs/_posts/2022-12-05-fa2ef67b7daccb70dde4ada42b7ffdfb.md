@@ -1,0 +1,19 @@
+---
+title: 首相、防衛費5年約43兆円と指示
+categories:
+- news
+excerpt: |
+  
+feature_text: |
+  ## 首相、防衛費5年約43兆円と指示...
+  Mon, 05 Dec 2022 11:07:22 GMT
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+---
+
+[https://news.yahoo.co.jp/pickup/6446768?source=rss](https://news.yahoo.co.jp/pickup/6446768?source=rss)
+posted on Mon, 05 Dec 2022 11:07:22 GMT
+
+<!--more-->
+
+
