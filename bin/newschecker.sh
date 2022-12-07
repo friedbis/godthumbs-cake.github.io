@@ -24,6 +24,7 @@ postdate=$(date +%Y-%m-%d)
 destdir=$(dirname $0)/../docs/_posts
 archivefile=$destdir/1999-01-08-archive.md
 mdcntthreshold=100
+quedir=$basedir/queue
 
 cd $basedir/
 echo -n "check current version..."
@@ -52,7 +53,8 @@ fi
 echo "deleted"
 mkdir -p $destdir
 git commit -m 'cleaning'
-git push -u origin main
+touch $quedir/$(date +%Y%m%d%H%M%S).queue
+#git push -u origin main
 
 echo -n 'getting page...'
 echo 'parsing...'
@@ -133,5 +135,6 @@ done
 cd $basedir
 git add *
 git commit -m "newschecker updated"
-git push -u origin main 
+#git push -u origin main 
+touch $quedir/$(date +%Y%m%d%H%M%S).queue
 exit 0
