@@ -10,7 +10,7 @@ const readline = require('readline');
 const {google} = require('googleapis');
 const md5 = require('md5');
 const {execSync} = require('child_process');
-const curdir = require('./init.js');
+const initdir = require('./init.js');
 
 const postpass='d14ceb37e82ddfe68777e8454997ed7d';
 const sep1=',';
@@ -32,7 +32,7 @@ const onstar='<i class="fas fa-star"></i>';
 const offstar='<i class="far fa-star"></i>';
 const halfstar='<i class="fas fa-star-half-alt"></i>';
 
-const BaseDir = curdir;
+const BaseDir = initdir.curdir;
 const templateMdFile = BaseDir + '/bin/movies2.md';
 const productionMdFile = BaseDir + '/docs/moderation.md';
 const productionDir = BaseDir + '/docs/_posts';
