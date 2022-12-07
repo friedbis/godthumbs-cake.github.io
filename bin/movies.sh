@@ -11,7 +11,7 @@ JSFILE=$BASEDIR/../movies4.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/moderation.md
 MDFILEDIR=${BASEDIR}/../docs/_posts/1999-12-31
-QUEDIR=$BASEDIR/queue
+QUEDIR=${BASEDIR}/../queue
 
 #
 # functions
