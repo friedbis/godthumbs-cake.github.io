@@ -11,6 +11,7 @@ JSFILE=$BASEDIR/../movies4.js
 NODEBIN=$(which node)
 OUTPUTFILE=$BASEDIR/../docs/moderation.md
 MDFILEDIR=${BASEDIR}/../docs/_posts/1999-12-31
+QUEDIR=$BASEDIR/queue
 
 #
 # functions
@@ -51,7 +52,7 @@ cat ${JSFILE}.org |sed -e 's/^[^s]*spreadsheetId:[^$]*$/          spreadsheetId:
 git add $0
 git add $JSFILE
 git rm ${MDFILEDIR}-undefined-movies.md
-git add $OUTPUTFILE && git add ${MDFILEDIR}-* && git commit -m 'movie updated' && git push -u origin main
+git add $OUTPUTFILE && git add ${MDFILEDIR}-* && git commit -m 'movie updated' && touch $QUEDIR/$(date +%Y%m%d%H%M%S).queue
 _echo "done"
 mv -f ${JSFILE}.org ${JSFILE}
 
