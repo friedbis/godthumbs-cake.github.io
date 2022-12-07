@@ -47,7 +47,7 @@ fi
 _echo "done"
 _echo "sync with git repository..."
 cp ${JSFILE} ${JSFILE}.org
-cat ${JSFILE}.org |sed -e '/^[^s]*spreadsheetId:[^$]*$/          spreadsheetId: ###############/' >${JSFILE}
+cat ${JSFILE}.org |sed -e 's/^[^s]*spreadsheetId:[^$]*$/          spreadsheetId: ###############/' >${JSFILE}
 git add $0
 git add $JSFILE
 git rm ${MDFILEDIR}-undefined-movies.md
