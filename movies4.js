@@ -12,7 +12,7 @@ const md5 = require('md5');
 const {execSync} = require('child_process');
 
 
-const postpass='d14ceb37e82ddfe68777e8454997ed7d';
+const postpass='';
 const sep1=',';
 const sep2='at';
 const datesep='-'
@@ -32,7 +32,7 @@ const onstar='<i class="fas fa-star"></i>';
 const offstar='<i class="far fa-star"></i>';
 const halfstar='<i class="fas fa-star-half-alt"></i>';
 
-const BaseDir = '/srv/github/godthumbs-cake';
+const BaseDir = '/';
 const templateMdFile = BaseDir + '/bin/movies2.md';
 const productionMdFile = BaseDir + '/docs/moderation.md';
 const productionDir = BaseDir + '/docs/_posts';
