@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 野獣死すべし
+reviewed in 2022-12-9 11:00:05<br/>
+<br/>
+[野獣死すべし [PR]](https://amzn.to/3Y7IkEO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 叔母と女子大生　密室の吐息
 reviewed in 2022-12-9 10:45:04<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2022-12-2 14:00:05<br/>
 [キカ [PR]](https://amzn.to/3uipcq5)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### イーストサイド・ワルツ 悦楽の園
-reviewed in 2022-12-2 11:35:04<br/>
-<br/>
-[イーストサイド・ワルツ 悦楽の園 [PR]](https://amzn.to/3ufVNwG)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2022-12-2 11:35:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
