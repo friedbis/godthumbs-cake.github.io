@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ラッキーナンバー7
+reviewed in 2022-12-9 11:10:07<br/>
+<br/>
+[ラッキーナンバー7 [PR]](https://amzn.to/3FFs0nS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ルーシー・リューさん 隠れた名作<br/>
 ### 警視庁心理分析捜査官・崎山知子1
 reviewed in 2022-12-8 06:30:04<br/>
 <br/>

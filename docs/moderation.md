@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ラッキーナンバー7
+reviewed in 2022-12-9 11:10:07<br/>
+<br/>
+[ラッキーナンバー7 [PR]](https://amzn.to/3FFs0nS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ルーシー・リューさん 隠れた名作<br/>
 ### 野獣死すべし
 reviewed in 2022-12-9 11:00:05<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-12-4 02:15:04<br/>
 [花を喰う蟲 [PR]](https://amzn.to/3VOQGPP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-太地喜和子さん<br/>
-### キカ
-reviewed in 2022-12-2 14:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYzM2ZDJhZDktZTdlNS00MjA1LWE4MWYtMGM0NzE2YjIxNDU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="キカ"><br/>
-[キカ [PR]](https://amzn.to/3uipcq5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+太地喜和子さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
