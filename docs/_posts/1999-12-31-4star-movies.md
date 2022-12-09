@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 誘う女
+reviewed in 2022-12-9 10:10:04<br/>
+<br/>
+[誘う女 [PR]](https://amzn.to/3VGNdDe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ニコール・キッドマンさん<br/>
 ### ホステスNo.1再建屋みなみ
 reviewed in 2022-12-5 14:15:04<br/>
 <br/>

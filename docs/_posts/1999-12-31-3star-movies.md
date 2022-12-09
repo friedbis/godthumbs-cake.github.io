@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 冷たい月を抱く女
+reviewed in 2022-12-9 10:10:04<br/>
+<br/>
+[冷たい月を抱く女 [PR]](https://amzn.to/3UDfPfv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ニコール・キッドマンさん<br/>
 ### 花を喰う蟲
 reviewed in 2022-12-4 02:15:04<br/>
 <br/>
