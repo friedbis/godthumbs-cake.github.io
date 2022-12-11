@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スーパーマンII
+reviewed in 2022-12-11 20:50:04<br/>
+<br/>
+[スーパーマンII [PR]](https://amzn.to/3hcWGn1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+マーゴット・キダーさん<br/>
 ### ラッキーナンバー7
 reviewed in 2022-12-9 11:10:07<br/>
 <br/>

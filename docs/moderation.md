@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### スーパーマンII
+reviewed in 2022-12-11 20:50:04<br/>
+<br/>
+[スーパーマンII [PR]](https://amzn.to/3hcWGn1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+マーゴット・キダーさん<br/>
 ### インビジブル
 reviewed in 2022-12-11 11:35:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzljNjlhYWItYzM2Ny00MTVjLWE4ZGYtNGI1YTg1N2RiYTY2XkEyXkFqcGdeQXVyMTExODA4MTQ4._V1_.jpg" alt="インビジブル"><br/>
@@ -105,17 +112,11 @@ reviewed in 2022-12-7 20:10:03<br/>
 [愛robot したたる淫行知能 [PR]](https://amzn.to/3Y4dVHx)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ホステスNo.1再建屋みなみ
-reviewed in 2022-12-5 14:15:04<br/>
-<br/>
-[ホステスNo.1再建屋みなみ]()<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-お名前を知りたい。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
