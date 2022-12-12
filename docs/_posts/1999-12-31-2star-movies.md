@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スーパーマン
+reviewed in 2022-12-13 06:00:05<br/>
+<br/>
+[スーパーマン [PR]](https://amzn.to/3FoatyR)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ヴァレリー・ペリンさん<br/>
 ### 地の群れ
 reviewed in 2022-12-13 01:00:04<br/>
 <br/>

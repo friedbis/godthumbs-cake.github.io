@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 田園に死す
+reviewed in 2022-12-13 06:00:05<br/>
+<br/>
+[田園に死す [PR]](https://amzn.to/3BvIufI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 在宅看護　さわっていいのヨ!
 reviewed in 2022-12-11 22:30:04<br/>
 <br/>
