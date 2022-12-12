@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### CHARON (カロン)
+reviewed in 2022-12-12 23:00:05<br/>
+<br/>
+[CHARON (カロン) [PR]](https://amzn.to/3UO9myo)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+話は面白い<br/>
 ### 在宅看護　さわっていいのヨ!
 reviewed in 2022-12-11 22:30:04<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-12-9 10:10:04<br/>
 [冷たい月を抱く女 [PR]](https://amzn.to/3UDfPfv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ニコール・キッドマンさん<br/>
-### 警視庁心理分析捜査官・崎山知子1
-reviewed in 2022-12-8 06:30:04<br/>
-<br/>
-[警視庁心理分析捜査官・崎山知子1]()<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+ニコール・キッドマンさん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
