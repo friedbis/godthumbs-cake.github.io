@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 窓・ベッドルームの女
+reviewed in 2022-12-13 13:30:06<br/>
+<br/>
+[窓・ベッドルームの女 [PR]](https://amzn.to/3UROQg8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+エリザベス・マクガヴァンさん<br/>
 ### スーパーマン
 reviewed in 2022-12-13 06:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjBiN2QzODEtZjVlMC00YjY2LWE1YTMtN2Q2MjNjNzc1ZTZmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="スーパーマン"><br/>

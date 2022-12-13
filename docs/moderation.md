@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 窓・ベッドルームの女
+reviewed in 2022-12-13 13:30:06<br/>
+<br/>
+[窓・ベッドルームの女 [PR]](https://amzn.to/3UROQg8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+エリザベス・マクガヴァンさん<br/>
 ### 花冷え
 reviewed in 2022-12-13 13:00:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-12-11 20:50:04<br/>
 [スーパーマンII [PR]](https://amzn.to/3hcWGn1)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-マーゴット・キダーさん<br/>
-### インビジブル
-reviewed in 2022-12-11 11:35:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzljNjlhYWItYzM2Ny00MTVjLWE4ZGYtNGI1YTg1N2RiYTY2XkEyXkFqcGdeQXVyMTExODA4MTQ4._V1_.jpg" alt="インビジブル"><br/>
-[インビジブル [PR]](https://amzn.to/3W4bbIo)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+マーゴット・キダーさん
 <br/>
 ### 索引
 <br/>
