@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### HOT SUMMER NIGHTS/ホット・サマー・ナイツ
+reviewed in 2022-12-15 09:00:06<br/>
+<br/>
+[HOT SUMMER NIGHTS/ホット・サマー・ナイツ [PR]](https://amzn.to/3Vew5nz)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 窓・ベッドルームの女
 reviewed in 2022-12-13 13:30:06<br/>
 <br/>
