@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 荒ぶる魂の華
+reviewed in 2022-12-15 13:00:07<br/>
+<br/>
+[荒ぶる魂の華 [PR]](https://amzn.to/3YmMetI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### HOT SUMMER NIGHTS/ホット・サマー・ナイツ
 reviewed in 2022-12-15 09:00:06<br/>
 <br/>

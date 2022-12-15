@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 荒ぶる魂の華
+reviewed in 2022-12-15 13:00:07<br/>
+<br/>
+[荒ぶる魂の華 [PR]](https://amzn.to/3YmMetI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### HOT SUMMER NIGHTS/ホット・サマー・ナイツ
 reviewed in 2022-12-15 09:00:06<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-12-12 23:00:05<br/>
 [CHARON (カロン) [PR]](https://amzn.to/3UO9myo)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-話は面白い<br/>
-### 在宅看護　さわっていいのヨ!
-reviewed in 2022-12-11 22:30:04<br/>
-<br/>
-[在宅看護　さわっていいのヨ!](https://www.videomarket.jp/title/370196)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-林田ちなみさん、三橋里絵さん、青井みずきさん
+話は面白い
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-12-11 22:30:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
