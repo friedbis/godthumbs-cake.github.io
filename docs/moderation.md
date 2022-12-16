@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### アワ・ボディ
+reviewed in 2022-12-16 13:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGEwNGMxNjktMGQ0Zi00ZGM2LTkyMDAtNjhkMGU3NmY0MDhlXkEyXkFqcGdeQXVyNTM1NzQwODA@._V1_.jpg" alt="アワ・ボディ"><br/>
+[アワ・ボディ](https://www.kstargate.com/shopdetail/000000043174/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 処刑人
 reviewed in 2022-12-16 12:00:05<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2022-12-13 12:30:05<br/>
 [美人家政婦 癒しと快楽 [PR]](https://www.amazon.co.jp/gp/video/detail/B081YJ5H3F/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 田園に死す
-reviewed in 2022-12-13 06:00:05<br/>
-<br/>
-[田園に死す [PR]](https://amzn.to/3BvIufI)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2022-12-13 06:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

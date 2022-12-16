@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### アワ・ボディ
+reviewed in 2022-12-16 13:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGEwNGMxNjktMGQ0Zi00ZGM2LTkyMDAtNjhkMGU3NmY0MDhlXkEyXkFqcGdeQXVyNTM1NzQwODA@._V1_.jpg" alt="アワ・ボディ"><br/>
+[アワ・ボディ](https://www.kstargate.com/shopdetail/000000043174/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 花冷え
 reviewed in 2022-12-13 13:00:05<br/>
 <br/>
