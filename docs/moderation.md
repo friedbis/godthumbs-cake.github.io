@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### シー・オブ・ラブ
+reviewed in 2022-12-17 11:00:08<br/>
+<br/>
+[シー・オブ・ラブ [PR]](https://amzn.to/3YuHxOB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+エレン・バーキンさん<br/>
 ### 現代神秘サスペンス 六本木メランコリー
 reviewed in 2022-12-17 10:30:07<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-12-15 09:00:06<br/>
 [HOT SUMMER NIGHTS/ホット・サマー・ナイツ [PR]](https://amzn.to/3Vew5nz)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 窓・ベッドルームの女
-reviewed in 2022-12-13 13:30:06<br/>
-<br/>
-[窓・ベッドルームの女 [PR]](https://amzn.to/3UROQg8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-エリザベス・マクガヴァンさん
+
 <br/>
 ### 索引
 <br/>
