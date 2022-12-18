@@ -75,7 +75,7 @@ reviewed in 2022-12-17 09:30:05<br/>
 reviewed in 2022-12-17 09:00:05<br/>
 <br/>
 [抗えない美人妻の性 [PR]](https://www.amazon.co.jp/gp/video/detail/B08TW76R46/ref=atv_dp_share_cu_r)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 淫猥調教 私はあなたの奴隷です……。（R18版）<br/>
 ### アワ・ボディ
@@ -162,7 +162,6 @@ reviewed in 2022-12-15 13:00:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [こ星の映画・ドラマ](/star-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
