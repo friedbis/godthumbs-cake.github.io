@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### バーディ
+reviewed in 2022-12-19 20:00:06<br/>
+<br/>
+[バーディ [PR]](https://amzn.to/3FCAHOw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+マシュー・モディーンさん、サンドラ・ビールさん。ラストが最高<br/>
 ### ゆりかごを揺らす手
 reviewed in 2022-12-18 17:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjJjMWMzMmEtMmYyMC00YjZkLWI5ODAtZjQwYjZiYjUxNjBmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="ゆりかごを揺らす手"><br/>
