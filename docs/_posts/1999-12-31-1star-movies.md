@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ドサ健 麻雀地獄
+reviewed in 2022-12-19 19:00:04<br/>
+<br/>
+[ドサ健 麻雀地獄 [PR]](https://www.amazon.co.jp/gp/video/detail/B07TGFCX2Z/)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+中野若葉さん<br/>
 ### 天国の大罪
 reviewed in 2022-12-13 13:00:05<br/>
 <br/>
