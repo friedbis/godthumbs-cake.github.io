@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### すてきな片想い
+reviewed in 2022-12-20 14:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTgyMDU2MDM2OF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg" alt="すてきな片想い"><br/>
+[すてきな片想い [PR]](https://amzn.to/3WdumQq)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+話の面白さとは必ずしも比例しない評価。<br/>
 ### ドサ健 麻雀地獄
 reviewed in 2022-12-19 19:00:04<br/>
 <br/>
