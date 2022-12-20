@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 美人妻白書 隣の芝は
+reviewed in 2022-12-20 18:00:10<br/>
+<br/>
+[美人妻白書 隣の芝は [PR]](https://amzn.to/3WaoPKE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+古川いおりさんの作品の中で一番かも<br/>
 ### 人妻花園劇場「抱いて欲しい人妻/下着モデル/義父の欲情」
 reviewed in 2022-11-25 18:00:09<br/>
 <br/>

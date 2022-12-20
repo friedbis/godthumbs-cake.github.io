@@ -47,9 +47,9 @@ title: Impression
 reviewed in 2022-12-20 18:00:10<br/>
 <br/>
 [美人妻白書 隣の芝は [PR]](https://amzn.to/3WaoPKE)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+古川いおりさんの作品の中で一番かも<br/>
 ### ゴーン・ガール
 reviewed in 2022-12-20 16:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjEzODU0Y2EtOTlkOC00YTA0LWI3NDYtOWU2N2Y2MDNjNzg3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX480_.jpg" alt="ゴーン・ガール"><br/>
@@ -162,7 +162,6 @@ reviewed in 2022-12-19 20:00:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
