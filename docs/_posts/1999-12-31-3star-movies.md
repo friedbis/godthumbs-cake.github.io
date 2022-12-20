@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ラ・ブーム
+reviewed in 2022-12-20 15:00:06<br/>
+<br/>
+[ラ・ブーム [PR]](https://amzn.to/3BN23Ah)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 彼のオートバイ、彼女の島
 reviewed in 2022-12-19 23:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTBhOTQ4MjMtYmY1YS00MjY2LTgyMmItZmZhNGYyNDMyNWY2XkEyXkFqcGdeQXVyMTIyNjQ1OTMy._V1_.jpg" alt="彼のオートバイ、彼女の島"><br/>

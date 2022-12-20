@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ラ・ブーム
+reviewed in 2022-12-20 15:00:06<br/>
+<br/>
+[ラ・ブーム [PR]](https://amzn.to/3BN23Ah)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 熟☆ギャル☆白書 極楽仁王勃ち
 reviewed in 2022-12-20 14:30:04<br/>
 <br/>
@@ -105,18 +112,10 @@ reviewed in 2022-12-17 10:30:07<br/>
 [現代神秘サスペンス 六本木メランコリー](http://www.tvdrama-db.com/drama_info/p/id-25479)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-岩下志麻さん<br/>
-### 玉割り人ゆき
-reviewed in 2022-12-17 09:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYjRiZjU4MjAtODA2Yi00NWNkLWEwZDEtNjdiMzIyZDIwYjg3XkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="玉割り人ゆき"><br/>
-[玉割り人ゆき [PR]](https://amzn.to/3HF5dK8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+岩下志麻さん
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

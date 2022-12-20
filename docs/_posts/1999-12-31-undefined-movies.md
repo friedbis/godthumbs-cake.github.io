@@ -43,16 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 熟☆ギャル☆白書 極楽仁王勃ち
-reviewed in 2022-12-20 14:30:04<br/>
+### ラ・ブーム
+reviewed in 2022-12-20 15:00:06<br/>
 <br/>
-[熟☆ギャル☆白書 極楽仁王勃ち [PR]](https://amzn.to/3BQaScq)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 三匹の牝猫
-reviewed in 2022-12-20 14:30:04<br/>
-<br/>
-[三匹の牝猫](https://www.nikkatsu.com/movie/20932.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[ラ・ブーム [PR]](https://amzn.to/3BN23Ah)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
