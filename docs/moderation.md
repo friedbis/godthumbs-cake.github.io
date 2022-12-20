@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### ゴーン・ガール
+reviewed in 2022-12-20 16:30:04<br/>
+<br/>
+[ゴーン・ガール [PR]](https://amzn.to/3v452At)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 五番町夕霧楼
 reviewed in 2022-12-20 16:00:05<br/>
 <br/>
 [五番町夕霧楼 [PR]](https://amzn.to/3WbkerD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+どことなく漂うお笑いの空気感<br/>
 ### ラ・ブーム2
 reviewed in 2022-12-20 16:00:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2022-12-19 19:00:04<br/>
 [ドサ健 麻雀地獄 [PR]](https://www.amazon.co.jp/gp/video/detail/B07TGFCX2Z/)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-中野若葉さん<br/>
-### ゆりかごを揺らす手
-reviewed in 2022-12-18 17:30:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZjJjMWMzMmEtMmYyMC00YjZkLWI5ODAtZjQwYjZiYjUxNjBmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="ゆりかごを揺らす手"><br/>
-[ゆりかごを揺らす手 [PR]](https://amzn.to/3G0XODy)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+中野若葉さん
 <br/>
 ### 索引
 <br/>

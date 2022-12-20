@@ -43,13 +43,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ゴーン・ガール
+reviewed in 2022-12-20 16:30:04<br/>
+<br/>
+[ゴーン・ガール [PR]](https://amzn.to/3v452At)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 五番町夕霧楼
 reviewed in 2022-12-20 16:00:05<br/>
 <br/>
 [五番町夕霧楼 [PR]](https://amzn.to/3WbkerD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+どことなく漂うお笑いの空気感<br/>
 ### ラ・ブーム2
 reviewed in 2022-12-20 16:00:05<br/>
 <br/>
