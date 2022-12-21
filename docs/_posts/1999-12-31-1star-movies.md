@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 二代目はニューハーフ
+reviewed in 2022-12-22 08:30:04<br/>
+<br/>
+[二代目はニューハーフ [PR]](https://amzn.to/3Whojul)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 地球へ・・・
 reviewed in 2022-12-21 10:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BN2Y3MDFkM2UtMTg2Zi00NmVjLWE3YWMtMTI5ZDNjZGE5OTE5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="地球へ・・・"><br/>

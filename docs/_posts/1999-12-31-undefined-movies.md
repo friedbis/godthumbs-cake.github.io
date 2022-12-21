@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### チェイサー
+### 二代目はニューハーフ
 reviewed in 2022-12-22 08:30:04<br/>
 <br/>
-[チェイサー]()<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[二代目はニューハーフ [PR]](https://amzn.to/3Whojul)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-これ系は問答無用でこの評価。

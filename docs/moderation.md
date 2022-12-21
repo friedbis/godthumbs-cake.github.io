@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 二代目はニューハーフ
+reviewed in 2022-12-22 08:30:04<br/>
+<br/>
+[二代目はニューハーフ [PR]](https://amzn.to/3Whojul)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### チェイサー
+reviewed in 2022-12-22 08:30:04<br/>
+<br/>
+[チェイサー]()<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+これ系は問答無用でこの評価。<br/>
 ### 殺しを呼ぶ卵
 reviewed in 2022-12-21 13:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWFhZmVjMTUtNDM4NC00ZjhhLWFiNDQtY2M0NTU0YzZhNzg5XkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="殺しを呼ぶ卵"><br/>
@@ -98,24 +112,11 @@ reviewed in 2022-12-20 16:00:05<br/>
 [ラ・ブーム2 [PR]](https://amzn.to/3YDLJLM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ラ・ブーム
-reviewed in 2022-12-20 15:00:06<br/>
-<br/>
-[ラ・ブーム [PR]](https://amzn.to/3BN23Ah)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 熟☆ギャル☆白書 極楽仁王勃ち
-reviewed in 2022-12-20 14:30:04<br/>
-<br/>
-[熟☆ギャル☆白書 極楽仁王勃ち [PR]](https://amzn.to/3BQaScq)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,6 +163,7 @@ reviewed in 2022-12-20 14:30:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

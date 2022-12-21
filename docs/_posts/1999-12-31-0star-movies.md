@@ -43,6 +43,13 @@ title: 0こ星の映画・ドラマ
 ## 作品
 
 <br/>
+### チェイサー
+reviewed in 2022-12-22 08:30:04<br/>
+<br/>
+[チェイサー]()<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+これ系は問答無用でこの評価。<br/>
 ### グレイトフルデッド
 reviewed in 2021-11-13 10:55:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTlkMDNiNDEtOGJlMi00MjA4LWJiZjUtYzk0OGVjNWZmY2RjXkEyXkFqcGdeQXVyNzYwNzAxMjM@._V1_FMjpg_UX1280_.jpg" alt="グレイトフルデッド"><br/>
