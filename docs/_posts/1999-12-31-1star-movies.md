@@ -43,6 +43,20 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ラストサマー2
+reviewed in 2022-12-21 09:30:05<br/>
+<br/>
+[ラストサマー2 [PR]](https://amzn.to/3BRBSZn)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ラストサマー
+reviewed in 2022-12-21 09:30:05<br/>
+<br/>
+[ラストサマー [PR]](https://amzn.to/3WBKYRA)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### すてきな片想い
 reviewed in 2022-12-20 14:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTgyMDU2MDM2OF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg" alt="すてきな片想い"><br/>

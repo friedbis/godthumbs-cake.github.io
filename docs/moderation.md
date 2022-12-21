@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### ラストサマー2
+reviewed in 2022-12-21 09:30:05<br/>
+<br/>
+[ラストサマー2 [PR]](https://amzn.to/3BRBSZn)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ラストサマー
+reviewed in 2022-12-21 09:30:05<br/>
+<br/>
+[ラストサマー [PR]](https://amzn.to/3WBKYRA)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 美人妻白書 隣の芝は
 reviewed in 2022-12-20 18:00:10<br/>
 <br/>
@@ -98,21 +112,7 @@ reviewed in 2022-12-20 14:30:04<br/>
 [すてきな片想い [PR]](https://amzn.to/3WdumQq)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-話の面白さとは必ずしも比例しない評価。<br/>
-### 彼のオートバイ、彼女の島
-reviewed in 2022-12-19 23:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTBhOTQ4MjMtYmY1YS00MjY2LTgyMmItZmZhNGYyNDMyNWY2XkEyXkFqcGdeQXVyMTIyNjQ1OTMy._V1_.jpg" alt="彼のオートバイ、彼女の島"><br/>
-[彼のオートバイ、彼女の島 [PR]](https://amzn.to/3v7Y0dT)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### バーディ
-reviewed in 2022-12-19 20:00:06<br/>
-<br/>
-[バーディ [PR]](https://amzn.to/3FCAHOw)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-マシュー・モディーンさん、サンドラ・ビールさん。ラストが最高
+話の面白さとは必ずしも比例しない評価。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-12-19 20:00:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
