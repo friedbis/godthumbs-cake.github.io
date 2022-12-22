@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 狼の血族
+reviewed in 2022-12-22 18:00:06<br/>
+<br/>
+[狼の血族 [PR]](https://amzn.to/3hE85MV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 殺しを呼ぶ卵
 reviewed in 2022-12-21 13:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWFhZmVjMTUtNDM4NC00ZjhhLWFiNDQtY2M0NTU0YzZhNzg5XkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="殺しを呼ぶ卵"><br/>
