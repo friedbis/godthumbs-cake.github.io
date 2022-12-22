@@ -105,7 +105,14 @@ reviewed in 2022-12-20 16:00:05<br/>
 [五番町夕霧楼 [PR]](https://amzn.to/3WbkerD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-どことなく漂うお笑いの空気感
+どことなく漂うお笑いの空気感<br/>
+### ラ・ブーム2
+reviewed in 2022-12-20 16:00:05<br/>
+<br/>
+[ラ・ブーム2 [PR]](https://amzn.to/3YDLJLM)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+
 <br/>
 ### 索引
 <br/>
@@ -155,7 +162,6 @@ reviewed in 2022-12-20 16:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
