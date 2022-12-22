@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 惑星XXXリス
+reviewed in 2022-12-22 22:00:06<br/>
+<br/>
+[惑星XXXリス](https://www.imdb.com/title/tt1198142/)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 二代目はニューハーフ
 reviewed in 2022-12-22 08:30:04<br/>
 <br/>
