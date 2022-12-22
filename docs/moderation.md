@@ -70,7 +70,7 @@ reviewed in 2022-12-21 10:30:04<br/>
 [地球へ・・・ [PR]](https://amzn.to/3G6vcsM)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-映画館でキレイなuUuが見れた<br/>
+映画館でキレイな∪U∪が見れた<br/>
 ### ラストサマー2
 reviewed in 2022-12-21 09:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTBhZWE5YTEtNzc0MC00MGY0LTlmZGYtOGNkOGZiMmNjYWZmXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg" alt="ラストサマー2"><br/>
@@ -105,14 +105,7 @@ reviewed in 2022-12-20 16:00:05<br/>
 [五番町夕霧楼 [PR]](https://amzn.to/3WbkerD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-どことなく漂うお笑いの空気感<br/>
-### ラ・ブーム2
-reviewed in 2022-12-20 16:00:05<br/>
-<br/>
-[ラ・ブーム2 [PR]](https://amzn.to/3YDLJLM)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+どことなく漂うお笑いの空気感
 <br/>
 ### 索引
 <br/>
@@ -162,6 +155,7 @@ reviewed in 2022-12-20 16:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
