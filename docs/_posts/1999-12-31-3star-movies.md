@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### Gガール 破壊的な彼女
+reviewed in 2022-12-24 01:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGVjMzE2MTYtOWM0Ni00M2JkLWE3MzQtMjJkY2I4NWIyNmMxXkEyXkFqcGdeQXVyMDIyODA5Nw@@._V1_FMjpg_UX800_.jpg" alt="Gガール 破壊的な彼女"><br/>
+[Gガール 破壊的な彼女 [PR]](https://amzn.to/3VeSv80)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ユマ・サーマンがひたすらかわいい。<br/>
 ### 五番町夕霧楼
 reviewed in 2022-12-20 16:00:05<br/>
 <br/>

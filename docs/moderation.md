@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### Gガール 破壊的な彼女
+reviewed in 2022-12-24 01:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGVjMzE2MTYtOWM0Ni00M2JkLWE3MzQtMjJkY2I4NWIyNmMxXkEyXkFqcGdeQXVyMDIyODA5Nw@@._V1_FMjpg_UX800_.jpg" alt="Gガール 破壊的な彼女"><br/>
+[Gガール 破壊的な彼女 [PR]](https://amzn.to/3VeSv80)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ユマ・サーマンがひたすらかわいい。<br/>
 ### 危険な情事
 reviewed in 2022-12-23 17:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BN2JkYzEzNGMtNzRmZS00NWY4LThmOGUtNTYxODRkM2EyZjM0XkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_FMjpg_UX600_.jpg" alt="危険な情事"><br/>
@@ -105,17 +112,11 @@ reviewed in 2022-12-21 09:30:05<br/>
 [ラストサマー2 [PR]](https://amzn.to/3BRBSZn)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ラストサマー
-reviewed in 2022-12-21 09:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZmM0MjhhNjMtNTQyOS00M2IwLWFmMWEtODMwZDI2OTk3NmViXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_FMjpg_UX1280_.jpg" alt="ラストサマー"><br/>
-[ラストサマー [PR]](https://amzn.to/3WBKYRA)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
