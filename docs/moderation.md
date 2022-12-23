@@ -45,18 +45,18 @@ title: Impression
 <br/>
 ### 惑星XXXリス
 reviewed in 2022-12-22 22:00:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTQyNDI5NDY2MF5BMl5BanBnXkFtZTgwOTM0MjA2MDE@._V1_FMjpg_UX375_.jpg" alt="惑星XXXリス"><br/>
 [惑星XXXリス](https://www.imdb.com/title/tt1198142/)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 狼の血族
 reviewed in 2022-12-22 18:00:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTkyYTZjY2YtM2VmOC00N2Q1LWFiZGMtYWE1MTVhZDYzMTYwXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX511_.jpg" alt="狼の血族"><br/>
 [狼の血族 [PR]](https://amzn.to/3hE85MV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+狼男アメリカンとこれ。<br/>
 ### 二代目はニューハーフ
 reviewed in 2022-12-22 08:30:04<br/>
 <br/>
