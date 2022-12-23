@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 我が胸に凶器あり
+reviewed in 2022-12-24 01:30:04<br/>
+<br/>
+[我が胸に凶器あり [PR]](https://amzn.to/3YIxGEV)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 惑星XXXリス
 reviewed in 2022-12-22 22:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTQyNDI5NDY2MF5BMl5BanBnXkFtZTgwOTM0MjA2MDE@._V1_FMjpg_UX375_.jpg" alt="惑星XXXリス"><br/>

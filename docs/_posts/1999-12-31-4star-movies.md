@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 私、あなた、彼、彼女
+reviewed in 2022-12-24 01:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjg5ZDk2MzEtYjIyOC00OTgwLWFlZGItZGFlNTE2OTNmM2I2XkEyXkFqcGdeQXVyNjY5MDUyMjE@._V1_FMjpg_UX744_.jpg" alt="私、あなた、彼、彼女"><br/>
+[私、あなた、彼、彼女 [PR]](https://amzn.to/3PMw5Kd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ゴーン・ガール
 reviewed in 2022-12-20 16:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjEzODU0Y2EtOTlkOC00YTA0LWI3NDYtOWU2N2Y2MDNjNzg3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX480_.jpg" alt="ゴーン・ガール"><br/>
