@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 殺人の追憶
+reviewed in 2022-12-24 16:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDY5ZDg0MTktMzZlNy00YjYzLWE0N2UtYzE0NjI0ZmNjNGZlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="殺人の追憶"><br/>
+[殺人の追憶 [PR]](https://amzn.to/3jin92W)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 危険な情事
 reviewed in 2022-12-23 17:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BN2JkYzEzNGMtNzRmZS00NWY4LThmOGUtNTYxODRkM2EyZjM0XkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_FMjpg_UX600_.jpg" alt="危険な情事"><br/>
