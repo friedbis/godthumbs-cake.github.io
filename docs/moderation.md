@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### シド・アンド・ナンシー
+reviewed in 2022-12-25 21:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODgzMjc0ZTUtOWEzMS00NDc0LWFkMTItNjk4ZTNkYmQ4YmU5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1280_.jpg" alt="シド・アンド・ナンシー"><br/>
+[シド・アンド・ナンシー [PR]](https://amzn.to/3GhKsD0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 殺人の追憶
 reviewed in 2022-12-24 16:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDY5ZDg0MTktMzZlNy00YjYzLWE0N2UtYzE0NjI0ZmNjNGZlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="殺人の追憶"><br/>
@@ -105,14 +112,7 @@ reviewed in 2022-12-22 08:30:04<br/>
 [二代目はニューハーフ [PR]](https://amzn.to/3Whojul)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### チェイサー
-reviewed in 2022-12-22 08:30:04<br/>
-<br/>
-[チェイサー]()<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-これ系は問答無用でこの評価。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2022-12-22 08:30:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

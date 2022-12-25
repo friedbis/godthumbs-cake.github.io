@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### シド・アンド・ナンシー
+reviewed in 2022-12-25 21:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODgzMjc0ZTUtOWEzMS00NDc0LWFkMTItNjk4ZTNkYmQ4YmU5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1280_.jpg" alt="シド・アンド・ナンシー"><br/>
+[シド・アンド・ナンシー [PR]](https://amzn.to/3GhKsD0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 殺人の追憶
 reviewed in 2022-12-24 16:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDY5ZDg0MTktMzZlNy00YjYzLWE0N2UtYzE0NjI0ZmNjNGZlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="殺人の追憶"><br/>
