@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### エージェント・ウルトラ
+reviewed in 2022-12-26 20:30:06<br/>
+<br/>
+[エージェント・ウルトラ [PR]](https://amzn.to/3hS5E9w)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ここに載せなくてもよい作品かも<br/>
 ### マルコヴィッチの穴
 reviewed in 2022-12-25 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjgyZWJmZTktMzU5ZC00Y2E4LTk1OWQtODNiMDBkNTc5NWI4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX843_.jpg" alt="マルコヴィッチの穴"><br/>
@@ -105,17 +112,11 @@ reviewed in 2022-12-22 22:00:06<br/>
 [惑星XXXリス](https://www.imdb.com/title/tt1198142/)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 狼の血族
-reviewed in 2022-12-22 18:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZTkyYTZjY2YtM2VmOC00N2Q1LWFiZGMtYWE1MTVhZDYzMTYwXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX511_.jpg" alt="狼の血族"><br/>
-[狼の血族 [PR]](https://amzn.to/3hE85MV)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-狼男アメリカンとこれ。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

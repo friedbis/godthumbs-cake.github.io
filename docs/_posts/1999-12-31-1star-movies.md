@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エージェント・ウルトラ
+reviewed in 2022-12-26 20:30:06<br/>
+<br/>
+[エージェント・ウルトラ [PR]](https://amzn.to/3hS5E9w)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ここに載せなくてもよい作品かも<br/>
 ### 我が胸に凶器あり
 reviewed in 2022-12-24 01:30:04<br/>
 <br/>
