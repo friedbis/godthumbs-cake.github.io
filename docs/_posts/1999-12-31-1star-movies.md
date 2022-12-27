@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 怪奇!!幽霊スナック殴り込み!
+reviewed in 2022-12-27 14:30:05<br/>
+<br/>
+[怪奇!!幽霊スナック殴り込み! [PR]](https://amzn.to/3C4qM3c)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+出演者に驚いてしまうが、評価としてはこの程度。<br/>
 ### エージェント・ウルトラ
 reviewed in 2022-12-26 20:30:06<br/>
 <br/>

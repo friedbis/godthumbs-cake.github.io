@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 怪奇!!幽霊スナック殴り込み!
+reviewed in 2022-12-27 14:30:05<br/>
+<br/>
+[怪奇!!幽霊スナック殴り込み! [PR]](https://amzn.to/3C4qM3c)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+出演者に驚いてしまうが、評価としてはこの程度。<br/>
 ### エージェント・ウルトラ
 reviewed in 2022-12-26 20:30:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2022-12-23 16:30:05<br/>
 [ブラックブック [PR]](https://amzn.to/3WlNFau)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### 惑星XXXリス
-reviewed in 2022-12-22 22:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTQyNDI5NDY2MF5BMl5BanBnXkFtZTgwOTM0MjA2MDE@._V1_FMjpg_UX375_.jpg" alt="惑星XXXリス"><br/>
-[惑星XXXリス](https://www.imdb.com/title/tt1198142/)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
