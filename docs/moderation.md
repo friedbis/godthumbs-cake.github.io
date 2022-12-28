@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### THE MASTER OF SHIATSU 指圧王者
+reviewed in 2022-12-29 01:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDgxMjJjYWItOTRkMC00ZWRjLWI3NTctNjA4ODUyNDkxMjU2XkEyXkFqcGdeQXVyNTM0MDM1NzI@._V1_FMjpg_UX921_.jpg" alt="THE MASTER OF SHIATSU 指圧王者"><br/>
+[THE MASTER OF SHIATSU 指圧王者 [PR]](https://amzn.to/3WtECV3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 怪奇!!幽霊スナック殴り込み!
 reviewed in 2022-12-27 14:30:05<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2022-12-23 17:00:05<br/>
 [危険な情事 [PR]](https://amzn.to/3VmxeZY)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ブラックブック
-reviewed in 2022-12-23 16:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZTk2NGEyMDMtZjI1MS00MWEwLThlM2MtMWU2NzkwYTZlZDBhXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_FMjpg_UX1280_.jpg" alt="ブラックブック"><br/>
-[ブラックブック [PR]](https://amzn.to/3WlNFau)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2022-12-23 16:30:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

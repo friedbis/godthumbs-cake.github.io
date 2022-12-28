@@ -129,7 +129,7 @@ reviewed in 2022-12-13 13:00:05<br/>
 岩下志麻さん<br/>
 ### 田園に死す
 reviewed in 2022-12-13 06:00:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTVkZWU2NzYtNTY4YS00NTYxLTk4NDAtNTdlMTY1ZDBjYWMwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="田園に死す"><br/>
 [田園に死す [PR]](https://amzn.to/3BvIufI)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

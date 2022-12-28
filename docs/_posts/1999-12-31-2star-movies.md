@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### THE MASTER OF SHIATSU 指圧王者
+reviewed in 2022-12-29 01:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDgxMjJjYWItOTRkMC00ZWRjLWI3NTctNjA4ODUyNDkxMjU2XkEyXkFqcGdeQXVyNTM0MDM1NzI@._V1_FMjpg_UX921_.jpg" alt="THE MASTER OF SHIATSU 指圧王者"><br/>
+[THE MASTER OF SHIATSU 指圧王者 [PR]](https://amzn.to/3WtECV3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### シド・アンド・ナンシー
 reviewed in 2022-12-25 21:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODgzMjc0ZTUtOWEzMS00NDc0LWFkMTItNjk4ZTNkYmQ4YmU5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1280_.jpg" alt="シド・アンド・ナンシー"><br/>
