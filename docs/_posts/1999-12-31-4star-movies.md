@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ANNA/アナ
+reviewed in 2022-12-30 01:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzQ4MWIwOTYtZmRkMy00YTdkLTgyMTMtNzBjZTViZjQ2ZDRmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="ANNA/アナ"><br/>
+[ANNA/アナ [PR]](https://amzn.to/3CbA3GO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 私、あなた、彼、彼女
 reviewed in 2022-12-24 01:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjg5ZDk2MzEtYjIyOC00OTgwLWFlZGItZGFlNTE2OTNmM2I2XkEyXkFqcGdeQXVyNjY5MDUyMjE@._V1_FMjpg_UX744_.jpg" alt="私、あなた、彼、彼女"><br/>
