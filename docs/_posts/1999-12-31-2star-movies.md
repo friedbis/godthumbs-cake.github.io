@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ホットスポット
+reviewed in 2022-12-31 09:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmNjODkyMDAtZDk5NC00YzYxLWE3ZjYtZGFhN2JlYzkxMDY0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="ホットスポット"><br/>
+[ホットスポット [PR]](https://amzn.to/3G0q1cy)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ザ・セル
 reviewed in 2022-12-29 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjIzNDc5MTEyN15BMl5BanBnXkFtZTcwNDA1MDQ1NA@@._V1_FMjpg_UX1280_.jpg" alt="ザ・セル"><br/>
