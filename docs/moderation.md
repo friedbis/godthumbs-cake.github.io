@@ -49,7 +49,7 @@ reviewed in 2022-12-31 12:00:06<br/>
 [ラスト・ターゲット [PR]](https://amzn.to/3WWhdvi)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-証明で残念<br/>
+赤の照明で残念<br/>
 ### ヒート
 reviewed in 2022-12-31 11:30:06<br/>
 <br/>
