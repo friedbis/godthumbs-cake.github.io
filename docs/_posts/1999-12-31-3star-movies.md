@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### アンナの出会い
+reviewed in 2023-1-2 13:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzA2YzQxY2YtOGY4Mi00ODdiLTkyNTAtNjAwYTRlNTE2YzdlXkEyXkFqcGdeQXVyNjY5MDUyMjE@._V1_FMjpg_UX540_.jpg" alt="アンナの出会い"><br/>
+[アンナの出会い [PR]](https://amzn.to/3i2D1Xl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ラスト・ターゲット
 reviewed in 2022-12-31 12:00:06<br/>
 <br/>

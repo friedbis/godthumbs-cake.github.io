@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ようこそ東映殺影所へ
+reviewed in 2023-1-2 13:30:07<br/>
+<br/>
+[ようこそ東映殺影所へ [PR]](https://amzn.to/3ZgOuDt)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 怪奇!!幽霊スナック殴り込み!
 reviewed in 2022-12-27 14:30:05<br/>
 <br/>
