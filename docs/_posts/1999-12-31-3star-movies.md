@@ -43,6 +43,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スティーラーズ
+reviewed in 2023-1-3 22:30:04<br/>
+<br/>
+[スティーラーズ [PR]](https://amzn.to/3GyljUO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+タランティーノっぽい。<br/>
+### ウイークエンド
+reviewed in 2023-1-3 22:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWI0Y2E4MzQtOWEyYy00MGJiLWE2YjktZTNlNTA0Yjk1ZDQ5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg" alt="ウイークエンド"><br/>
+[ウイークエンド [PR]](https://amzn.to/3GzTs6D)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### アンナの出会い
 reviewed in 2023-1-2 13:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzA2YzQxY2YtOGY4Mi00ODdiLTkyNTAtNjAwYTRlNTE2YzdlXkEyXkFqcGdeQXVyNjY5MDUyMjE@._V1_FMjpg_UX540_.jpg" alt="アンナの出会い"><br/>

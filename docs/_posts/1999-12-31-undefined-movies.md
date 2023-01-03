@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### スティーラーズ
+### ウイークエンド
 reviewed in 2023-1-3 22:30:04<br/>
-<br/>
-[スティーラーズ [PR]](https://amzn.to/3GyljUO)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWI0Y2E4MzQtOWEyYy00MGJiLWE2YjktZTNlNTA0Yjk1ZDQ5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg" alt="ウイークエンド"><br/>
+[ウイークエンド [PR]](https://amzn.to/3GzTs6D)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-タランティーノっぽい。
