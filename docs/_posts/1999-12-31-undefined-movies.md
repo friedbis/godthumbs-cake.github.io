@@ -43,9 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ウイークエンド
-reviewed in 2023-1-3 22:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWI0Y2E4MzQtOWEyYy00MGJiLWE2YjktZTNlNTA0Yjk1ZDQ5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg" alt="ウイークエンド"><br/>
-[ウイークエンド [PR]](https://amzn.to/3GzTs6D)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+### 運命の女
+reviewed in 2023-1-3 23:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTM2NjFhMTItNTc4MC00OGRkLTk3OWItM2Q4YTM2YmFmYjc2XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_FMjpg_UX650_.jpg" alt="運命の女"><br/>
+[運命の女 [PR]](https://amzn.to/3Z4hfD3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

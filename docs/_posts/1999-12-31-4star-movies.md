@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 運命の女
+reviewed in 2023-1-3 23:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTM2NjFhMTItNTc4MC00OGRkLTk3OWItM2Q4YTM2YmFmYjc2XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_FMjpg_UX650_.jpg" alt="運命の女"><br/>
+[運命の女 [PR]](https://amzn.to/3Z4hfD3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 悦楽エステ妻
 reviewed in 2023-1-2 13:30:07<br/>
 <br/>

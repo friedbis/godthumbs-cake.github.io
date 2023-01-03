@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ワイルド・バレット
+reviewed in 2023-1-3 23:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjI4ZmUyNTUtNzZmNS00YmE3LWIxMTItYTJiOGEwNzE0YTA5XkEyXkFqcGdeQXVyNzIyMTA4MjA@._V1_FMjpg_UX964_.jpg" alt="ワイルド・バレット"><br/>
+[ワイルド・バレット [PR]](https://amzn.to/3GzWYOn)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+あーいうお店ってアメリカって感じ。GTAとかでよく見た。<br/>
 ### ザ・デプス
 reviewed in 2023-1-2 17:30:05<br/>
 <br/>
