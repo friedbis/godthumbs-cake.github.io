@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 蜘蛛の巣を払う女
+reviewed in 2023-1-4 00:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYmE1OWE2NWMtY2M4Ni00YzRkLWI1YTQtOGQ5ODIzN2M4Y2JjXkEyXkFqcGdeQXVyNjgzMzI5MjQ@._V1_FMjpg_UX1280_.jpg" alt="蜘蛛の巣を払う女"><br/>
+[蜘蛛の巣を払う女 [PR]](https://amzn.to/3GDDAQR)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ロスト・マネー 偽りの報酬
 reviewed in 2023-1-3 23:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjkyYjczNTAtMWE1MC00YTRkLThkMTMtZjgzODg3Mjc0MTFhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_FMjpg_UX1280_.jpg" alt="ロスト・マネー 偽りの報酬"><br/>
