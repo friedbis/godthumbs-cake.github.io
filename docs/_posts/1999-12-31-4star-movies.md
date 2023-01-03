@@ -45,7 +45,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 囚われの女
 reviewed in 2023-1-4 00:00:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDU2ODg4NzY2M15BMl5BanBnXkFtZTYwNDgxMjg4._V1_FMjpg_UX317_.jpg" alt="囚われの女"><br/>
 [囚われの女 [PR]](https://amzn.to/3GCzIj4)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
