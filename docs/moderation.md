@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### LAMB／ラム
+reviewed in 2023-1-5 22:30:04<br/>
+<br/>
+[LAMB／ラム [PR]](https://amzn.to/3ijpsCT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+なんだこれは。<br/>
 ### 一条さゆり 濡れた欲情
 reviewed in 2023-1-4 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjg2NjNiMmItYTg2Ni00NWE5LTg1Y2YtMmJlNWRkZjc1Y2JkXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX417_.jpg" alt="一条さゆり 濡れた欲情"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-1-3 22:30:04<br/>
 [ウイークエンド [PR]](https://amzn.to/3GzTs6D)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### リミットレス
-reviewed in 2023-1-2 23:00:05<br/>
-<br/>
-[リミットレス [PR]](https://amzn.to/3Z5kGJz)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-物語に引き込まれる
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

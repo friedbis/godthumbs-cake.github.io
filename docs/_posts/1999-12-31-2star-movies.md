@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### LAMB／ラム
+reviewed in 2023-1-5 22:30:04<br/>
+<br/>
+[LAMB／ラム [PR]](https://amzn.to/3ijpsCT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+なんだこれは。<br/>
 ### リミットレス
 reviewed in 2023-1-2 23:00:05<br/>
 <br/>
