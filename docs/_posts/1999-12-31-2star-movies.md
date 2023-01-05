@@ -49,7 +49,7 @@ reviewed in 2023-1-5 22:30:04<br/>
 [LAMB／ラム [PR]](https://amzn.to/3ijpsCT)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-なんだこれは。<br/>
+What the heck is this that I'm watching now?<br/>
 ### リミットレス
 reviewed in 2023-1-2 23:00:05<br/>
 <br/>
