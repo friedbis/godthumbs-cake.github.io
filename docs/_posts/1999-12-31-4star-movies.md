@@ -49,7 +49,7 @@ reviewed in 2023-1-6 14:30:05<br/>
 [女獄門帖 引き裂かれた尼僧 [PR]](https://amzn.to/3GomRzs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-男子禁制の尼寺ジャンルはホラー。<br/>
+男子禁制の尼寺でのゴタゴタはよいとして、やり口がえげつない。<br/>
 ### ラブラブシェアハウス ハウスメイトのヒミツと恋のラプソディー
 reviewed in 2023-1-4 08:30:04<br/>
 <br/>
