@@ -43,6 +43,13 @@ title: 0こ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 羊たちの沈黙
+reviewed in 2023-1-9 18:00:07<br/>
+<br/>
+[羊たちの沈黙 [PR]](https://amzn.to/3GP0Fjj)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### チェイサー
 reviewed in 2022-12-22 08:30:04<br/>
 <br/>
