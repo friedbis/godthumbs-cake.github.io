@@ -57,10 +57,10 @@ reviewed in 2023-1-9 11:00:05<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 インディアナは再注目されるけど、こっちは・・・<br/>
-### Vitgin Territory
+### Virgin Territory
 reviewed in 2023-1-9 11:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNWYyNGUwYTgtOWY2OC00MTVjLTk5NDctYzhjMzcyOTI0ZWU5XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_FMjpg_UX1280_.jpg" alt="Vitgin Territory"><br/>
-[Vitgin Territory [PR]](https://amzn.to/3X2GlB2)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWYyNGUwYTgtOWY2OC00MTVjLTk5NDctYzhjMzcyOTI0ZWU5XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_FMjpg_UX1280_.jpg" alt="Virgin Territory"><br/>
+[Virgin Territory [PR]](https://amzn.to/3X2GlB2)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -162,7 +162,6 @@ reviewed in 2023-1-4 00:00:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
