@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 逃げられない情実
+reviewed in 2023-1-10 05:00:05<br/>
+<br/>
+[逃げられない情実 [PR]](https://www.amazon.co.jp/gp/video/detail/B08X49L2SZ/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+人妻性奴隷（R18版）<br/>
 ### 一条さゆり 濡れた欲情
 reviewed in 2023-1-4 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjg2NjNiMmItYTg2Ni00NWE5LTg1Y2YtMmJlNWRkZjc1Y2JkXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX417_.jpg" alt="一条さゆり 濡れた欲情"><br/>
