@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スティング
+reviewed in 2023-1-9 10:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWY2NGU0Y2UtM2FiMi00MWVmLWFlY2UtZGNiNjBhN2JkYjVkXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_FMjpg_UX1280_.jpg" alt="スティング"><br/>
+[スティング [PR]](https://amzn.to/3X2GlB2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 裏切りのサーカス
 reviewed in 2023-1-6 14:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODAyMTI4NDUtNmI1NC00ZjJkLTk5MGQtZmNkZDVkNzI2MTU3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_FMjpg_UX1280_.jpg" alt="裏切りのサーカス"><br/>
