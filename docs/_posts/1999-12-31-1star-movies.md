@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ロマンシング・ストーン 秘宝の谷
+reviewed in 2023-1-9 11:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGNiYjAwZGItZmJkYi00MjAwLTk4MWUtOWRlMmI0OTgyODdkXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_FMjpg_UX1280_.jpg" alt="ロマンシング・ストーン 秘宝の谷"><br/>
+[ロマンシング・ストーン 秘宝の谷 [PR]](https://amzn.to/3k5HyIQ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+インディアナは再注目されるけど、こっちは・・・<br/>
 ### スティング
 reviewed in 2023-1-9 10:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWY2NGU0Y2UtM2FiMi00MWVmLWFlY2UtZGNiNjBhN2JkYjVkXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_FMjpg_UX1280_.jpg" alt="スティング"><br/>
