@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### チェンジリング
+reviewed in 2023-1-9 12:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzE2YjIyZDQtM2RlNS00OTYxLWFjNzctZjM3ZjY3ZTBiYjFjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="チェンジリング"><br/>
+[チェンジリング [PR]](https://amzn.to/3XeyorV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### LAMB／ラム
 reviewed in 2023-1-5 22:30:04<br/>
 <br/>
