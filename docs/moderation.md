@@ -49,14 +49,14 @@ reviewed in 2023-1-10 19:30:07<br/>
 [悲しい色やねん [PR]](https://amzn.to/3ikWuTi)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+そーーれーーまーーでーー<br/>
 ### 霧の子午線
 reviewed in 2023-1-10 11:30:04<br/>
 <br/>
 [霧の子午線 [PR]](https://amzn.to/3Xg5k3l)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+岩下志麻さん、吉永小百合さん<br/>
 ### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
 reviewed in 2023-1-10 11:00:05<br/>
 <br/>
