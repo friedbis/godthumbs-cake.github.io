@@ -43,9 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
-reviewed in 2023-1-10 11:00:05<br/>
+### 霧の子午線
+reviewed in 2023-1-10 11:30:04<br/>
 <br/>
-[夜王伝説4 美女が溺れる残酷で美しいネオンの夜 [PR]](https://amzn.to/3irpOYe)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+[霧の子午線 [PR]](https://amzn.to/3Xg5k3l)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

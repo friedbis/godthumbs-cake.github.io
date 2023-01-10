@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 霧の子午線
+reviewed in 2023-1-10 11:30:04<br/>
+<br/>
+[霧の子午線 [PR]](https://amzn.to/3Xg5k3l)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
 reviewed in 2023-1-10 11:00:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-1-6 14:30:05<br/>
 [女獄門帖 引き裂かれた尼僧 [PR]](https://amzn.to/3GomRzs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-男子禁制の尼寺でのゴタゴタはよいとして、やり口がえげつない。<br/>
-### 裏切りのサーカス
-reviewed in 2023-1-6 14:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODAyMTI4NDUtNmI1NC00ZjJkLTk5MGQtZmNkZDVkNzI2MTU3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_FMjpg_UX1280_.jpg" alt="裏切りのサーカス"><br/>
-[裏切りのサーカス [PR]](https://amzn.to/3IpgZZl)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+男子禁制の尼寺でのゴタゴタはよいとして、やり口がえげつない。
 <br/>
 ### 索引
 <br/>
