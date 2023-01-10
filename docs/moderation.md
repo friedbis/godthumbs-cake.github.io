@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
+reviewed in 2023-1-10 11:00:05<br/>
+<br/>
+[夜王伝説4 美女が溺れる残酷で美しいネオンの夜 [PR]](https://amzn.to/3irpOYe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 玉割り人ゆき 西の廓夕月楼
 reviewed in 2023-1-10 10:30:08<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-1-6 14:00:05<br/>
 [裏切りのサーカス [PR]](https://amzn.to/3IpgZZl)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### LAMB／ラム
-reviewed in 2023-1-5 22:30:04<br/>
-<br/>
-[LAMB／ラム [PR]](https://amzn.to/3ijpsCT)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-What the heck is this that I'm watching now?
+
 <br/>
 ### 索引
 <br/>

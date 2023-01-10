@@ -43,9 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 玉割り人ゆき 西の廓夕月楼
-reviewed in 2023-1-10 10:30:08<br/>
+### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
+reviewed in 2023-1-10 11:00:05<br/>
 <br/>
-[玉割り人ゆき 西の廓夕月楼 [PR]](https://amzn.to/3CCBhLf)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[夜王伝説4 美女が溺れる残酷で美しいネオンの夜 [PR]](https://amzn.to/3irpOYe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

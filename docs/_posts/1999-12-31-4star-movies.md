@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
+reviewed in 2023-1-10 11:00:05<br/>
+<br/>
+[夜王伝説4 美女が溺れる残酷で美しいネオンの夜 [PR]](https://amzn.to/3irpOYe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Virgin Territory
 reviewed in 2023-1-9 11:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWYyNGUwYTgtOWY2OC00MTVjLTk5NDctYzhjMzcyOTI0ZWU5XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_FMjpg_UX1280_.jpg" alt="Virgin Territory"><br/>
@@ -155,6 +162,13 @@ reviewed in 2022-12-5 14:15:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 お名前を知りたい。<br/>
+### イーストサイド・ワルツ 悦楽の園
+reviewed in 2022-12-2 11:35:04<br/>
+<br/>
+[イーストサイド・ワルツ 悦楽の園 [PR]](https://amzn.to/3ufVNwG)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 師匠の女将さん いじりいじられ
 reviewed in 2022-12-2 11:15:04<br/>
 <br/>
