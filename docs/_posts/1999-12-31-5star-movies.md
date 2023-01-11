@@ -661,7 +661,7 @@ reviewed in 2021-8-25 21:05:03<br/>
 <br/>
 ### 転校生
 reviewed in 2021-8-25 20:50:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNmNlZWQ5ZDYtNDI2NC00NDc5LTgzMDEtNTcyOWYyYmExNzQyXkEyXkFqcGdeQXVyNjYxOTc4ODA@._V1_.jpg" alt="転校生"><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDFmMDdjMmUtOTAzMS00MTJlLThiODQtNDJkOTliNDIxM2Q2XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_.jpg" alt="転校生"><br/>
 [転校生 [PR]](https://amzn.to/3GziUId)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
