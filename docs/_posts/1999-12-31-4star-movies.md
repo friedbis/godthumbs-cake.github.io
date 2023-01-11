@@ -694,10 +694,10 @@ reviewed in 2022-2-8 11:55:08<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 昭和姦通物語～恥辱に耐える美人妻～（R18版）<br/>
-### Sweet Angel #105　涼森れむ
+### Sweet Angel 涼森れむ #105
 reviewed in 2022-2-8 10:20:03<br/>
 <br/>
-[Sweet Angel #105　涼森れむ](https://www.mondotv.jp/sp/idol/idol/sweetangel/105)<br/>
+[Sweet Angel 涼森れむ #105](https://www.mondotv.jp/sp/idol/idol/sweetangel/105)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -956,7 +956,7 @@ reviewed in 2022-1-7 12:20:03<br/>
 ### TANIZAKI TRIBUTE 神と人との間
 reviewed in 2022-1-4 21:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODdmYTY0YzctNTVlMi00ZGQ5LTg1YTMtZWVjNWJiZWRiOTQyXkEyXkFqcGdeQXVyMjQ0MDE5Njk@._V1_FMjpg_UY720_.jpg" alt="TANIZAKI TRIBUTE 神と人との間"><br/>
-[TANIZAKI TRIBUTE 神と人との間 [PR]](https://www.amazon.co.jp/dp/B07CCHZWKC/ref=cm_sw_r_as_gl_apa_glt_i_4R19KGW2HJ7GD4DB6M4R?linkCode=ml2&tag=httyf19net-22)<br/>
+[TANIZAKI TRIBUTE 神と人との間 [PR]](https://amzn.to/3k71nzE)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -1016,13 +1016,6 @@ reviewed in 2021-12-16 22:55:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 ダイナマイト。<br/>
-### Sweet Angel 総集編 13 #91
-reviewed in 2021-12-9 00:45:04<br/>
-<br/>
-[Sweet Angel 総集編 13 #91](https://www.mondotv.jp/sp/idol/idol/sweetangel)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 戸田れい/アールグレイ~こころに残る美尻の味わい
 reviewed in 2021-12-5 11:10:04<br/>
 <br/>
@@ -1506,13 +1499,6 @@ reviewed in 2021-9-9 19:35:03<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### 奈月セナ セレナーデ
-reviewed in 2021-9-9 11:45:03<br/>
-<br/>
-[奈月セナ セレナーデ [PR]](https://amzn.to/3BSwRx5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### ジャングル・フィーバー
 reviewed in 2021-9-8 21:35:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTc1ODQxMjM2NV5BMl5BanBnXkFtZTcwODE5NDgwMw@@._V1_FMjpg_UX1280_.jpg" alt="ジャングル・フィーバー"><br/>
@@ -1883,7 +1869,7 @@ reviewed in 2021-8-28 09:50:04<br/>
 [ルパン三世 Part2 死の翼アルバトロス [PR]](https://www.amazon.co.jp/gp/video/detail/B0756MSFPV/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ほぼすっぽんぽんのぽんと<br/>
 ### オープン・マリッジ ある夫婦のカタチ
 reviewed in 2021-8-28 06:25:03<br/>
 <br/>
@@ -1929,14 +1915,14 @@ reviewed in 2021-8-27 20:00:04<br/>
 ### （不）完全人間
 reviewed in 2021-8-27 15:45:04<br/>
 <br/>
-[（不）完全人間 [PR]](https://www.amazon.co.jp/%EF%BC%88%E4%B8%8D%EF%BC%89%E5%AE%8C%E5%85%A8%E4%BA%BA%E9%96%93-%E5%B0%8F%E5%B1%B1%E5%9B%BD%E5%AE%8F/dp/B01JKIZAK2?&linkCode=ll1&tag=httyf19net-22&linkId=ca98f63bb83d2c8011c37b33a12a0da0&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[（不）完全人間 [PR]](https://amzn.to/3GTtJX8)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### ファミリー☆ウォーズ
 reviewed in 2021-8-27 15:40:04<br/>
 <br/>
-[ファミリー☆ウォーズ [PR]](https://www.amazon.co.jp/dp/B084HPGRT3?&linkCode=ll1&tag=httyf19net-22&linkId=20b1ed6aa0fa6319dd14baad54eff0f0&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[ファミリー☆ウォーズ [PR]](https://amzn.to/3IBWcC9)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -1978,7 +1964,7 @@ reviewed in 2021-8-27 03:45:03<br/>
 ### 黒水仙の美女
 reviewed in 2021-8-26 23:40:04<br/>
 <img src="https://www.fami-geki.com/upimages/program/01180/l.jpg" alt="黒水仙の美女"><br/>
-[黒水仙の美女 [PR]](https://www.amazon.co.jp/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%81%AE%E7%BE%8E%E5%A5%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA3-%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%81%AE%E3%80%8C%E6%9A%97%E9%BB%92%E6%98%9F%E3%80%8D%E3%82%88%E3%82%8A-%E9%BB%92%E6%B0%B4%E4%BB%99%E3%81%AE%E7%BE%8E%E5%A5%B3-%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%81%AE%E9%BB%84%E9%87%91%E4%BB%AE%E9%9D%A2-Blu-ray/dp/B016CFJ9ZS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%BB%92%E6%B0%B4%E4%BB%99%E3%81%AE%E7%BE%8E%E5%A5%B3&qid=1629988693&s=dvd&sr=1-4&linkCode=ll1&tag=httyf19net-22&linkId=cbb857e8813575eac61897ecbb7cd394&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[黒水仙の美女 [PR]](https://amzn.to/3W6MAlM)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -1989,10 +1975,10 @@ reviewed in 2021-8-26 22:15:03<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### 女神降臨 ＃158　寺田安裕香
+### 女神降臨 寺田安裕香 #158
 reviewed in 2021-8-26 08:55:04<br/>
 <br/>
-[女神降臨 ＃158　寺田安裕香](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
+[女神降臨 寺田安裕香 #158](https://www.mondotv.jp/sp/idol/idol/megamikourin)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -2013,38 +1999,38 @@ reviewed in 2021-8-25 21:15:04<br/>
 ### 日本で一番悪い奴ら
 reviewed in 2021-8-25 21:15:04<br/>
 <br/>
-[日本で一番悪い奴ら [PR]](https://www.amazon.co.jp/dp/B01M9CF0CQ?&linkCode=ll1&tag=httyf19net-22&linkId=021fb41d14f84e1fabff4a066be17eb9&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[日本で一番悪い奴ら [PR]](https://amzn.to/3vVl14d)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### R-18文学賞 vol.2 ジェリー・フィッシュ
 reviewed in 2021-8-25 21:10:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZWNmYzM1NTEtMGQ2NS00OTE0LTgyMjQtMTQwYzc3NzM4MDlhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="R-18文学賞 vol.2 ジェリー・フィッシュ"><br/>
-[R-18文学賞 vol.2 ジェリー・フィッシュ [PR]](https://www.amazon.co.jp/R-18%E6%96%87%E5%AD%A6%E8%B3%9E-vol-2-%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5-DVD-%E5%A4%A7%E8%B0%B7%E6%BE%AA/dp/B00K14H5S0?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=R-18%E6%96%87%E5%AD%A6%E8%B3%9E+vol.2&qid=1629893297&sr=8-1&linkCode=ll1&tag=httyf19net-22&linkId=357305493585361698b1b17463b66c21&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[R-18文学賞 vol.2 ジェリー・フィッシュ [PR]](https://amzn.to/3QDz5sU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### R-18文学賞vol.1 自縄自縛の私
 reviewed in 2021-8-25 21:10:04<br/>
 <br/>
-[R-18文学賞vol.1 自縄自縛の私 [PR]](https://www.amazon.co.jp/R-18%E6%96%87%E5%AD%A6%E8%B3%9Evol-1-%E8%87%AA%E7%B8%84%E8%87%AA%E7%B8%9B%E3%81%AE%E7%A7%81-Blu-ray-%E5%B9%B3%E7%94%B0%E8%96%AB/dp/B00CESCQIK?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=R-18%E6%96%87%E5%AD%A6%E8%B3%9E+vol.1&qid=1629893237&sr=8-2&linkCode=ll1&tag=httyf19net-22&linkId=5e6063c74379ddd40790f6f34a0c8465&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[R-18文学賞vol.1 自縄自縛の私 [PR]](https://amzn.to/3vZB9BG)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### ユダ
 reviewed in 2021-8-25 20:55:03<br/>
 <br/>
-[ユダ [PR]](https://www.amazon.co.jp/%E3%83%A6%E3%83%80-Judas-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%BB%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3-DVD-%E6%B0%B4%E5%B4%8E%E7%B6%BE%E5%A5%B3/dp/B00DCPZLNQ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%A6%E3%83%80&qid=1629892425&sr=8-3&linkCode=ll1&tag=httyf19net-22&linkId=aab6ba2c961ae0886286883325c3c466&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[ユダ [PR]](https://amzn.to/3IFwmgt)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### みんなあげちゃう
 reviewed in 2021-8-25 20:45:04<br/>
 <br/>
-[みんなあげちゃう [PR]](https://www.amazon.co.jp/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%82%E3%81%92%E3%81%A1%E3%82%83%E3%81%86-DVD-%E6%B5%85%E9%87%8E%E3%81%AA%E3%81%A4%E3%81%BF/dp/B007VMC39Q?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%82%E3%81%92%E3%81%A1%E3%82%83%E3%81%86&qid=1629890228&s=dvd&sr=1-1&linkCode=ll1&tag=httyf19net-22&linkId=dadd134b48f737541b4d13883ea5464e&language=ja_JP&ref_=as_li_ss_tl)<br/>
+[みんなあげちゃう [PR]](https://amzn.to/3Qt29mR)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+真剣白刃取り<br/>
 ### メリーに首ったけ
 reviewed in 2021-8-25 20:45:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWQ1ZTY0MjUtNTBlYi00ODc3LTk5MDItNDNkNDllNDk1NmI1XkEyXkFqcGdeQXVyMjE4MjA4NDc@._V1_FMjpg_UX320_.jpg" alt="メリーに首ったけ"><br/>
