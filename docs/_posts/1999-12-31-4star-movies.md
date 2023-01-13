@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 俺と○○○すれば売れる
+reviewed in 2023-1-13 17:00:05<br/>
+<br/>
+[俺と○○○すれば売れる](https://mayonaka-kinema.com/oretosurebaureru/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜王伝説4 美女が溺れる残酷で美しいネオンの夜
 reviewed in 2023-1-10 11:00:05<br/>
 <br/>
