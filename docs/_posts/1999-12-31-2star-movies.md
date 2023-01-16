@@ -52,7 +52,7 @@ reviewed in 2023-1-16 20:00:06<br/>
 安原麗子さん<br/>
 ### エンド・オブ・デイズ
 reviewed in 2023-1-16 17:30:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTBkNzAzNjEtMzgwOS00ZjY1LTg4ZDItYzE4MTgwM2VjOGJiXkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_FMjpg_UX1280_.jpg" alt="エンド・オブ・デイズ"><br/>
 [エンド・オブ・デイズ [PR]](https://amzn.to/3CPY72j)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
