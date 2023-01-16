@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ミッドナイトエキスプレス
+reviewed in 2023-1-16 13:00:05<br/>
+<br/>
+[ミッドナイトエキスプレス [PR]](https://amzn.to/3w61qhT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+名作。面会シーンが転機。<br/>
 ### 霧の子午線
 reviewed in 2023-1-10 11:30:04<br/>
 <br/>
