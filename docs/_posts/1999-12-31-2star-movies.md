@@ -59,7 +59,7 @@ reviewed in 2023-1-16 17:30:06<br/>
 <br/>
 ### ミッドナイトエキスプレス
 reviewed in 2023-1-16 13:00:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTUxMmRiZTctZWNiZi00MGFiLTk5Y2QtN2RmYmUxNGM3NGNjXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX1280_.jpg" alt="ミッドナイトエキスプレス"><br/>
 [ミッドナイトエキスプレス [PR]](https://amzn.to/3w61qhT)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
