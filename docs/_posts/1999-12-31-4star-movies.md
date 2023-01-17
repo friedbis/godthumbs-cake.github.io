@@ -1919,6 +1919,20 @@ reviewed in 2021-8-27 22:40:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
+### あゝ荒野
+reviewed in 2021-8-27 22:35:04<br/>
+<br/>
+[あゝ荒野 [PR]](https://amzn.to/38fPu1a)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 共喰い
+reviewed in 2021-8-27 22:35:04<br/>
+<br/>
+[共喰い [PR]](https://amzn.to/3ksX3Ya)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### Heavy Metal
 reviewed in 2021-8-27 21:20:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjg3YzFkZmEtZWQzMC00YzBmLWE4MDYtODQwZmI2ZDhjNWJkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="Heavy Metal"><br/>

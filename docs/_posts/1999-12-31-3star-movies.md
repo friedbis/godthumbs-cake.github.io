@@ -2129,20 +2129,6 @@ reviewed in 2021-8-27 22:40:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### あゝ荒野
-reviewed in 2021-8-27 22:35:04<br/>
-<br/>
-[あゝ荒野 [PR]](https://amzn.to/38fPu1a)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 共喰い
-reviewed in 2021-8-27 22:35:04<br/>
-<br/>
-[共喰い [PR]](https://amzn.to/3ksX3Ya)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 愛の新世界
 reviewed in 2021-8-27 22:35:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTQ2OTcwMDA1OV5BMl5BanBnXkFtZTcwMjYxNDczMQ@@._V1_.jpg" alt="愛の新世界"><br/>
