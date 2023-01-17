@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 敏感 テンプテーション
+reviewed in 2023-1-17 14:00:06<br/>
+<br/>
+[敏感 テンプテーション [PR]](https://amzn.to/3XDHw9A)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+敏感 テンプテーション~初体験注意報~（別タイトル）  録音された声を何回も聞かされている感<br/>
 ### 瞳の中の訪問者
 reviewed in 2023-1-17 12:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzFkYzVkMjktYzgxZC00NjgwLTgzMjgtYjc4Y2FmNTY2YmYwXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_FMjpg_UX520_.jpg" alt="瞳の中の訪問者"><br/>

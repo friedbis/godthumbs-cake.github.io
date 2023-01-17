@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 敏感 テンプテーション
+reviewed in 2023-1-17 14:00:06<br/>
+<br/>
+[敏感 テンプテーション [PR]](https://amzn.to/3XDHw9A)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+敏感 テンプテーション~初体験注意報~（別タイトル）  録音された声を何回も聞かされている感<br/>
 ### 瞳の中の訪問者
 reviewed in 2023-1-17 12:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzFkYzVkMjktYzgxZC00NjgwLTgzMjgtYjc4Y2FmNTY2YmYwXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_FMjpg_UX520_.jpg" alt="瞳の中の訪問者"><br/>
@@ -50,10 +57,10 @@ reviewed in 2023-1-17 12:00:05<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 志穂美悦子さん 別件だが中盤の電話の着信音のリフレインは不快極まりない<br/>
-### フリーズ・三―
+### フリーズ・ミー
 reviewed in 2023-1-16 22:00:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMGEyYTg5MTYtYjhjZS00N2E4LWIzMjItMDNiNGVhOTM2ZDNhXkEyXkFqcGdeQXVyNzAzMTMxNDU@._V1_FMjpg_UX1280_.jpg" alt="フリーズ・三―"><br/>
-[フリーズ・三― [PR]](https://amzn.to/3Xb24Xk)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGEyYTg5MTYtYjhjZS00N2E4LWIzMjItMDNiNGVhOTM2ZDNhXkEyXkFqcGdeQXVyNzAzMTMxNDU@._V1_FMjpg_UX1280_.jpg" alt="フリーズ・ミー"><br/>
+[フリーズ・ミー [PR]](https://amzn.to/3Xb24Xk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 井上晴美さん<br/>
@@ -105,17 +112,11 @@ reviewed in 2023-1-13 17:00:05<br/>
 [俺と○○○すれば売れる](https://mayonaka-kinema.com/oretosurebaureru/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 悲しい色やねん
-reviewed in 2023-1-10 19:30:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODAyZDA0ZTktOWRmYy00MjI1LWFkMTEtNTVkNmE2NDI0MjZlXkEyXkFqcGdeQXVyOTQ5Njc0MDU@._V1_FMjpg_UX466_.jpg" alt="悲しい色やねん"><br/>
-[悲しい色やねん [PR]](https://amzn.to/3ikWuTi)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-そーーれーーまーーでーー
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
