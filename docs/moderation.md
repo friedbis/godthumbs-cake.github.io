@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 真夏に出会ったら
+reviewed in 2023-1-22 13:00:05<br/>
+<br/>
+[真夏に出会ったら](https://www.allcinema.net/cinema/379828)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ワイルド・アット・ハート
 reviewed in 2023-1-22 12:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTQyZmQ1NzEtYjcyNC00ZDhiLWFjNTUtMDg0ZDc5Zjg3NDllXkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_FMjpg_UX720_.jpg" alt="ワイルド・アット・ハート"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-1-20 15:00:05<br/>
 [ランボー [PR]](https://amzn.to/3WoE5mg)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-鍛えられた逞しいお尻が。 久しぶりに見たけどベトナム戦争との対比なんだねこれ。<br/>
-### 不倫中毒
-reviewed in 2023-1-17 16:00:07<br/>
-<br/>
-[不倫中毒 [PR]](https://amzn.to/3Xeh9Y8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-不倫中毒 私は男のおもちゃなの…?（別タイトル）  敏感テンプテーションと同じレンタルボーイあっくんが出てくる。
+鍛えられた逞しいお尻が。 久しぶりに見たけどベトナム戦争との対比なんだねこれ。
 <br/>
 ### 索引
 <br/>
