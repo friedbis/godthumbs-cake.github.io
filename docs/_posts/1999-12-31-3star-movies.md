@@ -1050,7 +1050,7 @@ reviewed in 2022-1-18 13:45:04<br/>
 [０課の女 赤い手錠 [PR]](https://amzn.to/3fBkwUO)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+冒頭数分の怒涛のアバン。<br/>
 ### 台風に疼く女～港の葬儀社・澪～
 reviewed in 2022-1-18 03:00:04<br/>
 <br/>
