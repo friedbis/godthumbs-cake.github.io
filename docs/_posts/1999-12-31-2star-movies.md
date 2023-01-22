@@ -45,7 +45,7 @@ title: 2つ星の映画・ドラマ
 <br/>
 ### 代償
 reviewed in 2023-1-22 09:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2QxMGMzMjUtOWYyYS00NWRlLWE5ZWMtNDljODY5YjI2NTVlL2ltYWdlXkEyXkFqcGdeQXVyMjY0MDY4Mjk@._V1_FMjpg_UX660_.jpg" alt="代償"><br/>
 [代償 [PR]](https://amzn.to/3WyclM6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

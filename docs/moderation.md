@@ -43,9 +43,16 @@ title: Impression
 ## 作品
 
 <br/>
+### 痴漢電車 下着検札
+reviewed in 2023-1-22 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/I/81TaBtyAw-L._AC_SL1445_.jpg" alt="痴漢電車 下着検札"><br/>
+[痴漢電車 下着検札 [PR]](https://amzn.to/3WuY0Ab)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+密室殺人とか黒真珠とか、もはや電車関係ない<br/>
 ### 代償
 reviewed in 2023-1-22 09:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2QxMGMzMjUtOWYyYS00NWRlLWE5ZWMtNDljODY5YjI2NTVlL2ltYWdlXkEyXkFqcGdeQXVyMjY0MDY4Mjk@._V1_FMjpg_UX660_.jpg" alt="代償"><br/>
 [代償 [PR]](https://amzn.to/3WyclM6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-1-16 17:30:06<br/>
 [エンド・オブ・デイズ [PR]](https://amzn.to/3CPY72j)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ミッドナイトエキスプレス
-reviewed in 2023-1-16 13:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZTUxMmRiZTctZWNiZi00MGFiLTk5Y2QtN2RmYmUxNGM3NGNjXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX1280_.jpg" alt="ミッドナイトエキスプレス"><br/>
-[ミッドナイトエキスプレス [PR]](https://amzn.to/3w61qhT)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-名作。面会シーンが転機。
+
 <br/>
 ### 索引
 <br/>
