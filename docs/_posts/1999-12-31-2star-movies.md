@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 代償
+reviewed in 2023-1-22 09:30:05<br/>
+<br/>
+[代償 [PR]](https://amzn.to/3WyclM6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+片岡礼子さん、月船さららさん<br/>
 ### ランボー
 reviewed in 2023-1-20 15:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjcyYjU2ZDUtNTg3YS00ZGI5LTlmZDItZGU4YmY0ZjNmZTFiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX793_.jpg" alt="ランボー"><br/>
