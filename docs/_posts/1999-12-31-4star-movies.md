@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 茜色に焼かれる
+reviewed in 2023-1-24 01:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGJjZmVmODgtZTNjNi00MzU2LWFmNTItYzVmMzZkNjhlMDNhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX810_.jpg" alt="茜色に焼かれる"><br/>
+[茜色に焼かれる [PR]](https://amzn.to/3R18Tsi)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+この絵からは想像できない設定。素晴らしい。<br/>
 ### ワイルド・アット・ハート
 reviewed in 2023-1-22 12:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTQyZmQ1NzEtYjcyNC00ZDhiLWFjNTUtMDg0ZDc5Zjg3NDllXkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_FMjpg_UX720_.jpg" alt="ワイルド・アット・ハート"><br/>
