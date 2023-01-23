@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### エンパイア レコード
+reviewed in 2023-1-23 19:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWE2ZjhmMjMtZGYyNS00NjVjLWE1MDUtZTk4NjY5MmJkZDZhXkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_FMjpg_UX1280_.jpg" alt="エンパイア レコード"><br/>
+[エンパイア レコード [PR]](https://amzn.to/3ZU5lw1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+レネー・ゼルウィガーさん<br/>
 ### 真夏に出会ったら
 reviewed in 2023-1-22 13:00:05<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-1-20 23:30:04<br/>
 [女の穴 [PR]](https://amzn.to/3ZNz4qq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ランボー
-reviewed in 2023-1-20 15:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYjcyYjU2ZDUtNTg3YS00ZGI5LTlmZDItZGU4YmY0ZjNmZTFiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX793_.jpg" alt="ランボー"><br/>
-[ランボー [PR]](https://amzn.to/3WoE5mg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-鍛えられた逞しいお尻が。 久しぶりに見たけどベトナム戦争との対比なんだねこれ。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

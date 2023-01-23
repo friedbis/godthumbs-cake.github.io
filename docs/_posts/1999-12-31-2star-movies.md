@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エンパイア レコード
+reviewed in 2023-1-23 19:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWE2ZjhmMjMtZGYyNS00NjVjLWE1MDUtZTk4NjY5MmJkZDZhXkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_FMjpg_UX1280_.jpg" alt="エンパイア レコード"><br/>
+[エンパイア レコード [PR]](https://amzn.to/3ZU5lw1)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+レネー・ゼルウィガーさん<br/>
 ### 真夏に出会ったら
 reviewed in 2023-1-22 13:00:05<br/>
 <br/>
