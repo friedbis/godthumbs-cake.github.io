@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 震える髪
+reviewed in 2023-1-24 16:30:05<br/>
+<br/>
+[震える髪](http://www.tvdrama-db.com/drama_info/p/id-22691)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+秋吉久美子さん<br/>
 ### 敏感 テンプテーション
 reviewed in 2023-1-17 14:00:06<br/>
 <br/>
