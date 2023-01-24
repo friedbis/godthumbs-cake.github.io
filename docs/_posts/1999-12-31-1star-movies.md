@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 現代神秘サスペンス 間違った死に場所
+reviewed in 2023-1-24 17:30:05<br/>
+<br/>
+[現代神秘サスペンス 間違った死に場所](http://www.tvdrama-db.com/drama_info/p/id-25591)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+浅田ゆう子さん<br/>
 ### 震える髪
 reviewed in 2023-1-24 16:30:05<br/>
 <br/>

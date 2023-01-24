@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 現代神秘サスペンス 間違った死に場所
+reviewed in 2023-1-24 17:30:05<br/>
+<br/>
+[現代神秘サスペンス 間違った死に場所](http://www.tvdrama-db.com/drama_info/p/id-25591)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+浅田ゆう子さん<br/>
 ### 震える髪
 reviewed in 2023-1-24 16:30:05<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-1-22 11:00:05<br/>
 [わるいおんな [PR]](https://amzn.to/3XK8SLq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### 白く濡れた夏
-reviewed in 2023-1-22 10:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTYyY2M2Y2EtZWQzMi00YjViLWI2NzgtZGYyNDE1MzJlNWM4XkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_FMjpg_UX675_.jpg" alt="白く濡れた夏"><br/>
-[白く濡れた夏 [PR]](https://amzn.to/3kuDClk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-池波志乃さん、小川亜佐美さん、石井雪江さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
