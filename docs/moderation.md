@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ビッグ・リボウスキ
+reviewed in 2023-1-24 22:00:04<br/>
+<br/>
+[ビッグ・リボウスキ [PR]](https://amzn.to/3kFSkWL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女の意地
 reviewed in 2023-1-24 21:30:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-1-22 12:00:05<br/>
 [侵入される清楚妻 [PR]](https://amzn.to/3GXQVST)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-人妻性奴隷（R18版）<br/>
-### 痴漢ハンター　淫乱ビーム大作戦
-reviewed in 2023-1-22 11:00:05<br/>
-<br/>
-[痴漢ハンター　淫乱ビーム大作戦](https://www.videomarket.jp/title/370173)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-それは規制かからないのか。
+人妻性奴隷（R18版）
 <br/>
 ### 索引
 <br/>
