@@ -1228,7 +1228,7 @@ reviewed in 2021-10-23 20:15:03<br/>
 ショートもかわいい<br/>
 ### 私が愛したヘミングウェイ／ヘミングウェイ＆ゲルホーン
 reviewed in 2021-10-21 07:50:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTA5MTcyMzg1NDZeQTJeQWpwZ15BbWU3MDUwNjUwODc@._V1_.jpg" alt="私が愛したヘミングウェイ／ヘミングウェイ＆ゲルホーン"><br/>
 [私が愛したヘミングウェイ／ヘミングウェイ＆ゲルホーン [PR]](https://amzn.to/30PGdN3)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
