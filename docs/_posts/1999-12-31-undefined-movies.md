@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### キャノンボール
+### サスペリア
 reviewed in 2023-1-27 22:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOTQ3NDRhMWUtNWZkZi00NTgwLTkzMDYtZDFjN2RhYjc3MmNiXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="キャノンボール"><br/>
-[キャノンボール [PR]](https://amzn.to/3WGROFo)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzQ1MWY3NDEtNDhhZC00OTQ4LThiZGMtNWZjODFiYTI1YTFlXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="サスペリア"><br/>
+[サスペリア [PR]](https://amzn.to/3kP6jtb)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-冒頭のこのシーンを見たのが小学生。
