@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 太陽の季節
+reviewed in 2023-1-27 15:00:05<br/>
+<br/>
+[太陽の季節 [PR]](https://amzn.to/3RcoLbw)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 令和エロス噺～色情～
 reviewed in 2023-1-27 11:00:05<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2023-1-24 22:00:04<br/>
 [ビッグ・リボウスキ [PR]](https://amzn.to/3kFSkWL)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 女の意地
-reviewed in 2023-1-24 21:30:04<br/>
-<br/>
-[女の意地](https://www.nikkatsu.com/movie/21257.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2023-1-24 21:30:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

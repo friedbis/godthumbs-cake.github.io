@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 太陽の季節
+reviewed in 2023-1-27 15:00:05<br/>
+<br/>
+[太陽の季節 [PR]](https://amzn.to/3RcoLbw)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### バトルランナー
 reviewed in 2023-1-27 04:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTk4YmExYzktM2M1Ni00YzYzLWFkMDktODc5M2Q3OTk5ZTRmXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="バトルランナー"><br/>
