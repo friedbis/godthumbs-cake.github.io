@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～色情～
+reviewed in 2023-1-27 11:00:05<br/>
+<br/>
+[令和エロス噺～色情～]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+時代官能　美人女将物語、未亡人嫁の義父介護、禁断の関係　義弟と未亡人<br/>
+### 巨乳水着未亡人 悩殺熟女の秘密の痴態
+reviewed in 2023-1-27 11:00:05<br/>
+<br/>
+[巨乳水着未亡人 悩殺熟女の秘密の痴態 [PR]](https://amzn.to/3JlzTkA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 桃木屋旅館騒動記
 reviewed in 2023-1-27 10:30:05<br/>
 <br/>
@@ -98,24 +112,11 @@ reviewed in 2023-1-24 21:30:04<br/>
 [女の意地](https://www.nikkatsu.com/movie/21257.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 現代神秘サスペンス 間違った死に場所
-reviewed in 2023-1-24 17:30:05<br/>
-<br/>
-[現代神秘サスペンス 間違った死に場所](http://www.tvdrama-db.com/drama_info/p/id-25591)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-浅田ゆう子さん<br/>
-### 震える髪
-reviewed in 2023-1-24 16:30:05<br/>
-<br/>
-[震える髪](http://www.tvdrama-db.com/drama_info/p/id-22691)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-秋吉久美子さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

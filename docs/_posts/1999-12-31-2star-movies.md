@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～色情～
+reviewed in 2023-1-27 11:00:05<br/>
+<br/>
+[令和エロス噺～色情～]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+時代官能　美人女将物語、未亡人嫁の義父介護、禁断の関係　義弟と未亡人<br/>
+### 巨乳水着未亡人 悩殺熟女の秘密の痴態
+reviewed in 2023-1-27 11:00:05<br/>
+<br/>
+[巨乳水着未亡人 悩殺熟女の秘密の痴態 [PR]](https://amzn.to/3JlzTkA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### マルホランド・ドライブ
 reviewed in 2023-1-27 10:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjZmNTY2ZmMtZWU0Ni00MTNlLTg2MjktZmM5NDRhNmFkNjhmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="マルホランド・ドライブ"><br/>
