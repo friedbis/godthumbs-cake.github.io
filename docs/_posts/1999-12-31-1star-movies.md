@@ -234,7 +234,7 @@ reviewed in 2022-12-12 23:00:05<br/>
 話は面白い<br/>
 ### 愛robot したたる淫行知能
 reviewed in 2022-12-7 20:10:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjY1YTVkNGMtNWRkNC00ZjIxLWIyNjYtOTZkMWVhNTc3MjJmXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="愛robot したたる淫行知能"><br/>
 [愛robot したたる淫行知能 [PR]](https://amzn.to/3Y4dVHx)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
