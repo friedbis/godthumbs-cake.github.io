@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 桃木屋旅館騒動記
+reviewed in 2023-1-27 10:30:05<br/>
+<br/>
+[桃木屋旅館騒動記 [PR]](https://amzn.to/3Reji3R)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 茜色に焼かれる
 reviewed in 2023-1-24 01:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGJjZmVmODgtZTNjNi00MzU2LWFmNTItYzVmMzZkNjhlMDNhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX810_.jpg" alt="茜色に焼かれる"><br/>
