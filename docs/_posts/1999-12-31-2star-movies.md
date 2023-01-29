@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### シャーロックホームズの冒険（グラナダ版）
+reviewed in 2023-1-29 15:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTY0NjAwY2EtM2JmZS00ZWFhLTgyMmMtZGYwY2EwYTVkNmE4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="シャーロックホームズの冒険（グラナダ版）"><br/>
+[シャーロックホームズの冒険（グラナダ版） [PR]](https://amzn.to/3Hgaeab)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+この方は美しい自転車乗りのバーバラ・ウィルシャーさん。それとは別に最後の事件でヌードモデルがいた。<br/>
 ### Night Killer
 reviewed in 2023-1-27 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmQ2YjA1NjgtZjhlNi00MDhmLThmNmItZGRlMmU3YmM2MjFhXkEyXkFqcGdeQXVyMTM3NzI3NjQ@._V1_.jpg" alt="Night Killer"><br/>
