@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ラブアンドロイド 執事のアダムとぼっちな私
+reviewed in 2023-1-31 17:30:05<br/>
+<br/>
+[ラブアンドロイド 執事のアダムとぼっちな私 [PR]](https://amzn.to/40gxldl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### シャーロックホームズの冒険（グラナダ版）
 reviewed in 2023-1-29 15:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTY0NjAwY2EtM2JmZS00ZWFhLTgyMmMtZGYwY2EwYTVkNmE4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="シャーロックホームズの冒険（グラナダ版）"><br/>
