@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ヘザース ベロニカの熱い日
+reviewed in 2023-1-31 16:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWQ2YWUzYmEtMjhmMy00M2M4LWE2NGEtNzJlNTFiY2M4NGVhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="ヘザース ベロニカの熱い日"><br/>
+[ヘザース ベロニカの熱い日 [PR]](https://amzn.to/3WOpjp9)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+２人ともお若い。<br/>
 ### モネ・ゲーム
 reviewed in 2023-1-31 15:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjExMWI5YTItMzQxNC00YzkzLWIwNDEtOWEzM2JmMjM3ZmMxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="モネ・ゲーム"><br/>
@@ -56,7 +63,7 @@ reviewed in 2023-1-28 14:00:07<br/>
 [ウェズリー・スナイプス コンタクト [PR]](https://amzn.to/3jatWfo)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-I was quite surprised at some matters about this movie.<br/>
+I was quite surprised at some matters about this movie. I actually disappointed.<br/>
 ### キャノンボール
 reviewed in 2023-1-27 22:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTQ3NDRhMWUtNWZkZi00NTgwLTkzMDYtZDFjN2RhYjc3MmNiXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="キャノンボール"><br/>
