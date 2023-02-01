@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ターミネーター
+reviewed in 2023-2-1 19:30:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjkzYmZhNzUtMGQxZi00MmYxLTg4MjctODI3OGJlZDg5Yjk3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ターミネーター"><br/>
+[ターミネーター [PR]](https://amzn.to/3jpasUE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ラブアンドロイド 執事のアダムとぼっちな私
 reviewed in 2023-1-31 17:30:05<br/>
 <br/>
