@@ -287,7 +287,7 @@ reviewed in 2022-12-2 10:35:04<br/>
 [恋愛コンプレックス [PR]](https://amzn.to/3ioBpXr)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+あっくん推しは何なんだろう。<br/>
 ### 地獄麻雀 好色バトルロワイヤル　168時間！
 reviewed in 2022-11-20 23:55:04<br/>
 <br/>
