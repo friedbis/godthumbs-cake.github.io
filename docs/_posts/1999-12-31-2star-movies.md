@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### デッドマンダウン
+reviewed in 2023-2-2 22:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDJkNWYzNTItNmNlOS00YjUwLWI0ZGUtNjRlYmM2MTdjNzIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="デッドマンダウン"><br/>
+[デッドマンダウン [PR]](https://amzn.to/3JBdVKu)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+冒頭のシーン。男の方が声大きい。<br/>
 ### ターミネーター
 reviewed in 2023-2-1 19:30:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjkzYmZhNzUtMGQxZi00MmYxLTg4MjctODI3OGJlZDg5Yjk3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ターミネーター"><br/>
