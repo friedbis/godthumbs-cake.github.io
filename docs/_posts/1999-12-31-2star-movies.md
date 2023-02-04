@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スパイ・レジェンド
+reviewed in 2023-2-4 16:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODVjMDBmMzItZDUwZC00ZmM3LWJiZjQtMWNiN2NjN2ZiOTVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg" alt="スパイ・レジェンド"><br/>
+[スパイ・レジェンド [PR]](https://www.amazon.co.jp/dp/B00UTGTWKE/ref=cm_sw_r_as_gl_apa_gl_i_JD45BRAXWFQTBQ1FWQAR?linkCode=ml1&tag=httyf19net-22)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ベイシティ刑事
+reviewed in 2023-2-4 13:00:06<br/>
+<br/>
+[ベイシティ刑事](http://www.tvdrama-db.com/drama_info/p/id-23943)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+4話冒頭。たしか西村杏子さん。<br/>
 ### デッドマンダウン
 reviewed in 2023-2-2 22:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDJkNWYzNTItNmNlOS00YjUwLWI0ZGUtNjRlYmM2MTdjNzIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="デッドマンダウン"><br/>
