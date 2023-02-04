@@ -97,6 +97,7 @@ lang: ja-JP # Set the site language
 title: "god thumb's cake ゴッサムケーキ" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "weblog" # Site description and default description, also used in jekyll-seo-tag
+name: "god thumb's cake"
 url: "https://gerwalk.yf-19.net" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/friedbis/godthumbs-cake.github.io"
