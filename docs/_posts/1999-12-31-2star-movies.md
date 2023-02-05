@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 装鬼兵M.D.ガイスト
+reviewed in 2023-2-5 23:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTg2MzU3NTA3Ml5BMl5BanBnXkFtZTYwNzc2NjI5._V1_.jpg" alt="装鬼兵M.D.ガイスト"><br/>
+[装鬼兵M.D.ガイスト [PR]](https://amzn.to/3HZ6Jqc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+パイア(平野文さん)<br/>
 ### スパイ・レジェンド
 reviewed in 2023-2-4 16:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODVjMDBmMzItZDUwZC00ZmM3LWJiZjQtMWNiN2NjN2ZiOTVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg" alt="スパイ・レジェンド"><br/>

@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 装鬼兵M.D.ガイスト
+reviewed in 2023-2-5 23:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTg2MzU3NTA3Ml5BMl5BanBnXkFtZTYwNzc2NjI5._V1_.jpg" alt="装鬼兵M.D.ガイスト"><br/>
+[装鬼兵M.D.ガイスト [PR]](https://amzn.to/3HZ6Jqc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+パイア(平野文さん)<br/>
 ### 毒婦お伝と首斬り浅
 reviewed in 2023-2-5 22:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmRlMzAxZTQtODM1MS00YjYxLThkNDQtYThhNTY0YzAwZGNhXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="毒婦お伝と首斬り浅"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-1 19:30:08<br/>
 [ターミネーター [PR]](https://amzn.to/3jpasUE)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ラブラブシェアハウス ハウスメイトのヒミツと恋のラプソディー
-reviewed in 2023-1-31 17:30:05<br/>
-<br/>
-[ラブラブシェアハウス ハウスメイトのヒミツと恋のラプソディー [PR]](https://amzn.to/3Y7i5O4)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
