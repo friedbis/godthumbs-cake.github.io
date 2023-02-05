@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### キューティーハニー THE LIVE
+reviewed in 2023-2-5 17:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmI5MzZlNDUtOGRlYy00ZjRjLTgxYTItNDRmMjQwNzMyZmFkXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_.jpg" alt="キューティーハニー THE LIVE"><br/>
+[キューティーハニー THE LIVE [PR]](https://amzn.to/3YqK8by)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+水崎綾女さんが好きなので。<br/>
 ### スパイ・レジェンド
 reviewed in 2023-2-4 16:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODVjMDBmMzItZDUwZC00ZmM3LWJiZjQtMWNiN2NjN2ZiOTVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg" alt="スパイ・レジェンド"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-1-31 17:00:05<br/>
 [夜明けの街で [PR]](https://amzn.to/3Hlkiij)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### デコトラガール 天使な誘惑
-reviewed in 2023-1-31 16:30:05<br/>
-<br/>
-[デコトラガール 天使な誘惑 [PR]](https://amzn.to/3YbBpKc)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-桜ちなみさん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
