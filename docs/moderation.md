@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 特命戦隊ゴーバスターズ
+reviewed in 2023-2-5 18:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzlmYjhjMjItOTUzOS00MDdmLTlhYzAtMzRjMDAyMDE5ODNkXkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_.jpg" alt="特命戦隊ゴーバスターズ"><br/>
+[特命戦隊ゴーバスターズ [PR]](https://amzn.to/3HYtHxF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+水崎綾女さんが好きなので。<br/>
 ### キューティーハニー THE LIVE
 reviewed in 2023-2-5 17:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmI5MzZlNDUtOGRlYy00ZjRjLTgxYTItNDRmMjQwNzMyZmFkXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_.jpg" alt="キューティーハニー THE LIVE"><br/>
@@ -104,13 +111,6 @@ reviewed in 2023-1-31 17:30:05<br/>
 <br/>
 [ラブアンドロイド 執事のアダムとぼっちな私 [PR]](https://amzn.to/40gxldl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 夜明けの街で
-reviewed in 2023-1-31 17:00:05<br/>
-<br/>
-[夜明けの街で [PR]](https://amzn.to/3Hlkiij)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
 <br/>
