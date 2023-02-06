@@ -49,7 +49,7 @@ reviewed in 2023-2-6 21:30:04<br/>
 [ダウンサイズ [PR]](https://amzn.to/3RyYhRy)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+その位置からでもボカシが入るとはなんてご立派。<br/>
 ### M.D.ガイスト2 DEATH FORCE
 reviewed in 2023-2-6 00:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjE5MTQ5NDMwNl5BMl5BanBnXkFtZTYwMzIzODA5._V1_.jpg" alt="M.D.ガイスト2 DEATH FORCE"><br/>
