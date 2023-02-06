@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ダウンサイズ
+reviewed in 2023-2-6 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjI2NzgzNWItZTk4Zi00OWJhLWIxNDctOGQ2OTM0MDcxZDE0XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg" alt="ダウンサイズ"><br/>
+[ダウンサイズ [PR]](https://amzn.to/3RyYhRy)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### M.D.ガイスト2 DEATH FORCE
 reviewed in 2023-2-6 00:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjE5MTQ5NDMwNl5BMl5BanBnXkFtZTYwMzIzODA5._V1_.jpg" alt="M.D.ガイスト2 DEATH FORCE"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-2-3 07:00:07<br/>
 [ドリームランド [PR]](https://amzn.to/3Y1HcCf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-画角というかカメラワークがもどかしい。<br/>
-### デッドマンダウン
-reviewed in 2023-2-2 22:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMDJkNWYzNTItNmNlOS00YjUwLWI0ZGUtNjRlYmM2MTdjNzIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="デッドマンダウン"><br/>
-[デッドマンダウン [PR]](https://amzn.to/3JBdVKu)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-冒頭のシーン。男の方が声大きい。
+画角というかカメラワークがもどかしい。
 <br/>
 ### 索引
 <br/>
