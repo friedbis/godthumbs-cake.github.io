@@ -105,14 +105,7 @@ reviewed in 2023-2-3 07:00:07<br/>
 [ドリームランド [PR]](https://amzn.to/3Y1HcCf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-画角というかカメラワークがもどかしい。<br/>
-### デッドマンダウン
-reviewed in 2023-2-2 22:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMDJkNWYzNTItNmNlOS00YjUwLWI0ZGUtNjRlYmM2MTdjNzIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="デッドマンダウン"><br/>
-[デッドマンダウン [PR]](https://amzn.to/3JBdVKu)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-冒頭のシーン。男の方が声大きい。
+画角というかカメラワークがもどかしい。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +155,7 @@ reviewed in 2023-2-2 22:00:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
