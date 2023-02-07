@@ -43,13 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 
+### 外科病棟の女医
 reviewed in 2023-2-7 10:30:06<br/>
 <br/>
-[](http://www.tvdrama-db.com/drama_info/p/id-20487)<br/>
+[外科病棟の女医](http://www.tvdrama-db.com/drama_info/p/id-20487)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+真野響子さん<br/>
 ### ダウンサイズ
 reviewed in 2023-2-6 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjI2NzgzNWItZTk4Zi00OWJhLWIxNDctOGQ2OTM0MDcxZDE0XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg" alt="ダウンサイズ"><br/>
