@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 麻薬売春Ｇメン 恐怖の肉地獄
+reviewed in 2023-2-8 13:00:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjA2NTY2M2UtZTQ5Ny00NTkwLTg4MWYtMTkxYTdlZWMwMTQ0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="麻薬売春Ｇメン 恐怖の肉地獄"><br/>
+[麻薬売春Ｇメン 恐怖の肉地獄 [PR]](https://www.amazon.co.jp/gp/video/detail/B07SNGDSZF/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### M.D.ガイスト2 DEATH FORCE
 reviewed in 2023-2-6 00:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjE5MTQ5NDMwNl5BMl5BanBnXkFtZTYwMzIzODA5._V1_.jpg" alt="M.D.ガイスト2 DEATH FORCE"><br/>
