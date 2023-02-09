@@ -360,7 +360,7 @@ reviewed in 2021-11-6 14:40:03<br/>
 ビジュアル、エロ、アクション、ホラーと豪華な作品。<br/>
 ### ラブレター
 reviewed in 2021-10-17 12:10:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTY1NmY5NmItODk4OC00NGJkLWIwNjUtMjZlMDViOGZlYWQ1XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="ラブレター"><br/>
 [ラブレター [PR]](https://amzn.to/2YVSYV0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
