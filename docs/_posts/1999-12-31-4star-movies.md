@@ -1942,11 +1942,11 @@ reviewed in 2021-8-28 12:55:03<br/>
 <br/>
 ### メガゾーン23
 reviewed in 2021-8-28 09:55:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTNmNzhhOGMtMGNlYy00YmIxLTk2NWEtZjMxYTc5NWNiYWUxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="メガゾーン23"><br/>
 [メガゾーン23 [PR]](https://amzn.to/3yzf7F7)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+高中由唯（川村万梨阿さん）<br/>
 ### ルパン三世 Part2 死の翼アルバトロス
 reviewed in 2021-8-28 09:50:04<br/>
 <br/>
