@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### させ子の同棲日記
+reviewed in 2023-2-10 10:30:07<br/>
+<br/>
+[させ子の同棲日記 [PR]](https://amzn.to/3YjC8JJ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 高宮まり 幸福論
 reviewed in 2023-2-7 16:30:05<br/>
 <br/>

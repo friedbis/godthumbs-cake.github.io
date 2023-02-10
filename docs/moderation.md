@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### させ子の同棲日記
+reviewed in 2023-2-10 10:30:07<br/>
+<br/>
+[させ子の同棲日記 [PR]](https://amzn.to/3YjC8JJ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ドラゴンズ ヘブン
 reviewed in 2023-2-9 22:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzE0MGJjNzMtNTY1MC00OGE0LWI2MmMtZTJlODlkYWVmYTE5XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" alt="ドラゴンズ ヘブン"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-2-5 22:00:06<br/>
 [毒婦お伝と首斬り浅 [PR]](https://amzn.to/3HuC7eK)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-内村レナさん<br/>
-### 特命戦隊ゴーバスターズ
-reviewed in 2023-2-5 18:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzlmYjhjMjItOTUzOS00MDdmLTlhYzAtMzRjMDAyMDE5ODNkXkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_.jpg" alt="特命戦隊ゴーバスターズ"><br/>
-[特命戦隊ゴーバスターズ [PR]](https://amzn.to/3HYtHxF)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-水崎綾女さんが好きなので。
+内村レナさん
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-2-5 18:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
