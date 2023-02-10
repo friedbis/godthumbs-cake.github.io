@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ナチュラル・ボーン・キラーズ
+reviewed in 2023-2-10 11:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWU1MGQ0NGQtYjBiMy00OGI0LWFiODItNmUyNDUxNGYyZjI3XkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_.jpg" alt="ナチュラル・ボーン・キラーズ"><br/>
+[ナチュラル・ボーン・キラーズ [PR]](https://amzn.to/3RPKCpF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+Their kissings might be so more than the fatalities by them.<br/>
 ### ドラゴンズ ヘブン
 reviewed in 2023-2-9 22:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzE0MGJjNzMtNTY1MC00OGE0LWI2MmMtZTJlODlkYWVmYTE5XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" alt="ドラゴンズ ヘブン"><br/>

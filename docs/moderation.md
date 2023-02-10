@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ナチュラル・ボーン・キラーズ
+reviewed in 2023-2-10 11:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWU1MGQ0NGQtYjBiMy00OGI0LWFiODItNmUyNDUxNGYyZjI3XkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_.jpg" alt="ナチュラル・ボーン・キラーズ"><br/>
+[ナチュラル・ボーン・キラーズ [PR]](https://amzn.to/3RPKCpF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+Their kissings might be so more than the fatalities by them.<br/>
 ### させ子の同棲日記
 reviewed in 2023-2-10 10:30:07<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-5 23:00:04<br/>
 [装鬼兵M.D.ガイスト [PR]](https://amzn.to/3HZ6Jqc)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-パイア(平野文さん)<br/>
-### 毒婦お伝と首斬り浅
-reviewed in 2023-2-5 22:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYmRlMzAxZTQtODM1MS00YjYxLThkNDQtYThhNTY0YzAwZGNhXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="毒婦お伝と首斬り浅"><br/>
-[毒婦お伝と首斬り浅 [PR]](https://amzn.to/3HuC7eK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-内村レナさん
+パイア(平野文さん)
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
