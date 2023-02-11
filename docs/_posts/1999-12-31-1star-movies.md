@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### テルマエ・ロマエ
+reviewed in 2023-2-11 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjIxNTIxNjYzMF5BMl5BanBnXkFtZTcwMzAzODYxOA@@._V1_.jpg" alt="テルマエ・ロマエ"><br/>
+[テルマエ・ロマエ [PR]](https://amzn.to/3xctb94)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+阿部寛さん。あと冒頭に上戸彩さん。<br/>
 ### 外科病棟の女医
 reviewed in 2023-2-7 10:30:06<br/>
 <br/>

@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### テルマエ・ロマエ
+reviewed in 2023-2-11 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjIxNTIxNjYzMF5BMl5BanBnXkFtZTcwMzAzODYxOA@@._V1_.jpg" alt="テルマエ・ロマエ"><br/>
+[テルマエ・ロマエ [PR]](https://amzn.to/3xctb94)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+阿部寛さん。あと冒頭に上戸彩さん。<br/>
 ### ナチュラル・ボーン・キラーズ
 reviewed in 2023-2-10 11:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWU1MGQ0NGQtYjBiMy00OGI0LWFiODItNmUyNDUxNGYyZjI3XkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_.jpg" alt="ナチュラル・ボーン・キラーズ"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-6 00:00:06<br/>
 [M.D.ガイスト2 DEATH FORCE [PR]](https://amzn.to/3DHt4pO)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-パイア(松本梨香さん)<br/>
-### 装鬼兵M.D.ガイスト
-reviewed in 2023-2-5 23:00:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTg2MzU3NTA3Ml5BMl5BanBnXkFtZTYwNzc2NjI5._V1_.jpg" alt="装鬼兵M.D.ガイスト"><br/>
-[装鬼兵M.D.ガイスト [PR]](https://amzn.to/3HZ6Jqc)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-パイア(平野文さん)
+パイア(松本梨香さん)
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
