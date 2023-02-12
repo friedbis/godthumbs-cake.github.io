@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 奴隷
+reviewed in 2023-2-12 22:00:04<br/>
+<br/>
+[奴隷](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=186_00704/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 痴漢ハンター　淫乱ビーム大作戦
 reviewed in 2023-1-22 11:00:05<br/>
 <br/>
