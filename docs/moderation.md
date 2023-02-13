@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 恵理の看護日誌
+reviewed in 2023-2-13 19:30:05<br/>
+<br/>
+[恵理の看護日誌 [PR]](https://amzn.to/3E4uaMu)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+タイトルだけではなかなか想像しにくいストーリー。<br/>
 ### 犬神の悪霊
 reviewed in 2023-2-13 09:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGIzYzNhYjYtYmM0Ny00NGU1LWEyMDMtMTk2OWFhNmQ4YmE0XkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_.jpg" alt="犬神の悪霊"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-7 16:30:05<br/>
 [高宮まり 幸福論 [PR]](https://amzn.to/3YrNFGC)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 外科病棟の女医
-reviewed in 2023-2-7 10:30:06<br/>
-<br/>
-[外科病棟の女医](http://www.tvdrama-db.com/drama_info/p/id-20487)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-真野響子さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
