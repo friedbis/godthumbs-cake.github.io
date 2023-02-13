@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 恵理の看護日誌
+reviewed in 2023-2-13 19:30:05<br/>
+<br/>
+[恵理の看護日誌 [PR]](https://amzn.to/3E4uaMu)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+タイトルだけではなかなか想像しにくいストーリー。<br/>
 ### させ子の同棲日記
 reviewed in 2023-2-10 10:30:07<br/>
 <br/>
