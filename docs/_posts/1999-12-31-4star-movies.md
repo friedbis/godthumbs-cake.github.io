@@ -1323,7 +1323,7 @@ reviewed in 2021-10-10 10:25:03<br/>
 [四季・奈津子 [PR]](https://amzn.to/3AmCsuo)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+烏丸せつこさん、阿木燿子さん<br/>
 ### あなたと温泉に行ったら… いわき湯本温泉編 #37 #38
 reviewed in 2021-10-9 23:50:03<br/>
 <img src="https://pbs.twimg.com/media/FBLktBYVQAESVFZ?format=jpg&name=large" alt="あなたと温泉に行ったら… いわき湯本温泉編 #37 #38"><br/>
