@@ -43,17 +43,17 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 幻界エロス経典 竹取物語
+reviewed in 2023-2-17 00:00:07<br/>
+<br/>
+[幻界エロス経典 竹取物語 [PR]](https://amzn.to/3jVJXGJ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### カバーガール 深夜番組の天使たち
 reviewed in 2023-2-16 23:30:05<br/>
 <br/>
 [カバーガール 深夜番組の天使たち [PR]](https://amzn.to/3YPwr62)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 牝刑事 欲望という名の囮捜査
-reviewed in 2023-2-16 23:30:05<br/>
-<br/>
-[牝刑事 欲望という名の囮捜査 [PR]](https://amzn.to/3S6cB4z)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>

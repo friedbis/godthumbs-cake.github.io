@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女家庭教師 毒親の玩具
+reviewed in 2023-2-17 00:00:07<br/>
+<br/>
+[女家庭教師 毒親の玩具 [PR]](https://amzn.to/3KdwS6b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 牝刑事 欲望という名の囮捜査
+reviewed in 2023-2-16 23:30:05<br/>
+<br/>
+[牝刑事 欲望という名の囮捜査 [PR]](https://amzn.to/3S6cB4z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 悲しくなるほど不実な夜空に
 reviewed in 2023-2-14 22:30:04<br/>
 <img src="https://m.media-amazon.com/images/I/81nyb4HbyAL._AC_SL1500_.jpg" alt="悲しくなるほど不実な夜空に"><br/>

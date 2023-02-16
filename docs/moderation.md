@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 女家庭教師 毒親の玩具
+reviewed in 2023-2-17 00:00:07<br/>
+<br/>
+[女家庭教師 毒親の玩具 [PR]](https://amzn.to/3KdwS6b)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 幻界エロス経典 竹取物語
+reviewed in 2023-2-17 00:00:07<br/>
+<br/>
+[幻界エロス経典 竹取物語 [PR]](https://amzn.to/3jVJXGJ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### カバーガール 深夜番組の天使たち
 reviewed in 2023-2-16 23:30:05<br/>
 <br/>
@@ -54,7 +68,7 @@ reviewed in 2023-2-16 23:30:05<br/>
 reviewed in 2023-2-16 23:30:05<br/>
 <br/>
 [牝刑事 欲望という名の囮捜査 [PR]](https://amzn.to/3S6cB4z)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 温泉シカバネ芸者
@@ -98,21 +112,7 @@ reviewed in 2023-2-11 21:30:04<br/>
 [テルマエ・ロマエ [PR]](https://amzn.to/3xctb94)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-阿部寛さん。あと冒頭に上戸彩さん。<br/>
-### ナチュラル・ボーン・キラーズ
-reviewed in 2023-2-10 11:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWU1MGQ0NGQtYjBiMy00OGI0LWFiODItNmUyNDUxNGYyZjI3XkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_.jpg" alt="ナチュラル・ボーン・キラーズ"><br/>
-[ナチュラル・ボーン・キラーズ [PR]](https://amzn.to/3RPKCpF)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-Their kissings might be so more than the fatalities by them.<br/>
-### させ子の同棲日記
-reviewed in 2023-2-10 10:30:07<br/>
-<br/>
-[させ子の同棲日記 [PR]](https://amzn.to/3YjC8JJ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+阿部寛さん。あと冒頭に上戸彩さん。
 <br/>
 ### 索引
 <br/>
