@@ -43,6 +43,20 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### カバーガール 深夜番組の天使たち
+reviewed in 2023-2-16 23:30:05<br/>
+<br/>
+[カバーガール 深夜番組の天使たち [PR]](https://amzn.to/3YPwr62)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 牝刑事 欲望という名の囮捜査
+reviewed in 2023-2-16 23:30:05<br/>
+<br/>
+[牝刑事 欲望という名の囮捜査 [PR]](https://amzn.to/3S6cB4z)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 温泉シカバネ芸者
 reviewed in 2023-2-16 08:30:04<br/>
 <br/>
