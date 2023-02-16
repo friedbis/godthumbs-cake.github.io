@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 性感クリニック 女医・凛子
+reviewed in 2023-2-17 00:30:06<br/>
+<br/>
+[性感クリニック 女医・凛子 [PR]](https://amzn.to/3XzbZFG)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女家庭教師 毒親の玩具
 reviewed in 2023-2-17 00:00:07<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-2-12 22:00:04<br/>
 [奴隷](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=186_00704/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-平沢里菜子さん<br/>
-### テルマエ・ロマエ
-reviewed in 2023-2-11 21:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjIxNTIxNjYzMF5BMl5BanBnXkFtZTcwMzAzODYxOA@@._V1_.jpg" alt="テルマエ・ロマエ"><br/>
-[テルマエ・ロマエ [PR]](https://amzn.to/3xctb94)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-阿部寛さん。あと冒頭に上戸彩さん。
+平沢里菜子さん
 <br/>
 ### 索引
 <br/>
