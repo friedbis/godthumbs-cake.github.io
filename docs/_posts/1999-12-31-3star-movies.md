@@ -1592,11 +1592,11 @@ reviewed in 2021-9-26 16:10:03<br/>
 <br/>
 ### プレイガール
 reviewed in 2021-9-26 14:25:03<br/>
-<img src="https://www.toeich.jp/assets/photo/program_master/1T0000006101/1T0000006101_l.jpg" alt="プレイガール"><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODg5ZjU3N2YtZWJjNy00NDlhLTk3YmYtY2Q1MWRkMGMzOTAzL2ltYWdlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="プレイガール"><br/>
 [プレイガール [PR]](https://amzn.to/3CHiTyk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-園子温監督が作ってくれないかな。<br/>
+西尾三枝子さん、ひし美ゆり子さん、深田ミミさんが好きだった。園子温監督が作ってくれないかな。<br/>
 ### 激突! 殺人拳
 reviewed in 2021-9-25 10:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTVkNjFhNDctY2EwNS00MGZlLWIwZDctYWJiMGU1NzUwZWM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg" alt="激突! 殺人拳"><br/>
