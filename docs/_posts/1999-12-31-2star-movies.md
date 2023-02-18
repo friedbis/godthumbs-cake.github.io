@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10
+reviewed in 2023-2-18 23:30:04<br/>
+<br/>
+[あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+どなたか存じ上げない。なぜわざわざ足のケガを映したのか。<br/>
 ### 今際の国のアリス
 reviewed in 2023-2-18 10:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjkzMjc5MTQtZjUxZC00MWJjLTlhY2ItODUwY2U5ZDRlMzJkXkEyXkFqcGdeQXVyMTIxMzEwMjcy._V1_.jpg" alt="今際の国のアリス"><br/>

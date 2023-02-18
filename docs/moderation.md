@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10
+reviewed in 2023-2-18 23:30:04<br/>
+<br/>
+[あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+どなたか存じ上げない。なぜわざわざ足のケガを映したのか。<br/>
+### あなたと温泉に行ったら… 蓼科温泉編 #121 #122
+reviewed in 2023-2-18 23:30:04<br/>
+<img src="https://m.media-amazon.com/images/P/B08S7JSJH7.01._SCLZZZZZZZ_SX500_.jpg" alt="あなたと温泉に行ったら… 蓼科温泉編 #121 #122"><br/>
+[あなたと温泉に行ったら… 蓼科温泉編 #121 #122](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+小鳥遊くれあさん<br/>
 ### 今際の国のアリス
 reviewed in 2023-2-18 10:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjkzMjc5MTQtZjUxZC00MWJjLTlhY2ItODUwY2U5ZDRlMzJkXkEyXkFqcGdeQXVyMTIxMzEwMjcy._V1_.jpg" alt="今際の国のアリス"><br/>
@@ -98,17 +112,11 @@ reviewed in 2023-2-14 22:30:04<br/>
 [悲しくなるほど不実な夜空に [PR]](https://amzn.to/3lBzxfv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 恵理の看護日誌
-reviewed in 2023-2-13 19:30:05<br/>
-<br/>
-[恵理の看護日誌 [PR]](https://amzn.to/3E4uaMu)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-タイトルだけではなかなか想像しにくいストーリー。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -155,7 +163,6 @@ reviewed in 2023-2-13 19:30:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

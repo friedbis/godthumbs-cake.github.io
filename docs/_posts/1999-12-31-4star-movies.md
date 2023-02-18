@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 蓼科温泉編 #121 #122
+reviewed in 2023-2-18 23:30:04<br/>
+<img src="https://m.media-amazon.com/images/P/B08S7JSJH7.01._SCLZZZZZZZ_SX500_.jpg" alt="あなたと温泉に行ったら… 蓼科温泉編 #121 #122"><br/>
+[あなたと温泉に行ったら… 蓼科温泉編 #121 #122](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+小鳥遊くれあさん<br/>
 ### 恵理の看護日誌
 reviewed in 2023-2-13 19:30:05<br/>
 <br/>
