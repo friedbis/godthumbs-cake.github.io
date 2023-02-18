@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 今際の国のアリス
+reviewed in 2023-2-18 10:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjkzMjc5MTQtZjUxZC00MWJjLTlhY2ItODUwY2U5ZDRlMzJkXkEyXkFqcGdeQXVyMTIxMzEwMjcy._V1_.jpg" alt="今際の国のアリス"><br/>
+[今際の国のアリス](https://www.netflix.com/jp/title/80200575)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 性感クリニック 女医・凛子
 reviewed in 2023-2-17 00:30:06<br/>
 <br/>
