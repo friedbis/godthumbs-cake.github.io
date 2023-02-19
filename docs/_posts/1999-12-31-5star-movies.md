@@ -49,7 +49,7 @@ reviewed in 2023-2-19 13:30:04<br/>
 [あなたと温泉に行ったら… 箱根強羅温泉編 #11 #12](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+奥村優希さん。今のところこのシリーズでNo.1。<br/>
 ### 奴隷
 reviewed in 2023-2-12 22:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTQ2OTkwMDg0NF5BMl5BanBnXkFtZTcwODA0NjMyMg@@._V1_.jpg" alt="奴隷"><br/>

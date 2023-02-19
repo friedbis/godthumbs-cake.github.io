@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 信州別所温泉編 #17 #18
+reviewed in 2023-2-19 14:00:05<br/>
+<br/>
+[あなたと温泉に行ったら… 信州別所温泉編 #17 #18]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+めずらしい(?)お名前の[ばんこくさん](https://harutaya.net/artist/bankok/)。<br/>
 ### あなたと温泉に行ったら… 箱根強羅温泉編 #11 #12
 reviewed in 2023-2-19 13:30:04<br/>
 <br/>
 [あなたと温泉に行ったら… 箱根強羅温泉編 #11 #12](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+奥村優希さん。今のところこのシリーズでNo.1。<br/>
 ### あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10
 reviewed in 2023-2-18 23:30:04<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-16 23:30:05<br/>
 [牝刑事 欲望という名の囮捜査 [PR]](https://amzn.to/3S6cB4z)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 温泉シカバネ芸者
-reviewed in 2023-2-16 08:30:04<br/>
-<br/>
-[温泉シカバネ芸者 [PR]](https://amzn.to/3lAC6yC)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

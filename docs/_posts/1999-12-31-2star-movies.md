@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 信州別所温泉編 #17 #18
+reviewed in 2023-2-19 14:00:05<br/>
+<br/>
+[あなたと温泉に行ったら… 信州別所温泉編 #17 #18]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+めずらしい(?)お名前の[ばんこくさん](https://harutaya.net/artist/bankok/)。<br/>
 ### あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10
 reviewed in 2023-2-18 23:30:04<br/>
 <br/>
