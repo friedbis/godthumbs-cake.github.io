@@ -45,7 +45,7 @@ title: 5つ星の映画・ドラマ
 <br/>
 ### あなたと温泉に行ったら… 湯田中温泉編 #19 #20
 reviewed in 2023-2-19 14:30:05<br/>
-<br/>
+<img src="https://i.daily.jp/gossip/2019/04/24/Images/f_12271822.jpg" alt="あなたと温泉に行ったら… 湯田中温泉編 #19 #20"><br/>
 [あなたと温泉に行ったら… 湯田中温泉編 #19 #20](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
