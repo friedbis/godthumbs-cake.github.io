@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 箱根強羅温泉編 #11 #12
+reviewed in 2023-2-19 13:30:04<br/>
+<br/>
+[あなたと温泉に行ったら… 箱根強羅温泉編 #11 #12](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10
 reviewed in 2023-2-18 23:30:04<br/>
 <br/>
@@ -104,13 +111,6 @@ reviewed in 2023-2-16 08:30:04<br/>
 <br/>
 [温泉シカバネ芸者 [PR]](https://amzn.to/3lAC6yC)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 悲しくなるほど不実な夜空に
-reviewed in 2023-2-14 22:30:04<br/>
-<img src="https://m.media-amazon.com/images/I/81nyb4HbyAL._AC_SL1500_.jpg" alt="悲しくなるほど不実な夜空に"><br/>
-[悲しくなるほど不実な夜空に [PR]](https://amzn.to/3lBzxfv)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
 <br/>
