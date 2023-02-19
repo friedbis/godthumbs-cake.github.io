@@ -43,6 +43,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 馬頭温泉編 #31 #32
+reviewed in 2023-2-19 23:00:05<br/>
+<br/>
+[あなたと温泉に行ったら… 馬頭温泉編 #31 #32](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### あなたと温泉に行ったら… 大田原温泉編 #29 #30
+reviewed in 2023-2-19 23:00:05<br/>
+<img src="https://www.sankei.com/resizer/ift01iCseLIK4nYtA86elhzH1Q4=/0x1200/smart/filters:quality(40)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/LURZTXEHB5MPVDJTYXG4WYQBYU.jpg" alt="あなたと温泉に行ったら… 大田原温泉編 #29 #30"><br/>
+[あなたと温泉に行ったら… 大田原温泉編 #29 #30](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+新藤まなみさん<br/>
 ### あなたと温泉に行ったら… 蓼科温泉編 #121 #122
 reviewed in 2023-2-18 23:30:04<br/>
 <img src="https://m.media-amazon.com/images/P/B08S7JSJH7.01._SCLZZZZZZZ_SX500_.jpg" alt="あなたと温泉に行ったら… 蓼科温泉編 #121 #122"><br/>
