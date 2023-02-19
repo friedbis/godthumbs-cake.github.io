@@ -1487,7 +1487,7 @@ reviewed in 2021-10-23 20:15:03<br/>
 <br/>
 ### あなたと温泉に行ったら… 土湯温泉編 #39 #40
 reviewed in 2021-10-19 08:00:04<br/>
-<br/>
+<img src="https://kininaru-web.jp/wp-content/uploads/interview_midori_07-1024x679.jpg" alt="あなたと温泉に行ったら… 土湯温泉編 #39 #40"><br/>
 [あなたと温泉に行ったら… 土湯温泉編 #39 #40](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
