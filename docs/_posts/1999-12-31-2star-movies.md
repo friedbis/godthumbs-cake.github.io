@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 馬頭温泉編 #31 #32
+reviewed in 2023-2-19 23:00:05<br/>
+<br/>
+[あなたと温泉に行ったら… 馬頭温泉編 #31 #32](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ガンニバル
 reviewed in 2023-2-19 21:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTg1NzVlOWMtM2ViOS00M2YyLTkyMTctMTU1ZmMzOGFjYzQ4XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_.jpg" alt="ガンニバル"><br/>
