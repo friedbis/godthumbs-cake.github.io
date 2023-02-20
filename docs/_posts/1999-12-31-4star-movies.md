@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### セカンドパートナー 夫婦の選択
+reviewed in 2023-2-20 21:30:05<br/>
+<br/>
+[セカンドパートナー 夫婦の選択 [PR]](https://amzn.to/3YWySUI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 大田原温泉編 #29 #30
 reviewed in 2023-2-19 23:00:05<br/>
 <img src="https://www.sankei.com/resizer/ift01iCseLIK4nYtA86elhzH1Q4=/0x1200/smart/filters:quality(40)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/LURZTXEHB5MPVDJTYXG4WYQBYU.jpg" alt="あなたと温泉に行ったら… 大田原温泉編 #29 #30"><br/>

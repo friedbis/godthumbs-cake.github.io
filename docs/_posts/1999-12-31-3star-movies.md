@@ -43,6 +43,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 新・嬢王夜曲２　極上キャバ嬢が誘う愛と快感のワナ
+reviewed in 2023-2-20 21:30:05<br/>
+<br/>
+[新・嬢王夜曲２　極上キャバ嬢が誘う愛と快感のワナ [PR]](https://amzn.to/3kfoI2z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### パラサイト 半地下の家族
+reviewed in 2023-2-20 21:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjI3Y2IyMzEtOWJhMC00MzhhLTg4ZDItOTRlOTEyYTVkMmI4XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_.jpg" alt="パラサイト 半地下の家族"><br/>
+[パラサイト 半地下の家族 [PR]](https://amzn.to/3lNaBSw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+チョ・ヨジョンさん、イ・ソンギュンさん<br/>
 ### 雨に叫べば
 reviewed in 2023-2-20 15:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDljNDA2MzEtZDVlNS00MDc1LTk2ZmQtNzYwZTEzNjRhZTViXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_.jpg" alt="雨に叫べば"><br/>
