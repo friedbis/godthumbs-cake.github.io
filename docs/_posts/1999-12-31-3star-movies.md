@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 雨に叫べば
+reviewed in 2023-2-20 15:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDljNDA2MzEtZDVlNS00MDc1LTk2ZmQtNzYwZTEzNjRhZTViXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_.jpg" alt="雨に叫べば"><br/>
+[雨に叫べば [PR]](https://amzn.to/3Igu6dB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+大山真絵子さん、須賀健太さん、染谷有香さん<br/>
 ### 犬神の悪霊
 reviewed in 2023-2-13 09:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGIzYzNhYjYtYmM0Ny00NGU1LWEyMDMtMTk2OWFhNmQ4YmE0XkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_.jpg" alt="犬神の悪霊"><br/>

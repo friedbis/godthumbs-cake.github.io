@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 流浪の月
+reviewed in 2023-2-20 15:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BN2VmNTQwODUtODc5Zi00OGY2LWJiOTctYjgwMTJmNzU2M2I5XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_.jpg" alt="流浪の月"><br/>
+[流浪の月 [PR]](https://amzn.to/3ZlSC4j)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+広瀬すずさん、松坂桃李さん<br/>
 ### あなたと温泉に行ったら… 馬頭温泉編 #31 #32
 reviewed in 2023-2-19 23:00:05<br/>
 <br/>
