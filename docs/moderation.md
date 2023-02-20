@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 愛欲の日々 エクスタシー
+reviewed in 2023-2-20 22:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDA2YjJkNzQtY2RmMi00MDUxLTk0ZDEtN2RhODY4OGMwYTllXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="愛欲の日々 エクスタシー"><br/>
+[愛欲の日々 エクスタシー [PR]](https://amzn.to/3xzoqXh)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### セカンドパートナー 夫婦の選択
 reviewed in 2023-2-20 21:30:05<br/>
 <br/>
@@ -105,18 +112,10 @@ reviewed in 2023-2-19 14:30:05<br/>
 [あなたと温泉に行ったら… 湯田中温泉編 #19 #20](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-安定の佐野マリアさん<br/>
-### あなたと温泉に行ったら… 信州別所温泉編 #17 #18
-reviewed in 2023-2-19 14:00:05<br/>
-<br/>
-[あなたと温泉に行ったら… 信州別所温泉編 #17 #18](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-めずらしい(?)お名前の[ばんこくさん](https://harutaya.net/artist/bankok/)。
+安定の佐野マリアさん
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

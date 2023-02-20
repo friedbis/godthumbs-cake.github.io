@@ -43,16 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### セカンドパートナー 夫婦の選択
-reviewed in 2023-2-20 21:30:05<br/>
-<br/>
-[セカンドパートナー 夫婦の選択 [PR]](https://amzn.to/3YWySUI)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 新・嬢王夜曲２　極上キャバ嬢が誘う愛と快感のワナ
-reviewed in 2023-2-20 21:30:05<br/>
-<br/>
-[新・嬢王夜曲２　極上キャバ嬢が誘う愛と快感のワナ [PR]](https://amzn.to/3kfoI2z)<br/>
+### 愛欲の日々 エクスタシー
+reviewed in 2023-2-20 22:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDA2YjJkNzQtY2RmMi00MDUxLTk0ZDEtN2RhODY4OGMwYTllXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="愛欲の日々 エクスタシー"><br/>
+[愛欲の日々 エクスタシー [PR]](https://amzn.to/3xzoqXh)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

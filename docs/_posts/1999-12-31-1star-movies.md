@@ -57,10 +57,10 @@ reviewed in 2023-2-16 23:30:05<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### 温泉シカバネ芸者
+### 温泉しかばね芸者
 reviewed in 2023-2-16 08:30:04<br/>
 <br/>
-[温泉シカバネ芸者 [PR]](https://amzn.to/3lAC6yC)<br/>
+[温泉しかばね芸者 [PR]](https://amzn.to/3lAC6yC)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
