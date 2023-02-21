@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 好色元禄マル秘物語
+reviewed in 2023-2-21 11:30:08<br/>
+<br/>
+[好色元禄マル秘物語 [PR]](https://amzn.to/3lQgUEZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+ひし美ゆり子さん。<br/>
 ### 誘う肉体
 reviewed in 2023-2-20 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZWQ5MjU1YzQtNzVlNS00ODhkLWJmYjYtODE0YTg0ODIyY2U3XkEyXkFqcGdeQXVyMTI0MjI0NTc0._V1_.jpg" alt="誘う肉体"><br/>

@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 好色元禄マル秘物語
+reviewed in 2023-2-21 11:30:08<br/>
+<br/>
+[好色元禄マル秘物語 [PR]](https://amzn.to/3lQgUEZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+ひし美ゆり子さん。<br/>
+### 逃げられない美熟女
+reviewed in 2023-2-21 11:30:08<br/>
+<br/>
+[逃げられない美熟女 [PR]](https://amzn.to/3IGJlhH)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+昭和性虐物語 逃れられない主従姦通（R18版）<br/>
 ### 誘う肉体
 reviewed in 2023-2-20 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZWQ5MjU1YzQtNzVlNS00ODhkLWJmYjYtODE0YTg0ODIyY2U3XkEyXkFqcGdeQXVyMTI0MjI0NTc0._V1_.jpg" alt="誘う肉体"><br/>
@@ -98,14 +112,7 @@ reviewed in 2023-2-20 15:30:05<br/>
 [流浪の月 [PR]](https://amzn.to/3ZlSC4j)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-広瀬すずさん、松坂桃李さん<br/>
-### あなたと温泉に行ったら… 馬頭温泉編 #31 #32
-reviewed in 2023-2-19 23:00:05<br/>
-<br/>
-[あなたと温泉に行ったら… 馬頭温泉編 #31 #32](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+広瀬すずさん、松坂桃李さん
 <br/>
 ### 索引
 <br/>
