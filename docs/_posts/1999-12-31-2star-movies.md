@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ノ・ゾ・キ・ア・ナ
+reviewed in 2023-2-23 23:00:05<br/>
+<br/>
+[ノ・ゾ・キ・ア・ナ [PR]](https://amzn.to/3kp1CGS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 流浪の月
 reviewed in 2023-2-20 15:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BN2VmNTQwODUtODc5Zi00OGY2LWJiOTctYjgwMTJmNzU2M2I5XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_.jpg" alt="流浪の月"><br/>
