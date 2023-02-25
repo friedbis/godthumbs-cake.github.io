@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 喜劇 愛妻物語
+reviewed in 2023-2-25 10:00:07<br/>
+<br/>
+[喜劇 愛妻物語 [PR]](https://amzn.asia/d/9pjAKEK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+水川あさみさん、濱田岳さん。電マのタイミングっていつがいいのさ。<br/>
 ### 人妻花園劇場「ノーブラ妻/義父と/純愛譜」
 reviewed in 2023-2-24 10:00:08<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-20 23:00:05<br/>
 [ラブ・テンプテーション　愛とセックスは別物 [PR]](https://amzn.to/3xASMc1)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 愛欲の日々 エクスタシー
-reviewed in 2023-2-20 22:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDA2YjJkNzQtY2RmMi00MDUxLTk0ZDEtN2RhODY4OGMwYTllXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="愛欲の日々 エクスタシー"><br/>
-[愛欲の日々 エクスタシー [PR]](https://amzn.to/3xzoqXh)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

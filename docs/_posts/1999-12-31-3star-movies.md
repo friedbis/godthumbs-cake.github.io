@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 喜劇 愛妻物語
+reviewed in 2023-2-25 10:00:07<br/>
+<br/>
+[喜劇 愛妻物語 [PR]](https://amzn.asia/d/9pjAKEK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+水川あさみさん、濱田岳さん。電マのタイミングっていつがいいのさ。<br/>
 ### 「ダメ…」禁断欲情秘話～女子大生 他～
 reviewed in 2023-2-22 23:00:05<br/>
 <br/>
