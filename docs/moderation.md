@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### キュア〜禁断の隔離病棟〜
+reviewed in 2023-2-25 17:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjM5MjNlMWItOTZlZC00ZmJjLTgzMjQtMmEzODdmNzA1YWNhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" alt="キュア〜禁断の隔離病棟〜"><br/>
+[キュア〜禁断の隔離病棟〜 [PR]](https://amzn.to/3Z2ftC7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 喜劇 愛妻物語
 reviewed in 2023-2-25 10:00:07<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2023-2-20 23:00:05<br/>
 [誘う肉体 [PR]](https://amzn.to/3EjYd2E)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### ラブ・テンプテーション　愛とセックスは別物
-reviewed in 2023-2-20 23:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjE1NTY0MzMyNV5BMl5BanBnXkFtZTgwMjY3MjQ1NzE@._V1_.jpg" alt="ラブ・テンプテーション　愛とセックスは別物"><br/>
-[ラブ・テンプテーション　愛とセックスは別物 [PR]](https://amzn.to/3xASMc1)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2023-2-20 23:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
