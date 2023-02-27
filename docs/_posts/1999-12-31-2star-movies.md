@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ブレードランナー
+reviewed in 2023-2-27 23:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTE0ODAzMzkzOV5BMl5BanBnXkFtZTYwNjgzMDM4._V1_.jpg" alt="ブレードランナー"><br/>
+[ブレードランナー [PR]](https://amzn.to/3kwCwpv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ジョアンナ・キャシディさん。<br/>
 ### 殺人拳２
 reviewed in 2023-2-27 22:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODBmOWJkNjItZjdkNi00NTVjLTg2ZGMtMDE3MzcwMTU1OWM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="殺人拳２"><br/>
