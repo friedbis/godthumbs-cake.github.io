@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 令和エロス噺～陶酔～
+reviewed in 2023-2-27 21:30:04<br/>
+<br/>
+[令和エロス噺～陶酔～](https://www.necoweb.com/neco/program/detail.php?id=5148)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+陰獣夫人 ～月が出る夜は疼きます～（R18版）、淫らに狂うもう一人のワタシ（R18版）、昭和を生き抜いた情艶の女（R18版）<br/>
+### けんか空手 極真拳
+reviewed in 2023-2-27 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGYyM2UyMTctYTFmNC00NTkwLTk5N2MtM2IzNzI5NzVmM2I1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="けんか空手 極真拳"><br/>
+[けんか空手 極真拳 [PR]](https://amzn.to/3IXHiG7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+多岐川裕美さん<br/>
 ### キュア〜禁断の隔離病棟〜
 reviewed in 2023-2-25 17:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjM5MjNlMWItOTZlZC00ZmJjLTgzMjQtMmEzODdmNzA1YWNhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" alt="キュア〜禁断の隔離病棟〜"><br/>
@@ -91,31 +105,11 @@ reviewed in 2023-2-22 23:00:05<br/>
 [うわこい [PR]](https://amzn.to/3Kwno6a)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 好色元禄マル秘物語
-reviewed in 2023-2-21 11:30:08<br/>
-<br/>
-[好色元禄マル秘物語 [PR]](https://amzn.to/3lQgUEZ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-ひし美ゆり子さん。<br/>
-### 逃げられない美熟女
-reviewed in 2023-2-21 11:30:08<br/>
-<br/>
-[逃げられない美熟女 [PR]](https://amzn.to/3IGJlhH)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-昭和性虐物語 逃れられない主従姦通（R18版）<br/>
-### 誘う肉体
-reviewed in 2023-2-20 23:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZWQ5MjU1YzQtNzVlNS00ODhkLWJmYjYtODE0YTg0ODIyY2U3XkEyXkFqcGdeQXVyMTI0MjI0NTc0._V1_.jpg" alt="誘う肉体"><br/>
-[誘う肉体 [PR]](https://amzn.to/3EjYd2E)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,6 +156,7 @@ reviewed in 2023-2-20 23:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

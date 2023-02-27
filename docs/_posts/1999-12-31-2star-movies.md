@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 令和エロス噺～陶酔～
+reviewed in 2023-2-27 21:30:04<br/>
+<br/>
+[令和エロス噺～陶酔～](https://www.necoweb.com/neco/program/detail.php?id=5148)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+陰獣夫人 ～月が出る夜は疼きます～（R18版）、淫らに狂うもう一人のワタシ（R18版）、昭和を生き抜いた情艶の女（R18版）<br/>
+### けんか空手 極真拳
+reviewed in 2023-2-27 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGYyM2UyMTctYTFmNC00NTkwLTk5N2MtM2IzNzI5NzVmM2I1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="けんか空手 極真拳"><br/>
+[けんか空手 極真拳 [PR]](https://amzn.to/3IXHiG7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+多岐川裕美さん<br/>
 ### キュア〜禁断の隔離病棟〜
 reviewed in 2023-2-25 17:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjM5MjNlMWItOTZlZC00ZmJjLTgzMjQtMmEzODdmNzA1YWNhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" alt="キュア〜禁断の隔離病棟〜"><br/>
