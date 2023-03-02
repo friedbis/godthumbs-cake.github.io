@@ -45,7 +45,7 @@ title: 1つ星の映画・ドラマ
 <br/>
 ### アルカトラズからの脱出
 reviewed in 2023-3-3 07:00:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjY0OTBjOWYtZmJhZS00N2I5LTk4MTgtOTQ1ZmI0NTBhODRiXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_.jpg" alt="アルカトラズからの脱出"><br/>
 [アルカトラズからの脱出 [PR]](https://amzn.to/3kCCUD8)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
