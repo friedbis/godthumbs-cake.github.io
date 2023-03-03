@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女の中の二つの顔
+reviewed in 2023-3-3 14:30:07<br/>
+<br/>
+[女の中の二つの顔](http://www.tvdrama-db.com/drama_info/p/id-37731)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+杉本彩さん<br/>
 ### ブレードランナー
 reviewed in 2023-2-27 23:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTE0ODAzMzkzOV5BMl5BanBnXkFtZTYwNjgzMDM4._V1_.jpg" alt="ブレードランナー"><br/>
