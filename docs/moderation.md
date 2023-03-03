@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ビューティフル・ボーイ
+reviewed in 2023-3-3 21:30:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTkyM2QzZWQtMjBlOC00NjdlLWFlOTQtYTlmN2JmNGQ4MzRmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ビューティフル・ボーイ"><br/>
+[ビューティフル・ボーイ [PR]](https://amzn.to/3yakcFQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女の中の二つの顔
 reviewed in 2023-3-3 14:30:07<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-2-25 17:00:08<br/>
 [キュア〜禁断の隔離病棟〜 [PR]](https://amzn.to/3Z2ftC7)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 喜劇 愛妻物語
-reviewed in 2023-2-25 10:00:07<br/>
-<br/>
-[喜劇 愛妻物語 [PR]](https://amzn.asia/d/9pjAKEK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-水川あさみさん、濱田岳さん。電マのタイミングっていつがいいのさ。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-2-25 10:00:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

@@ -1464,13 +1464,6 @@ reviewed in 2021-11-14 02:40:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
-### あなたと温泉に行ったら… 下賀茂温泉編 #87 #88
-reviewed in 2021-11-13 22:05:03<br/>
-<br/>
-[あなたと温泉に行ったら… 下賀茂温泉編 #87 #88](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 冴え冴えてなほ滑稽な月を観る
 reviewed in 2021-11-13 10:40:04<br/>
 <img src="https://m.media-amazon.com/images/I/A1pWgNfdMKL._AC_SL1500_.jpg" alt="冴え冴えてなほ滑稽な月を観る"><br/>
