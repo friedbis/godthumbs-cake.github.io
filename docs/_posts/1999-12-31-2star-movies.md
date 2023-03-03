@@ -56,7 +56,7 @@ reviewed in 2023-3-3 14:30:07<br/>
 [女の中の二つの顔](http://www.tvdrama-db.com/drama_info/p/id-37731)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-杉本彩さん<br/>
+杉本彩さん。それと、夫役本田博太郎さんが妻役余貴美子さんからある事に対して強く問い詰められるシーンで、辛く当たる余さんをきつく抱きしめる本田さん。どさくさに紛れてしっかり胸を触っているのがよい。<br/>
 ### ブレードランナー
 reviewed in 2023-2-27 23:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTE0ODAzMzkzOV5BMl5BanBnXkFtZTYwNjgzMDM4._V1_.jpg" alt="ブレードランナー"><br/>
