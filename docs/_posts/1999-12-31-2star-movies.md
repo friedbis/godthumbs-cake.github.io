@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 沈黙の鉄拳
+reviewed in 2023-3-6 19:30:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWEwOWEwYTItYzM1ZC00ZmFhLTg5ZmUtNzk2YjU4OTcyOWQxXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg" alt="沈黙の鉄拳"><br/>
+[沈黙の鉄拳 [PR]](https://amzn.to/3ZGncpl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ビューティフル・ボーイ
 reviewed in 2023-3-3 21:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTkyM2QzZWQtMjBlOC00NjdlLWFlOTQtYTlmN2JmNGQ4MzRmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ビューティフル・ボーイ"><br/>
