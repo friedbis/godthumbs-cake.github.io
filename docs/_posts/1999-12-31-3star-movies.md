@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### キラー・インサイド・ミー
+reviewed in 2023-3-8 22:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWJjMWViMWEtMmQzYy00ZjFmLTk1NjEtZTA4ZGM0MDY1MDc4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="キラー・インサイド・ミー"><br/>
+[キラー・インサイド・ミー [PR]](https://amzn.to/3F5FPuS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 喜劇 愛妻物語
 reviewed in 2023-2-25 10:00:07<br/>
 <br/>
