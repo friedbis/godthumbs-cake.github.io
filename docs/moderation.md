@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 逆襲! 殺人拳
+reviewed in 2023-3-10 11:30:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYmQzZTIxOWEtY2VlNi00NjY4LWE4NmQtYTNjNTEyOTkxMGM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="逆襲! 殺人拳"><br/>
+[逆襲! 殺人拳 [PR]](https://amzn.to/3mzMuad)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+池玲子さん<br/>
 ### キラー・インサイド・ミー
 reviewed in 2023-3-8 22:00:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWJjMWViMWEtMmQzYy00ZjFmLTk1NjEtZTA4ZGM0MDY1MDc4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="キラー・インサイド・ミー"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-2-28 23:30:04<br/>
 [悶絶夫人 [PR]](https://amzn.to/3SxHMpz)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-人妻性奴隷（R18版）<br/>
-### ブレードランナー
-reviewed in 2023-2-27 23:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOTE0ODAzMzkzOV5BMl5BanBnXkFtZTYwNjgzMDM4._V1_.jpg" alt="ブレードランナー"><br/>
-[ブレードランナー [PR]](https://amzn.to/3kwCwpv)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ジョアンナ・キャシディさん。ダリル・ハンナさん。
+人妻性奴隷（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
