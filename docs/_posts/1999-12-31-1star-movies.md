@@ -49,7 +49,7 @@ reviewed in 2023-3-11 09:30:04<br/>
 [告発のとき [PR]](https://amzn.to/3JtPhLi)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+冒頭にストリップクラブ。それとは関係なくシャーリーズ・セロンさんがお綺麗。<br/>
 ### アルカトラズからの脱出
 reviewed in 2023-3-3 07:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjY0OTBjOWYtZmJhZS00N2I5LTk4MTgtOTQ1ZmI0NTBhODRiXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_.jpg" alt="アルカトラズからの脱出"><br/>

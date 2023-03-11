@@ -49,14 +49,14 @@ reviewed in 2023-3-11 09:30:04<br/>
 [告発のとき [PR]](https://amzn.to/3JtPhLi)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+冒頭にストリップクラブ。それとは関係なくシャーリーズ・セロンさんがお綺麗。<br/>
 ### 親愛なる君へ
 reviewed in 2023-3-11 09:30:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjA1Njk0NjQwMF5BMl5BanBnXkFtZTcwNTcyOTMxMw@@._V1_.jpg" alt="親愛なる君へ"><br/>
 [親愛なる君へ [PR]](https://amzn.to/3T8zHHZ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+アマンダ・セイフライドさん、チャニング・テイタムさん<br/>
 ### 逆襲! 殺人拳
 reviewed in 2023-3-10 11:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmQzZTIxOWEtY2VlNi00NjY4LWE4NmQtYTNjNTEyOTkxMGM3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="逆襲! 殺人拳"><br/>
@@ -162,7 +162,6 @@ reviewed in 2023-3-3 07:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
