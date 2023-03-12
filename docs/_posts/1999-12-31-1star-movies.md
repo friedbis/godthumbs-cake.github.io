@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 恋する惑星
+reviewed in 2023-3-13 02:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjAxMDA1ODItNjUyYS00ZDU0LTg1ZTItNTYyMjU5ZjMxMTUzXkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_.jpg" alt="恋する惑星"><br/>
+[恋する惑星 [PR]](https://amzn.to/3yzkhDc)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+20代のころ以来で懐かしかった。<br/>
 ### 告発のとき
 reviewed in 2023-3-11 09:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzA4ODA5ODM4Ml5BMl5BanBnXkFtZTYwMjM0Mjg2._V1_.jpg" alt="告発のとき"><br/>
