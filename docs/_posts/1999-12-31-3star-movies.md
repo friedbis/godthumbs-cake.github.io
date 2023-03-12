@@ -45,7 +45,7 @@ title: 3つ星の映画・ドラマ
 <br/>
 ### 結婚相談
 reviewed in 2023-3-12 10:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/81rVjYBt5sL._AC_SL1500_.jpg" alt="結婚相談"><br/>
 [結婚相談 [PR]](https://amzn.to/429DeKf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

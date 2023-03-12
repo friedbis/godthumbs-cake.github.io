@@ -45,7 +45,7 @@ title: 5つ星の映画・ドラマ
 <br/>
 ### 好色元禄マル秘物語
 reviewed in 2023-2-21 11:30:08<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/91oTYjlnbdL._AC_SL1500_.jpg" alt="好色元禄マル秘物語"><br/>
 [好色元禄マル秘物語 [PR]](https://amzn.to/3lQgUEZ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
