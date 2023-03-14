@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エントラップメント
+reviewed in 2023-3-14 14:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzdhMWUwYTEtZGQ0My00ZWJmLWI5YmYtZjc4YWU0MTExZjY4XkEyXkFqcGdeQXVyMTAxMTU2ODA2._V1_.jpg" alt="エントラップメント"><br/>
+[エントラップメント [PR]](https://amzn.to/3le6Bug)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+キャサリン・ゼタ=ジョーンズさん<br/>
 ### 恋する惑星
 reviewed in 2023-3-13 02:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjAxMDA1ODItNjUyYS00ZDU0LTg1ZTItNTYyMjU5ZjMxMTUzXkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_.jpg" alt="恋する惑星"><br/>
