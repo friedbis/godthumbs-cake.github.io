@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 悪魔島のプリンス 三つ目がとおる
+reviewed in 2023-3-14 23:30:06<br/>
+<br/>
+[悪魔島のプリンス 三つ目がとおる [PR]](https://amzn.to/3LqXQrw)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+24時間テレビのやつね。原作からの改変がすごい作品。和登さんのパンチラや、ネオ○○のパンドラの断末魔。<br/>
+### 若妻遊戯
+reviewed in 2023-3-14 23:30:06<br/>
+<br/>
+[若妻遊戯 [PR]](https://amzn.to/3YNT8Y7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+若妻遊戯 ~Iカップ妻 背徳への誘い~（別タイトル）<br/>
 ### ブエノスアイレス
 reviewed in 2023-3-14 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDg0ZjZhYWYtMTJhMC00YTUwLWE2OWItNjQ5ODk0MDU0MzQwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ブエノスアイレス"><br/>
@@ -98,24 +112,11 @@ reviewed in 2023-3-12 10:30:05<br/>
 [結婚相談 [PR]](https://amzn.to/429DeKf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-芦川いづみさん。<br/>
-### 告発のとき
-reviewed in 2023-3-11 09:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNzA4ODA5ODM4Ml5BMl5BanBnXkFtZTYwMjM0Mjg2._V1_.jpg" alt="告発のとき"><br/>
-[告発のとき [PR]](https://amzn.to/3JtPhLi)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-冒頭にストリップクラブ。それとは関係なくシャーリーズ・セロンさんがお綺麗。<br/>
-### 親愛なる君へ
-reviewed in 2023-3-11 09:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjA1Njk0NjQwMF5BMl5BanBnXkFtZTcwNTcyOTMxMw@@._V1_.jpg" alt="親愛なる君へ"><br/>
-[親愛なる君へ [PR]](https://amzn.to/3T8zHHZ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-アマンダ・セイフライドさん、チャニング・テイタムさん
+芦川いづみさん。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,7 +163,6 @@ reviewed in 2023-3-11 09:30:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

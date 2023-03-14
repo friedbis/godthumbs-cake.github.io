@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 悪魔島のプリンス 三つ目がとおる
+reviewed in 2023-3-14 23:30:06<br/>
+<br/>
+[悪魔島のプリンス 三つ目がとおる [PR]](https://amzn.to/3LqXQrw)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+24時間テレビのやつね。原作からの改変がすごい作品。和登さんのパンチラや、ネオ○○のパンドラの断末魔。<br/>
 ### エントラップメント
 reviewed in 2023-3-14 14:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzdhMWUwYTEtZGQ0My00ZWJmLWI5YmYtZjc4YWU0MTExZjY4XkEyXkFqcGdeQXVyMTAxMTU2ODA2._V1_.jpg" alt="エントラップメント"><br/>
