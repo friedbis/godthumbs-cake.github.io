@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### その壁を砕け
+reviewed in 2023-3-15 13:00:07<br/>
+<br/>
+[その壁を砕け [PR]](https://amzn.to/3lmnset)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+芦川いづみさんのことが素敵でついつい見返してしまう。<br/>
 ### 悪魔島のプリンス 三つ目がとおる
 reviewed in 2023-3-14 23:30:06<br/>
 <br/>
