@@ -43,23 +43,30 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 湯野上温泉編 #89 #90
+reviewed in 2023-3-16 01:00:04<br/>
+<img src="https://pbs.twimg.com/media/ETUVq9xUcAIkSOC?format=jpg&name=large" alt="あなたと温泉に行ったら… 湯野上温泉編 #89 #90"><br/>
+[あなたと温泉に行ったら… 湯野上温泉編 #89 #90](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+奥村優希さん。ニプレスかな。別のグラドルさんだと、際どいところはボカシが入っている。人によるのかな。<br/>
 ### マイ・ボディガード
 reviewed in 2023-3-15 23:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDE0NjY2YjgtMGI0NC00MDBjLWJlYjctMzcxMjE1ZmEwOTA1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="マイ・ボディガード"><br/>
 [マイ・ボディガード [PR]](https://www.amazon.co.jp/dp/B0008EMLB4/ref=cm_sw_r_as_gl_apa_gl_i_F2EAWNNCXECRHEAKS3FQ?linkCode=ml1&tag=httyf19net-22)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ラダ・ミッチェルさん。<br/>
+ラダ・ミッチェルさん。８０年代映画のリメイク。<br/>
 ### その壁を砕け
 reviewed in 2023-3-15 13:00:07<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BY2FkMTlhNzEtNmQ0Yi00ZWY2LWE3ZjYtY2NlODY5ODM5MjkyXkEyXkFqcGdeQXVyMTMyOTcwODIw._V1_.jpg" alt="その壁を砕け"><br/>
 [その壁を砕け [PR]](https://amzn.to/3lmnset)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 芦川いづみさんのことが素敵でついつい見返してしまう。<br/>
 ### メカニック
 reviewed in 2023-3-15 08:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjIzNTE3NTI5OF5BMl5BanBnXkFtZTcwOTQwMTUxNA@@._V1_FMjpg_UX2048_.jpg" alt="メカニック"><br/>
 [メカニック [PR]](https://amzn.to/3Tg1O8g)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-3-13 18:00:07<br/>
 [バンク・ジョブ [PR]](https://amzn.to/3Jc9iVp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 恋する惑星
-reviewed in 2023-3-13 02:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNjAxMDA1ODItNjUyYS00ZDU0LTg1ZTItNTYyMjU5ZjMxMTUzXkEyXkFqcGdeQXVyNTgyODI5OTA@._V1_.jpg" alt="恋する惑星"><br/>
-[恋する惑星 [PR]](https://amzn.to/3yzkhDc)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-20代のころ以来で懐かしかった。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

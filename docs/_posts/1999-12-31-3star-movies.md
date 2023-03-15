@@ -43,9 +43,16 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 湯野上温泉編 #89 #90
+reviewed in 2023-3-16 01:00:04<br/>
+<img src="https://pbs.twimg.com/media/ETUVq9xUcAIkSOC?format=jpg&name=large" alt="あなたと温泉に行ったら… 湯野上温泉編 #89 #90"><br/>
+[あなたと温泉に行ったら… 湯野上温泉編 #89 #90](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+奥村優希さん。ニプレスかな。別のグラドルさんだと、際どいところはボカシが入っている。人によるのかな。<br/>
 ### メカニック
 reviewed in 2023-3-15 08:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjIzNTE3NTI5OF5BMl5BanBnXkFtZTcwOTQwMTUxNA@@._V1_FMjpg_UX2048_.jpg" alt="メカニック"><br/>
 [メカニック [PR]](https://amzn.to/3Tg1O8g)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
