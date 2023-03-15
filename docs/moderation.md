@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 河口湖温泉編 #97 #98
+reviewed in 2023-3-16 02:00:07<br/>
+<br/>
+[あなたと温泉に行ったら… 河口湖温泉編 #97 #98](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+田中みかさん。<br/>
 ### あなたと温泉に行ったら… 小鹿野温泉編 #95 #96
 reviewed in 2023-3-16 01:30:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-3-14 23:00:05<br/>
 [天使の涙 [PR]](https://amzn.to/3FlCOa1)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### エントラップメント
-reviewed in 2023-3-14 14:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzdhMWUwYTEtZGQ0My00ZWJmLWI5YmYtZjc4YWU0MTExZjY4XkEyXkFqcGdeQXVyMTAxMTU2ODA2._V1_.jpg" alt="エントラップメント"><br/>
-[エントラップメント [PR]](https://amzn.to/3le6Bug)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-キャサリン・ゼタ=ジョーンズさん
+
 <br/>
 ### 索引
 <br/>
