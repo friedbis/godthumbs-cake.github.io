@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 小鹿野温泉編 #95 #96
+reviewed in 2023-3-16 01:30:05<br/>
+<br/>
+[あなたと温泉に行ったら… 小鹿野温泉編 #95 #96](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+潮みかさん。<br/>
 ### あなたと温泉に行ったら… 湯野上温泉編 #89 #90
 reviewed in 2023-3-16 01:00:04<br/>
 <img src="https://pbs.twimg.com/media/ETUVq9xUcAIkSOC?format=jpg&name=large" alt="あなたと温泉に行ったら… 湯野上温泉編 #89 #90"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-3-14 14:30:05<br/>
 [エントラップメント [PR]](https://amzn.to/3le6Bug)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-キャサリン・ゼタ=ジョーンズさん<br/>
-### バンク・ジョブ
-reviewed in 2023-3-13 18:00:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjM4ZjYyYzgtZTcwZS00ODBkLWJmMmUtOTY4ZGViYjgzY2NhXkEyXkFqcGdeQXVyMTE3ODQ1MDU1._V1_.jpg" alt="バンク・ジョブ"><br/>
-[バンク・ジョブ [PR]](https://amzn.to/3Jc9iVp)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+キャサリン・ゼタ=ジョーンズさん
 <br/>
 ### 索引
 <br/>
