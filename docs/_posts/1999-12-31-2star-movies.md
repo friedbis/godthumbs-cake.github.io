@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 蒲郡温泉編 #103 #104
+reviewed in 2023-3-16 21:00:05<br/>
+<br/>
+[あなたと温泉に行ったら… 蒲郡温泉編 #103 #104](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+滝沢いおりさん。<br/>
 ### 雨月荘殺人事件
 reviewed in 2023-3-13 00:30:05<br/>
 <br/>

@@ -43,6 +43,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 河口湖温泉編 #97 #98
+reviewed in 2023-3-16 02:00:07<br/>
+<br/>
+[あなたと温泉に行ったら… 河口湖温泉編 #97 #98](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+田中みかさん。<br/>
+### あなたと温泉に行ったら… 湯野上温泉編 #89 #90
+reviewed in 2023-3-16 01:00:04<br/>
+<img src="https://pbs.twimg.com/media/ETUVq9xUcAIkSOC?format=jpg&name=large" alt="あなたと温泉に行ったら… 湯野上温泉編 #89 #90"><br/>
+[あなたと温泉に行ったら… 湯野上温泉編 #89 #90](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+奥村優希さん。ニプレスかな。別のグラドルさんだと、際どいところはボカシが入っている。人によるのかな。<br/>
 ### 若妻遊戯
 reviewed in 2023-3-14 23:30:06<br/>
 <br/>
