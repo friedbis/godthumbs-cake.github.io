@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 穴原温泉編 #107 #108
+reviewed in 2023-3-17 22:00:08<br/>
+<img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 穴原温泉編 #107 #108"><br/>
+[あなたと温泉に行ったら… 穴原温泉編 #107 #108](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+小田飛鳥さん。 <br/>
 ### あなたと温泉に行ったら… 磯部温泉編 #105 #106
 reviewed in 2023-3-17 21:30:05<br/>
 <img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 磯部温泉編 #105 #106"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-3-15 13:00:07<br/>
 [その壁を砕け [PR]](https://amzn.to/3lmnset)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-芦川いづみさんのことが素敵でついつい見返してしまう。<br/>
-### メカニック
-reviewed in 2023-3-15 08:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjIzNTE3NTI5OF5BMl5BanBnXkFtZTcwOTQwMTUxNA@@._V1_FMjpg_UX2048_.jpg" alt="メカニック"><br/>
-[メカニック [PR]](https://amzn.to/3Tg1O8g)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ミニ・アンデンさん
+芦川いづみさんのことが素敵でついつい見返してしまう。
 <br/>
 ### 索引
 <br/>

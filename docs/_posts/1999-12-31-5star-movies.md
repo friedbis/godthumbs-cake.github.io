@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 穴原温泉編 #107 #108
+reviewed in 2023-3-17 22:00:08<br/>
+<img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 穴原温泉編 #107 #108"><br/>
+[あなたと温泉に行ったら… 穴原温泉編 #107 #108](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+小田飛鳥さん。 <br/>
 ### あなたと温泉に行ったら… 磯部温泉編 #105 #106
 reviewed in 2023-3-17 21:30:05<br/>
 <img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 磯部温泉編 #105 #106"><br/>
