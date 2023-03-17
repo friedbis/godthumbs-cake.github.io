@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 磯部温泉編 #105 #106
+reviewed in 2023-3-17 21:30:05<br/>
+<img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 磯部温泉編 #105 #106"><br/>
+[あなたと温泉に行ったら… 磯部温泉編 #105 #106](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+小田飛鳥さん。 <br/>
 ### 好色元禄マル秘物語
 reviewed in 2023-2-21 11:30:08<br/>
 <img src="https://m.media-amazon.com/images/I/91oTYjlnbdL._AC_SL1500_.jpg" alt="好色元禄マル秘物語"><br/>

@@ -45,7 +45,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### her／世界でひとつの彼女
 reviewed in 2023-3-17 19:00:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTYxMzIwNTU3M15BMl5BanBnXkFtZTgwNjkwNjM3MDE@._V1_.jpg" alt="her／世界でひとつの彼女"><br/>
 [her／世界でひとつの彼女 [PR]](https://amzn.asia/d/hk5mZUP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

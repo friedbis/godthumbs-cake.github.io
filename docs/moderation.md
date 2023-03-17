@@ -43,9 +43,16 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 磯部温泉編 #105 #106
+reviewed in 2023-3-17 21:30:05<br/>
+<img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 磯部温泉編 #105 #106"><br/>
+[あなたと温泉に行ったら… 磯部温泉編 #105 #106](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+小田飛鳥さん。 <br/>
 ### her／世界でひとつの彼女
 reviewed in 2023-3-17 19:00:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTYxMzIwNTU3M15BMl5BanBnXkFtZTgwNjkwNjM3MDE@._V1_.jpg" alt="her／世界でひとつの彼女"><br/>
 [her／世界でひとつの彼女 [PR]](https://amzn.asia/d/hk5mZUP)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-3-15 08:30:05<br/>
 [メカニック [PR]](https://amzn.to/3Tg1O8g)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ミニ・アンデンさん<br/>
-### 悪魔島のプリンス 三つ目がとおる
-reviewed in 2023-3-14 23:30:06<br/>
-<br/>
-[悪魔島のプリンス 三つ目がとおる [PR]](https://amzn.to/3LqXQrw)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-24時間テレビのやつね。原作からの改変がすごい作品。和登さんのパンチラや、ネオ○○のパンドラの断末魔。
+ミニ・アンデンさん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
