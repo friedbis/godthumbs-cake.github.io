@@ -445,7 +445,7 @@ reviewed in 2022-11-8 11:45:04<br/>
 ### セミマゲドン
 reviewed in 2022-9-1 15:45:04<br/>
 <br/>
-[セミマゲドン]()<br/>
+[セミマゲドン [PR]](https://amzn.to/3JOY5LT)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 最高に下らないけど、楽しめる。<br/>

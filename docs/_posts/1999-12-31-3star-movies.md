@@ -592,7 +592,7 @@ reviewed in 2022-8-28 06:10:04<br/>
 ### 温泉おさな芸者
 reviewed in 2022-8-27 17:50:05<br/>
 <br/>
-[温泉おさな芸者]()<br/>
+[温泉おさな芸者 [PR]](https://amzn.to/3JOY5LT)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>

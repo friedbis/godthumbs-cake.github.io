@@ -774,14 +774,14 @@ reviewed in 2022-10-30 06:25:04<br/>
 ### 戦慓女子 霊にもてる女編
 reviewed in 2022-10-27 08:00:05<br/>
 <br/>
-[戦慓女子 霊にもてる女編]()<br/>
+[戦慓女子 霊にもてる女編](http://www.tvdrama-db.com/drama_info/p/id-64699)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 戦慓女子 シャワー女編
 reviewed in 2022-10-27 08:00:05<br/>
 <br/>
-[戦慓女子 シャワー女編]()<br/>
+[戦慓女子 シャワー女編](http://www.tvdrama-db.com/drama_info/p/id-64163)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -795,7 +795,7 @@ reviewed in 2022-10-22 09:35:03<br/>
 ### 恥辱と快楽
 reviewed in 2022-10-22 09:35:03<br/>
 <br/>
-[恥辱と快楽]()<br/>
+[恥辱と快楽 [PR]](https://amzn.to/40dDOVG)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 人妻性奴隷 夫のいる女の狂わせ方（R18版）<br/>
@@ -837,7 +837,7 @@ reviewed in 2022-9-23 11:50:05<br/>
 ### 人妻熟女(秘)劇場 貴方のいない昼下がりに…
 reviewed in 2022-9-13 13:40:08<br/>
 <br/>
-[人妻熟女(秘)劇場 貴方のいない昼下がりに…]()<br/>
+[人妻熟女(秘)劇場 貴方のいない昼下がりに… [PR]](https://amzn.to/3Fy0ecu)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
  <br/>
@@ -893,14 +893,14 @@ reviewed in 2022-8-14 21:55:04<br/>
 ### 狙われる若妻
 reviewed in 2022-8-14 21:55:04<br/>
 <br/>
-[狙われる若妻]()<br/>
+[狙われる若妻 [PR]](https://amzn.to/3yL8mT5)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 狙われた若妻（R18版）<br/>
 ### 令和エロス噺～上目遣いの女たち～
 reviewed in 2022-8-14 21:55:04<br/>
 <br/>
-[令和エロス噺～上目遣いの女たち～]()<br/>
+[令和エロス噺～上目遣いの女たち～ [PR]](https://www.amazon.co.jp/dp/B09KG224GY)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 新任女教師アナル調教日誌 肛虐の悦楽に溺れて…（R18版） 奴隷二輪車 教え子の罠 快楽に堕ちた人妻女教師（R18版） 息子の為に抱かれる悩殺ボディー（R18版）<br/>
@@ -977,21 +977,21 @@ reviewed in 2022-7-31 16:00:05<br/>
 ### 雀鬼くずれ1
 reviewed in 2022-7-21 19:00:05<br/>
 <br/>
-[雀鬼くずれ1]()<br/>
+[雀鬼くずれ1 [PR]](https://amzn.to/3yLbQou)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 国分佐智子さん<br/>
 ### 女の警察 乱れ蝶
 reviewed in 2022-7-13 05:55:04<br/>
 <br/>
-[女の警察 乱れ蝶]()<br/>
+[女の警察 乱れ蝶](https://www.nikkatsu.com/movie/21218.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 女の警察　国際線待合室
 reviewed in 2022-7-13 05:55:04<br/>
 <br/>
-[女の警察　国際線待合室]()<br/>
+[女の警察　国際線待合室](https://www.nikkatsu.com/movie/21201.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -1075,7 +1075,7 @@ reviewed in 2022-5-27 19:40:03<br/>
 ### 消えた男
 reviewed in 2022-5-26 18:50:03<br/>
 <br/>
-[消えた男]()<br/>
+[消えた男](http://www.tvdrama-db.com/drama_info/p/id-18118)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 秋吉久美子さん<br/>
@@ -1187,7 +1187,7 @@ reviewed in 2022-4-5 09:00:04<br/>
 ### 午後の奥様
 reviewed in 2022-4-5 02:05:03<br/>
 <br/>
-[午後の奥様]()<br/>
+[午後の奥様 [PR]](https://amzn.to/3To1moH)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 午後の奥様 性感オイルエステ（R18版）に前半別作品をプラスした？<br/>
