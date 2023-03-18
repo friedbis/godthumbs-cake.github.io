@@ -53,7 +53,7 @@ reviewed in 2023-1-9 18:00:07<br/>
 ### チェイサー
 reviewed in 2022-12-22 08:30:04<br/>
 <br/>
-[チェイサー]()<br/>
+[チェイサー [PR]](https://amzn.to/42kQ7Bn)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 これ系は問答無用でこの評価。<br/>
