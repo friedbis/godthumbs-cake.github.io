@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 美少女剣士 月に向かっておシゴキよ!
+reviewed in 2023-3-18 21:30:05<br/>
+<br/>
+[美少女剣士 月に向かっておシゴキよ! [PR]](https://amzn.to/3ZZblDf)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### はやぶさ奉行
 reviewed in 2023-3-17 13:00:07<br/>
 <br/>

@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ファーゴ
+### 美少女剣士 月に向かっておシゴキよ!
 reviewed in 2023-3-18 21:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYjRhNWY5MjUtMjNkZC00MjYwLWIwYTItYmVjZjhiZTQ2NDZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ファーゴ"><br/>
-[ファーゴ [PR]](https://amzn.to/3lpPq9k)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-モーテルにて。
+[美少女剣士 月に向かっておシゴキよ! [PR]](https://amzn.to/3ZZblDf)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>

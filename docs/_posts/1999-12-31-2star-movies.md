@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ファーゴ
+reviewed in 2023-3-18 21:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjRhNWY5MjUtMjNkZC00MjYwLWIwYTItYmVjZjhiZTQ2NDZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ファーゴ"><br/>
+[ファーゴ [PR]](https://amzn.to/3lpPq9k)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+モーテルにて。<br/>
 ### あなたと温泉に行ったら… 蒲郡温泉編 #103 #104
 reviewed in 2023-3-16 21:00:05<br/>
 <br/>
