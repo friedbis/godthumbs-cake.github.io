@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ラストエンペラー
+reviewed in 2023-3-20 20:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTQ3NTc2MTU2Ml5BMl5BanBnXkFtZTcwNDI0OTkzNQ@@._V1_.jpg" alt="ラストエンペラー"><br/>
+[ラストエンペラー [PR]](https://amzn.to/3ZWbBTw)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ワンス・アポン・ア・タイム・イン・アメリカ
 reviewed in 2023-3-20 19:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzA0NDY0MjgtMzE5Yi00ZGQyLWFkYTYtYjYxMWU3M2Y2MTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="ワンス・アポン・ア・タイム・イン・アメリカ"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-3-17 13:00:07<br/>
 [はやぶさ奉行 [PR]](https://amzn.to/40gjToY)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-冒頭、見世物小屋（？）で泳ぐ女性たち。<br/>
-### あなたと温泉に行ったら… 蒲郡温泉編 #103 #104
-reviewed in 2023-3-16 21:00:05<br/>
-<br/>
-[あなたと温泉に行ったら… 蒲郡温泉編 #103 #104](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-滝沢いおりさん。
+冒頭、見世物小屋（？）で泳ぐ女性たち。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-3-16 21:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
