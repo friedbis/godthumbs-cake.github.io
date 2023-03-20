@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 更生補導員・深津さくら　殺人者の来訪～告解者～
+reviewed in 2023-3-20 12:30:04<br/>
+<br/>
+[更生補導員・深津さくら　殺人者の来訪～告解者～](http://www.tvdrama-db.com/drama_info/p/id-61619)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+貫地谷しほりさん、松尾薫さん<br/>
 ### 美少女剣士 月に向かっておシゴキよ!
 reviewed in 2023-3-18 21:30:05<br/>
 <br/>
