@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### トレーニング デイ
+### 彼女の面影
 reviewed in 2023-3-20 23:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZWFiMzhkYjctZDQ0Ni00MmJmLTljNWYtZGU4NWQ4ZTM4MDUzL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="トレーニング デイ"><br/>
-[トレーニング デイ [PR]](https://amzn.to/406aeSj)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODU5NmViMmItNDZjZS00OTQ0LTgzOTMtZDIzOTc0YTljYmUwXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="彼女の面影"><br/>
+[彼女の面影 [PR]](https://amzn.to/3lpQBWe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-エヴァ・メンデスさん。それにしても、中盤以降のチビりそうなほど怖いシーンの連続。
