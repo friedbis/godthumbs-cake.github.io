@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 湯の澤鉱泉編 #115 #116
+reviewed in 2023-3-21 12:30:05<br/>
+<img src="https://img.news.goo.ne.jp/image_proxy/compress/q_80/picture/thetv/m_thetv-1082532.jpg" alt="あなたと温泉に行ったら… 湯の澤鉱泉編 #115 #116"><br/>
+[あなたと温泉に行ったら… 湯の澤鉱泉編 #115 #116](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+日下部ほたるさん<br/>
+### あなたと温泉に行ったら… 犬吠埼温泉編 #113 #114
+reviewed in 2023-3-21 12:30:05<br/>
+<img src="https://img.news.goo.ne.jp/image_proxy/compress/q_80/picture/thetv/m_thetv-1082532.jpg" alt="あなたと温泉に行ったら… 犬吠埼温泉編 #113 #114"><br/>
+[あなたと温泉に行ったら… 犬吠埼温泉編 #113 #114](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+日下部ほたるさん.<br/>
 ### トレーニング デイ
 reviewed in 2023-3-20 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZWFiMzhkYjctZDQ0Ni00MmJmLTljNWYtZGU4NWQ4ZTM4MDUzL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="トレーニング デイ"><br/>
@@ -98,24 +112,11 @@ reviewed in 2023-3-18 21:30:05<br/>
 [ファーゴ [PR]](https://amzn.to/3lpPq9k)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-モーテルにて。<br/>
-### 美少女剣士 月に向かっておシゴキよ!
-reviewed in 2023-3-18 21:30:05<br/>
-<br/>
-[美少女剣士 月に向かっておシゴキよ! [PR]](https://amzn.to/3ZZblDf)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### あなたと温泉に行ったら… 穴原温泉編 #107 #108
-reviewed in 2023-3-17 22:00:08<br/>
-<img src="http://www.goldstar.co.jp/product/model/asuka_oda/img/img_0.jpg" alt="あなたと温泉に行ったら… 穴原温泉編 #107 #108"><br/>
-[あなたと温泉に行ったら… 穴原温泉編 #107 #108](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-小田飛鳥さん。 
+モーテルにて。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
