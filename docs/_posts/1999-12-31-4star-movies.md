@@ -49,14 +49,14 @@ reviewed in 2023-3-21 12:30:05<br/>
 [あなたと温泉に行ったら… 湯の澤鉱泉編 #115 #116](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-日下部ほたるさん<br/>
+日下部ほたるさん。攻めてる。<br/>
 ### あなたと温泉に行ったら… 犬吠埼温泉編 #113 #114
 reviewed in 2023-3-21 12:30:05<br/>
 <img src="https://img.news.goo.ne.jp/image_proxy/compress/q_80/picture/thetv/m_thetv-1082532.jpg" alt="あなたと温泉に行ったら… 犬吠埼温泉編 #113 #114"><br/>
 [あなたと温泉に行ったら… 犬吠埼温泉編 #113 #114](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-日下部ほたるさん.<br/>
+日下部ほたるさん。動きが激しい。<br/>
 ### her／世界でひとつの彼女
 reviewed in 2023-3-17 19:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTYxMzIwNTU3M15BMl5BanBnXkFtZTgwNjkwNjM3MDE@._V1_.jpg" alt="her／世界でひとつの彼女"><br/>

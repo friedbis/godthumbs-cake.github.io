@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 戸田温泉編 #129 #130
+reviewed in 2023-3-21 13:00:04<br/>
+<br/>
+[あなたと温泉に行ったら… 戸田温泉編 #129 #130](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ファーゴ
 reviewed in 2023-3-18 21:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjRhNWY5MjUtMjNkZC00MjYwLWIwYTItYmVjZjhiZTQ2NDZhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ファーゴ"><br/>
