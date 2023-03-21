@@ -105,14 +105,7 @@ reviewed in 2023-3-20 20:30:04<br/>
 [ラストエンペラー [PR]](https://amzn.to/3ZWbBTw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ワンス・アポン・ア・タイム・イン・アメリカ
-reviewed in 2023-3-20 19:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzA0NDY0MjgtMzE5Yi00ZGQyLWFkYTYtYjYxMWU3M2Y2MTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg" alt="ワンス・アポン・ア・タイム・イン・アメリカ"><br/>
-[ワンス・アポン・ア・タイム・イン・アメリカ [PR]](https://amzn.to/42q7vob)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-Sexual Abuseなシーン。
+
 <br/>
 ### 索引
 <br/>
