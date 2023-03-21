@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 谷津温泉編 #131 #132
+reviewed in 2023-3-21 13:30:05<br/>
+<br/>
+[あなたと温泉に行ったら… 谷津温泉編 #131 #132](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 戸田温泉編 #129 #130
 reviewed in 2023-3-21 13:00:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-3-20 12:30:04<br/>
 [更生補導員・深津さくら　殺人者の来訪～告解者～](http://www.tvdrama-db.com/drama_info/p/id-61619)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-貫地谷しほりさん、松尾薫さん<br/>
-### 実録三億円事件 時効成立
-reviewed in 2023-3-19 21:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMDkwZDE1NWItZmI0MC00ZTdiLTg4Y2ItNmY1NThmOWQxMWMxXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg" alt="実録三億円事件 時効成立"><br/>
-[実録三億円事件 時効成立 [PR]](https://amzn.to/3LzK9qd)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-小川真由美さん
+貫地谷しほりさん、松尾薫さん
 <br/>
 ### 索引
 <br/>
