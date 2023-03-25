@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### あなたと温泉に行ったら… 湯布院温泉編 #5 #6
+### あなたと温泉に行ったら… 日田温泉編 #7 #8
 reviewed in 2023-3-25 13:00:05<br/>
-<img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3rPCEujwWzJB5ac0qkrE_ncKrswjEGioyTTknwA6OrjkdrX2P6omDzOiHovVuKtFQL_TE6XpM1rPMGf0JkpMC0LlLW4UUCs0kaJTZB6yhFOqq-tNMxpYjndsd2WjMfetp__VGBDRWBpCSoyRuJ_XwyQ==" alt="あなたと温泉に行ったら… 湯布院温泉編 #5 #6"><br/>
-[あなたと温泉に行ったら… 湯布院温泉編 #5 #6](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-織田唯愛さん
+[あなたと温泉に行ったら… 日田温泉編 #7 #8](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
