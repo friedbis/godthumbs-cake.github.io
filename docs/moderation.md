@@ -45,11 +45,11 @@ title: Impression
 <br/>
 ### あなたと温泉に行ったら… 日田温泉編 #7 #8
 reviewed in 2023-3-25 13:00:05<br/>
-<br/>
+<img src="https://www.sanspo.com/resizer/-bGbI3pW6PnUDWfQp3Mq-5tak1k=/730x0/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/INFU2BAWXBNQNO32GO6J3E7NYY.jpgg" alt="あなたと温泉に行ったら… 日田温泉編 #7 #8"><br/>
 [あなたと温泉に行ったら… 日田温泉編 #7 #8](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+雨宮奈生さん<br/>
 ### あなたと温泉に行ったら… 湯布院温泉編 #5 #6
 reviewed in 2023-3-25 13:00:05<br/>
 <img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3rPCEujwWzJB5ac0qkrE_ncKrswjEGioyTTknwA6OrjkdrX2P6omDzOiHovVuKtFQL_TE6XpM1rPMGf0JkpMC0LlLW4UUCs0kaJTZB6yhFOqq-tNMxpYjndsd2WjMfetp__VGBDRWBpCSoyRuJ_XwyQ==" alt="あなたと温泉に行ったら… 湯布院温泉編 #5 #6"><br/>

@@ -45,11 +45,11 @@ title: 3つ星の映画・ドラマ
 <br/>
 ### あなたと温泉に行ったら… 日田温泉編 #7 #8
 reviewed in 2023-3-25 13:00:05<br/>
-<br/>
+<img src="https://www.sanspo.com/resizer/-bGbI3pW6PnUDWfQp3Mq-5tak1k=/730x0/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/INFU2BAWXBNQNO32GO6J3E7NYY.jpgg" alt="あなたと温泉に行ったら… 日田温泉編 #7 #8"><br/>
 [あなたと温泉に行ったら… 日田温泉編 #7 #8](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+雨宮奈生さん<br/>
 ### 野蛮なやつら/SAVAGES
 reviewed in 2023-3-21 22:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTYzNDFlMjYtZTY4Ni00N2Q4LTkzYzItNDVlZWY5MWFhYTZkXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="野蛮なやつら/SAVAGES"><br/>
