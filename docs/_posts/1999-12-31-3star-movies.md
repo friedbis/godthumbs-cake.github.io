@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### コナン・ザ・バーバリアン
+reviewed in 2023-3-26 09:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDY3OTQ3NmQtYTExZi00ZWY4LWI0YWMtNWU4OWUzZjhmMzlkXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="コナン・ザ・バーバリアン"><br/>
+[コナン・ザ・バーバリアン [PR]](https://amzn.to/3K9HiTU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+レイチェル・ニコラスさん<br/>
 ### あなたと温泉に行ったら… 日田温泉編 #7 #8
 reviewed in 2023-3-25 13:00:05<br/>
 <img src="https://www.sanspo.com/resizer/-bGbI3pW6PnUDWfQp3Mq-5tak1k=/730x0/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/INFU2BAWXBNQNO32GO6J3E7NYY.jpgg" alt="あなたと温泉に行ったら… 日田温泉編 #7 #8"><br/>

@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### アマンダと僕
+reviewed in 2023-3-26 09:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTY3MTVjOGEtMWQzYy00Y2UxLTk3M2QtYjZjODJlZjBkMTBlXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg" alt="アマンダと僕"><br/>
+[アマンダと僕 [PR]](https://amzn.to/3zaJ4Op)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ステイシー・マーティンさん。<br/>
 ### あなたと温泉に行ったら… 湯布院温泉編 #5 #6
 reviewed in 2023-3-25 13:00:05<br/>
 <img src="https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3rPCEujwWzJB5ac0qkrE_ncKrswjEGioyTTknwA6OrjkdrX2P6omDzOiHovVuKtFQL_TE6XpM1rPMGf0JkpMC0LlLW4UUCs0kaJTZB6yhFOqq-tNMxpYjndsd2WjMfetp__VGBDRWBpCSoyRuJ_XwyQ==" alt="あなたと温泉に行ったら… 湯布院温泉編 #5 #6"><br/>

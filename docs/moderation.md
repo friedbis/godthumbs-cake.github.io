@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### アマンダと僕
+reviewed in 2023-3-26 09:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTY3MTVjOGEtMWQzYy00Y2UxLTk3M2QtYjZjODJlZjBkMTBlXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg" alt="アマンダと僕"><br/>
+[アマンダと僕 [PR]](https://amzn.to/3zaJ4Op)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ステイシー・マーティンさん。<br/>
+### コナン・ザ・バーバリアン
+reviewed in 2023-3-26 09:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDY3OTQ3NmQtYTExZi00ZWY4LWI0YWMtNWU4OWUzZjhmMzlkXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="コナン・ザ・バーバリアン"><br/>
+[コナン・ザ・バーバリアン [PR]](https://amzn.to/3K9HiTU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+レイチェル・ニコラスさん<br/>
 ### あなたと温泉に行ったら… 日田温泉編 #7 #8
 reviewed in 2023-3-25 13:00:05<br/>
 <img src="https://www.sanspo.com/resizer/-bGbI3pW6PnUDWfQp3Mq-5tak1k=/730x0/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/INFU2BAWXBNQNO32GO6J3E7NYY.jpgg" alt="あなたと温泉に行ったら… 日田温泉編 #7 #8"><br/>
@@ -98,24 +112,11 @@ reviewed in 2023-3-24 09:30:07<br/>
 [花園の迷宮](http://www.tvdrama-db.com/drama_info/p/id-24334)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-小野沢智子さん、愛染恭子さん<br/>
-### 藪の中
-reviewed in 2023-3-23 23:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTRlM2YwMzItN2NiOC00NDRhLWFhMTItODg3M2EwMDNiODJjXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg" alt="藪の中"><br/>
-[藪の中 [PR]](https://amzn.to/3TzzFcB)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-坂上香織さん<br/>
-### 野蛮なやつら/SAVAGES
-reviewed in 2023-3-21 22:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOTYzNDFlMjYtZTY4Ni00N2Q4LTkzYzItNDVlZWY5MWFhYTZkXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="野蛮なやつら/SAVAGES"><br/>
-[野蛮なやつら/SAVAGES [PR]](https://amzn.to/3ySiGse)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+小野沢智子さん、愛染恭子さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
