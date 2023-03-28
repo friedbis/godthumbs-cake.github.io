@@ -49,7 +49,7 @@ reviewed in 2023-3-28 14:30:07<br/>
 [愛と炎と](http://nfad.nfaj.go.jp/det.php?data_id=13204)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+司葉子さん<br/>
 ### 情痴　アヴァンチュール
 reviewed in 2023-3-28 14:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjMzOTQ2NTc1N15BMl5BanBnXkFtZTgwMDIxMDA2MDE@._V1_.jpg" alt="情痴　アヴァンチュール"><br/>
@@ -162,7 +162,6 @@ reviewed in 2023-3-25 13:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
