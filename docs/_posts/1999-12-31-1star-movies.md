@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### キラー・ビー
+reviewed in 2023-3-29 08:30:04<br/>
+<br/>
+[キラー・ビー](https://www.imdb.com/title/tt14961048/?ref_=ext_shr_lnk)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 愛と炎と
 reviewed in 2023-3-28 14:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGRhZDM2Y2QtZjk1Mi00MzQyLWJiYTgtNzBkZmVhYzQ1MGFlXkEyXkFqcGdeQXVyMTc2ODExOTk@._V1_.jpg" alt="愛と炎と"><br/>
