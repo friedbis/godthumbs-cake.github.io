@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 女番長ブルース 牝蜂の逆襲
+reviewed in 2023-3-28 09:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWYyZjYzMDctZDNmMi00YWM0LThhOGUtZWRhNzI2ZTMyNGE3XkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長ブルース 牝蜂の逆襲"><br/>
+[女番長ブルース 牝蜂の逆襲 [PR]](https://amzn.to/3LW4BlB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+ワセリンってこの時代からあったのか。<br/>
 ### スケベ研究室 絶倫強化計画
 reviewed in 2023-3-26 10:00:05<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-3-25 10:00:05<br/>
 [ゲティ家の身代金 [PR]](https://amzn.to/3lyaR8o)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### アイドル探偵　濃密エッチ現場！
-reviewed in 2023-3-24 19:33:13<br/>
-<br/>
-[アイドル探偵　濃密エッチ現場！](https://www.videomarket.jp/title/370195)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-アイドル探偵（秘）濃密現場！（別タイトル）
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
