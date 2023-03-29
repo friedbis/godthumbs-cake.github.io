@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### キラー・ビー
+reviewed in 2023-3-29 08:30:04<br/>
+<br/>
+[キラー・ビー](https://www.imdb.com/title/tt14961048/?ref_=ext_shr_lnk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### スケベ研究室 絶倫強化計画
 reviewed in 2023-3-26 10:00:05<br/>
 <br/>
