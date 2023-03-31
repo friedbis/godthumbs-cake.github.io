@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### トーマス・クラウン・アフェアー
+reviewed in 2023-4-1 06:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmU4MjJlNDgtODVhOC00YzUyLTg3MDUtMWJiY2I5OGQyNTIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="トーマス・クラウン・アフェアー"><br/>
+[トーマス・クラウン・アフェアー [PR]](https://amzn.to/3m0CTcQ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+レネ・ルッソさん。<br/>
 ### あなたと温泉に行ったら… 丹沢中川温泉編 #9 #10
 reviewed in 2023-3-26 10:00:05<br/>
 <br/>
