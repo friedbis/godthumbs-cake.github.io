@@ -49,7 +49,7 @@ reviewed in 2023-3-28 09:00:08<br/>
 [女番長ブルース 牝蜂の逆襲 [PR]](https://amzn.to/3LW4BlB)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-ワセリンってこの時代からあったのか。<br/>
+ワセリンってこの時代からあったのか。 それと突然カットが変わって「カーセックスはもう古い。これからはオートバイファックだ！」で吹き出した。<br/>
 ### 美姉妹 剥ぐ！
 reviewed in 2023-3-24 18:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYWRiYTA2ZGYtMjhkZC00NTc4LTkzMzAtMDhlMTI4YmNkY2Q0XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="美姉妹 剥ぐ！"><br/>

@@ -77,7 +77,7 @@ reviewed in 2023-3-28 09:00:08<br/>
 [女番長ブルース 牝蜂の逆襲 [PR]](https://amzn.to/3LW4BlB)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-ワセリンってこの時代からあったのか。<br/>
+ワセリンってこの時代からあったのか。 それと突然カットが変わって「カーセックスはもう古い。これからはオートバイファックだ！」で吹き出した。<br/>
 ### スケベ研究室 絶倫強化計画
 reviewed in 2023-3-26 10:00:05<br/>
 <br/>
