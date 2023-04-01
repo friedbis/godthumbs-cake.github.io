@@ -2138,7 +2138,7 @@ reviewed in 2021-8-27 22:40:04<br/>
 <br/>
 ### マルサの女
 reviewed in 2021-8-27 22:40:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGQ1Y2VhYmYtZTA2Yy00OWJlLTgzZmMtNmYyNGIzZmEzY2NjXkEyXkFqcGdeQXVyMjM1MDEyNjU@._V1_.jpg" alt="マルサの女"><br/>
 [マルサの女 [PR]](https://amzn.to/2XRCBID)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
