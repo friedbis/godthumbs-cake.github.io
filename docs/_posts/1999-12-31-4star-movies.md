@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 情愛中毒
+reviewed in 2023-4-3 02:00:08<br/>
+<br/>
+[情愛中毒 [PR]](https://amzn.to/3Krax4C)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 華魂 幻影
 reviewed in 2023-3-31 18:30:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTdiNGZhZTMtNmVhMi00ODJkLTgyYTctZmI3Y2YyZDc3MjVmXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg" alt="華魂 幻影"><br/>
