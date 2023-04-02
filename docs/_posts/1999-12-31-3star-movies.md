@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 江南ブルース
+reviewed in 2023-4-3 00:30:04<br/>
+<br/>
+[江南ブルース [PR]](https://amzn.to/40VB4wm)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### トーマス・クラウン・アフェアー
 reviewed in 2023-4-1 06:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMmU4MjJlNDgtODVhOC00YzUyLTg3MDUtMWJiY2I5OGQyNTIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="トーマス・クラウン・アフェアー"><br/>
