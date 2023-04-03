@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 松本清張の聞かなかった場所
+reviewed in 2023-4-3 22:30:04<br/>
+<br/>
+[松本清張の聞かなかった場所](http://www.tvdrama-db.com/drama_info/p/id-17081)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+大谷直子さん<br/>
 ### 愛と炎と
 reviewed in 2023-3-28 14:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGRhZDM2Y2QtZjk1Mi00MzQyLWJiYTgtNzBkZmVhYzQ1MGFlXkEyXkFqcGdeQXVyMTc2ODExOTk@._V1_.jpg" alt="愛と炎と"><br/>
