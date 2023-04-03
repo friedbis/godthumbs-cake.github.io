@@ -52,7 +52,7 @@ reviewed in 2023-4-3 02:00:08<br/>
 <br/>
 ### 江南ブルース
 reviewed in 2023-4-3 00:30:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDI2ODQ4YjAtZjY2OS00MTRmLTg5ZmYtODQ5NjM5YmUxNjM1XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" alt="江南ブルース"><br/>
 [江南ブルース [PR]](https://amzn.to/40VB4wm)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
