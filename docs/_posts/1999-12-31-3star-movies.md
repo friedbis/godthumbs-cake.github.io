@@ -43,6 +43,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 絡みつく舌
+reviewed in 2023-4-5 22:00:05<br/>
+<br/>
+[絡みつく舌 [PR]](https://amzn.to/3KwXYF8)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 気まぐれな唇
+reviewed in 2023-4-5 22:00:05<br/>
+<br/>
+[気まぐれな唇 [PR]](https://amzn.to/4178B77)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 江南ブルース
 reviewed in 2023-4-3 00:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDI2ODQ4YjAtZjY2OS00MTRmLTg5ZmYtODQ5NjM5YmUxNjM1XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" alt="江南ブルース"><br/>

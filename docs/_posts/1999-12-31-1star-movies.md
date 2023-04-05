@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### シーソー
+reviewed in 2023-4-5 22:00:05<br/>
+<br/>
+[シーソー [PR]](https://amzn.to/3m7xikO)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 松本清張の聞かなかった場所
 reviewed in 2023-4-3 22:30:04<br/>
 <br/>
