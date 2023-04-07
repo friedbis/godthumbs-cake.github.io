@@ -43,6 +43,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 白日夢
+reviewed in 2023-4-7 21:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWUyZThlZGQtMWRlOC00MWY1LWE5N2ItNzJiODg1ZDY3OTY1XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="白日夢"><br/>
+[白日夢 [PR]](https://amzn.to/3mdzhUL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+こちらの方が好み。<br/>
+### 白日夢 (1981)
+reviewed in 2023-4-7 21:30:05<br/>
+<br/>
+[白日夢 (1981) [PR]](https://amzn.to/43fe25z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+無修正版ではない。<br/>
 ### 情愛中毒
 reviewed in 2023-4-3 02:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjk0YjhmZjAtMDE5Yy00ODkyLTkwN2MtMDcyZmYyZjkwMWYwXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="情愛中毒"><br/>

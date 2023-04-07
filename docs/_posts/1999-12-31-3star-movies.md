@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 黒い雪
+reviewed in 2023-4-7 21:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWVjYmI3ZTMtOTJiOS00MmRkLTlhNWYtM2Q5N2M3ZThmZGJlXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="黒い雪"><br/>
+[黒い雪 [PR]](https://amzn.to/3Mqth5Y)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+武智鉄二監督がマイブーム。<br/>
 ### どんずまり便器
 reviewed in 2023-4-5 23:00:04<br/>
 <br/>

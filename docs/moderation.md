@@ -43,6 +43,27 @@ title: Impression
 ## 作品
 
 <br/>
+### 黒い雪
+reviewed in 2023-4-7 21:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWVjYmI3ZTMtOTJiOS00MmRkLTlhNWYtM2Q5N2M3ZThmZGJlXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="黒い雪"><br/>
+[黒い雪 [PR]](https://amzn.to/3Mqth5Y)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+武智鉄二監督がマイブーム。<br/>
+### 白日夢
+reviewed in 2023-4-7 21:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWUyZThlZGQtMWRlOC00MWY1LWE5N2ItNzJiODg1ZDY3OTY1XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="白日夢"><br/>
+[白日夢 [PR]](https://amzn.to/3mdzhUL)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+こちらの方が好み。<br/>
+### 白日夢 (1981)
+reviewed in 2023-4-7 21:30:05<br/>
+<br/>
+[白日夢 (1981) [PR]](https://amzn.to/43fe25z)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+無修正版ではない。<br/>
 ### 看護女子寮・いじわるな指
 reviewed in 2023-4-7 10:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTRiNjI2ZDYtOWY1ZS00ZDllLWI4MmEtMWYyM2YyMGUwY2Q4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="看護女子寮・いじわるな指"><br/>
@@ -91,31 +112,11 @@ reviewed in 2023-4-5 06:00:04<br/>
 [おもいでの夏 [PR]](https://amzn.to/40EikBS)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 神ってる快感 絶頂うねりびらき
-reviewed in 2023-4-4 16:30:07<br/>
-<br/>
-[神ってる快感 絶頂うねりびらき [PR]](https://amzn.to/3zvtA7W)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 松本清張の聞かなかった場所
-reviewed in 2023-4-3 22:30:04<br/>
-<br/>
-[松本清張の聞かなかった場所](http://www.tvdrama-db.com/drama_info/p/id-17081)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-大谷直子さん<br/>
-### 情愛中毒
-reviewed in 2023-4-3 02:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNjk0YjhmZjAtMDE5Yy00ODkyLTkwN2MtMDcyZmYyZjkwMWYwXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="情愛中毒"><br/>
-[情愛中毒 [PR]](https://amzn.to/3Krax4C)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
