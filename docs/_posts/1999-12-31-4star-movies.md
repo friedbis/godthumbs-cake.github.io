@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### かざあな
+reviewed in 2023-4-11 03:30:06<br/>
+<br/>
+[かざあな [PR]](https://amzn.to/3mofTVg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 白日夢
 reviewed in 2023-4-7 21:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWUyZThlZGQtMWRlOC00MWY1LWE5N2ItNzJiODg1ZDY3OTY1XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="白日夢"><br/>
