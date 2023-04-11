@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### サイコダイバー 魔性菩薩
+reviewed in 2023-4-11 17:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTIxOTQxMjkwOF5BMl5BanBnXkFtZTYwNjUxNjU5._V1_.jpg" alt="サイコダイバー 魔性菩薩"><br/>
+[サイコダイバー 魔性菩薩 [PR]](https://amzn.to/403w7Rf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ジャケットは見たことあったが、こんな内容だったのか。<br/>
 ### かざあな
 reviewed in 2023-4-11 03:30:06<br/>
 <br/>

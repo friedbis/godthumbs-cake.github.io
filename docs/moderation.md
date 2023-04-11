@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### サイコダイバー 魔性菩薩
+reviewed in 2023-4-11 17:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTIxOTQxMjkwOF5BMl5BanBnXkFtZTYwNjUxNjU5._V1_.jpg" alt="サイコダイバー 魔性菩薩"><br/>
+[サイコダイバー 魔性菩薩 [PR]](https://amzn.to/403w7Rf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ジャケットは見たことあったが、こんな内容だったのか。<br/>
 ### やるっきゃ騎士
 reviewed in 2023-4-11 10:30:09<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-5 23:00:04<br/>
 [どんずまり便器 [PR]](https://amzn.to/3MjsljD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 絡みつく舌
-reviewed in 2023-4-5 22:00:05<br/>
-<br/>
-[絡みつく舌 [PR]](https://amzn.to/3KwXYF8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
