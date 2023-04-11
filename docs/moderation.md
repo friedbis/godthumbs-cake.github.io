@@ -63,7 +63,7 @@ reviewed in 2023-4-11 10:30:09<br/>
 [やるっきゃ騎士 [PR]](https://amzn.to/410nJ6w)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-中村倫也さんの出世作。<br/>
+中村倫也さん、遠藤新菜さん<br/>
 ### かざあな
 reviewed in 2023-4-11 03:30:06<br/>
 <br/>
