@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### やるっきゃ騎士
+reviewed in 2023-4-11 10:30:09<br/>
+<br/>
+[やるっきゃ騎士 [PR]](https://amzn.to/410nJ6w)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+中村倫也さんの出世作。<br/>
 ### ピラニア
 reviewed in 2023-4-6 23:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzU2ZGZiMzAtM2ZjMC00NjgzLTljZWYtY2ZhYjExNTg2YjY5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ピラニア"><br/>
