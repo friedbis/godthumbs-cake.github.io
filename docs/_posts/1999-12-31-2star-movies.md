@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 支配者の黄昏 TWILIGHT OF THE DARK MASTER
+reviewed in 2023-4-12 22:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTY1OWExNTItNzlhYy00ZTZmLWE3MDUtYzY1YWYxNzY5ODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="支配者の黄昏 TWILIGHT OF THE DARK MASTER"><br/>
+[支配者の黄昏 TWILIGHT OF THE DARK MASTER [PR]](https://amzn.to/3KnSfjG)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### やるっきゃ騎士
 reviewed in 2023-4-11 10:30:09<br/>
 <br/>

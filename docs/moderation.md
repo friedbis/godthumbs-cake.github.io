@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 支配者の黄昏 TWILIGHT OF THE DARK MASTER
+reviewed in 2023-4-12 22:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTY1OWExNTItNzlhYy00ZTZmLWE3MDUtYzY1YWYxNzY5ODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="支配者の黄昏 TWILIGHT OF THE DARK MASTER"><br/>
+[支配者の黄昏 TWILIGHT OF THE DARK MASTER [PR]](https://amzn.to/3KnSfjG)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 石和温泉編 #45 #46
 reviewed in 2023-4-11 22:30:07<br/>
 <img src="https://www.zakzak.co.jp/entertainment/ent-news/images/20160419/enn1604191530018-p8.jpg" alt="あなたと温泉に行ったら… 石和温泉編 #45 #46"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-4-7 10:00:08<br/>
 [看護女子寮・いじわるな指 [PR]](https://amzn.to/3ZMJ8Pk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### ピラニア
-reviewed in 2023-4-6 23:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzU2ZGZiMzAtM2ZjMC00NjgzLTljZWYtY2ZhYjExNTg2YjY5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ピラニア"><br/>
-[ピラニア [PR]](https://amzn.to/414u8wZ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-冒頭のパンツ勢いよく下ろすところがとても良い。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-4-6 23:30:04<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
