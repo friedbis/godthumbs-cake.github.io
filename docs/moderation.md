@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 評決のとき
+reviewed in 2023-4-14 03:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE4YjAwNGQtY2MwMy00MTFjLTkzNDYtYjU3OWFiZTY4YmNjXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_.jpg" alt="評決のとき"><br/>
+[評決のとき]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 支配者の黄昏 TWILIGHT OF THE DARK MASTER
 reviewed in 2023-4-12 22:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTY1OWExNTItNzlhYy00ZTZmLWE3MDUtYzY1YWYxNzY5ODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="支配者の黄昏 TWILIGHT OF THE DARK MASTER"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-4-7 21:30:05<br/>
 [白日夢 (1981) [PR]](https://amzn.to/43fe25z)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-無修正版ではない。<br/>
-### 看護女子寮・いじわるな指
-reviewed in 2023-4-7 10:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTRiNjI2ZDYtOWY1ZS00ZDllLWI4MmEtMWYyM2YyMGUwY2Q4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="看護女子寮・いじわるな指"><br/>
-[看護女子寮・いじわるな指 [PR]](https://amzn.to/3ZMJ8Pk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+無修正版ではない。
 <br/>
 ### 索引
 <br/>

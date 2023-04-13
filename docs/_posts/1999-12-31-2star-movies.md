@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 評決のとき
+reviewed in 2023-4-14 03:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGE4YjAwNGQtY2MwMy00MTFjLTkzNDYtYjU3OWFiZTY4YmNjXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_.jpg" alt="評決のとき"><br/>
+[評決のとき]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 支配者の黄昏 TWILIGHT OF THE DARK MASTER
 reviewed in 2023-4-12 22:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTY1OWExNTItNzlhYy00ZTZmLWE3MDUtYzY1YWYxNzY5ODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="支配者の黄昏 TWILIGHT OF THE DARK MASTER"><br/>
