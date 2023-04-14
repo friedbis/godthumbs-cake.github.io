@@ -43,10 +43,17 @@ title: Impression
 ## 作品
 
 <br/>
+### 女子アナ七瀬 秘密の生活
+reviewed in 2023-4-14 20:00:06<br/>
+<br/>
+[女子アナ七瀬 秘密の生活](https://www.videomarket.jp/title/112767)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+原作の方がよい。<br/>
 ### 評決のとき
 reviewed in 2023-4-14 03:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGE4YjAwNGQtY2MwMy00MTFjLTkzNDYtYjU3OWFiZTY4YmNjXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_.jpg" alt="評決のとき"><br/>
-[評決のとき]()<br/>
+[評決のとき [PR]](https://amzn.to/3GKNOyq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-7 21:30:05<br/>
 [白日夢 [PR]](https://amzn.to/3mdzhUL)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-こちらの方が好み。<br/>
-### 白日夢 (1981)
-reviewed in 2023-4-7 21:30:05<br/>
-<br/>
-[白日夢 (1981) [PR]](https://amzn.to/43fe25z)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-無修正版ではない。
+こちらの方が好み。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

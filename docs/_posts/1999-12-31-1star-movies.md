@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女子アナ七瀬 秘密の生活
+reviewed in 2023-4-14 20:00:06<br/>
+<br/>
+[女子アナ七瀬 秘密の生活](https://www.videomarket.jp/title/112767)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+原作の方がよい。<br/>
 ### シーソー
 reviewed in 2023-4-5 22:00:05<br/>
 <br/>
