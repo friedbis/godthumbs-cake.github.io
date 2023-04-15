@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### テルマ
+reviewed in 2023-4-15 14:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZGE3MmNlNzYtMDIwMy00YTdhLTgwNzEtZjExOGY3ZDI2MjA0XkEyXkFqcGdeQXVyMzIwMTIwODc@._V1_.jpg" alt="テルマ"><br/>
+[テルマ [PR]](https://amzn.to/41rxudN)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 探偵物語
 reviewed in 2023-4-15 12:00:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMWUzYjRkMzktZDU0ZS00NzQ1LTkzZmYtMjQzYzNlODY2NDA4XkEyXkFqcGdeQXVyMjMwMDAxOTY@._V1_.jpg" alt="探偵物語"><br/>

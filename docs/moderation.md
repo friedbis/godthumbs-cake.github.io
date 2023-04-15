@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### テルマ
+reviewed in 2023-4-15 14:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZGE3MmNlNzYtMDIwMy00YTdhLTgwNzEtZjExOGY3ZDI2MjA0XkEyXkFqcGdeQXVyMzIwMTIwODc@._V1_.jpg" alt="テルマ"><br/>
+[テルマ [PR]](https://amzn.to/41rxudN)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 殺されたミンジュ
+reviewed in 2023-4-15 14:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGU0M2FhODUtNzQzNy00ZWVmLTkzZTktZjExYmMwMjllMmQxXkEyXkFqcGdeQXVyMjc1NjE1MzM@._V1_.jpg" alt="殺されたミンジュ"><br/>
+[殺されたミンジュ [PR]](https://amzn.to/3mAUlot)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 探偵物語
 reviewed in 2023-4-15 12:00:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMWUzYjRkMzktZDU0ZS00NzQ1LTkzZmYtMjQzYzNlODY2NDA4XkEyXkFqcGdeQXVyMjMwMDAxOTY@._V1_.jpg" alt="探偵物語"><br/>
@@ -98,21 +112,7 @@ reviewed in 2023-4-11 10:30:09<br/>
 [やるっきゃ騎士 [PR]](https://amzn.to/410nJ6w)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-中村倫也さん、遠藤新菜さん<br/>
-### かざあな
-reviewed in 2023-4-11 03:30:06<br/>
-<br/>
-[かざあな [PR]](https://amzn.to/3mofTVg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### うみべの女の子
-reviewed in 2023-4-11 03:30:06<br/>
-<br/>
-[うみべの女の子 [PR]](https://amzn.to/3KNbWmn)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+中村倫也さん、遠藤新菜さん
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-4-11 03:30:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
