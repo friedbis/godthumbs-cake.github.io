@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ブルークリスマス
+reviewed in 2023-4-15 14:30:07<br/>
+<br/>
+[ブルークリスマス [PR]](https://amzn.to/3mIBkjT)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### テルマ
 reviewed in 2023-4-15 14:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGE3MmNlNzYtMDIwMy00YTdhLTgwNzEtZjExOGY3ZDI2MjA0XkEyXkFqcGdeQXVyMzIwMTIwODc@._V1_.jpg" alt="テルマ"><br/>

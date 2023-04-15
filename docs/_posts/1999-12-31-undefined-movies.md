@@ -43,16 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### テルマ
-reviewed in 2023-4-15 14:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZGE3MmNlNzYtMDIwMy00YTdhLTgwNzEtZjExOGY3ZDI2MjA0XkEyXkFqcGdeQXVyMzIwMTIwODc@._V1_.jpg" alt="テルマ"><br/>
-[テルマ [PR]](https://amzn.to/41rxudN)<br/>
+### ブルークリスマス
+reviewed in 2023-4-15 14:30:07<br/>
+<br/>
+[ブルークリスマス [PR]](https://amzn.to/3mIBkjT)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 殺されたミンジュ
-reviewed in 2023-4-15 14:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOGU0M2FhODUtNzQzNy00ZWVmLTkzZTktZjExYmMwMjllMmQxXkEyXkFqcGdeQXVyMjc1NjE1MzM@._V1_.jpg" alt="殺されたミンジュ"><br/>
-[殺されたミンジュ [PR]](https://amzn.to/3mAUlot)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

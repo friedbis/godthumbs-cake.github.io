@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### ブルークリスマス
+reviewed in 2023-4-15 14:30:07<br/>
+<br/>
+[ブルークリスマス [PR]](https://amzn.to/3mIBkjT)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ときめきサイエンス
+reviewed in 2023-4-15 14:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTljMmY2NjAtN2NmOC00MzM1LThhNDgtMGQyYmFjZTIyOTQwXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_.jpg" alt="ときめきサイエンス"><br/>
+[ときめきサイエンス [PR]](https://amzn.to/3mEWXld)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+懐かしい。<br/>
 ### テルマ
 reviewed in 2023-4-15 14:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGE3MmNlNzYtMDIwMy00YTdhLTgwNzEtZjExOGY3ZDI2MjA0XkEyXkFqcGdeQXVyMzIwMTIwODc@._V1_.jpg" alt="テルマ"><br/>
@@ -98,24 +112,11 @@ reviewed in 2023-4-11 22:30:07<br/>
 [あなたと温泉に行ったら… 石和温泉編 #45 #46](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-桐生美希さん<br/>
-### サイコダイバー 魔性菩薩
-reviewed in 2023-4-11 17:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTIxOTQxMjkwOF5BMl5BanBnXkFtZTYwNjUxNjU5._V1_.jpg" alt="サイコダイバー 魔性菩薩"><br/>
-[サイコダイバー 魔性菩薩 [PR]](https://amzn.to/403w7Rf)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ジャケットは見たことあったが、こんな内容だったのか。<br/>
-### やるっきゃ騎士
-reviewed in 2023-4-11 10:30:09<br/>
-<br/>
-[やるっきゃ騎士 [PR]](https://amzn.to/410nJ6w)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-中村倫也さん、遠藤新菜さん
+桐生美希さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
