@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### おかしな刑事(3)～居眠り刑事とエリート女警視が高級エステに父娘潜入捜査！美人モデル殺人・伊香保温泉に金と愛欲の罠！
+reviewed in 2023-4-15 23:00:10<br/>
+<br/>
+[おかしな刑事(3)～居眠り刑事とエリート女警視が高級エステに父娘潜入捜査！美人モデル殺人・伊香保温泉に金と愛欲の罠！](http://www.tvdrama-db.com/drama_info/p/id-39184)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+嘉門洋子さん<br/>
 ### ブルークリスマス
 reviewed in 2023-4-15 14:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTYyYjk1MjQtMzMwYS00MGIwLWI5NzktZThmYWY5MzNhZmU0XkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg" alt="ブルークリスマス"><br/>
