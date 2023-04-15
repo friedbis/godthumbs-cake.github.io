@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 探偵物語
+reviewed in 2023-4-15 12:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWUzYjRkMzktZDU0ZS00NzQ1LTkzZmYtMjQzYzNlODY2NDA4XkEyXkFqcGdeQXVyMjMwMDAxOTY@._V1_.jpg" alt="探偵物語"><br/>
+[探偵物語 [PR]](https://amzn.to/41z0FvH)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ちょいちょい出してくるお色気。<br/>
 ### おじいちゃん、死んじゃったって。
 reviewed in 2023-4-15 10:00:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjlkNzA0OGItNjFlMi00ODY3LTg1N2ItNmQyMDVkYzUwZjM2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="おじいちゃん、死んじゃったって。"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-11 03:30:06<br/>
 [うみべの女の子 [PR]](https://amzn.to/3KNbWmn)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### 黒い雪
-reviewed in 2023-4-7 21:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNWVjYmI3ZTMtOTJiOS00MmRkLTlhNWYtM2Q5N2M3ZThmZGJlXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="黒い雪"><br/>
-[黒い雪 [PR]](https://amzn.to/3Mqth5Y)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-武智鉄二監督がマイブーム。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

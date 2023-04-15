@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 探偵物語
+reviewed in 2023-4-15 12:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWUzYjRkMzktZDU0ZS00NzQ1LTkzZmYtMjQzYzNlODY2NDA4XkEyXkFqcGdeQXVyMjMwMDAxOTY@._V1_.jpg" alt="探偵物語"><br/>
+[探偵物語 [PR]](https://amzn.to/41z0FvH)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ちょいちょい出してくるお色気。<br/>
 ### 女子アナ七瀬 秘密の生活
 reviewed in 2023-4-14 20:00:06<br/>
 <br/>
