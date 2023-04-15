@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### おじいちゃん、死んじゃったって。
+reviewed in 2023-4-15 10:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjlkNzA0OGItNjFlMi00ODY3LTg1N2ItNmQyMDVkYzUwZjM2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="おじいちゃん、死んじゃったって。"><br/>
+[おじいちゃん、死んじゃったって。 [PR]](https://amzn.to/3KGj8PN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+岸井ゆきのさん。<br/>
 ### 女子アナ七瀬 秘密の生活
 reviewed in 2023-4-14 20:00:06<br/>
 <br/>
@@ -56,7 +63,7 @@ reviewed in 2023-4-14 03:30:07<br/>
 [評決のとき [PR]](https://amzn.to/3GKNOyq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+犯人は絶対に許さない。そうではなくアシュリー・ジュードさん。<br/>
 ### 支配者の黄昏 TWILIGHT OF THE DARK MASTER
 reviewed in 2023-4-12 22:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTY1OWExNTItNzlhYy00ZTZmLWE3MDUtYzY1YWYxNzY5ODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="支配者の黄昏 TWILIGHT OF THE DARK MASTER"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-7 21:30:05<br/>
 [黒い雪 [PR]](https://amzn.to/3Mqth5Y)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-武智鉄二監督がマイブーム。<br/>
-### 白日夢
-reviewed in 2023-4-7 21:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWUyZThlZGQtMWRlOC00MWY1LWE5N2ItNzJiODg1ZDY3OTY1XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="白日夢"><br/>
-[白日夢 [PR]](https://amzn.to/3mdzhUL)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-こちらの方が好み。
+武智鉄二監督がマイブーム。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

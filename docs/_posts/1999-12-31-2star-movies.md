@@ -49,7 +49,7 @@ reviewed in 2023-4-14 03:30:07<br/>
 [評決のとき [PR]](https://amzn.to/3GKNOyq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+犯人は絶対に許さない。そうではなくアシュリー・ジュードさん。<br/>
 ### 支配者の黄昏 TWILIGHT OF THE DARK MASTER
 reviewed in 2023-4-12 22:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTY1OWExNTItNzlhYy00ZTZmLWE3MDUtYzY1YWYxNzY5ODQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="支配者の黄昏 TWILIGHT OF THE DARK MASTER"><br/>

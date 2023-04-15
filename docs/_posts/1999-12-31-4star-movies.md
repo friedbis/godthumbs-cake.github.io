@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### おじいちゃん、死んじゃったって。
+reviewed in 2023-4-15 10:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjlkNzA0OGItNjFlMi00ODY3LTg1N2ItNmQyMDVkYzUwZjM2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="おじいちゃん、死んじゃったって。"><br/>
+[おじいちゃん、死んじゃったって。 [PR]](https://amzn.to/3KGj8PN)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+岸井ゆきのさん。<br/>
 ### あなたと温泉に行ったら… 石和温泉編 #45 #46
 reviewed in 2023-4-11 22:30:07<br/>
 <img src="https://www.zakzak.co.jp/entertainment/ent-news/images/20160419/enn1604191530018-p8.jpg" alt="あなたと温泉に行ったら… 石和温泉編 #45 #46"><br/>
