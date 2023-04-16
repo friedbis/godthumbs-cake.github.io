@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### BODY/ボディ
+reviewed in 2023-4-16 23:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjYzZTYyNDctY2RmOC00OTg0LTk4NzItZGEzYjI4OWFjOTk0XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" alt="BODY/ボディ"><br/>
+[BODY/ボディ [PR]](https://amzn.to/41fApXs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+マドンナさん、ウィレム・デフォーさん<br/>
 ### おじいちゃん、死んじゃったって。
 reviewed in 2023-4-15 10:00:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjlkNzA0OGItNjFlMi00ODY3LTg1N2ItNmQyMDVkYzUwZjM2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="おじいちゃん、死んじゃったって。"><br/>

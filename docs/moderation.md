@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### BODY/ボディ
+reviewed in 2023-4-16 23:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjYzZTYyNDctY2RmOC00OTg0LTk4NzItZGEzYjI4OWFjOTk0XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" alt="BODY/ボディ"><br/>
+[BODY/ボディ [PR]](https://amzn.to/41fApXs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+マドンナさん、ウィレム・デフォーさん<br/>
 ### おかしな刑事(3)～居眠り刑事とエリート女警視が高級エステに父娘潜入捜査！美人モデル殺人・伊香保温泉に金と愛欲の罠！
 reviewed in 2023-4-15 23:00:10<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-15 10:00:09<br/>
 [おじいちゃん、死んじゃったって。 [PR]](https://amzn.to/3KGj8PN)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-岸井ゆきのさん。<br/>
-### 女子アナ七瀬 秘密の生活
-reviewed in 2023-4-14 20:00:06<br/>
-<br/>
-[女子アナ七瀬 秘密の生活](https://www.videomarket.jp/title/112767)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-原作の方がよい。
+岸井ゆきのさん。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
