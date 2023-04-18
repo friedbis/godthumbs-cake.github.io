@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 白浜女来島温泉編 #33 #34
+reviewed in 2023-4-18 18:30:06<br/>
+<br/>
+[あなたと温泉に行ったら… 白浜女来島温泉編 #33 #34](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+みもれもんさん<br/>
 ### うみべの女の子
 reviewed in 2023-4-11 03:30:06<br/>
 <br/>
