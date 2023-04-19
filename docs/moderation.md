@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 静かなるドン 4
+reviewed in 2023-4-19 21:00:10<br/>
+<br/>
+[静かなるドン 4 [PR]](https://amzn.to/41mFZXO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 白浜女来島温泉編 #33 #34
 reviewed in 2023-4-18 18:30:06<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-4-15 14:00:08<br/>
 [殺されたミンジュ [PR]](https://amzn.to/3mAUlot)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 探偵物語
-reviewed in 2023-4-15 12:00:09<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMWUzYjRkMzktZDU0ZS00NzQ1LTkzZmYtMjQzYzNlODY2NDA4XkEyXkFqcGdeQXVyMjMwMDAxOTY@._V1_.jpg" alt="探偵物語"><br/>
-[探偵物語 [PR]](https://amzn.to/41z0FvH)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ちょいちょい出してくるお色気。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-4-15 12:00:09<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
