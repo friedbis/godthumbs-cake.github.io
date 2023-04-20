@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 静かなるドン 5
+reviewed in 2023-4-20 20:30:08<br/>
+<br/>
+[静かなるドン 5 [PR]](https://amzn.to/3URh7Fe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 静かなるドン 4
 reviewed in 2023-4-19 21:00:10<br/>
 <br/>
