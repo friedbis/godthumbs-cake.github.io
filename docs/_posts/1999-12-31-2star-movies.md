@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 静かなるドン 6
+reviewed in 2023-4-21 08:30:06<br/>
+<br/>
+[静かなるドン 6 [PR]](https://amzn.to/3MZapem)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ときめきサイエンス
 reviewed in 2023-4-15 14:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTljMmY2NjAtN2NmOC00MzM1LThhNDgtMGQyYmFjZTIyOTQwXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_.jpg" alt="ときめきサイエンス"><br/>
