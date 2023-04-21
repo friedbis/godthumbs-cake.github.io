@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 血まみれギャングママ
+reviewed in 2023-4-21 18:00:11<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDUwNzM3ZDMtYzhhYS00Y2VkLWIzYjgtMTgwZDgwMGJjYjU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_.jpg" alt="血まみれギャングママ"><br/>
+[血まみれギャングママ [PR]](https://amzn.to/3MWUDRn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### BODY/ボディ
 reviewed in 2023-4-16 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjYzZTYyNDctY2RmOC00OTg0LTk4NzItZGEzYjI4OWFjOTk0XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" alt="BODY/ボディ"><br/>
