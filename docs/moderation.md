@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 湯河原温泉編 #35 #36
+reviewed in 2023-4-21 18:30:07<br/>
+<br/>
+[あなたと温泉に行ったら… 湯河原温泉編 #35 #36](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 血まみれギャングママ
 reviewed in 2023-4-21 18:00:11<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDUwNzM3ZDMtYzhhYS00Y2VkLWIzYjgtMTgwZDgwMGJjYjU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_.jpg" alt="血まみれギャングママ"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-4-19 21:00:10<br/>
 [静かなるドン 4 [PR]](https://amzn.to/41mFZXO)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### あなたと温泉に行ったら… 白浜女来島温泉編 #33 #34
-reviewed in 2023-4-18 18:30:06<br/>
-<br/>
-[あなたと温泉に行ったら… 白浜女来島温泉編 #33 #34](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-みもれもんさん
+
 <br/>
 ### 索引
 <br/>

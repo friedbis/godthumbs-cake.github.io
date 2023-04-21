@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 湯河原温泉編 #35 #36
+reviewed in 2023-4-21 18:30:07<br/>
+<br/>
+[あなたと温泉に行ったら… 湯河原温泉編 #35 #36](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### インビジブル２
 reviewed in 2023-4-21 04:30:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjRmMzJmOWYtMmViZS00ZDQwLWFiOTItODliOTQxZWU0NjQ2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="インビジブル２"><br/>

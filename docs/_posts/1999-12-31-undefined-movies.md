@@ -43,9 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 血まみれギャングママ
-reviewed in 2023-4-21 18:00:11<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZDUwNzM3ZDMtYzhhYS00Y2VkLWIzYjgtMTgwZDgwMGJjYjU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_.jpg" alt="血まみれギャングママ"><br/>
-[血まみれギャングママ [PR]](https://amzn.to/3MWUDRn)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+### あなたと温泉に行ったら… 湯河原温泉編 #35 #36
+reviewed in 2023-4-21 18:30:07<br/>
+<br/>
+[あなたと温泉に行ったら… 湯河原温泉編 #35 #36](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
