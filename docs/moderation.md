@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ゴールデンカムイ
+reviewed in 2023-4-21 13:30:06<br/>
+<br/>
+[ゴールデンカムイ](https://kamuy-anime.com/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+過激さでいったら最低評価を付けるべきだが、それを持ってあまりあるギャグセンスが頭イカれてて最高。あんな形で歴史に名を残した実写版進撃や、キャラ設定に違和感しかない実写版東リベを作るくらいなら、さっさとこっちを実写化してほしい。日本のイケメンたちを使ってラッコ鍋を再現してほしい。<br/>
 ### 静かなるドン 6
 reviewed in 2023-4-21 08:30:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-16 23:00:05<br/>
 [BODY/ボディ [PR]](https://amzn.to/41fApXs)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-マドンナさん、ウィレム・デフォーさん<br/>
-### おかしな刑事(3)～居眠り刑事とエリート女警視が高級エステに父娘潜入捜査！美人モデル殺人・伊香保温泉に金と愛欲の罠！
-reviewed in 2023-4-15 23:00:10<br/>
-<br/>
-[おかしな刑事(3)～居眠り刑事とエリート女警視が高級エステに父娘潜入捜査！美人モデル殺人・伊香保温泉に金と愛欲の罠！](http://www.tvdrama-db.com/drama_info/p/id-39184)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-嘉門洋子さん
+マドンナさん、ウィレム・デフォーさん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
