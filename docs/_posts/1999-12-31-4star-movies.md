@@ -45,14 +45,14 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 愛の記憶はさえずりとともに
 reviewed in 2023-4-22 10:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjIyODU3MDk3MF5BMl5BanBnXkFtZTgwMTM0NTk0NDM@._V1_.jpg" alt="愛の記憶はさえずりとともに"><br/>
 [愛の記憶はさえずりとともに [PR]](https://amzn.to/40xkjHc)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+クレマンス・ポエジーさんがマイブーム。<br/>
 ### Bienvenue chez les Rozes
 reviewed in 2023-4-22 10:30:05<br/>
-<img src="https://www.imdb.com/title/tt0321440/mediaviewer/rm1068537857?ref_=ttmi_mi_all_sf_6" alt="Bienvenue chez les Rozes"><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMmRhYzI5ZTItNzZkYS00YmI1LWJhZWMtYWFkM2FlMjU2NGFhXkEyXkFqcGdeQXVyNTcyMjMxMDA@._V1_.jpg" alt="Bienvenue chez les Rozes"><br/>
 [Bienvenue chez les Rozes [PR]](https://amzn.to/3mVxXWZ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
