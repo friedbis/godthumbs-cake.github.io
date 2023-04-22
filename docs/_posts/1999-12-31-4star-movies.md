@@ -43,6 +43,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愛の記憶はさえずりとともに
+reviewed in 2023-4-22 10:30:05<br/>
+<br/>
+[愛の記憶はさえずりとともに [PR]](https://amzn.to/40xkjHc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### Bienvenue chez les Rozes
+reviewed in 2023-4-22 10:30:05<br/>
+<img src="https://www.imdb.com/title/tt0321440/mediaviewer/rm1068537857?ref_=ttmi_mi_all_sf_6" alt="Bienvenue chez les Rozes"><br/>
+[Bienvenue chez les Rozes [PR]](https://amzn.to/3mVxXWZ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+クレマンス・ポエジーさんがマイブーム。<br/>
 ### 血まみれギャングママ
 reviewed in 2023-4-21 18:00:11<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDUwNzM3ZDMtYzhhYS00Y2VkLWIzYjgtMTgwZDgwMGJjYjU1XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_.jpg" alt="血まみれギャングママ"><br/>
