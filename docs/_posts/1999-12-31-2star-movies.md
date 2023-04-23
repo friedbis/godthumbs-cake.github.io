@@ -49,7 +49,7 @@ reviewed in 2023-4-22 23:00:04<br/>
 [モンスター [PR]](https://amzn.to/3N7b3qm)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+クリスティーナ・リッチさん、シャーリーズ・セロンさん<br/>
 ### 静かなるドン 6
 reviewed in 2023-4-21 08:30:06<br/>
 <br/>
