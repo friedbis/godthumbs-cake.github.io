@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 淫タビュー ～普通の女の異常なホンネ～
+reviewed in 2023-4-25 02:30:05<br/>
+<br/>
+[淫タビュー ～普通の女の異常なホンネ～ [PR]](https://amzn.to/3oCZugz)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ダークラブ
 reviewed in 2023-4-24 22:30:04<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-4-21 18:00:11<br/>
 [血まみれギャングママ [PR]](https://amzn.to/3MWUDRn)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ゴールデンカムイ
-reviewed in 2023-4-21 13:30:06<br/>
-<br/>
-[ゴールデンカムイ](https://kamuy-anime.com/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-過激さでいったら最低評価を付けるべきだが、それを持ってあまりあるギャグセンスが頭イカれてて最高。あんな形で歴史に名を残した実写版進撃や、キャラ設定に違和感しかない実写版東リベを作るくらいなら、さっさとこっちを実写化してほしい。日本のイケメンたちを使ってラッコ鍋を再現してほしい。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-4-21 13:30:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
