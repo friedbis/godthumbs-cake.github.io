@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ダークラブ
+reviewed in 2023-4-24 22:30:04<br/>
+<br/>
+[ダークラブ [PR]](https://amzn.to/43VxBQW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+手島優さん<br/>
 ### モンスター
 reviewed in 2023-4-22 23:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODMyZWNkMGYtOTE3My00ZTAzLWE1MzctZmU1MmVjMGQ4M2I1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="モンスター"><br/>

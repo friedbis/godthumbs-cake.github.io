@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ダークラブ
+### 弓
 reviewed in 2023-4-24 22:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOThlYTAxNDMtMzUwZi00MGI5LWIyMjEtMzRkYWZjYjExYTlkXkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_.jpg" alt="弓"><br/>
+[弓 [PR]](https://amzn.to/3V3DBD9)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-[ダークラブ [PR]](https://amzn.to/43VxBQW)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-手島優さん

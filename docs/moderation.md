@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### ダークラブ
+reviewed in 2023-4-24 22:30:04<br/>
+<br/>
+[ダークラブ [PR]](https://amzn.to/43VxBQW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+手島優さん<br/>
+### 弓
+reviewed in 2023-4-24 22:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOThlYTAxNDMtMzUwZi00MGI5LWIyMjEtMzRkYWZjYjExYTlkXkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_.jpg" alt="弓"><br/>
+[弓 [PR]](https://amzn.to/3V3DBD9)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 愛欲の不時着
 reviewed in 2023-4-23 23:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTFiZTQ5YTYtMTYxMi00NjFiLWEyMjktNTI5ZTc2NmIxMDQ1XkEyXkFqcGdeQXVyNTkxNDI2OTA@._V1_.jpg" alt="愛欲の不時着"><br/>
@@ -98,24 +112,11 @@ reviewed in 2023-4-21 13:30:06<br/>
 [ゴールデンカムイ](https://kamuy-anime.com/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-過激さでいったら最低評価を付けるべきだが、それを持ってあまりあるギャグセンスが頭イカれてて最高。あんな形で歴史に名を残した実写版進撃や、キャラ設定に違和感しかない実写版東リベを作るくらいなら、さっさとこっちを実写化してほしい。日本のイケメンたちを使ってラッコ鍋を再現してほしい。<br/>
-### 静かなるドン 6
-reviewed in 2023-4-21 08:30:06<br/>
-<br/>
-[静かなるドン 6 [PR]](https://amzn.to/3MZapem)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### インビジブル２
-reviewed in 2023-4-21 04:30:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYjRmMzJmOWYtMmViZS00ZDQwLWFiOTItODliOTQxZWU0NjQ2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="インビジブル２"><br/>
-[インビジブル２ [PR]](https://amzn.to/3H2gdQJ)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+過激さでいったら最低評価を付けるべきだが、それを持ってあまりあるギャグセンスが頭イカれてて最高。あんな形で歴史に名を残した実写版進撃や、キャラ設定に違和感しかない実写版東リベを作るくらいなら、さっさとこっちを実写化してほしい。日本のイケメンたちを使ってラッコ鍋を再現してほしい。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,6 +163,7 @@ reviewed in 2023-4-21 04:30:08<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
