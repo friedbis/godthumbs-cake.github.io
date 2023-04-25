@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 高校教師
+reviewed in 2023-4-25 17:00:07<br/>
+<br/>
+[高校教師 [PR]](https://amzn.to/40EWOMB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+朝岡実嶺さん。懐かしい。<br/>
 ### ダークラブ
 reviewed in 2023-4-24 22:30:04<br/>
 <br/>
