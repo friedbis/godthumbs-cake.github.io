@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 愛と青春の旅だち
+reviewed in 2023-4-25 20:30:04<br/>
+<br/>
+[愛と青春の旅だち [PR]](https://www.amazon.co.jp/dp/B00KUNZVN8/ref=cm_sw_r_as_gl_apa_gl_i_JCWDNXFRD8HQZZ5WZY7H?linkCode=ml2&tag=httyf19net-22)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+デブラ・ウィンガーさん、リチャード・ギアさん<br/>
 ### 高校教師
 reviewed in 2023-4-25 17:00:07<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-22 10:30:05<br/>
 [Bienvenue chez les Rozes [PR]](https://amzn.to/3mVxXWZ)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-クレマンス・ポエジーさんがマイブーム。<br/>
-### あなたと温泉に行ったら… 湯河原温泉編 #35 #36
-reviewed in 2023-4-21 18:30:07<br/>
-<br/>
-[あなたと温泉に行ったら… 湯河原温泉編 #35 #36](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+クレマンス・ポエジーさんがマイブーム。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
