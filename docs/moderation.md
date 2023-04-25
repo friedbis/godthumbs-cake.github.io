@@ -45,7 +45,7 @@ title: Impression
 <br/>
 ### 愛と青春の旅だち
 reviewed in 2023-4-25 20:30:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTQ5MWEyNWMtOWIzYi00ZGI0LWI4OGYtOThkYjc3NWM4OTQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="愛と青春の旅だち"><br/>
 [愛と青春の旅だち [PR]](https://www.amazon.co.jp/dp/B00KUNZVN8/ref=cm_sw_r_as_gl_apa_gl_i_JCWDNXFRD8HQZZ5WZY7H?linkCode=ml2&tag=httyf19net-22)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
