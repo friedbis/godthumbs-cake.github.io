@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### トータル・リコール（2012）
+reviewed in 2023-4-27 02:00:11<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzc0NjNkYjctZTY1Yi00YjUxLTkwMjAtNDZhODRkNDc4OGY0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="トータル・リコール（2012）"><br/>
+[トータル・リコール（2012） [PR]](https://amzn.to/3HgY15N)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+名作のリメイク。あのtri-boobsの女子もいた。<br/>
 ### おかしな刑事(3)～居眠り刑事とエリート女警視が高級エステに父娘潜入捜査！美人モデル殺人・伊香保温泉に金と愛欲の罠！
 reviewed in 2023-4-15 23:00:10<br/>
 <br/>
