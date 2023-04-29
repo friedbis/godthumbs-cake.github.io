@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 裸の天使
+reviewed in 2023-4-29 10:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODU4ZWYyMTUtYTc4NC00ZGZmLWE5OWMtNzE1OWQ1NDAzMGY1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="裸の天使"><br/>
+[裸の天使 [PR]](https://amzn.to/3Vo2PfB)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+アン・ハサウェイさん<br/>
 ### 愛と青春の旅だち
 reviewed in 2023-4-25 20:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTQ5MWEyNWMtOWIzYi00ZGI0LWI4OGYtOThkYjc3NWM4OTQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="愛と青春の旅だち"><br/>
