@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 混浴温泉連続殺人（ピンクハンター）
+reviewed in 2023-5-1 21:00:05<br/>
+<br/>
+[混浴温泉連続殺人（ピンクハンター）](http://www.tvdrama-db.com/drama_info/p/id-17245)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 30日の不倫
 reviewed in 2023-4-30 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzQzMTU1MTI4N15BMl5BanBnXkFtZTcwMDE4OTQ2NA@@._V1_.jpg" alt="30日の不倫"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-4-27 13:00:07<br/>
 [断崖](http://www.tvdrama-db.com/drama_info/p/id-35062)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-山本陽子さん<br/>
-### トータル・リコール（2012）
-reviewed in 2023-4-27 02:00:11<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzc0NjNkYjctZTY1Yi00YjUxLTkwMjAtNDZhODRkNDc4OGY0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="トータル・リコール（2012）"><br/>
-[トータル・リコール（2012） [PR]](https://amzn.to/3HgY15N)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-名作のリメイク。あのtri-boobsの女子もいた。
+山本陽子さん
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-4-27 02:00:11<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
