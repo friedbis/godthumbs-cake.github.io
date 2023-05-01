@@ -43,13 +43,20 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
-### 混浴温泉連続殺人（ピンクハンター）
-reviewed in 2023-5-1 21:00:05<br/>
-<br/>
-[混浴温泉連続殺人（ピンクハンター）](http://www.tvdrama-db.com/drama_info/p/id-17245)<br/>
+### 蒲田行進曲
+reviewed in 2023-5-1 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODg1NGM4MzgtOWEzZi00OWQ5LWJmYWYtMjkxOGJmNWI4ZmVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="蒲田行進曲"><br/>
+[蒲田行進曲 [PR]](https://amzn.to/3LpzVaa)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
+松坂慶子さん<br/>
+### 混浴温泉連続殺人（ピンクハンターシリーズ）
+reviewed in 2023-5-1 21:00:05<br/>
 <br/>
+[混浴温泉連続殺人（ピンクハンターシリーズ）](http://www.tvdrama-db.com/drama_info/p/id-17245)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+思い出補正もあるが、長寿番組としてお気にいり。<br/>
 ### 蘭の女
 reviewed in 2023-4-23 14:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGZiYzA5YTgtYTBhZS00ZWYwLWFjNzItYTQyODRkMTc5ODJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="蘭の女"><br/>

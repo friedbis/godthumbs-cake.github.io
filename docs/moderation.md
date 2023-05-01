@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
-### 混浴温泉連続殺人（ピンクハンター）
-reviewed in 2023-5-1 21:00:05<br/>
-<br/>
-[混浴温泉連続殺人（ピンクハンター）](http://www.tvdrama-db.com/drama_info/p/id-17245)<br/>
+### 蒲田行進曲
+reviewed in 2023-5-1 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODg1NGM4MzgtOWEzZi00OWQ5LWJmYWYtMjkxOGJmNWI4ZmVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="蒲田行進曲"><br/>
+[蒲田行進曲 [PR]](https://amzn.to/3LpzVaa)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
+松坂慶子さん<br/>
+### 混浴温泉連続殺人（ピンクハンターシリーズ）
+reviewed in 2023-5-1 21:00:05<br/>
 <br/>
+[混浴温泉連続殺人（ピンクハンターシリーズ）](http://www.tvdrama-db.com/drama_info/p/id-17245)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+思い出補正もあるが、長寿番組としてお気にいり。<br/>
 ### 30日の不倫
 reviewed in 2023-4-30 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzQzMTU1MTI4N15BMl5BanBnXkFtZTcwMDE4OTQ2NA@@._V1_.jpg" alt="30日の不倫"><br/>
@@ -80,7 +87,7 @@ reviewed in 2023-4-30 22:30:05<br/>
 <br/>
 ### 刑事ニコ 法の死角
 reviewed in 2023-4-30 22:30:05<br/>
-<img src="https://www.imdb.com/title/tt0094602/mediaviewer/rm1785866240/" alt="刑事ニコ 法の死角"><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjYyYTMyNDYtYWEzMi00ZDQ2LWI1OGEtMjM0ZmJiNTRlMzE0XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg" alt="刑事ニコ 法の死角"><br/>
 [刑事ニコ 法の死角 [PR]](https://amzn.to/40RhXTK)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-4-29 10:30:04<br/>
 [友達のお母さん 恋のエピローグ [PR]](https://amzn.to/3LEqXr5)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 断崖
-reviewed in 2023-4-27 13:00:07<br/>
-<br/>
-[断崖](http://www.tvdrama-db.com/drama_info/p/id-35062)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-山本陽子さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,7 +163,6 @@ reviewed in 2023-4-27 13:00:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

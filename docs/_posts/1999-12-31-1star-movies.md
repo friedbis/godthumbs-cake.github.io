@@ -45,7 +45,7 @@ title: 1つ星の映画・ドラマ
 <br/>
 ### 刑事ニコ 法の死角
 reviewed in 2023-4-30 22:30:05<br/>
-<img src="https://www.imdb.com/title/tt0094602/mediaviewer/rm1785866240/" alt="刑事ニコ 法の死角"><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjYyYTMyNDYtYWEzMi00ZDQ2LWI1OGEtMjM0ZmJiNTRlMzE0XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg" alt="刑事ニコ 法の死角"><br/>
 [刑事ニコ 法の死角 [PR]](https://amzn.to/40RhXTK)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
