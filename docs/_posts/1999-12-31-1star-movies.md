@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女の中の風
+reviewed in 2023-5-2 16:00:07<br/>
+<br/>
+[女の中の風](http://www.tvdrama-db.com/drama_info/p/id-24249 )<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+浅野ゆう子さん<br/>
 ### 刑事ニコ 法の死角
 reviewed in 2023-4-30 22:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjYyYTMyNDYtYWEzMi00ZDQ2LWI1OGEtMjM0ZmJiNTRlMzE0XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg" alt="刑事ニコ 法の死角"><br/>
