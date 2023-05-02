@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 総集編 その3・その4 #51 #52
+reviewed in 2023-5-2 22:00:05<br/>
+<br/>
+[あなたと温泉に行ったら… 総集編 その3・その4 #51 #52](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 蒲田行進曲
 reviewed in 2023-5-1 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODg1NGM4MzgtOWEzZi00OWQ5LWJmYWYtMjkxOGJmNWI4ZmVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="蒲田行進曲"><br/>
