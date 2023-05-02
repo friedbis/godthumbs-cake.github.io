@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 総集編 その1・その2 #49 #50
+reviewed in 2023-5-2 21:30:06<br/>
+<br/>
+[あなたと温泉に行ったら… 総集編 その1・その2 #49 #50](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+こうやって見返すと、最初のころはぼかしを多用している。今はカメラマンの技術が向上したということか。それはそれで残念。<br/>
 ### 裸の天使
 reviewed in 2023-4-29 10:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODU4ZWYyMTUtYTc4NC00ZGZmLWE5OWMtNzE1OWQ1NDAzMGY1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="裸の天使"><br/>
