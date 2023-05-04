@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 総集編 その4・その5 #53 #54
+reviewed in 2023-5-5 00:30:05<br/>
+<br/>
+[あなたと温泉に行ったら… 総集編 その4・その5 #53 #54](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+奥村優希さんが<br/>
 ### あなたと温泉に行ったら… 総集編 その3・その4 #51 #52
 reviewed in 2023-5-2 22:00:05<br/>
 <br/>
