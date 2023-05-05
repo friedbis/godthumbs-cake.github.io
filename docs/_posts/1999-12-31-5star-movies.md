@@ -756,7 +756,7 @@ reviewed in 2021-8-27 21:25:03<br/>
 [Perfect Blue [PR]](https://amzn.to/2XXp6qV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+私が思う今敏監督の最高傑作<br/>
 ### 愛の渦
 reviewed in 2021-8-27 21:15:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzlkOTFmNTktZGI1OC00OTkxLWI3NGYtMmI1YmI5N2Q0MWMxXkEyXkFqcGdeQXVyMjI4MDEzMTE@._V1_FMjpg_UX600_.jpg" alt="愛の渦"><br/>
