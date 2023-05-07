@@ -49,7 +49,7 @@ reviewed in 2023-5-7 22:00:07<br/>
 [エージェント・マロリー [PR]](https://amzn.to/3LJa6lX)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ーナ・カラーノさん。アクション映画として素晴らしい。<br/>
 ### 女の中の風
 reviewed in 2023-5-2 16:00:07<br/>
 <br/>
