@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ドーベルマン刑事
+reviewed in 2023-5-8 22:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMjNjNmQzMzYtNGEwNS00NzRhLWFjZTktYTJjOWNmMTI0MmVkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="ドーベルマン刑事"><br/>
+[ドーベルマン刑事 [PR]](https://amzn.to/42lxnl2)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あなたと温泉に行ったら… 総集編 その1・その2 #49 #50
 reviewed in 2023-5-2 21:30:06<br/>
 <br/>
