@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 海にかかる霧
+reviewed in 2023-5-10 08:30:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTcwNjE5MmItMWE5ZS00NTgzLWFjNzUtMTRhMWViZGZjZGVlXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_.jpg" alt="海にかかる霧"><br/>
+[海にかかる霧 [PR]](https://amzn.to/42FDpwj)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### クロッシング
 reviewed in 2023-5-2 21:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTAzNWYwNTItYTI4Zi00MTA4LTk3NjUtOTYwMjZmZDNkMTQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" alt="クロッシング"><br/>
