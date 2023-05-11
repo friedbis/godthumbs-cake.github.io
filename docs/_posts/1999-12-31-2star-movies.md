@@ -45,11 +45,11 @@ title: 2つ星の映画・ドラマ
 <br/>
 ### カクテル
 reviewed in 2023-5-12 07:30:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDkwODMzMTctZWUyOC00N2UxLTg2MzYtNGVkYjNmYTFiNjZmXkEyXkFqcGdeQXVyMzkyOTg1MzE@._V1_.jpg" alt="カクテル"><br/>
 [カクテル [PR]](https://amzn.to/44VcpuI)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-久しぶりに観た。<br/>
+久しぶりにエリザベス・シューさんのta-dah!を観た。<br/>
 ### 続・未亡人下宿？　エロすぎちゃってごめんなさい♡
 reviewed in 2023-5-5 15:30:05<br/>
 <br/>
