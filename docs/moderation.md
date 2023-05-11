@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 女番長（スケバン）ブルース 牝蜂の挑戦
+reviewed in 2023-5-11 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWEwMWM1MjgtMzFjMC00MThkLThlNzYtNzllYWRjZDA4NzdkXkEyXkFqcGdeQXVyMzMxMDYyOTA@._V1_.jpg" alt="女番長（スケバン）ブルース 牝蜂の挑戦"><br/>
+[女番長（スケバン）ブルース 牝蜂の挑戦 [PR]](https://amzn.to/3I4Mgjl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+全然文化がわからないのだが「ワタクシカントウヨリノナガレモノ〜パールダンダンチョウスケバンノマキデス」ってなんで片言なんだろう。<br/>
 ### 海にかかる霧
 reviewed in 2023-5-10 08:30:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTcwNjE5MmItMWE5ZS00NTgzLWFjNzUtMTRhMWViZGZjZGVlXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_.jpg" alt="海にかかる霧"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-5-2 21:30:06<br/>
 [クロッシング [PR]](https://amzn.to/3oV7R77)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 真・夜王伝説 極上SEXの罠に堕ちる美女たち
-reviewed in 2023-5-2 16:30:07<br/>
-<br/>
-[真・夜王伝説 極上SEXの罠に堕ちる美女たち [PR]](https://amzn.to/3Hvqwx0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

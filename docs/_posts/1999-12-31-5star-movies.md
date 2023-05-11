@@ -106,10 +106,10 @@ reviewed in 2023-4-7 10:00:08<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
-### 女番長ブルース 牝蜂の逆襲
+### 女番長（スケバン）ブルース 牝蜂の逆襲
 reviewed in 2023-3-28 09:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMWYyZjYzMDctZDNmMi00YWM0LThhOGUtZWRhNzI2ZTMyNGE3XkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長ブルース 牝蜂の逆襲"><br/>
-[女番長ブルース 牝蜂の逆襲 [PR]](https://amzn.to/3LW4BlB)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWYyZjYzMDctZDNmMi00YWM0LThhOGUtZWRhNzI2ZTMyNGE3XkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長（スケバン）ブルース 牝蜂の逆襲"><br/>
+[女番長（スケバン）ブルース 牝蜂の逆襲 [PR]](https://amzn.to/3LW4BlB)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 ワセリンってこの時代からあったのか。 それと突然カットが変わって「カーセックスはもう古い。これからはオートバイファックだ！」で吹き出した。<br/>

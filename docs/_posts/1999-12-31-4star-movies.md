@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女番長（スケバン）ブルース 牝蜂の挑戦
+reviewed in 2023-5-11 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWEwMWM1MjgtMzFjMC00MThkLThlNzYtNzllYWRjZDA4NzdkXkEyXkFqcGdeQXVyMzMxMDYyOTA@._V1_.jpg" alt="女番長（スケバン）ブルース 牝蜂の挑戦"><br/>
+[女番長（スケバン）ブルース 牝蜂の挑戦 [PR]](https://amzn.to/3I4Mgjl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+全然文化がわからないのだが「ワタクシカントウヨリノナガレモノ〜パールダンダンチョウスケバンノマキデス」ってなんで片言なんだろう。<br/>
 ### ドーベルマン刑事
 reviewed in 2023-5-8 22:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjNjNmQzMzYtNGEwNS00NzRhLWFjZTktYTJjOWNmMTI0MmVkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="ドーベルマン刑事"><br/>
