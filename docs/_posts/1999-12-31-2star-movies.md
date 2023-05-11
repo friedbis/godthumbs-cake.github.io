@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### カクテル
+reviewed in 2023-5-12 07:30:04<br/>
+<br/>
+[カクテル [PR]](https://amzn.to/44VcpuI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+久しぶりに観た。<br/>
 ### 続・未亡人下宿？　エロすぎちゃってごめんなさい♡
 reviewed in 2023-5-5 15:30:05<br/>
 <br/>

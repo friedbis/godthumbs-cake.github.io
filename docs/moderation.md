@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### カクテル
+reviewed in 2023-5-12 07:30:04<br/>
+<br/>
+[カクテル [PR]](https://amzn.to/44VcpuI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+久しぶりに観た。<br/>
 ### ズームアップ ビニール本の女
 reviewed in 2023-5-11 13:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWY2MmY5OWEtODBlNC00NzQ5LWI2YWEtNGY4Y2E2NmMzMmU0XkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="ズームアップ ビニール本の女"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-5-5 00:30:05<br/>
 [あなたと温泉に行ったら… 総集編 その4・その5 #53 #54](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-奥村優希さんが素敵<br/>
-### あなたと温泉に行ったら… 総集編 その3・その4 #51 #52
-reviewed in 2023-5-2 22:00:05<br/>
-<br/>
-[あなたと温泉に行ったら… 総集編 その3・その4 #51 #52](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+奥村優希さんが素敵
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
