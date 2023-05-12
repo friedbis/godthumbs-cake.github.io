@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 明日に処刑を…
+reviewed in 2023-5-13 00:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTdiNmU4ZTUtMmY0Yi00ODljLTk0YzctMTA5NjU5MzNhYTNiXkEyXkFqcGdeQXVyMTI4MTQ4ODY1._V1_.jpg" alt="明日に処刑を…"><br/>
+[明日に処刑を… [PR]](https://amzn.to/41BJVTP)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+バーバラ・ハーシーさん<br/>
 ### 卒業白書
 reviewed in 2023-5-13 00:00:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTJkOGMwN2MtOWFkZi00ZGVkLThmMDgtNGJmMzBhNzc1MTAzXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="卒業白書"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-5-8 22:30:04<br/>
 [ドーベルマン刑事 [PR]](https://amzn.to/42lxnl2)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### エージェント・マロリー
-reviewed in 2023-5-7 22:00:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTgwMjIzNDE5NV5BMl5BanBnXkFtZTcwNDIzMzMyNw@@._V1_.jpg" alt="エージェント・マロリー"><br/>
-[エージェント・マロリー [PR]](https://amzn.to/3LJa6lX)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ジーナ・カラーノさん。アクション映画として素晴らしい。
+
 <br/>
 ### 索引
 <br/>
