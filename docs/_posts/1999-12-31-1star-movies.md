@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 風の刑事・東京発！
+reviewed in 2023-5-12 09:00:07<br/>
+<br/>
+[風の刑事・東京発！](http://www.tvdrama-db.com/drama_info/p/id-31025)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+9話。痴漢現場のシーン。<br/>
 ### 夢芝居
 reviewed in 2023-5-12 08:30:05<br/>
 <br/>

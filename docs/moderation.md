@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 風の刑事・東京発！
+reviewed in 2023-5-12 09:00:07<br/>
+<br/>
+[風の刑事・東京発！](http://www.tvdrama-db.com/drama_info/p/id-31025)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+9話。痴漢現場のシーン。<br/>
 ### 夢芝居
 reviewed in 2023-5-12 08:30:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-5-5 15:30:05<br/>
 [続・未亡人下宿？　エロすぎちゃってごめんなさい♡ [PR]](https://amzn.to/3nq9kCd)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### こぼれ落ちた夜
-reviewed in 2023-5-5 13:00:07<br/>
-<br/>
-[こぼれ落ちた夜 [PR]](https://amzn.to/3HGqXEt)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-義父と未亡人妻 こぼれ落ちた夜（別タイトル）
+
 <br/>
 ### 索引
 <br/>
