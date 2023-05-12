@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 性の教典 欲望の手ほどき
+reviewed in 2023-5-13 01:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTNlMjg2NzItMzFiZC00MTAxLTlhM2UtZTI5NWUyZGUzNGI1XkEyXkFqcGdeQXVyODgzNDIwODA@._V1_.jpg" alt="性の教典 欲望の手ほどき"><br/>
+[性の教典 欲望の手ほどき [PR]](https://amzn.to/3Bhn4m5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ズベイダ・ベルハジャモールさん。音楽がとてもよい。<br/>
 ### 明日に処刑を…
 reviewed in 2023-5-13 00:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTdiNmU4ZTUtMmY0Yi00ODljLTk0YzctMTA5NjU5MzNhYTNiXkEyXkFqcGdeQXVyMTI4MTQ4ODY1._V1_.jpg" alt="明日に処刑を…"><br/>
