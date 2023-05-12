@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 卒業白書
+reviewed in 2023-5-13 00:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTJkOGMwN2MtOWFkZi00ZGVkLThmMDgtNGJmMzBhNzc1MTAzXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="卒業白書"><br/>
+[卒業白書 [PR]](https://amzn.to/3LR2opO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+色々見どころはあれど、トムのダンスシーンが一番面白い。<br/>
 ### (秘)ハネムーン 暴行列車
 reviewed in 2023-5-11 13:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTJhMDJjYjEtZTNlYS00MzQwLTgzN2QtYjk5NDY4Y2M0ZTMwXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="(秘)ハネムーン 暴行列車"><br/>

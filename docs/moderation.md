@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 卒業白書
+reviewed in 2023-5-13 00:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTJkOGMwN2MtOWFkZi00ZGVkLThmMDgtNGJmMzBhNzc1MTAzXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="卒業白書"><br/>
+[卒業白書 [PR]](https://amzn.to/3LR2opO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+色々見どころはあれど、トムのダンスシーンが一番面白い。<br/>
 ### 風の刑事・東京発！
 reviewed in 2023-5-12 09:00:07<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-5-7 22:00:07<br/>
 [エージェント・マロリー [PR]](https://amzn.to/3LJa6lX)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ジーナ・カラーノさん。アクション映画として素晴らしい。<br/>
-### 続・未亡人下宿？　エロすぎちゃってごめんなさい♡
-reviewed in 2023-5-5 15:30:05<br/>
-<br/>
-[続・未亡人下宿？　エロすぎちゃってごめんなさい♡ [PR]](https://amzn.to/3nq9kCd)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+ジーナ・カラーノさん。アクション映画として素晴らしい。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
