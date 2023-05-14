@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ダイ・ハード
+reviewed in 2023-5-14 16:30:05<br/>
+<img src="https://www.imdb.com/title/tt0095016/mediaviewer/rm516299520?ref_=ttmi_mi_all_sf_97" alt="ダイ・ハード"><br/>
+[ダイ・ハード [PR]](https://amzn.to/3IaUuqi)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+冒頭の抜けがけしているカップル。屋上のポスター。<br/>
 ### 風の刑事・東京発！
 reviewed in 2023-5-12 09:00:07<br/>
 <br/>

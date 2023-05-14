@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ダイ・ハード
+reviewed in 2023-5-14 16:30:05<br/>
+<img src="https://www.imdb.com/title/tt0095016/mediaviewer/rm516299520?ref_=ttmi_mi_all_sf_97" alt="ダイ・ハード"><br/>
+[ダイ・ハード [PR]](https://amzn.to/3IaUuqi)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+冒頭の抜けがけしているカップル。屋上のポスター。<br/>
 ### 性の教典 欲望の手ほどき
 reviewed in 2023-5-13 01:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTNlMjg2NzItMzFiZC00MTAxLTlhM2UtZTI5NWUyZGUzNGI1XkEyXkFqcGdeQXVyODgzNDIwODA@._V1_.jpg" alt="性の教典 欲望の手ほどき"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-5-11 10:00:05<br/>
 [女番長（スケバン）ブルース 牝蜂の挑戦 [PR]](https://amzn.to/3I4Mgjl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-全然文化がわからないのだが「ワタクシカントウヨリノナガレモノ〜パールダンダンチョウスケバンノマキデス」ってなんで片言なんだろう。<br/>
-### 海にかかる霧
-reviewed in 2023-5-10 08:30:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYTcwNjE5MmItMWE5ZS00NTgzLWFjNzUtMTRhMWViZGZjZGVlXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_.jpg" alt="海にかかる霧"><br/>
-[海にかかる霧 [PR]](https://amzn.to/42FDpwj)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+全然文化がわからないのだが「ワタクシカントウヨリノナガレモノ〜パールダンダンチョウスケバンノマキデス」ってなんで片言なんだろう。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
