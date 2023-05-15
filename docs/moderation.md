@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 西成ゴローの四億円
+reviewed in 2023-5-15 21:30:06<br/>
+<br/>
+[西成ゴローの四億円 [PR]](https://amzn.to/3nW8D3Q)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ダイ・ハード
 reviewed in 2023-5-14 16:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDdiYmExYzEtYzRiMi00MmQ0LThkZDktNjIwOTc3YWQ1NTM1XkEyXkFqcGdeQXVyMDEwMjgxNg@@._V1_.jpg" alt="ダイ・ハード"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-5-11 13:00:05<br/>
 [(秘)ハネムーン 暴行列車 [PR]](https://amzn.to/3VVvoBp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 女番長（スケバン）ブルース 牝蜂の挑戦
-reviewed in 2023-5-11 10:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNWEwMWM1MjgtMzFjMC00MThkLThlNzYtNzllYWRjZDA4NzdkXkEyXkFqcGdeQXVyMzMxMDYyOTA@._V1_.jpg" alt="女番長（スケバン）ブルース 牝蜂の挑戦"><br/>
-[女番長（スケバン）ブルース 牝蜂の挑戦 [PR]](https://amzn.to/3I4Mgjl)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-全然文化がわからないのだが「ワタクシカントウヨリノナガレモノ〜パールダンダンチョウスケバンノマキデス」ってなんで片言なんだろう。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-5-11 10:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
