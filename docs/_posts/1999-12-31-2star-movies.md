@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 静かなるドン8
+reviewed in 2023-5-16 09:00:10<br/>
+<br/>
+[静かなるドン8 [PR]](https://amzn.to/42KGgos)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+温泉で裸で殺陣はさすがに無理があるのでは。<br/>
 ### カクテル
 reviewed in 2023-5-12 07:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDkwODMzMTctZWUyOC00N2UxLTg2MzYtNGVkYjNmYTFiNjZmXkEyXkFqcGdeQXVyMzkyOTg1MzE@._V1_.jpg" alt="カクテル"><br/>

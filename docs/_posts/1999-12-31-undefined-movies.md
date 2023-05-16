@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,16 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 静かなるドン8
+### ズームアップ 暴行白書
 reviewed in 2023-5-16 09:00:10<br/>
 <br/>
-[静かなるドン8 [PR]](https://amzn.to/42KGgos)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[ズームアップ 暴行白書 [PR]](https://amzn.to/3M3q8Hr)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-温泉で裸で殺陣はさすがに無理があるのでは。
+<br/>
+### 西成ゴローの四億円 -死闘篇-
+reviewed in 2023-5-16 09:00:10<br/>
+<br/>
+[西成ゴローの四億円 -死闘篇- [PR]](https://amzn.to/3W2MfCt)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
