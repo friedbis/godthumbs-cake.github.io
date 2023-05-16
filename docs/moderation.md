@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 盛り場ブルース
+reviewed in 2023-5-16 22:30:04<br/>
+<br/>
+[盛り場ブルース [PR]](https://amzn.to/3OeUn0F)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### コロニア
+reviewed in 2023-5-16 22:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzljNTg0YmQtMzRkNy00NGQyLWI4OTMtNmVkYzEwNGMwZWFkXkEyXkFqcGdeQXVyMzQwNzM4MzA@._V1_.jpg" alt="コロニア"><br/>
+[コロニア [PR]](https://amzn.to/42FPceq)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ズームアップ 暴行白書
 reviewed in 2023-5-16 09:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMThjYjc3NTAtNjQ2NS00ZjRjLTkzOTItZjhmNzg4N2NhNTFkXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="ズームアップ 暴行白書"><br/>
@@ -98,21 +112,7 @@ reviewed in 2023-5-13 00:00:09<br/>
 [卒業白書 [PR]](https://amzn.to/3LR2opO)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-色々見どころはあれど、トムのダンスシーンが一番面白い。<br/>
-### 風の刑事・東京発！
-reviewed in 2023-5-12 09:00:07<br/>
-<br/>
-[風の刑事・東京発！](http://www.tvdrama-db.com/drama_info/p/id-31025)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-9話。痴漢現場のシーン。<br/>
-### 夢芝居
-reviewed in 2023-5-12 08:30:05<br/>
-<br/>
-[夢芝居](http://www.tvdrama-db.com/drama_info/p/id-19193)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-浅野温子さん
+色々見どころはあれど、トムのダンスシーンが一番面白い。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-5-12 08:30:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

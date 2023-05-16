@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 盛り場ブルース
+reviewed in 2023-5-16 22:30:04<br/>
+<br/>
+[盛り場ブルース [PR]](https://amzn.to/3OeUn0F)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 静かなるドン8
 reviewed in 2023-5-16 09:00:10<br/>
 <br/>
