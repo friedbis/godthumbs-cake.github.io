@@ -316,10 +316,10 @@ reviewed in 2022-8-5 15:45:04<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
-### Love & Other Drugs
+### ラブ & ドラッグ
 reviewed in 2022-7-31 17:00:06<br/>
-<br/>
-[Love & Other Drugs [PR]](https://amzn.to/3BwzjMY)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTJhMTNkZGQtZDMxMi00MDc3LTgxYjgtOWY4ZTBjMzRmOWRjXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="ラブ & ドラッグ"><br/>
+[ラブ & ドラッグ [PR]](https://amzn.to/3IeaU15)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
@@ -332,7 +332,7 @@ reviewed in 2022-7-21 19:15:03<br/>
 <br/>
 ### 痴漢透明人間 PART4 奥の奥まで
 reviewed in 2022-6-21 14:35:03<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmVmYjI2NGItMjI4Ny00ZmRlLWEwOTMtYTY2NWUyYWQ5YjFjXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="痴漢透明人間 PART4 奥の奥まで"><br/>
 [痴漢透明人間 PART4 奥の奥まで](https://www.dmm.com/digital/videomarket/movie/-/detail/=/title_id=370176/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
@@ -343,7 +343,7 @@ reviewed in 2022-6-21 14:05:03<br/>
 [たわわなときめき [PR]](https://amzn.to/3ucyh4j)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-たわわな胸元　㊙生撮りタイム（別タイトル）<br/>
+たわわなときめき あなたの人生変わるかも（R18版）、たわわな胸元　㊙生撮りタイム（別タイトル）<br/>
 ### 痴女昇天
 reviewed in 2022-6-10 13:15:04<br/>
 <br/>
