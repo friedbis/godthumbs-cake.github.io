@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ダーク・エンジェル
+reviewed in 2023-5-19 05:30:04<br/>
+<br/>
+[ダーク・エンジェル [PR]](https://amzn.to/42Ovldj)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 子連れ殺人拳
 reviewed in 2023-5-18 12:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDNkZDdkZGQtOWI5ZC00OTJiLWJhZDUtNTI2NzA3OTczMTkwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="子連れ殺人拳"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-5-14 16:30:05<br/>
 [ダイ・ハード [PR]](https://amzn.to/3IaUuqi)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-冒頭の抜けがけしているカップル。屋上のポスター。<br/>
-### 性の教典 欲望の手ほどき
-reviewed in 2023-5-13 01:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTNlMjg2NzItMzFiZC00MTAxLTlhM2UtZTI5NWUyZGUzNGI1XkEyXkFqcGdeQXVyODgzNDIwODA@._V1_.jpg" alt="性の教典 欲望の手ほどき"><br/>
-[性の教典 欲望の手ほどき [PR]](https://amzn.to/3Bhn4m5)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ズベイダ・ベルハジャモールさん。音楽がとてもよい。
+冒頭の抜けがけしているカップル。屋上のポスター。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-5-13 01:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
