@@ -43,9 +43,16 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 透明人間
+reviewed in 2023-5-19 06:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzA3MmQ2ZDctMGU4Ni00N2YzLWFiNjgtMTliMTJmYTgwNzhhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" alt="透明人間"><br/>
+[透明人間 [PR]](https://amzn.to/3o8SYye)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ダーク・エンジェル
 reviewed in 2023-5-19 05:30:04<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjVkYjhkZDEtMmRhMi00NTRjLTk1NWUtMmE3YzZlOWNlMjlhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ダーク・エンジェル"><br/>
 [ダーク・エンジェル [PR]](https://amzn.to/42Ovldj)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
