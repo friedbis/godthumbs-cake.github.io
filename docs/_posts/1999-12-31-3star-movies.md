@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愛しすぎた男 37年の疑惑
+reviewed in 2023-5-24 23:30:05<br/>
+<br/>
+[愛しすぎた男 37年の疑惑 [PR]](https://amzn.to/3OBkK0U)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 肉体の門（1964）
 reviewed in 2023-5-17 21:00:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzA5M2U1NWUtNmRiNy00ZjNiLWJlZGMtYjhiZDFkNjI4M2I1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="肉体の門（1964）"><br/>
