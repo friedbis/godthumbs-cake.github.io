@@ -43,6 +43,27 @@ title: Impression
 ## 作品
 
 <br/>
+### クイーンズ・ギャンビット
+reviewed in 2023-5-27 23:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjZiOTlhYTItZjAyMC00YjRmLWEzNWMtZDc0ZmFjMjA0MDc0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" alt="クイーンズ・ギャンビット"><br/>
+[クイーンズ・ギャンビット](https://www.netflix.com/jp/title/80234304)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+アニャ・テイラー＝ジョイさん。それにしても話が面白すぎる。<br/>
+### エマ
+reviewed in 2023-5-27 23:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDljYzBjYjctNjhkNy00NWJlLWEwZjgtMmFlMzhjMTRkNDk5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="エマ"><br/>
+[エマ [PR]](https://amzn.to/3MZVn7S)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+アニャ・テイラー＝ジョイさん<br/>
+### サンクチュアリ -聖域-
+reviewed in 2023-5-27 23:30:05<br/>
+<br/>
+[サンクチュアリ -聖域-](https://www.netflix.com/jp/title/81144910)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+面白い。<br/>
 ### ハロウィーン
 reviewed in 2023-5-26 23:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGM1MzRmOWMtOGVhMC00ZjVkLWJhMjktMGM2NTY5MDFiODI2XkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="ハロウィーン"><br/>
@@ -91,31 +112,11 @@ reviewed in 2023-5-25 22:00:08<br/>
 [キュート・リトル・バニーズ [PR]](https://amzn.to/428toHx)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-マジか。って感じ。<br/>
-### スピーシーズ
-reviewed in 2023-5-25 22:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYmZhYmZkYjctMjZlNy00MTExLWI1MDQtZmUwOGYzNTk3ODY3XkEyXkFqcGdeQXVyODczOTM0NTU@._V1_.jpg" alt="スピーシーズ"><br/>
-[スピーシーズ [PR]](https://amzn.to/3MtHGN0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ナターシャ・ヘンストリッジさんが全て。<br/>
-### くノ一化粧
-reviewed in 2023-5-25 07:30:07<br/>
-<br/>
-[くノ一化粧 [PR]](https://amzn.to/3q8eDXM)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 未亡人アパート 巨乳のうずく夜
-reviewed in 2023-5-25 00:00:08<br/>
-<br/>
-[未亡人アパート 巨乳のうずく夜](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=174okuram041/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-めぞん一刻かな。
+マジか。って感じ。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

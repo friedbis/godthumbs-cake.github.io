@@ -43,6 +43,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### クイーンズ・ギャンビット
+reviewed in 2023-5-27 23:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjZiOTlhYTItZjAyMC00YjRmLWEzNWMtZDc0ZmFjMjA0MDc0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" alt="クイーンズ・ギャンビット"><br/>
+[クイーンズ・ギャンビット](https://www.netflix.com/jp/title/80234304)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+アニャ・テイラー＝ジョイさん。それにしても話が面白すぎる。<br/>
+### エマ
+reviewed in 2023-5-27 23:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDljYzBjYjctNjhkNy00NWJlLWEwZjgtMmFlMzhjMTRkNDk5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="エマ"><br/>
+[エマ [PR]](https://amzn.to/3MZVn7S)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+アニャ・テイラー＝ジョイさん<br/>
 ### スピーシーズ
 reviewed in 2023-5-25 22:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmZhYmZkYjctMjZlNy00MTExLWI1MDQtZmUwOGYzNTk3ODY3XkEyXkFqcGdeQXVyODczOTM0NTU@._V1_.jpg" alt="スピーシーズ"><br/>
