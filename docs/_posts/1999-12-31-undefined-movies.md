@@ -43,9 +43,16 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 人妻が燃えるクラス会
-reviewed in 2023-5-28 02:30:05<br/>
+### パパ活 恋愛方程式
+reviewed in 2023-5-28 03:00:06<br/>
 <br/>
-[人妻が燃えるクラス会 [PR]](https://amzn.to/43wIAz0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+[パパ活 恋愛方程式 [PR]](https://amzn.to/3MXH7wq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 愛しい人妻 ひと夏のたわむれ
+reviewed in 2023-5-28 03:00:06<br/>
+<br/>
+[愛しい人妻 ひと夏のたわむれ](https://www.suruga-ya.jp/product/detail/134000187)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

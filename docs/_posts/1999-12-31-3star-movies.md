@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### パパ活 恋愛方程式
+reviewed in 2023-5-28 03:00:06<br/>
+<br/>
+[パパ活 恋愛方程式 [PR]](https://amzn.to/3MXH7wq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### クイーンズ・ギャンビット
 reviewed in 2023-5-27 23:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjZiOTlhYTItZjAyMC00YjRmLWEzNWMtZDc0ZmFjMjA0MDc0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" alt="クイーンズ・ギャンビット"><br/>

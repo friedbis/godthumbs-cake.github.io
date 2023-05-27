@@ -43,13 +43,27 @@ title: Impression
 ## 作品
 
 <br/>
+### パパ活 恋愛方程式
+reviewed in 2023-5-28 03:00:06<br/>
+<br/>
+[パパ活 恋愛方程式 [PR]](https://amzn.to/3MXH7wq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 愛しい人妻 ひと夏のたわむれ
+reviewed in 2023-5-28 03:00:06<br/>
+<br/>
+[愛しい人妻 ひと夏のたわむれ](https://www.suruga-ya.jp/product/detail/134000187)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 人妻が燃えるクラス会
 reviewed in 2023-5-28 02:30:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWY0ZDYxMGQtMWMzZC00ZTNlLWI2ZTgtNTNhODY4YzAzNGUxXkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="人妻が燃えるクラス会"><br/>
 [人妻が燃えるクラス会 [PR]](https://amzn.to/43wIAz0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+浮気妻　淫乱同窓会（別タイトル）<br/>
 ### クイーンズ・ギャンビット
 reviewed in 2023-5-27 23:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjZiOTlhYTItZjAyMC00YjRmLWEzNWMtZDc0ZmFjMjA0MDc0XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg" alt="クイーンズ・ギャンビット"><br/>
@@ -98,21 +112,7 @@ reviewed in 2023-5-26 15:30:05<br/>
 [女子大生の揺れ乳 揉んでいかせる [PR]](https://amzn.to/45uiqPp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ここでスティービーワンダーが使われていることに本人気づいているのだろうか。<br/>
-### 情痴 アヴァンチュール
-reviewed in 2023-5-26 15:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjMzOTQ2NTc1N15BMl5BanBnXkFtZTgwMDIxMDA2MDE@._V1_.jpg" alt="情痴 アヴァンチュール"><br/>
-[情痴 アヴァンチュール [PR]](https://amzn.to/3WE1rX0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 死霊のはらわた
-reviewed in 2023-5-26 11:30:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYWU1MmNkYTUtNmVlMC00ZmI4LWE0ZjctZTlmMjFhMDM2ZWQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQxNTI2Mzg@._V1_.jpg" alt="死霊のはらわた"><br/>
-[死霊のはらわた [PR]](https://amzn.to/45r5cTH)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+ここでスティービーワンダーが使われていることに本人気づいているのだろうか。
 <br/>
 ### 索引
 <br/>
