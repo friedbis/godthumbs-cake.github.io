@@ -43,6 +43,20 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 静かなるドン９
+reviewed in 2023-5-28 08:00:07<br/>
+<br/>
+[静かなるドン９ [PR]](https://amzn.to/42afdlc)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 温泉宿一発二日 艶子の湯
+reviewed in 2023-5-28 08:00:07<br/>
+<br/>
+[温泉宿一発二日 艶子の湯](https://www.videomarket.jp/title/112785)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ハロウィーン
 reviewed in 2023-5-26 23:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGM1MzRmOWMtOGVhMC00ZjVkLWJhMjktMGM2NTY5MDFiODI2XkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="ハロウィーン"><br/>
