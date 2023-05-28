@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ハスラー2
+### 私が熟れた季節
 reviewed in 2023-5-28 15:00:09<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWFhNjE1YTEtZDhjZS00YWUzLWI4MzctZjU4NTk5MTNhMjg4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ハスラー2"><br/>
-[ハスラー2 [PR]](https://amzn.to/3qhiP7O)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTA3NWNjOTQtNGUxYi00YTA1LWFiZDktMzdlMWZhMDg2NDc3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="私が熟れた季節"><br/>
+[私が熟れた季節 [PR]](https://amzn.to/3osl0VD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-メアリー・エリザベス・マストラントニオさん
