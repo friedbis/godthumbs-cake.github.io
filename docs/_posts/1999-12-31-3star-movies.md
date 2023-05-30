@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スピーシーズ2
+reviewed in 2023-5-30 11:30:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDQ0ZDMyM2YtNmFiZi00NTI4LWJlN2YtOWJhZDNjNGEwMmY1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="スピーシーズ2"><br/>
+[スピーシーズ2 [PR]](https://amzn.to/3oC9neF)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+前作は１人だったのが、今回は４人になったのでそういう場面も４倍に。<br/>
 ### ランブルフィッシュ
 reviewed in 2023-5-30 06:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzQ1N2ExOTYtMWYzZi00ZjQwLWIzOWMtMGQwNTUzNWI1MzE4XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="ランブルフィッシュ"><br/>
