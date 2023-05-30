@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ひとくず
+reviewed in 2023-5-30 10:30:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzE3MDcxYTctMzMxZi00NGFiLTgwYTAtY2RhODA1MzYwYTA2XkEyXkFqcGdeQXVyMTc0MTEzMzM@._V1_.jpg" alt="ひとくず"><br/>
+[ひとくず [PR]](https://amzn.to/3qkNvVO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+とにかくすごかった。<br/>
 ### 静かなるドン９
 reviewed in 2023-5-28 08:00:07<br/>
 <br/>
