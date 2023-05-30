@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 平成エロス～人妻不倫物語 他～
+reviewed in 2023-5-30 14:00:12<br/>
+<br/>
+[平成エロス～人妻不倫物語 他～](https://www.necoweb.com/neco/program/detail.php?id=6218)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+禁愛 オトナ×恋愛 私の中の浮気裁判（R18版）、Batsuichi 蒸す女（R18版）<br/>
 ### ひとくず
 reviewed in 2023-5-30 10:30:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzE3MDcxYTctMzMxZi00NGFiLTgwYTAtY2RhODA1MzYwYTA2XkEyXkFqcGdeQXVyMTc0MTEzMzM@._V1_.jpg" alt="ひとくず"><br/>
