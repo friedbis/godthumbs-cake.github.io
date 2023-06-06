@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### シンプルな情熱
+reviewed in 2023-6-6 15:30:12<br/>
+<br/>
+[シンプルな情熱 [PR]](https://amzn.to/45KuNXD)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 真・透明変態人間 美女を襲う透明香水の甘い罠
 reviewed in 2023-6-2 23:00:09<br/>
 <br/>
