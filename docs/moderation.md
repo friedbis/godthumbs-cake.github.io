@@ -45,11 +45,11 @@ title: Impression
 <br/>
 ### シンプルな情熱
 reviewed in 2023-6-6 15:30:12<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDVkODEyZTEtNmUxMi00YTQzLWI5NjAtOTVlMTBlN2FiYmNlXkEyXkFqcGdeQXVyNTcxNjk0MTU@._V1_.jpg" alt="シンプルな情熱"><br/>
 [シンプルな情熱 [PR]](https://amzn.to/45KuNXD)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+レティシア・ドッシュさん <br/>
 ### 君といつまでも
 reviewed in 2023-6-6 14:30:10<br/>
 <br/>
@@ -162,7 +162,6 @@ reviewed in 2023-5-30 06:00:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
