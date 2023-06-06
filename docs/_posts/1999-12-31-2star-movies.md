@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 君といつまでも
+reviewed in 2023-6-6 14:30:10<br/>
+<br/>
+[君といつまでも [PR]](https://amzn.to/42keu0U)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### マーメイド ～海から来た少女～
 reviewed in 2023-6-4 23:00:06<br/>
 <br/>
