@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 団鬼六 女教師縄地獄
+reviewed in 2023-6-10 13:30:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWE1ZWYxMjQtYmIzNi00MzAxLWEzM2EtYjU2MmRhOTFjN2UzXkEyXkFqcGdeQXVyNzYwNzAxMjM@._V1_.jpg" alt="団鬼六 女教師縄地獄"><br/>
+[団鬼六 女教師縄地獄 [PR]](https://amzn.to/3P4YcGj)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
+### 人妻痴情
+reviewed in 2023-6-10 13:30:06<br/>
+<br/>
+[人妻痴情]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+犯されて…。 〜昭和性虐籠城日記〜（R18版）<br/>
 ### 同級生 蝕まれてゆく人妻
 reviewed in 2023-6-10 13:00:06<br/>
 <img src="https://m.media-amazon.com/images/I/71BsggFPERL._AC_SL1297_.jpg" alt="同級生 蝕まれてゆく人妻"><br/>
@@ -98,24 +112,11 @@ reviewed in 2023-5-30 14:00:12<br/>
 [平成エロス～人妻不倫物語 他～](https://www.necoweb.com/neco/program/detail.php?id=6218)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-禁愛 オトナ×恋愛 私の中の浮気裁判（R18版）、Batsuichi 蒸す女（R18版）<br/>
-### スピーシーズ2
-reviewed in 2023-5-30 11:30:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDQ0ZDMyM2YtNmFiZi00NTI4LWJlN2YtOWJhZDNjNGEwMmY1XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="スピーシーズ2"><br/>
-[スピーシーズ2 [PR]](https://amzn.to/3oC9neF)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-前作は１人だったのが、今回は４人になったのでそういう場面も４倍に。<br/>
-### ひとくず
-reviewed in 2023-5-30 10:30:09<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMzE3MDcxYTctMzMxZi00NGFiLTgwYTAtY2RhODA1MzYwYTA2XkEyXkFqcGdeQXVyMTc0MTEzMzM@._V1_.jpg" alt="ひとくず"><br/>
-[ひとくず [PR]](https://amzn.to/3qkNvVO)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-とにかくすごかった。
+禁愛 オトナ×恋愛 私の中の浮気裁判（R18版）、Batsuichi 蒸す女（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
