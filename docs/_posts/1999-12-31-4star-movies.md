@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 同級生 蝕まれてゆく人妻
+reviewed in 2023-6-10 13:00:06<br/>
+<img src="https://m.media-amazon.com/images/I/71BsggFPERL._AC_SL1297_.jpg" alt="同級生 蝕まれてゆく人妻"><br/>
+[同級生 蝕まれてゆく人妻 [PR]](https://amzn.to/3P57j9H)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### シンプルな情熱
 reviewed in 2023-6-6 15:30:12<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZDVkODEyZTEtNmUxMi00YTQzLWI5NjAtOTVlMTBlN2FiYmNlXkEyXkFqcGdeQXVyNTcxNjk0MTU@._V1_.jpg" alt="シンプルな情熱"><br/>
