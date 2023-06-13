@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### やくざ刑事 恐怖の毒ガス
+reviewed in 2023-6-13 18:00:07<br/>
+<br/>
+[やくざ刑事 恐怖の毒ガス [PR]](https://amzn.to/3oYDpJF)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 人妻湿地官能～妖艶な人妻 他～
 reviewed in 2023-5-28 23:00:07<br/>
 <br/>
