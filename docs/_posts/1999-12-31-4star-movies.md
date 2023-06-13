@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### かぶりつき人生
+reviewed in 2023-6-13 10:00:16<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWY1MDc4YzgtM2Q0My00MWRiLThmY2EtMzU2MWUyOGQxZjY4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="かぶりつき人生"><br/>
+[かぶりつき人生 [PR]](https://amzn.to/3JaIKV5)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 同級生 蝕まれてゆく人妻
 reviewed in 2023-6-10 13:00:06<br/>
 <img src="https://m.media-amazon.com/images/I/71BsggFPERL._AC_SL1297_.jpg" alt="同級生 蝕まれてゆく人妻"><br/>
