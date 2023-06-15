@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ジョーズ
+reviewed in 2023-6-15 13:00:05<br/>
+<br/>
+[ジョーズ [PR]](https://amzn.to/3paf4AD)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### やくざ刑事 恐怖の毒ガス
 reviewed in 2023-6-13 18:00:07<br/>
 <br/>
