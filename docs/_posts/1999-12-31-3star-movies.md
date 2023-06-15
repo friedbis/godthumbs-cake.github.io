@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### BG、ある19才の日記 あげてよかった!
+reviewed in 2023-6-16 00:00:07<br/>
+<br/>
+[BG、ある19才の日記 あげてよかった! [PR]](https://amzn.to/462OwSx)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### スピーシーズ3 禁断の種
 reviewed in 2023-6-3 00:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzYzNzIwNzktNmVhNS00ZDU1LTk4NjUtYTRlNDlmOTA4ZDQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="スピーシーズ3 禁断の種"><br/>
