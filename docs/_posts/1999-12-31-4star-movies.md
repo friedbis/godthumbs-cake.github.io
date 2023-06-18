@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女番長ゲリラ
+reviewed in 2023-6-19 06:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDA5OTQxNjYtNWQ3YS00MzkyLTgwYjAtYjJmMTAwZDY3NDM1XkEyXkFqcGdeQXVyMzMxMDYyOTA@._V1_.jpg" alt="女番長ゲリラ"><br/>
+[女番長ゲリラ [PR]](https://amzn.to/3Jl1fqd)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### かぶりつき人生
 reviewed in 2023-6-13 10:00:16<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMWY1MDc4YzgtM2Q0My00MWRiLThmY2EtMzU2MWUyOGQxZjY4XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="かぶりつき人生"><br/>

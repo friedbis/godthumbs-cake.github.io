@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ショーガール
+reviewed in 2023-6-19 06:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BODQxNWU3ZDItMjBjYS00ZjE4LTkzMDMtZDQyM2ZiOTdhNWQzXkEyXkFqcGdeQXVyMjkyNzY5OTU@._V1_.jpg" alt="ショーガール"><br/>
+[ショーガール [PR]](https://amzn.to/42ULrS0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### BG、ある19才の日記 あげてよかった!
 reviewed in 2023-6-16 00:00:07<br/>
 <br/>
