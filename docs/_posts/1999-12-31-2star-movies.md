@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 恥辱の師弟愛
+reviewed in 2023-6-20 13:30:10<br/>
+<br/>
+[恥辱の師弟愛]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+恥辱の愛 生殺与奪の師弟関係（R18版）<br/>
 ### 美人後家の悦楽
 reviewed in 2023-6-19 06:00:06<br/>
 <br/>
