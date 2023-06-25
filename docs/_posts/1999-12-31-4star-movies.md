@@ -45,7 +45,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### ルームメイト
 reviewed in 2023-6-25 21:00:13<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWRkOTM0NTEtMWJjZi00ZWFkLTk5OGQtNzA2OWI1OTc4OTRhXkEyXkFqcGdeQXVyMTI4MTQ4ODY1._V1_.jpg" alt="ルームメイト"><br/>
 [ルームメイト [PR]](https://amzn.to/43XiXs0)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

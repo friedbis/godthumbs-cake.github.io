@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### オールウェイズ
+reviewed in 2023-6-26 03:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGE1MGM4ZDgtM2ZlMS00Y2Y0LWE3YjgtODU1ODIzZTg3ZjgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="オールウェイズ"><br/>
+[オールウェイズ [PR]](https://amzn.to/3XrWBfy)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ジョーズ
 reviewed in 2023-6-15 13:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDk4YzI5YmEtNzUxMC00OWFkLWEyM2MtNWJjMDM3N2M0Y2I4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="ジョーズ"><br/>

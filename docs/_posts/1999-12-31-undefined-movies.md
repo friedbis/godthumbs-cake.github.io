@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: ルから始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,24 +43,9 @@ title: ルから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### ルームメイト
-reviewed in 2023-6-25 21:00:13<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWRkOTM0NTEtMWJjZi00ZWFkLTk5OGQtNzA2OWI1OTc4OTRhXkEyXkFqcGdeQXVyMTI4MTQ4ODY1._V1_.jpg" alt="ルームメイト"><br/>
-[ルームメイト [PR]](https://amzn.to/43XiXs0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+### オールウェイズ
+reviewed in 2023-6-26 03:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGE1MGM4ZDgtM2ZlMS00Y2Y0LWE3YjgtODU1ODIzZTg3ZjgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="オールウェイズ"><br/>
+[オールウェイズ [PR]](https://amzn.to/3XrWBfy)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 流浪の月
-reviewed in 2023-2-20 15:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BN2VmNTQwODUtODc5Zi00OGY2LWJiOTctYjgwMTJmNzU2M2I5XkEyXkFqcGdeQXVyODMyOTYyMTM@._V1_.jpg" alt="流浪の月"><br/>
-[流浪の月 [PR]](https://amzn.to/3ZlSC4j)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-広瀬すずさん、松坂桃李さん<br/>
-### ルパン三世 Part2 死の翼アルバトロス
-reviewed in 2021-8-28 09:50:04<br/>
-<br/>
-[ルパン三世 Part2 死の翼アルバトロス [PR]](https://www.amazon.co.jp/gp/video/detail/B0756MSFPV/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ほぼすっぽんぽんのぽんと
