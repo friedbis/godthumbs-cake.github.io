@@ -43,6 +43,20 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 三代目代行2
+reviewed in 2023-6-27 17:30:12<br/>
+<br/>
+[三代目代行2 [PR]](https://amzn.to/3NOlFub)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 刑事・鳴沢了～東京テロ、史上最悪の24時間～
+reviewed in 2023-6-27 17:30:12<br/>
+<br/>
+[刑事・鳴沢了～東京テロ、史上最悪の24時間～](http://www.tvdrama-db.com/drama_info/p/id-42830)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### オールウェイズ
 reviewed in 2023-6-26 03:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGE1MGM4ZDgtM2ZlMS00Y2Y0LWE3YjgtODU1ODIzZTg3ZjgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="オールウェイズ"><br/>

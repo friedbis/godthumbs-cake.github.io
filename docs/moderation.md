@@ -43,6 +43,27 @@ title: Impression
 ## 作品
 
 <br/>
+### ダイアモンドは傷つかない
+reviewed in 2023-6-27 17:30:12<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDNlMWJlYTctMWJlNS00MGY0LWEyMzItZWM2ZjhhOTNlOTMyXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="ダイアモンドは傷つかない"><br/>
+[ダイアモンドは傷つかない [PR]](https://amzn.to/3CPqFbK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+田中美佐子さん<br/>
+### 三代目代行2
+reviewed in 2023-6-27 17:30:12<br/>
+<br/>
+[三代目代行2 [PR]](https://amzn.to/3NOlFub)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 刑事・鳴沢了～東京テロ、史上最悪の24時間～
+reviewed in 2023-6-27 17:30:12<br/>
+<br/>
+[刑事・鳴沢了～東京テロ、史上最悪の24時間～](http://www.tvdrama-db.com/drama_info/p/id-42830)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### オールウェイズ
 reviewed in 2023-6-26 03:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGE1MGM4ZDgtM2ZlMS00Y2Y0LWE3YjgtODU1ODIzZTg3ZjgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="オールウェイズ"><br/>
@@ -91,31 +112,11 @@ reviewed in 2023-6-19 06:00:06<br/>
 [Ｗ不倫 寝取られ妻と小悪魔娘 [PR]](https://amzn.to/43Nujyy)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 女番長ゲリラ
-reviewed in 2023-6-19 06:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMDA5OTQxNjYtNWQ3YS00MzkyLTgwYjAtYjJmMTAwZDY3NDM1XkEyXkFqcGdeQXVyMzMxMDYyOTA@._V1_.jpg" alt="女番長ゲリラ"><br/>
-[女番長ゲリラ [PR]](https://amzn.to/3Jl1fqd)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 暴走パニック 大激突
-reviewed in 2023-6-19 06:00:06<br/>
-<br/>
-[暴走パニック 大激突 [PR]](https://amzn.to/42QZ0Sa)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### BG、ある19才の日記 あげてよかった!
-reviewed in 2023-6-16 00:00:07<br/>
-<br/>
-[BG、ある19才の日記 あげてよかった! [PR]](https://amzn.to/462OwSx)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -162,6 +163,7 @@ reviewed in 2023-6-16 00:00:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

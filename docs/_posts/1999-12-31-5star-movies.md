@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ダイアモンドは傷つかない
+reviewed in 2023-6-27 17:30:12<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDNlMWJlYTctMWJlNS00MGY0LWEyMzItZWM2ZjhhOTNlOTMyXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="ダイアモンドは傷つかない"><br/>
+[ダイアモンドは傷つかない [PR]](https://amzn.to/3CPqFbK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+田中美佐子さん<br/>
 ### 巨乳妻　性の遍歴
 reviewed in 2023-6-20 13:30:10<br/>
 <br/>
