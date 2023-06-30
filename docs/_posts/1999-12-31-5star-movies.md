@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 堕靡泥の星 美少女狩り
+reviewed in 2023-7-1 01:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGZiOTI3ZGEtYTA3Ni00M2ZhLWIzMTEtYmQxMDkwZjllNmU4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="堕靡泥の星 美少女狩り"><br/>
+[堕靡泥の星 美少女狩り [PR]](https://amzn.to/3NBiTar)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+子供に手をあげたらあかん<br/>
 ### さよならミス・ワイコフ
 reviewed in 2023-7-1 00:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmU4ZWQxYmQtNGU3OS00ZWRkLWEzNTYtMTBmNjkwODlmYWM1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="さよならミス・ワイコフ"><br/>

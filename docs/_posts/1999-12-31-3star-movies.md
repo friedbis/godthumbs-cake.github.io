@@ -46,7 +46,7 @@ title: 3つ星の映画・ドラマ
 ### 殺意の夏
 reviewed in 2023-7-1 00:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGYwNDExYjMtOWExOS00YjRjLTg5ZGItYTVmMWE3MTU4OTJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="殺意の夏"><br/>
-[殺意の夏]()<br/>
+[殺意の夏 [PR]](https://amzn.to/3CV9pSw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 イザベル・アジャーニさん<br/>
