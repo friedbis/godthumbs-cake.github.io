@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### さよならミス・ワイコフ
+reviewed in 2023-7-1 00:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmU4ZWQxYmQtNGU3OS00ZWRkLWEzNTYtMTBmNjkwODlmYWM1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="さよならミス・ワイコフ"><br/>
+[さよならミス・ワイコフ [PR]](https://amzn.to/3NAJMLu)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### ダイアモンドは傷つかない
 reviewed in 2023-6-27 17:30:12<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDNlMWJlYTctMWJlNS00MGY0LWEyMzItZWM2ZjhhOTNlOTMyXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="ダイアモンドは傷つかない"><br/>

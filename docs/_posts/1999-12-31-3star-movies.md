@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 殺意の夏
+reviewed in 2023-7-1 00:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGYwNDExYjMtOWExOS00YjRjLTg5ZGItYTVmMWE3MTU4OTJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="殺意の夏"><br/>
+[殺意の夏]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+イザベル・アジャーニさん<br/>
 ### ショーガール
 reviewed in 2023-6-19 06:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODQxNWU3ZDItMjBjYS00ZjE4LTkzMDMtZDQyM2ZiOTdhNWQzXkEyXkFqcGdeQXVyMjkyNzY5OTU@._V1_.jpg" alt="ショーガール"><br/>
