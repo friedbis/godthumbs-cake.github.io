@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### デモンズ
+reviewed in 2023-6-30 23:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTk2NzNmOGMtNDBmMy00NjE5LTk3YmEtYzc3YjU1NTZkZWI3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="デモンズ"><br/>
+[デモンズ [PR]](https://amzn.to/434ws7V)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 恥辱の師弟愛
 reviewed in 2023-6-20 13:30:10<br/>
 <br/>
