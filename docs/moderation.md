@@ -116,7 +116,6 @@ reviewed in 2023-6-26 03:00:07<br/>
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -134,7 +133,6 @@ reviewed in 2023-6-26 03:00:07<br/>
 - [セから始まる映画・ドラマ](/セ-movies.html)
 - [ソから始まる映画・ドラマ](/ソ-movies.html)
 - [タから始まる映画・ドラマ](/タ-movies.html)
-- [ダから始まる映画・ドラマ](/ダ-movies.html)
 - [チから始まる映画・ドラマ](/チ-movies.html)
 - [ツから始まる映画・ドラマ](/ツ-movies.html)
 - [テから始まる映画・ドラマ](/テ-movies.html)
@@ -164,6 +162,7 @@ reviewed in 2023-6-26 03:00:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [堕から始まる映画・ドラマ](/堕-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
