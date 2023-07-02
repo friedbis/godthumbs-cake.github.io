@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 太陽戦隊サンバルカン
+reviewed in 2023-7-2 22:00:10<br/>
+<br/>
+[太陽戦隊サンバルカン [PR]](https://amzn.to/44rclSn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+21話。ゼロガールズのゼロワンさん。22話で倒されちゃうのが残念。<br/>
 ### XX ダブルエックス しなやかな美獣
 reviewed in 2023-7-1 12:00:09<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-6-27 17:30:12<br/>
 [三代目代行2 [PR]](https://amzn.to/3NOlFub)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 刑事・鳴沢了～東京テロ、史上最悪の24時間～
-reviewed in 2023-6-27 17:30:12<br/>
-<br/>
-[刑事・鳴沢了～東京テロ、史上最悪の24時間～](http://www.tvdrama-db.com/drama_info/p/id-42830)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

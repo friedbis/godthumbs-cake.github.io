@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 太陽戦隊サンバルカン
+reviewed in 2023-7-2 22:00:10<br/>
+<br/>
+[太陽戦隊サンバルカン [PR]](https://amzn.to/44rclSn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+21話。ゼロガールズのゼロワンさん。22話で倒されちゃうのが残念。<br/>
 ### XX ダブルエックス しなやかな美獣
 reviewed in 2023-7-1 12:00:09<br/>
 <br/>
