@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 「妻たちの午後は」より 官能の檻
+reviewed in 2023-7-3 21:30:07<br/>
+<br/>
+[「妻たちの午後は」より 官能の檻 [PR]](https://amzn.to/3NtU9Rm)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+浮気スパイラル<br/>
 ### ブレスレス
 reviewed in 2023-7-1 08:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWY5MGZiOTQtMzUwOC00OTkwLThjNGYtMTMwNTI5NmY3MDM5XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="ブレスレス"><br/>

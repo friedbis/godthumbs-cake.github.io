@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 「妻たちの午後は」より 官能の檻
+reviewed in 2023-7-3 21:30:07<br/>
+<br/>
+[「妻たちの午後は」より 官能の檻 [PR]](https://amzn.to/3NtU9Rm)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+浮気スパイラル<br/>
 ### 人妻湿地官能～禁断の若い肉体 他～
 reviewed in 2023-7-2 23:00:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-6-30 23:30:05<br/>
 [デモンズ [PR]](https://amzn.to/434ws7V)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ダイアモンドは傷つかない
-reviewed in 2023-6-27 17:30:12<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDNlMWJlYTctMWJlNS00MGY0LWEyMzItZWM2ZjhhOTNlOTMyXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="ダイアモンドは傷つかない"><br/>
-[ダイアモンドは傷つかない [PR]](https://amzn.to/3CPqFbK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-田中美佐子さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
