@@ -43,9 +43,16 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### うれしはずかし物語
+reviewed in 2023-7-3 23:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOTc1NDM5OWEtYmY2MS00NDdjLTg1ZTktZDM1OWE0NTc4NjE2XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="うれしはずかし物語"><br/>
+[うれしはずかし物語 [PR]](https://amzn.to/44lutNO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+川上麻衣子さん、麻生かおりさん、本阿弥周子さん<br/>
 ### 「妻たちの午後は」より 官能の檻
 reviewed in 2023-7-3 21:30:07<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/71WozwXjnGL._AC_SL1203_.jpg" alt="「妻たちの午後は」より 官能の檻"><br/>
 [「妻たちの午後は」より 官能の檻 [PR]](https://amzn.to/3NtU9Rm)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
