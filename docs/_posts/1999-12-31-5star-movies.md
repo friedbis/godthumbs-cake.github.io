@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### アンモナイトの目覚め
+reviewed in 2023-7-4 06:30:07<br/>
+<br/>
+[アンモナイトの目覚め [PR]](https://amzn.to/3rkjupe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### うれしはずかし物語
 reviewed in 2023-7-3 23:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTc1NDM5OWEtYmY2MS00NDdjLTg1ZTktZDM1OWE0NTc4NjE2XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="うれしはずかし物語"><br/>

@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### アンモナイトの目覚め
+reviewed in 2023-7-4 06:30:07<br/>
+<br/>
+[アンモナイトの目覚め [PR]](https://amzn.to/3rkjupe)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### うれしはずかし物語
 reviewed in 2023-7-3 23:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTc1NDM5OWEtYmY2MS00NDdjLTg1ZTktZDM1OWE0NTc4NjE2XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="うれしはずかし物語"><br/>
@@ -105,13 +112,6 @@ reviewed in 2023-7-1 00:30:05<br/>
 [さよならミス・ワイコフ [PR]](https://amzn.to/3NAJMLu)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### セックス・ドール
-reviewed in 2023-6-30 23:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDM0MGU2YmMtMzE5OS00ZmMwLTgwZGItN2U2NmY4YjE3MGQzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="セックス・ドール"><br/>
-[セックス・ドール [PR]](https://amzn.to/4472eCu)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -162,6 +162,7 @@ reviewed in 2023-6-30 23:30:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
