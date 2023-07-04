@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 海辺の街の約束
+reviewed in 2023-7-4 22:00:09<br/>
+<br/>
+[海辺の街の約束]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+夜の研修生 彼女の秘めごと（R18版）<br/>
 ### アンモナイトの目覚め
 reviewed in 2023-7-4 06:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWYxMTFmYWMtZDc4OS00NWQ1LWIxZmQtZDE0OTI5M2RlYWEzXkEyXkFqcGdeQXVyMTI3NTYzMTIz._V1_.jpg" alt="アンモナイトの目覚め"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-1 00:30:05<br/>
 [殺意の夏 [PR]](https://amzn.to/3CV9pSw)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-イザベル・アジャーニさん<br/>
-### さよならミス・ワイコフ
-reviewed in 2023-7-1 00:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZmU4ZWQxYmQtNGU3OS00ZWRkLWEzNTYtMTBmNjkwODlmYWM1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="さよならミス・ワイコフ"><br/>
-[さよならミス・ワイコフ [PR]](https://amzn.to/3NAJMLu)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+イザベル・アジャーニさん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
