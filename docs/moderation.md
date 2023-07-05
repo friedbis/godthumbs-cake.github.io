@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### エンドレス・ラブ
+reviewed in 2023-7-6 03:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTJkOTk4YzAtMDBjMi00YWFhLWJjYjYtMGM5ZTc1MGFlN2RhXkEyXkFqcGdeQXVyNjkzNjUzODY@._V1_.jpg" alt="エンドレス・ラブ"><br/>
+[エンドレス・ラブ [PR]](https://amzn.to/3pxNOMT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ブルック・シールズさん<br/>
 ### 海辺の街の約束
 reviewed in 2023-7-4 22:00:09<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-1 01:30:05<br/>
 [堕靡泥の星 美少女狩り [PR]](https://amzn.to/3NBiTar)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-子供に手をあげたらあかん<br/>
-### 殺意の夏
-reviewed in 2023-7-1 00:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNGYwNDExYjMtOWExOS00YjRjLTg5ZGItYTVmMWE3MTU4OTJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="殺意の夏"><br/>
-[殺意の夏 [PR]](https://amzn.to/3CV9pSw)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-イザベル・アジャーニさん
+子供に手をあげたらあかん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

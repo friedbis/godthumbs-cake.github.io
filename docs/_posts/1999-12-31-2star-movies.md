@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エンドレス・ラブ
+reviewed in 2023-7-6 03:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTJkOTk4YzAtMDBjMi00YWFhLWJjYjYtMGM5ZTc1MGFlN2RhXkEyXkFqcGdeQXVyNjkzNjUzODY@._V1_.jpg" alt="エンドレス・ラブ"><br/>
+[エンドレス・ラブ [PR]](https://amzn.to/3pxNOMT)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ブルック・シールズさん<br/>
 ### 太陽戦隊サンバルカン
 reviewed in 2023-7-2 22:00:10<br/>
 <br/>
