@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 三代目代行
+reviewed in 2023-7-10 07:00:09<br/>
+<br/>
+[三代目代行 [PR]](https://amzn.asia/d/0TSAjJK)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### AIKa R-16:VIRGIN MISSION
 reviewed in 2023-7-9 10:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTNmMTgzNzItMDJkYi00NTUzLTkxYzYtMjA5N2EwYzRmZTk1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_.jpg" alt="AIKa R-16:VIRGIN MISSION"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-2 22:00:10<br/>
 [太陽戦隊サンバルカン [PR]](https://amzn.to/44rclSn)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-21話。ゼロガールズのゼロワンさん。22話で倒されちゃうのが残念。<br/>
-### XX ダブルエックス しなやかな美獣
-reviewed in 2023-7-1 12:00:09<br/>
-<img src="https://m.media-amazon.com/images/I/71tmM6+XK+L._AC_SL1378_.jpg" alt="XX ダブルエックス しなやかな美獣"><br/>
-[XX ダブルエックス しなやかな美獣 [PR]](https://amzn.to/44rGjG8)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+21話。ゼロガールズのゼロワンさん。22話で倒されちゃうのが残念。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-7-1 12:00:09<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
