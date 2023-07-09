@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### AIKa R-16:VIRGIN MISSION
+reviewed in 2023-7-9 10:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTNmMTgzNzItMDJkYi00NTUzLTkxYzYtMjA5N2EwYzRmZTk1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_.jpg" alt="AIKa R-16:VIRGIN MISSION"><br/>
+[AIKa R-16:VIRGIN MISSION](https://www.b-ch.com/titles/2283/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+そこまで主張させることないような。<br/>
 ### 人妻熟女(秘)劇場 淫ら奥様の愛欲事情 他
 reviewed in 2023-7-9 10:00:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-1 12:00:09<br/>
 [XX ダブルエックス しなやかな美獣 [PR]](https://amzn.to/44rGjG8)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### ブレスレス
-reviewed in 2023-7-1 08:30:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWY5MGZiOTQtMzUwOC00OTkwLThjNGYtMTMwNTI5NmY3MDM5XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg" alt="ブレスレス"><br/>
-[ブレスレス [PR]](https://amzn.to/44oCiSx)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-ラストが本当に素晴らしい。
+
 <br/>
 ### 索引
 <br/>
