@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### その女諜報員 アレックス
+reviewed in 2023-7-12 00:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTY1MzgyMjU3NV5BMl5BanBnXkFtZTgwOTk3Mjk4NjE@._V1_.jpg" alt="その女諜報員 アレックス"><br/>
+[その女諜報員 アレックス [PR]](https://amzn.to/3D5g2Si)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+タイトルがあの小説と似ているので紛らわしい。<br/>
 ### 三代目代行
 reviewed in 2023-7-10 07:00:09<br/>
 <br/>

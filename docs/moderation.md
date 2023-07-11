@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### その女諜報員 アレックス
+reviewed in 2023-7-12 00:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTY1MzgyMjU3NV5BMl5BanBnXkFtZTgwOTk3Mjk4NjE@._V1_.jpg" alt="その女諜報員 アレックス"><br/>
+[その女諜報員 アレックス [PR]](https://amzn.to/3D5g2Si)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+タイトルがあの小説と似ているので紛らわしい。<br/>
 ### 三代目代行
 reviewed in 2023-7-10 07:00:09<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-2 23:00:06<br/>
 [人妻湿地官能～禁断の若い肉体 他～]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-友人の妻 背徳関係、あなたをもう愛せない。 (R18版)、友達の母親～最終章～(R18版)、性欲が強すぎる母（浮気癖あり）に、愛する彼氏を寝取られた。(R18版)、「ねぇ、もう少し一緒に飲まない？」終電を逃して二人きり…酔うと可愛くなる普段は厳しい女上司と朝までハメ潮だだ漏れセックス(R18版)<br/>
-### 太陽戦隊サンバルカン
-reviewed in 2023-7-2 22:00:10<br/>
-<br/>
-[太陽戦隊サンバルカン [PR]](https://amzn.to/44rclSn)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-21話。ゼロガールズのゼロワンさん。22話で倒されちゃうのが残念。
+友人の妻 背徳関係、あなたをもう愛せない。 (R18版)、友達の母親～最終章～(R18版)、性欲が強すぎる母（浮気癖あり）に、愛する彼氏を寝取られた。(R18版)、「ねぇ、もう少し一緒に飲まない？」終電を逃して二人きり…酔うと可愛くなる普段は厳しい女上司と朝までハメ潮だだ漏れセックス(R18版)
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
