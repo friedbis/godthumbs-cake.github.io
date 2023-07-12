@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ジャック・サマースビー
+reviewed in 2023-7-12 12:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGYwMzc4MmUtNmIzOS00MDVjLTk2ODQtYWMwZGY2MzJmZWE1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ジャック・サマースビー"><br/>
+[ジャック・サマースビー [PR]](https://amzn.to/44JiidN)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ジョディ・フォスターさんがやっぱり好き。<br/>
 ### 女囚さそり 殺人予告
 reviewed in 2023-7-12 09:00:11<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-3 23:00:06<br/>
 [うれしはずかし物語 [PR]](https://amzn.to/44lutNO)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-川上麻衣子さん、麻生かおりさん、本阿弥周子さん<br/>
-### 「妻たちの午後は」より 官能の檻
-reviewed in 2023-7-3 21:30:07<br/>
-<img src="https://m.media-amazon.com/images/I/71WozwXjnGL._AC_SL1203_.jpg" alt="「妻たちの午後は」より 官能の檻"><br/>
-[「妻たちの午後は」より 官能の檻 [PR]](https://amzn.to/3NtU9Rm)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-浮気スパイラル
+川上麻衣子さん、麻生かおりさん、本阿弥周子さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
