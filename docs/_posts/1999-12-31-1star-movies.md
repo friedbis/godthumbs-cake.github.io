@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 女囚さそり 殺人予告
+reviewed in 2023-7-12 09:00:11<br/>
+<br/>
+[女囚さそり 殺人予告 [PR]](https://amzn.to/3XPVIOs)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ジョン・ランボー（特に怒りの脱出のときの）に見えてきた。<br/>
 ### その女諜報員 アレックス
 reviewed in 2023-7-12 00:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTY1MzgyMjU3NV5BMl5BanBnXkFtZTgwOTk3Mjk4NjE@._V1_.jpg" alt="その女諜報員 アレックス"><br/>
