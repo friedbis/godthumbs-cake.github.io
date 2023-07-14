@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 極刑
+reviewed in 2023-7-14 11:00:07<br/>
+<br/>
+[極刑](http://www.tvdrama-db.com/drama_info/p/id-19884)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+なぜその真相を知っていたの？<br/>
 ### ジャック・サマースビー
 reviewed in 2023-7-12 12:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGYwMzc4MmUtNmIzOS00MDVjLTk2ODQtYWMwZGY2MzJmZWE1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ジャック・サマースビー"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-4 06:30:07<br/>
 [アンモナイトの目覚め [PR]](https://amzn.to/3rkjupe)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### うれしはずかし物語
-reviewed in 2023-7-3 23:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOTc1NDM5OWEtYmY2MS00NDdjLTg1ZTktZDM1OWE0NTc4NjE2XkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="うれしはずかし物語"><br/>
-[うれしはずかし物語 [PR]](https://amzn.to/44lutNO)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-川上麻衣子さん、麻生かおりさん、本阿弥周子さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
