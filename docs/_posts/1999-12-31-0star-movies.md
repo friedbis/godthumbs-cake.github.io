@@ -45,7 +45,7 @@ title: 0こ星の映画・ドラマ
 <br/>
 ### 羊たちの沈黙
 reviewed in 2023-1-9 18:00:07<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjBiMTljZTItOWYyYS00YzQxLTg3M2QtOTBhNzdkODlmNTI5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg" alt="羊たちの沈黙"><br/>
 [羊たちの沈黙 [PR]](https://amzn.to/3GP0Fjj)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
