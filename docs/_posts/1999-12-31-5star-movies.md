@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 狼やくざ　殺しは俺がやる
+reviewed in 2023-7-19 13:30:07<br/>
+<br/>
+[狼やくざ　殺しは俺がやる [PR]](https://amzn.to/3Y1M771)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### アンモナイトの目覚め
 reviewed in 2023-7-4 06:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWYxMTFmYWMtZDc4OS00NWQ1LWIxZmQtZDE0OTI5M2RlYWEzXkEyXkFqcGdeQXVyMTI3NTYzMTIz._V1_.jpg" alt="アンモナイトの目覚め"><br/>
