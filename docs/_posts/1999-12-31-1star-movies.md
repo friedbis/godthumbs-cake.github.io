@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 少林寺拳法
+reviewed in 2023-7-19 11:00:09<br/>
+<br/>
+[少林寺拳法 [PR]](https://amzn.to/3Ojfpuy)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+最低だな。<br/>
 ### 極刑
 reviewed in 2023-7-14 11:00:07<br/>
 <br/>

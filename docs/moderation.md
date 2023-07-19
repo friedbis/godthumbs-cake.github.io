@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 少林寺拳法
+reviewed in 2023-7-19 11:00:09<br/>
+<br/>
+[少林寺拳法 [PR]](https://amzn.to/3Ojfpuy)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+最低だな。<br/>
 ### 極刑
 reviewed in 2023-7-14 11:00:07<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-4 22:00:09<br/>
 [海辺の街の約束]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-夜の研修生 彼女の秘めごと（R18版）<br/>
-### アンモナイトの目覚め
-reviewed in 2023-7-4 06:30:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWYxMTFmYWMtZDc4OS00NWQ1LWIxZmQtZDE0OTI5M2RlYWEzXkEyXkFqcGdeQXVyMTI3NTYzMTIz._V1_.jpg" alt="アンモナイトの目覚め"><br/>
-[アンモナイトの目覚め [PR]](https://amzn.to/3rkjupe)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+夜の研修生 彼女の秘めごと（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
