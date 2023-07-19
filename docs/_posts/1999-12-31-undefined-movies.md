@@ -43,9 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 狼やくざ　殺しは俺がやる
-reviewed in 2023-7-19 13:30:07<br/>
+### 三代目代行３
+reviewed in 2023-7-19 14:00:06<br/>
 <br/>
-[狼やくざ　殺しは俺がやる [PR]](https://amzn.to/3Y1M771)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+[三代目代行３ [PR]](https://amzn.to/44S9v9w)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

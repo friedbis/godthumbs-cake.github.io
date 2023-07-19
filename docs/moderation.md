@@ -43,13 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 三代目代行３
+reviewed in 2023-7-19 14:00:06<br/>
+<br/>
+[三代目代行３ [PR]](https://amzn.to/44S9v9w)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 狼やくざ　殺しは俺がやる
 reviewed in 2023-7-19 13:30:07<br/>
 <br/>
 [狼やくざ　殺しは俺がやる [PR]](https://amzn.to/3Y1M771)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+真山知子さん<br/>
 ### 少林寺拳法
 reviewed in 2023-7-19 11:00:09<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-9 10:00:05<br/>
 [人妻熟女(秘)劇場 淫ら奥様の愛欲事情 他]()<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-淫ら奥様の愛欲事情、僕の彼女は35歳オトナの女の愛し方。もうこういうオムニバス作品を評価するの疲れてきた。<br/>
-### エンドレス・ラブ
-reviewed in 2023-7-6 03:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZTJkOTk4YzAtMDBjMi00YWFhLWJjYjYtMGM5ZTc1MGFlN2RhXkEyXkFqcGdeQXVyNjkzNjUzODY@._V1_.jpg" alt="エンドレス・ラブ"><br/>
-[エンドレス・ラブ [PR]](https://amzn.to/3pxNOMT)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ブルック・シールズさん
+淫ら奥様の愛欲事情、僕の彼女は35歳オトナの女の愛し方。もうこういうオムニバス作品を評価するの疲れてきた。
 <br/>
 ### 索引
 <br/>
