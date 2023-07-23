@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 広原温泉編 #119 #120
+reviewed in 2023-7-24 01:00:06<br/>
+<br/>
+[あなたと温泉に行ったら… 広原温泉編 #119 #120](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+只埜なつみさん<br/>
 ### 静かなるドン THE MOVIE
 reviewed in 2023-7-19 21:00:11<br/>
 <br/>
