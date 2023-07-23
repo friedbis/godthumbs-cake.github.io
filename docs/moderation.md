@@ -105,7 +105,14 @@ reviewed in 2023-7-10 07:00:09<br/>
 [三代目代行 [PR]](https://amzn.asia/d/0TSAjJK)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-
+<br/>
+### AIKa R-16:VIRGIN MISSION
+reviewed in 2023-7-9 10:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTNmMTgzNzItMDJkYi00NTUzLTkxYzYtMjA5N2EwYzRmZTk1XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_.jpg" alt="AIKa R-16:VIRGIN MISSION"><br/>
+[AIKa R-16:VIRGIN MISSION](https://www.b-ch.com/titles/2283/)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+そこまで主張させることないような。
 <br/>
 ### 索引
 <br/>
@@ -155,7 +162,6 @@ reviewed in 2023-7-10 07:00:09<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
