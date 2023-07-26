@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 京都鴨川東署迷宮課・おみやさん
+reviewed in 2023-7-26 21:00:10<br/>
+<br/>
+[京都鴨川東署迷宮課・おみやさん](http://www.tvdrama-db.com/drama_info/p/id-35869)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+第４話。相田翔子さん。<br/>
 ### あなたと温泉に行ったら… 広原温泉編 #119 #120
 reviewed in 2023-7-24 01:00:06<br/>
 <br/>
