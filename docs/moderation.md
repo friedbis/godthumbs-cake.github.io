@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 宇奈月温泉編 #125 #126
+reviewed in 2023-7-27 20:00:06<br/>
+<br/>
+[あなたと温泉に行ったら… 宇奈月温泉編 #125 #126](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+鮎川七さん<br/>
 ### 京都鴨川東署迷宮課・おみやさん
 reviewed in 2023-7-26 21:00:10<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-14 11:00:07<br/>
 [極刑](http://www.tvdrama-db.com/drama_info/p/id-19884)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-なぜその真相を知っていたの？<br/>
-### ジャック・サマースビー
-reviewed in 2023-7-12 12:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNGYwMzc4MmUtNmIzOS00MDVjLTk2ODQtYWMwZGY2MzJmZWE1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="ジャック・サマースビー"><br/>
-[ジャック・サマースビー [PR]](https://amzn.to/44JiidN)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ジョディ・フォスターさんがやっぱり好き。
+なぜその真相を知っていたの？
 <br/>
 ### 索引
 <br/>
