@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 狼と豚と人間
+reviewed in 2023-7-29 08:00:10<br/>
+<br/>
+[狼と豚と人間 [PR]](https://amzn.to/3Kk8oY3)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+何を喋っているか分からなかった。そして何をやっているかも理解できなかった。結果何を伝えたいのか分からなかった。<br/>
 ### 少林寺拳法
 reviewed in 2023-7-19 11:00:09<br/>
 <br/>

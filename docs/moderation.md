@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 狼と豚と人間
+reviewed in 2023-7-29 08:00:10<br/>
+<br/>
+[狼と豚と人間 [PR]](https://amzn.to/3Kk8oY3)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+何を喋っているか分からなかった。そして何をやっているかも理解できなかった。結果何を伝えたいのか分からなかった。<br/>
 ### あなたと温泉に行ったら… 宇奈月温泉編 #125 #126
 reviewed in 2023-7-27 20:00:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-19 11:00:09<br/>
 [少林寺拳法 [PR]](https://amzn.to/3Ojfpuy)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-最低だな。<br/>
-### 極刑
-reviewed in 2023-7-14 11:00:07<br/>
-<br/>
-[極刑](http://www.tvdrama-db.com/drama_info/p/id-19884)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-なぜその真相を知っていたの？
+最低だな。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
