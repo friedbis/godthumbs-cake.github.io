@@ -49,7 +49,7 @@ reviewed in 2023-7-31 19:30:05<br/>
 [影狩り [PR]](https://amzn.asia/d/a1TtLg6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-島絵梨子さん、堀井永子さん、白川恵子さん<br/>
+島絵梨子さん、堀井永子さん、山岸恵美子さん<br/>
 ### 39days
 reviewed in 2023-7-24 01:00:06<br/>
 <br/>
