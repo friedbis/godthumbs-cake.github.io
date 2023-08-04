@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 復讐法廷
+reviewed in 2023-8-4 14:30:11<br/>
+<br/>
+[復讐法廷](http://www.tvdrama-db.com/drama_info/p/id-58538)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+中尾明慶さんがこういう役をやることに違和感<br/>
 ### 狼と豚と人間
 reviewed in 2023-7-29 08:00:10<br/>
 <br/>
