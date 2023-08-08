@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 海女の化物屋敷
+reviewed in 2023-8-8 21:00:05<br/>
+<br/>
+[海女の化物屋敷 [PR]](https://amzn.to/47yPqqS)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 脅迫（おどし）
 reviewed in 2023-8-7 08:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGY0ZTQ5ZTItZDkyNi00ZjU1LWEwYjUtZjU2ZGY3MTBlYTJmXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="脅迫（おどし）"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-26 21:00:10<br/>
 [京都鴨川東署迷宮課・おみやさん](http://www.tvdrama-db.com/drama_info/p/id-35869)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-第４話。相田翔子さん。<br/>
-### 39days
-reviewed in 2023-7-24 01:00:06<br/>
-<br/>
-[39days [PR]](https://amzn.to/44TyVn0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+第４話。相田翔子さん。
 <br/>
 ### 索引
 <br/>
