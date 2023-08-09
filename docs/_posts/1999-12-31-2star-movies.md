@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 怪談新耳袋
+reviewed in 2023-8-9 14:00:10<br/>
+<br/>
+[怪談新耳袋](http://www.tvdrama-db.com/drama_info/p/id-36482)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+9話、10話。尾野真千子さん。<br/>
 ### 夜の歌謡シリーズ 命かれても
 reviewed in 2023-8-9 10:00:09<br/>
 <br/>

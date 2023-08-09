@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 怪談新耳袋
+reviewed in 2023-8-9 14:00:10<br/>
+<br/>
+[怪談新耳袋](http://www.tvdrama-db.com/drama_info/p/id-36482)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+9話、10話。尾野真千子さん。<br/>
 ### 夜の歌謡シリーズ 命かれても
 reviewed in 2023-8-9 10:00:09<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-7-29 08:00:10<br/>
 [狼と豚と人間 [PR]](https://amzn.to/3Kk8oY3)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-何を喋っているか分からなかった。そして何をやっているかも理解できなかった。結果何を伝えたいのか分からなかった。<br/>
-### あなたと温泉に行ったら… 宇奈月温泉編 #125 #126
-reviewed in 2023-7-27 20:00:06<br/>
-<br/>
-[あなたと温泉に行ったら… 宇奈月温泉編 #125 #126](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-鮎川七さん
+何を喋っているか分からなかった。そして何をやっているかも理解できなかった。結果何を伝えたいのか分からなかった。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
