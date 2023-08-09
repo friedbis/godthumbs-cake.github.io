@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 夜の歌謡シリーズ 命かれても
+reviewed in 2023-8-9 10:00:09<br/>
+<br/>
+[夜の歌謡シリーズ 命かれても [PR]](https://amzn.to/47lBeRV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 海女の化物屋敷
 reviewed in 2023-8-8 21:00:05<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-27 20:00:06<br/>
 [あなたと温泉に行ったら… 宇奈月温泉編 #125 #126](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-鮎川七さん<br/>
-### 京都鴨川東署迷宮課・おみやさん
-reviewed in 2023-7-26 21:00:10<br/>
-<br/>
-[京都鴨川東署迷宮課・おみやさん](http://www.tvdrama-db.com/drama_info/p/id-35869)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-第４話。相田翔子さん。
+鮎川七さん
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-7-26 21:00:10<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
