@@ -57,13 +57,6 @@ reviewed in 2023-8-11 12:00:07<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 宮本真希さん。それにしても音楽が盛り上げ過ぎでは。<br/>
-### 犬神の悪霊
-reviewed in 2023-8-11 11:00:12<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNGIzYzNhYjYtYmM0Ny00NGU1LWEyMDMtMTk2OWFhNmQ4YmE0XkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_.jpg" alt="犬神の悪霊"><br/>
-[犬神の悪霊 [PR]](https://amzn.asia/d/5N0v7wU)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
 ### 夜の歌謡シリーズ 長崎ブルース
 reviewed in 2023-8-9 20:30:06<br/>
 <br/>
@@ -112,7 +105,14 @@ reviewed in 2023-8-4 08:30:09<br/>
 [絶倫先生の体験的エロ授業](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=186_9707/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-すけべ先生　淫らな授業（別タイトル）
+すけべ先生　淫らな授業（別タイトル）<br/>
+### アイ・アム・ディナ 性に憑りつかれた女
+reviewed in 2023-8-1 22:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZDI3OWU1ZjAtNDNhYy00MGUzLWI4MDUtOGJlMTJmMDM2NGI4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="アイ・アム・ディナ 性に憑りつかれた女"><br/>
+[アイ・アム・ディナ 性に憑りつかれた女 [PR]](https://amzn.to/47hawtJ)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+
 <br/>
 ### 索引
 <br/>
