@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 犬神の悪霊
+reviewed in 2023-8-11 11:00:12<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGIzYzNhYjYtYmM0Ny00NGU1LWEyMDMtMTk2OWFhNmQ4YmE0XkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_.jpg" alt="犬神の悪霊"><br/>
+[犬神の悪霊 [PR]](https://amzn.asia/d/5N0v7wU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜の歌謡シリーズ 長崎ブルース
 reviewed in 2023-8-9 20:30:06<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-7-31 19:30:05<br/>
 [影狩り [PR]](https://amzn.asia/d/a1TtLg6)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-島絵梨子さん、堀井永子さん、山岸恵美子さん<br/>
-### 反逆の報酬
-reviewed in 2023-7-31 12:30:05<br/>
-<br/>
-[反逆の報酬 [PR]](https://amzn.to/3ODlKBv)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-鰐淵晴子さん
+島絵梨子さん、堀井永子さん、山岸恵美子さん
 <br/>
 ### 索引
 <br/>
