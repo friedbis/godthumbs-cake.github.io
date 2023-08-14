@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ベロマリカ 
+reviewed in 2023-8-14 12:30:11<br/>
+<br/>
+[ベロマリカ  [PR]](https://amzn.to/3DVfw9W)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+悶舌人妻 ベロマリカ（別タイトル） ベロはかわいいけど。<br/>
 ### 止まらない美人妻の欲望
 reviewed in 2023-8-14 07:00:08<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-8-4 14:30:11<br/>
 [復讐法廷](http://www.tvdrama-db.com/drama_info/p/id-58538)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-中尾明慶さんがこういう役をやることに違和感<br/>
-### 絶倫先生の体験的エロ授業
-reviewed in 2023-8-4 08:30:09<br/>
-<br/>
-[絶倫先生の体験的エロ授業](https://www.dmm.co.jp/digital/nikkatsu/-/detail/=/cid=186_9707/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-すけべ先生　淫らな授業（別タイトル）
+中尾明慶さんがこういう役をやることに違和感
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

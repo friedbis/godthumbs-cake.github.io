@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ベロマリカ 
+reviewed in 2023-8-14 12:30:11<br/>
+<br/>
+[ベロマリカ  [PR]](https://amzn.to/3DVfw9W)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+悶舌人妻 ベロマリカ（別タイトル） ベロはかわいいけど。<br/>
 ### 寸止めスナック めす酒場
 reviewed in 2023-8-11 12:30:06<br/>
 <br/>
