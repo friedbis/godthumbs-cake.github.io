@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### ザ・ゴキブリ
+reviewed in 2023-8-15 10:30:06<br/>
+<br/>
+[ザ・ゴキブリ [PR]](https://amzn.to/3DWNTx9)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+梢ひとみさん<br/>
+### ゴキブリ刑事
+reviewed in 2023-8-15 10:30:06<br/>
+<br/>
+[ゴキブリ刑事 [PR]](https://amzn.to/3KCy4iQ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 華の乱
 reviewed in 2023-8-15 10:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGUzZTg0ZmQtYjliYy00NjY2LWExYjctOThmZDZjZDM2Y2M3XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="華の乱"><br/>
@@ -91,31 +105,11 @@ reviewed in 2023-8-9 20:30:06<br/>
 [夜の歌謡シリーズ 長崎ブルース [PR]](https://amzn.to/3QtK0XR)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 怪談新耳袋
-reviewed in 2023-8-9 14:00:10<br/>
-<br/>
-[怪談新耳袋](http://www.tvdrama-db.com/drama_info/p/id-36482)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-9話、10話。尾野真千子さん。<br/>
-### 夜の歌謡シリーズ 命かれても
-reviewed in 2023-8-9 10:00:09<br/>
-<img src="https://m.media-amazon.com/images/I/91m2bJtFzVL._AC_SL1500_.jpg" alt="夜の歌謡シリーズ 命かれても"><br/>
-[夜の歌謡シリーズ 命かれても [PR]](https://amzn.to/47lBeRV)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 海女の化物屋敷
-reviewed in 2023-8-8 21:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDVhNDE4MjQtOTY4Ny00M2EwLWJhMzctOGNkOWI5MmUyYzU0XkEyXkFqcGdeQXVyMjM3MDE4Njc@._V1_.jpg" alt="海女の化物屋敷"><br/>
-[海女の化物屋敷 [PR]](https://amzn.to/47yPqqS)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

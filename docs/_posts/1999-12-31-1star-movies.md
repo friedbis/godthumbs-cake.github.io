@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ゴキブリ刑事
+reviewed in 2023-8-15 10:30:06<br/>
+<br/>
+[ゴキブリ刑事 [PR]](https://amzn.to/3KCy4iQ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 止まらない美人妻の欲望
 reviewed in 2023-8-14 07:00:08<br/>
 <br/>

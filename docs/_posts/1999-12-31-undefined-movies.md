@@ -43,16 +43,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### 華の乱
-reviewed in 2023-8-15 10:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNGUzZTg0ZmQtYjliYy00NjY2LWExYjctOThmZDZjZDM2Y2M3XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="華の乱"><br/>
-[華の乱 [PR]](https://amzn.to/3qEhhFf)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+### ゴキブリ刑事
+reviewed in 2023-8-15 10:30:06<br/>
 <br/>
-<br/>
-### 火宅の人
-reviewed in 2023-8-15 10:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZTg1ZGY5ZmYtMjBjMy00MTRiLWFjZTgtYmI2YmQyNDE1YjA3XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="火宅の人"><br/>
-[火宅の人 [PR]](https://amzn.to/47z4pRk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+[ゴキブリ刑事 [PR]](https://amzn.to/3KCy4iQ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
