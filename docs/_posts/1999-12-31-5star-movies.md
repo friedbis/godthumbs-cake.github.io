@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 人生劇場
+reviewed in 2023-8-15 11:00:08<br/>
+<br/>
+[人生劇場 [PR]](https://amzn.to/3YyaObE)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+中井貴恵さん、松坂慶子さん、森下愛子さん<br/>
 ### 狼やくざ　殺しは俺がやる
 reviewed in 2023-7-19 13:30:07<br/>
 <br/>
