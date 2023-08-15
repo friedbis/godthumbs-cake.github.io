@@ -43,9 +43,23 @@ title: Impression
 ## 作品
 
 <br/>
+### 華の乱
+reviewed in 2023-8-15 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGUzZTg0ZmQtYjliYy00NjY2LWExYjctOThmZDZjZDM2Y2M3XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="華の乱"><br/>
+[華の乱 [PR]](https://amzn.to/3qEhhFf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 火宅の人
+reviewed in 2023-8-15 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTg1ZGY5ZmYtMjBjMy00MTRiLWFjZTgtYmI2YmQyNDE1YjA3XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="火宅の人"><br/>
+[火宅の人 [PR]](https://amzn.to/47z4pRk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ベロマリカ 
 reviewed in 2023-8-14 12:30:11<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTg1ZGY5ZmYtMjBjMy00MTRiLWFjZTgtYmI2YmQyNDE1YjA3XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="ベロマリカ "><br/>
 [ベロマリカ  [PR]](https://amzn.to/3DVfw9W)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
@@ -98,21 +112,7 @@ reviewed in 2023-8-8 21:00:05<br/>
 [海女の化物屋敷 [PR]](https://amzn.to/47yPqqS)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 脅迫（おどし）
-reviewed in 2023-8-7 08:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZGY0ZTQ5ZTItZDkyNi00ZjU1LWEwYjUtZjU2ZGY3MTBlYTJmXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="脅迫（おどし）"><br/>
-[脅迫（おどし） [PR]](https://www.amazon.co.jp/dp/B002OCT864/ref=cm_sw_r_as_gl_apa_gl_i_DAD906WZRZ20CWAABQ0N?linkCode=ml2&tag=httyf19net-22)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-春川ますみさん<br/>
-### 復讐法廷
-reviewed in 2023-8-4 14:30:11<br/>
-<br/>
-[復讐法廷](http://www.tvdrama-db.com/drama_info/p/id-58538)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-中尾明慶さんがこういう役をやることに違和感
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-8-4 14:30:11<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

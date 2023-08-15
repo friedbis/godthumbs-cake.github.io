@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 火宅の人
+reviewed in 2023-8-15 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTg1ZGY5ZmYtMjBjMy00MTRiLWFjZTgtYmI2YmQyNDE1YjA3XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="火宅の人"><br/>
+[火宅の人 [PR]](https://amzn.to/47z4pRk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### おもちゃ
 reviewed in 2023-8-11 12:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTVhZmY3NTQtMjcxNS00YTU3LWFiMzMtZmY1ZmY3YzRkMWM4XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg" alt="おもちゃ"><br/>

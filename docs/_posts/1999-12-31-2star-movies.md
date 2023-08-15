@@ -43,9 +43,16 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 華の乱
+reviewed in 2023-8-15 10:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNGUzZTg0ZmQtYjliYy00NjY2LWExYjctOThmZDZjZDM2Y2M3XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="華の乱"><br/>
+[華の乱 [PR]](https://amzn.to/3qEhhFf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ベロマリカ 
 reviewed in 2023-8-14 12:30:11<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTg1ZGY5ZmYtMjBjMy00MTRiLWFjZTgtYmI2YmQyNDE1YjA3XkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="ベロマリカ "><br/>
 [ベロマリカ  [PR]](https://amzn.to/3DVfw9W)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
