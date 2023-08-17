@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 暴走パニック大激突
+reviewed in 2023-8-17 18:30:12<br/>
+<br/>
+[暴走パニック大激突 [PR]](https://amzn.to/3sd3nuq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 特級派遣ヘルパー・千里　読心術―私が読むのは人の心―
 reviewed in 2023-8-17 11:30:06<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-8-15 10:30:06<br/>
 [ザ・ゴキブリ [PR]](https://amzn.to/3DWNTx9)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-梢ひとみさん<br/>
-### ゴキブリ刑事
-reviewed in 2023-8-15 10:30:06<br/>
-<br/>
-[ゴキブリ刑事 [PR]](https://amzn.to/3KCy4iQ)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+梢ひとみさん
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-8-15 10:30:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

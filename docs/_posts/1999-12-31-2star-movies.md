@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 暴走パニック大激突
+reviewed in 2023-8-17 18:30:12<br/>
+<br/>
+[暴走パニック大激突 [PR]](https://amzn.to/3sd3nuq)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 華の乱
 reviewed in 2023-8-15 10:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNGUzZTg0ZmQtYjliYy00NjY2LWExYjctOThmZDZjZDM2Y2M3XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="華の乱"><br/>
