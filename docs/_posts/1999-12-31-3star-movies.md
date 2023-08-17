@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 半狂乱
+reviewed in 2023-8-17 11:00:06<br/>
+<br/>
+[半狂乱 [PR]](https://amzn.to/45wk2at)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ザ・ゴキブリ
 reviewed in 2023-8-15 10:30:06<br/>
 <br/>
