@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 満たされたい人妻
+reviewed in 2023-8-17 11:30:06<br/>
+<br/>
+[満たされたい人妻 [PR]](https://amzn.to/3P17t1m)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 半狂乱
 reviewed in 2023-8-17 11:00:06<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-8-14 12:30:11<br/>
 [ベロマリカ  [PR]](https://amzn.to/3DVfw9W)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-悶舌人妻 ベロマリカ（別タイトル） ベロはかわいいけど。<br/>
-### 止まらない美人妻の欲望
-reviewed in 2023-8-14 07:00:08<br/>
-<br/>
-[止まらない美人妻の欲望 [PR]](https://www.amazon.co.jp/gp/video/detail/B095R6S3WJ/ref=atv_dp_share_cu_r)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-人妻性奴隷（R18版）
+悶舌人妻 ベロマリカ（別タイトル） ベロはかわいいけど。
 <br/>
 ### 索引
 <br/>
