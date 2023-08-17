@@ -43,6 +43,20 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 特級派遣ヘルパー・千里　読心術―私が読むのは人の心―
+reviewed in 2023-8-17 11:30:06<br/>
+<br/>
+[特級派遣ヘルパー・千里　読心術―私が読むのは人の心― [PR]](https://amzn.to/45aEe24)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### MEANSレッツ合コン
+reviewed in 2023-8-17 11:30:06<br/>
+<br/>
+[MEANSレッツ合コン [PR]](https://amzn.to/44f1fQb)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 盛り場流し唄 新宿の女
 reviewed in 2023-8-17 11:00:06<br/>
 <img src="https://www.imdb.com/title/tt1840938/mediaviewer/rm3051076865?ref_=ext_shr_lnk" alt="盛り場流し唄 新宿の女"><br/>

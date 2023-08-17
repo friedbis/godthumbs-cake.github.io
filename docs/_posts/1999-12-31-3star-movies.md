@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### HOKURO 百発病伝説
+reviewed in 2023-8-17 11:30:06<br/>
+<br/>
+[HOKURO 百発病伝説 [PR]](https://amzn.to/3QIwGiK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+赤玉<br/>
 ### 半狂乱
 reviewed in 2023-8-17 11:00:06<br/>
 <br/>

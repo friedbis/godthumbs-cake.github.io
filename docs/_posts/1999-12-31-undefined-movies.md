@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 # 映画・ドラマ紹介
@@ -43,10 +43,16 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### HOKURO 百発病伝説
+### 特級派遣ヘルパー・千里　読心術―私が読むのは人の心―
 reviewed in 2023-8-17 11:30:06<br/>
 <br/>
-[HOKURO 百発病伝説 [PR]](https://amzn.to/3QIwGiK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[特級派遣ヘルパー・千里　読心術―私が読むのは人の心― [PR]](https://amzn.to/45aEe24)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-赤玉
+<br/>
+### MEANSレッツ合コン
+reviewed in 2023-8-17 11:30:06<br/>
+<br/>
+[MEANSレッツ合コン [PR]](https://amzn.to/44f1fQb)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
