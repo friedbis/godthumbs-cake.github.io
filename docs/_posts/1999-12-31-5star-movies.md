@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 魔性の香り
+reviewed in 2023-8-22 22:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGVlZWQ0OWEtZWVlYi00ZWY0LWE3Y2EtMDc2YjEwZjZhZThiXkEyXkFqcGdeQXVyMjAwMzU2MDY@._V1_.jpg" alt="魔性の香り"><br/>
+[魔性の香り [PR]](https://amzn.to/3sm5iwK)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+天地真理さん<br/>
 ### 人生劇場
 reviewed in 2023-8-15 11:00:08<br/>
 <img src="https://m.media-amazon.com/images/I/91U0QFHhRtL._AC_SL1500_.jpg" alt="人生劇場"><br/>
