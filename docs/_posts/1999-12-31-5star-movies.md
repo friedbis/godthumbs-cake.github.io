@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 影狩り ほえろ大砲
+reviewed in 2023-8-24 13:00:10<br/>
+<br/>
+[影狩り ほえろ大砲 [PR]](https://www.amazon.co.jp/gp/video/detail/B06XC6GXBQ/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+前作から女優さんの数がかなり豪華に。<br/>
 ### 魔性の香り
 reviewed in 2023-8-22 22:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGVlZWQ0OWEtZWVlYi00ZWY0LWE3Y2EtMDc2YjEwZjZhZThiXkEyXkFqcGdeQXVyMjAwMzU2MDY@._V1_.jpg" alt="魔性の香り"><br/>
