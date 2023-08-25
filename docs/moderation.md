@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### あなたと温泉に行ったら… 小湊温泉編 #21 #22
+reviewed in 2023-8-25 09:00:06<br/>
+<br/>
+[あなたと温泉に行ったら… 小湊温泉編 #21 #22](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+潮みかさん。やはりニプレスは必須なんだな。<br/>
 ### あなたと温泉に行ったら… 伊豆長岡温泉編 #3 #4
 reviewed in 2023-8-24 20:00:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-8-17 18:30:12<br/>
 [暴走パニック大激突 [PR]](https://amzn.to/3sd3nuq)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 特級派遣ヘルパー・千里　読心術―私が読むのは人の心―
-reviewed in 2023-8-17 11:30:06<br/>
-<br/>
-[特級派遣ヘルパー・千里　読心術―私が読むのは人の心― [PR]](https://amzn.to/45aEe24)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
