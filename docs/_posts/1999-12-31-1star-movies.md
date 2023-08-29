@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### むっちり討ち入り 桃色忠臣蔵
+reviewed in 2023-8-29 15:30:10<br/>
+<br/>
+[むっちり討ち入り 桃色忠臣蔵 [PR]](https://amzn.to/3EhcRHK)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 特級派遣ヘルパー・千里　読心術―私が読むのは人の心―
 reviewed in 2023-8-17 11:30:06<br/>
 <br/>
