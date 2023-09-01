@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 松本清張作家活動40年記念 霧の旗
+reviewed in 2023-9-1 22:00:08<br/>
+<br/>
+[松本清張作家活動40年記念 霧の旗](http://www.tvdrama-db.com/drama_info/p/id-27990)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+安田成美さんというところがポイント高い<br/>
 ### 血の祝祭日
 reviewed in 2023-9-1 19:00:07<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-8-22 22:30:11<br/>
 [女闇金 -千鶴- 完熟 性欲を糧にする美獣の誘惑 [PR]](https://www.amazon.co.jp/gp/video/detail/B07MD6NBH3/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 魔性の香り
-reviewed in 2023-8-22 22:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMGVlZWQ0OWEtZWVlYi00ZWY0LWE3Y2EtMDc2YjEwZjZhZThiXkEyXkFqcGdeQXVyMjAwMzU2MDY@._V1_.jpg" alt="魔性の香り"><br/>
-[魔性の香り [PR]](https://amzn.to/3sm5iwK)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-天地真理さん
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

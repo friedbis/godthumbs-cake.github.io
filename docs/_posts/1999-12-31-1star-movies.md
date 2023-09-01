@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 松本清張作家活動40年記念 霧の旗
+reviewed in 2023-9-1 22:00:08<br/>
+<br/>
+[松本清張作家活動40年記念 霧の旗](http://www.tvdrama-db.com/drama_info/p/id-27990)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+安田成美さんというところがポイント高い<br/>
 ### むっちり討ち入り 桃色忠臣蔵
 reviewed in 2023-8-29 15:30:10<br/>
 <br/>
