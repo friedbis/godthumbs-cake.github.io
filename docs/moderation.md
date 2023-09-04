@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### KITE LIBERATOR
+reviewed in 2023-9-5 00:00:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTYzMjE1NjE1MF5BMl5BanBnXkFtZTgwODcxNjAyMTE@._V1_.jpg" alt="KITE LIBERATOR"><br/>
+[KITE LIBERATOR [PR]](https://amzn.to/47ZgO1c)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### A Kite
+reviewed in 2023-9-5 00:00:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWM5YjIxNzQtMWE5ZS00ZjljLWIxYWYtMDYxZjYwNTM5YTcxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="A Kite"><br/>
+[A Kite [PR]](https://amzn.to/3P3GlOb)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### マッドマックス２
 reviewed in 2023-9-2 02:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjMxNjNkZTEtZmYwNi00NzU0LWI1MjctNjQ4MjBlNWFiN2IxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg" alt="マッドマックス２"><br/>
@@ -98,21 +112,7 @@ reviewed in 2023-8-24 13:00:10<br/>
 [影狩り ほえろ大砲 [PR]](https://www.amazon.co.jp/gp/video/detail/B06XC6GXBQ/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-前作から女優さんの数がかなり豪華に。<br/>
-### 人妻女優志願 淫らなシナリオ
-reviewed in 2023-8-24 09:00:09<br/>
-<br/>
-[人妻女優志願 淫らなシナリオ [PR]](https://amzn.to/3YKzk9B)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 女闇金 -千鶴- 金にまみれたSEX地獄
-reviewed in 2023-8-22 22:30:11<br/>
-<br/>
-[女闇金 -千鶴- 金にまみれたSEX地獄 [PR]](https://www.amazon.co.jp/gp/video/detail/B0716X44M4/ref=atv_dp_share_cu_r)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+前作から女優さんの数がかなり豪華に。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-8-22 22:30:11<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### A Kite
+reviewed in 2023-9-5 00:00:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWM5YjIxNzQtMWE5ZS00ZjljLWIxYWYtMDYxZjYwNTM5YTcxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="A Kite"><br/>
+[A Kite [PR]](https://amzn.to/3P3GlOb)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 郵便屋
 reviewed in 2023-8-28 18:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmRhZmRiZWEtOWQ1YS00MDdiLThkY2YtMjQ5MGQwMDMzMTQxXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_.jpg" alt="郵便屋"><br/>
