@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 連続殺人鬼カエル男
+reviewed in 2023-9-10 09:30:06<br/>
+<br/>
+[連続殺人鬼カエル男](http://www.tvdrama-db.com/drama_info/p/id-66799)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 丑三つの村
 reviewed in 2023-9-6 01:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTcwYTExNDItMDRkYS00ZDU5LWJhMGYtNTk3YjRjN2E1NjEyXkEyXkFqcGdeQXVyMTIzMjUxMg@@._V1_.jpg" alt="丑三つの村"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-8-28 18:00:08<br/>
 [郵便屋 [PR]](https://amzn.to/3suDnuu)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### あなたと温泉に行ったら… 小湊温泉編 #21 #22
-reviewed in 2023-8-25 09:00:06<br/>
-<br/>
-[あなたと温泉に行ったら… 小湊温泉編 #21 #22](https://otn.fujitv.co.jp/b_hp/919200261.html)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-潮みかさん。やはりニプレスは必須なんだな。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-8-25 09:00:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 連続殺人鬼カエル男
+reviewed in 2023-9-10 09:30:06<br/>
+<br/>
+[連続殺人鬼カエル男](http://www.tvdrama-db.com/drama_info/p/id-66799)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 松本清張作家活動40年記念 霧の旗
 reviewed in 2023-9-1 22:00:08<br/>
 <br/>
