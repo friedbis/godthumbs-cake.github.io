@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 歌舞伎町黒社会2
+reviewed in 2023-9-15 19:00:06<br/>
+<br/>
+[歌舞伎町黒社会2 [PR]](https://amzn.to/3ZnduZV)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 連続殺人鬼カエル男
 reviewed in 2023-9-10 09:30:06<br/>
 <br/>
