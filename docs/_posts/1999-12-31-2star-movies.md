@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 歌舞伎町黒社会2
+reviewed in 2023-9-15 19:00:06<br/>
+<br/>
+[歌舞伎町黒社会2 [PR]](https://amzn.to/3ZnduZV)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### KITE LIBERATOR
 reviewed in 2023-9-5 00:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTYzMjE1NjE1MF5BMl5BanBnXkFtZTgwODcxNjAyMTE@._V1_.jpg" alt="KITE LIBERATOR"><br/>
