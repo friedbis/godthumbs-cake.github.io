@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### イタダキマン
+reviewed in 2023-9-17 10:30:06<br/>
+<img src="https://m.media-amazon.com/images/I/71tw+zXyTSL._AC_SL1159_.jpg" alt="イタダキマン"><br/>
+[イタダキマン [PR]](https://amzn.to/44Zsqi2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ディフォルメとはいえOPで見せてるし。第2話でいきなりお色気回。第3話でご懐妊の話。話題性を出そうと必死だったのかな。<br/>
 ### 歌舞伎町黒社会2
 reviewed in 2023-9-15 19:00:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-9-1 19:00:07<br/>
 [血の祝祭日 [PR]](https://amzn.to/44Dy5ds)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### むっちり討ち入り 桃色忠臣蔵
-reviewed in 2023-8-29 15:30:10<br/>
-<br/>
-[むっちり討ち入り 桃色忠臣蔵 [PR]](https://amzn.to/3EhcRHK)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

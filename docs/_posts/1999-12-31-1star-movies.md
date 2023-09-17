@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### イタダキマン
+reviewed in 2023-9-17 10:30:06<br/>
+<img src="https://m.media-amazon.com/images/I/71tw+zXyTSL._AC_SL1159_.jpg" alt="イタダキマン"><br/>
+[イタダキマン [PR]](https://amzn.to/44Zsqi2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ディフォルメとはいえOPで見せてるし。第2話でいきなりお色気回。第3話でご懐妊の話。話題性を出そうと必死だったのかな。<br/>
 ### 連続殺人鬼カエル男
 reviewed in 2023-9-10 09:30:06<br/>
 <br/>
