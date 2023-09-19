@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 野獣狩り
+reviewed in 2023-9-19 21:30:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGEzYmVkMTItYzExNS00NjFkLWIzOTMtMWZmYjgxZGRjMmRjXkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="野獣狩り"><br/>
+[野獣狩り [PR]](https://amzn.to/3RnDfYf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 歌舞伎町黒社会2
 reviewed in 2023-9-15 19:00:06<br/>
 <br/>
