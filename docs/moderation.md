@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 闇金ウシジマくん
+reviewed in 2023-9-22 02:00:08<br/>
+<br/>
+[闇金ウシジマくん](http://www.tvdrama-db.com/drama_info/p/id-43806)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 野獣狩り
 reviewed in 2023-9-19 21:30:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGEzYmVkMTItYzExNS00NjFkLWIzOTMtMWZmYjgxZGRjMmRjXkEyXkFqcGdeQXVyMjIwODg1MjM@._V1_.jpg" alt="野獣狩り"><br/>
@@ -105,14 +112,7 @@ reviewed in 2023-9-2 02:00:10<br/>
 [マッドマックス２ [PR]](https://amzn.to/47YlUeb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-冒頭のAbuseシーン。<br/>
-### 松本清張作家活動40年記念 霧の旗
-reviewed in 2023-9-1 22:00:08<br/>
-<br/>
-[松本清張作家活動40年記念 霧の旗](http://www.tvdrama-db.com/drama_info/p/id-27990)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-安田成美さんというところがポイント高い
+冒頭のAbuseシーン。
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-9-1 22:00:08<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
