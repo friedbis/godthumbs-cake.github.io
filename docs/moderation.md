@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 快感ヒロイン ぷるるん捜査線 
+reviewed in 2023-9-23 10:30:06<br/>
+<br/>
+[快感ヒロイン ぷるるん捜査線 ]()<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+最低。<br/>
+### 実録・飛車角 狼どもの仁義
+reviewed in 2023-9-23 10:30:06<br/>
+<br/>
+[実録・飛車角 狼どもの仁義 [PR]](https://amzn.to/451PAo3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 時空変態童貞 時が止まって君にエクスタシー！
 reviewed in 2023-9-23 10:00:08<br/>
 <br/>
@@ -98,24 +112,11 @@ reviewed in 2023-9-6 01:00:10<br/>
 [戦後猟奇犯罪史 [PR]](https://amzn.to/3PqXCCo)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### KITE LIBERATOR
-reviewed in 2023-9-5 00:00:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTYzMjE1NjE1MF5BMl5BanBnXkFtZTgwODcxNjAyMTE@._V1_.jpg" alt="KITE LIBERATOR"><br/>
-[KITE LIBERATOR [PR]](https://amzn.to/47ZgO1c)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### A Kite
-reviewed in 2023-9-5 00:00:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMWM5YjIxNzQtMWE5ZS00ZjljLWIxYWYtMDYxZjYwNTM5YTcxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="A Kite"><br/>
-[A Kite [PR]](https://amzn.to/3P3GlOb)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

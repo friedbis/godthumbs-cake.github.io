@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 実録・飛車角 狼どもの仁義
+reviewed in 2023-9-23 10:30:06<br/>
+<br/>
+[実録・飛車角 狼どもの仁義 [PR]](https://amzn.to/451PAo3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 闇金ウシジマくん
 reviewed in 2023-9-22 02:00:08<br/>
 <br/>

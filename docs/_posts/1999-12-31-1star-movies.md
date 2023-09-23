@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 快感ヒロイン ぷるるん捜査線 
+reviewed in 2023-9-23 10:30:06<br/>
+<br/>
+[快感ヒロイン ぷるるん捜査線 ]()<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+最低。<br/>
 ### イタダキマン
 reviewed in 2023-9-17 10:30:06<br/>
 <img src="https://m.media-amazon.com/images/I/71tw+zXyTSL._AC_SL1159_.jpg" alt="イタダキマン"><br/>
