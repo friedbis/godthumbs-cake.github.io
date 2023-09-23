@@ -43,6 +43,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 時空変態童貞 時が止まって君にエクスタシー！
+reviewed in 2023-9-23 10:00:08<br/>
+<br/>
+[時空変態童貞 時が止まって君にエクスタシー！ [PR]](https://amzn.to/48sef8o)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 戦後猟奇犯罪史
 reviewed in 2023-9-6 01:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BODAwNzUwMzMtNDcyZC00NmZlLTk5ZmMtMWQ2ZTQ3MDE2Njc3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" alt="戦後猟奇犯罪史"><br/>

@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 時空変態童貞 時が止まって君にエクスタシー！
+reviewed in 2023-9-23 10:00:08<br/>
+<br/>
+[時空変態童貞 時が止まって君にエクスタシー！ [PR]](https://amzn.to/48sef8o)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 闇金ウシジマくん
 reviewed in 2023-9-22 02:00:08<br/>
 <br/>
@@ -105,14 +112,7 @@ reviewed in 2023-9-5 00:00:10<br/>
 [A Kite [PR]](https://amzn.to/3P3GlOb)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### マッドマックス２
-reviewed in 2023-9-2 02:00:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNjMxNjNkZTEtZmYwNi00NzU0LWI1MjctNjQ4MjBlNWFiN2IxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg" alt="マッドマックス２"><br/>
-[マッドマックス２ [PR]](https://amzn.to/47YlUeb)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-冒頭のAbuseシーン。
+
 <br/>
 ### 索引
 <br/>
@@ -162,6 +162,7 @@ reviewed in 2023-9-2 02:00:10<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
