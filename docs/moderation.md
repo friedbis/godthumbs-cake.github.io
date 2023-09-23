@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 奥様 仕組まれた快楽
+reviewed in 2023-9-23 11:00:08<br/>
+<br/>
+[奥様 仕組まれた快楽 [PR]](https://amzn.to/48twOsA)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+激イキ奥様 仕組まれた快楽（別タイトル）<br/>
 ### 快感ヒロイン ぷるるん捜査線 
 reviewed in 2023-9-23 10:30:06<br/>
 <br/>
@@ -105,13 +112,6 @@ reviewed in 2023-9-6 01:00:10<br/>
 [丑三つの村 [PR]](https://amzn.to/3PqvbV2)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### 戦後猟奇犯罪史
-reviewed in 2023-9-6 01:00:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BODAwNzUwMzMtNDcyZC00NmZlLTk5ZmMtMWQ2ZTQ3MDE2Njc3XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg" alt="戦後猟奇犯罪史"><br/>
-[戦後猟奇犯罪史 [PR]](https://amzn.to/3PqXCCo)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
@@ -163,7 +163,6 @@ reviewed in 2023-9-6 01:00:10<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
