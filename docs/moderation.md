@@ -49,7 +49,7 @@ reviewed in 2023-10-1 21:30:06<br/>
 [トラック野郎 御意見無用 [PR]](https://amzn.to/3t8Aeki)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+こういうホームコメディにお色気の要素のある作品って今に必要なものなのでは。<br/>
 ### 奥様 仕組まれた快楽
 reviewed in 2023-9-23 11:00:08<br/>
 <br/>
@@ -162,7 +162,6 @@ reviewed in 2023-9-10 09:30:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

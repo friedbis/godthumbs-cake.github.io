@@ -49,7 +49,7 @@ reviewed in 2023-10-1 21:30:06<br/>
 [トラック野郎 御意見無用 [PR]](https://amzn.to/3t8Aeki)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+こういうホームコメディにお色気の要素のある作品って今に必要なものなのでは。<br/>
 ### 丑三つの村
 reviewed in 2023-9-6 01:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZTcwYTExNDItMDRkYS00ZDU5LWJhMGYtNTk3YjRjN2E1NjEyXkEyXkFqcGdeQXVyMTIzMjUxMg@@._V1_.jpg" alt="丑三つの村"><br/>
