@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ハイミス探偵日記　空中サーカス殺人事件
+reviewed in 2023-10-7 07:00:14<br/>
+<br/>
+[ハイミス探偵日記　空中サーカス殺人事件](http://www.tvdrama-db.com/drama_info/p/id-20511)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+MIEさん<br/>
 ### 快感ヒロイン ぷるるん捜査線 
 reviewed in 2023-9-23 10:30:06<br/>
 <br/>

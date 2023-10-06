@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ハイミス探偵日記　空中サーカス殺人事件
+reviewed in 2023-10-7 07:00:14<br/>
+<br/>
+[ハイミス探偵日記　空中サーカス殺人事件](http://www.tvdrama-db.com/drama_info/p/id-20511)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+MIEさん<br/>
 ### トラック野郎 御意見無用
 reviewed in 2023-10-1 21:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjExYTFkNWItOWM4Ny00NGUzLTliZmItMGVjYTkwMmEwYWNlXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="トラック野郎 御意見無用"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-9-15 19:00:06<br/>
 [歌舞伎町黒社会2 [PR]](https://amzn.to/3ZnduZV)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 連続殺人鬼カエル男
-reviewed in 2023-9-10 09:30:06<br/>
-<br/>
-[連続殺人鬼カエル男](http://www.tvdrama-db.com/drama_info/p/id-66799)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
