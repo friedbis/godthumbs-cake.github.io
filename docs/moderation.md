@@ -45,14 +45,14 @@ title: Impression
 <br/>
 ### 色眼鏡Ⅱ 至高の快楽を覗き込め
 reviewed in 2023-10-7 10:30:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/S/pv-target-images/dda1f3ccc083605352f9fa32523d0fe6aa5595ecf45b713213725e9668570022.jpg" alt="色眼鏡Ⅱ 至高の快楽を覗き込め"><br/>
 [色眼鏡Ⅱ 至高の快楽を覗き込め [PR]](https://www.amazon.co.jp/gp/video/detail/B0B8RH2XDD/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+このシリーズ続けてほしい。<br/>
 ### 夜の歌謡シリーズ 悪党ブルース
 reviewed in 2023-10-7 10:30:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/I/71Gz4Lwv0PL._AC_UL640_FMwebp_QL65_.jpg" alt="夜の歌謡シリーズ 悪党ブルース"><br/>
 [夜の歌謡シリーズ 悪党ブルース [PR]](https://amzn.to/3Q2q1Pr)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

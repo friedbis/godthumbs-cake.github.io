@@ -45,11 +45,11 @@ title: 5つ星の映画・ドラマ
 <br/>
 ### 色眼鏡Ⅱ 至高の快楽を覗き込め
 reviewed in 2023-10-7 10:30:06<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/S/pv-target-images/dda1f3ccc083605352f9fa32523d0fe6aa5595ecf45b713213725e9668570022.jpg" alt="色眼鏡Ⅱ 至高の快楽を覗き込め"><br/>
 [色眼鏡Ⅱ 至高の快楽を覗き込め [PR]](https://www.amazon.co.jp/gp/video/detail/B0B8RH2XDD/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+このシリーズ続けてほしい。<br/>
 ### 女番長 玉突き遊び
 reviewed in 2023-10-7 10:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDAwYmJlNmYtYTgzMC00NDRmLWE0NjYtNmE3ZTEzYzUxNjc1XkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長 玉突き遊び"><br/>
