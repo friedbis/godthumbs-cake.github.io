@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 武闘拳 猛虎撃殺！
+reviewed in 2023-10-7 09:30:07<br/>
+<br/>
+[武闘拳 猛虎撃殺！ [PR]](https://amzn.to/46IL13r)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ハイミス探偵日記　空中サーカス殺人事件
 reviewed in 2023-10-7 07:00:14<br/>
 <br/>
