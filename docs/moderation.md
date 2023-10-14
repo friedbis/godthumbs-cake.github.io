@@ -43,6 +43,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 妻たちの本能 束縛不倫
+reviewed in 2023-10-14 15:00:06<br/>
+<br/>
+[妻たちの本能 束縛不倫 [PR]](https://amzn.to/3rIedbX)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 奥様 仕組まれた快楽
+reviewed in 2023-10-14 15:00:06<br/>
+<br/>
+[奥様 仕組まれた快楽 [PR]](https://amzn.to/46MGEV0)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+激イキ奥様 仕組まれた快楽（別タイトル）<br/>
 ### デスパレートな人妻たち 昼下がりのヨガスクール
 reviewed in 2023-10-14 14:30:05<br/>
 <br/>
@@ -98,24 +112,11 @@ reviewed in 2023-10-7 10:30:06<br/>
 [奪われた性愛 [PR]](https://amzn.to/46eZ0xU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-奪われた婚約者　逃れられない淫欲の掟（R18版）<br/>
-### 訳アリ女の情事
-reviewed in 2023-10-7 09:30:07<br/>
-<br/>
-[訳アリ女の情事 [PR]](https://amzn.to/3LS9R90)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-肉体の悶（R18版）<br/>
-### マークスの山
-reviewed in 2023-10-7 09:30:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BM2EwM2RiYzUtM2YyMS00NDZkLTk0MWEtZGY4YWU2ZDhlZTQ1XkEyXkFqcGdeQXVyMjY0MDY4Mjk@._V1_.jpg" alt="マークスの山"><br/>
-[マークスの山 [PR]](https://amzn.asia/d/0g6KO7R)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-
+奪われた婚約者　逃れられない淫欲の掟（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
