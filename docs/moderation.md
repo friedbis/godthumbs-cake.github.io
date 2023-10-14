@@ -47,7 +47,7 @@ title: Impression
 reviewed in 2023-10-14 16:30:06<br/>
 <br/>
 [ここではないどこかへ　〜わたしが犯した罪と罰〜]()<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 密着指導 教えてあげる（R18版）、背徳女教師　覗かれた補習授業（R18版）<br/>
 ### OL快楽電車 恥ずかしい体験
