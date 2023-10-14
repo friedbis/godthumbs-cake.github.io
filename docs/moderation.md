@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 夫婦で行う変態プレイ
+reviewed in 2023-10-14 10:00:06<br/>
+<br/>
+[夫婦で行う変態プレイ]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+痴漢電車　夫婦で痴漢（R18版）<br/>
 ### 色眼鏡Ⅱ 至高の快楽を覗き込め
 reviewed in 2023-10-7 10:30:06<br/>
 <img src="https://m.media-amazon.com/images/S/pv-target-images/dda1f3ccc083605352f9fa32523d0fe6aa5595ecf45b713213725e9668570022.jpg" alt="色眼鏡Ⅱ 至高の快楽を覗き込め"><br/>
@@ -105,17 +112,11 @@ reviewed in 2023-10-1 21:30:06<br/>
 [トラック野郎 御意見無用 [PR]](https://amzn.to/3t8Aeki)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-こういうホームコメディにお色気の要素のある作品って今に必要なものなのでは。<br/>
-### 奥様 仕組まれた快楽
-reviewed in 2023-9-23 11:00:08<br/>
-<br/>
-[奥様 仕組まれた快楽 [PR]](https://amzn.to/48twOsA)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-激イキ奥様 仕組まれた快楽（別タイトル）
+こういうホームコメディにお色気の要素のある作品って今に必要なものなのでは。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
