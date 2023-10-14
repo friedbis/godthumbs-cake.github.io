@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 銀河漂流バイファム
+reviewed in 2023-10-15 01:30:05<br/>
+<br/>
+[銀河漂流バイファム [PR]](https://amzn.to/3QeYQ46)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ケイト・ハザウェイさん<br/>
 ### ここではないどこかへ　〜わたしが犯した罪と罰〜
 reviewed in 2023-10-14 16:30:06<br/>
 <br/>
@@ -98,24 +105,11 @@ reviewed in 2023-10-14 10:00:06<br/>
 [夫婦で行う変態プレイ]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-痴漢電車　夫婦で痴漢（R18版）、奥さまはド変態　～女が女に触るとき～（R18版）<br/>
-### 色眼鏡Ⅱ 至高の快楽を覗き込め
-reviewed in 2023-10-7 10:30:06<br/>
-<img src="https://m.media-amazon.com/images/S/pv-target-images/dda1f3ccc083605352f9fa32523d0fe6aa5595ecf45b713213725e9668570022.jpg" alt="色眼鏡Ⅱ 至高の快楽を覗き込め"><br/>
-[色眼鏡Ⅱ 至高の快楽を覗き込め [PR]](https://www.amazon.co.jp/gp/video/detail/B0B8RH2XDD/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-このシリーズ続けてほしい。<br/>
-### 夜の歌謡シリーズ 悪党ブルース
-reviewed in 2023-10-7 10:30:06<br/>
-<img src="https://m.media-amazon.com/images/I/71Gz4Lwv0PL._AC_UL640_FMwebp_QL65_.jpg" alt="夜の歌謡シリーズ 悪党ブルース"><br/>
-[夜の歌謡シリーズ 悪党ブルース [PR]](https://amzn.to/3Q2q1Pr)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+痴漢電車　夫婦で痴漢（R18版）、奥さまはド変態　～女が女に触るとき～（R18版）
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
