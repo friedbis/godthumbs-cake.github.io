@@ -43,6 +43,20 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 性鬼人間第三号 〜異次元の快楽〜
+reviewed in 2023-10-15 02:00:06<br/>
+<img src="https://m.media-amazon.com/images/I/8112h1-5xlL._AC_SL1500_.jpg" alt="性鬼人間第三号 〜異次元の快楽〜"><br/>
+[性鬼人間第三号 〜異次元の快楽〜 [PR]](https://amzn.to/3FiP1Me)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
+### はみ出しスクール水着
+reviewed in 2023-10-15 02:00:06<br/>
+<img src="https://m.media-amazon.com/images/I/819tYAuvL7L._AC_SL1500_.jpg" alt="はみ出しスクール水着"><br/>
+[はみ出しスクール水着 [PR]](https://amzn.to/3FiUnas)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+キョンキョンの歌がまさかこんなところで使われるとは。あと、イチモツの表現や剃毛シーンやらが面白い。<br/>
 ### ここではないどこかへ　〜わたしが犯した罪と罰〜
 reviewed in 2023-10-14 16:30:06<br/>
 <br/>
