@@ -49,7 +49,7 @@ reviewed in 2023-10-15 11:00:08<br/>
 [悶絶！！どんでん返し [PR]](https://amzn.to/3RUknAk)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
+すごいの一言。<br/>
 ### 性鬼人間第三号 〜異次元の快楽〜
 reviewed in 2023-10-15 02:00:06<br/>
 <img src="https://m.media-amazon.com/images/I/8112h1-5xlL._AC_SL1500_.jpg" alt="性鬼人間第三号 〜異次元の快楽〜"><br/>
