@@ -43,6 +43,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夏の秘密
+reviewed in 2023-10-17 10:00:06<br/>
+<br/>
+[夏の秘密 [PR]](https://amzn.to/46yAyHX)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+ナイトトレイン・美少女<br/>
 ### 銀河漂流バイファム
 reviewed in 2023-10-15 01:30:05<br/>
 <br/>
