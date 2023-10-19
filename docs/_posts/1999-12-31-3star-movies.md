@@ -43,6 +43,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夢千代日記
+reviewed in 2023-10-19 13:30:07<br/>
+<br/>
+[夢千代日記 [PR]](https://amzn.to/3Q5pxXs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+情緒が素晴らしい。匂いが香ってきそう。<br/>
 ### 新・極道の妻たち
 reviewed in 2023-10-15 02:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYmJlMDI5N2MtYjQxOC00NmE5LTk2NDktZGMzZjFlMjRhMGIzXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="新・極道の妻たち"><br/>

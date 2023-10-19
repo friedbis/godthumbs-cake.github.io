@@ -43,6 +43,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 夢千代日記
+reviewed in 2023-10-19 13:30:07<br/>
+<br/>
+[夢千代日記 [PR]](https://amzn.to/3Q5pxXs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+情緒が素晴らしい。匂いが香ってきそう。<br/>
 ### 夏の秘密
 reviewed in 2023-10-17 10:00:06<br/>
 <br/>
@@ -105,17 +112,11 @@ reviewed in 2023-10-14 15:00:06<br/>
 [妻たちの本能 束縛不倫 [PR]](https://amzn.to/3rIedbX)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 奥様 仕組まれた快楽
-reviewed in 2023-10-14 15:00:06<br/>
-<br/>
-[奥様 仕組まれた快楽 [PR]](https://amzn.to/46MGEV0)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-激イキ奥様 仕組まれた快楽（別タイトル）
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
