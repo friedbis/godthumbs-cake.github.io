@@ -43,6 +43,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夢千代日記
+reviewed in 2023-10-19 13:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmI5ZDJiZTMtNDE1YS00M2ZjLTllMWUtY2RkOWNkYmRlZmVlXkEyXkFqcGdeQXVyMjc2NTQ1MTI@._V1_.jpg" alt="夢千代日記"><br/>
+[夢千代日記 [PR]](https://amzn.to/3Q5pxXs)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+情緒が素晴らしい。匂いが香ってきそう。<br/>
 ### 悶絶！！どんでん返し
 reviewed in 2023-10-15 11:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjdiMzJkNDQtM2MwMC00YmQxLThjZWMtNzk3Y2Y4MWVlNmFkXkEyXkFqcGdeQXVyMjkyMDI4NTQ@._V1_.jpg" alt="悶絶！！どんでん返し"><br/>
