@@ -43,6 +43,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 脱獄広島殺人囚
+reviewed in 2023-11-6 13:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzVkZGU2MTAtNDg3YS00OGQzLThiZjctNmNlZDRhNzY0NzNhXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="脱獄広島殺人囚"><br/>
+[脱獄広島殺人囚 [PR]](https://amzn.to/46ZoK1I)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 奥様 仕組まれた快楽
 reviewed in 2023-10-14 15:00:06<br/>
 <br/>
