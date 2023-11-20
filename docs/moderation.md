@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 吼えろ鉄拳
+reviewed in 2023-11-20 13:00:08<br/>
+<br/>
+[吼えろ鉄拳 [PR]](https://amzn.to/3QPljDQ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 家路の果て
 reviewed in 2023-11-20 12:30:08<br/>
 <br/>
@@ -115,14 +122,7 @@ reviewed in 2023-11-11 18:30:05<br/>
 [避けられない情実 [PR]](https://www.amazon.co.jp/gp/video/detail/B09DNTZCVK/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-禁断のトライアングル ～逃れられない運命の兄妹交尾～（R18版）<br/>
-### 新宿アウトロー ぶっ飛ばせ
-reviewed in 2023-11-8 13:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZjkwOTc0NjYtOGI1OC00NDFjLTlhNWQtMTFmZjFjZjAzNGY0XkEyXkFqcGdeQXVyMzQ3NTE0ODM@._V1_.jpg" alt="新宿アウトロー ぶっ飛ばせ"><br/>
-[新宿アウトロー ぶっ飛ばせ [PR]](https://amzn.to/3u5x8hE)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-ラストの住宅街の間をヘリが行くのは凄いなと。
+禁断のトライアングル ～逃れられない運命の兄妹交尾～（R18版）
 <br/>
 ### 索引
 <br/>
