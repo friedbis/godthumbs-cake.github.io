@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 嫌われ松子の一生
+reviewed in 2023-11-21 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZmRlNjc2NGYtZWNkOS00YzIwLWE0MDEtOWVhNzJlMTE4OGMzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="嫌われ松子の一生"><br/>
+[嫌われ松子の一生 [PR]](https://amzn.to/49JTju4)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### ボディガード牙 必殺三角飛び
 reviewed in 2023-11-19 02:00:10<br/>
 <br/>
