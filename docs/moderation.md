@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 紅顔の密使
+reviewed in 2023-11-28 23:30:08<br/>
+<br/>
+[紅顔の密使 [PR]](https://amzn.to/3RiXCVS)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 農家に嫁いだ女 若妻の旬
 reviewed in 2023-11-28 23:00:06<br/>
 <br/>
@@ -113,13 +120,6 @@ reviewed in 2023-11-15 21:00:13<br/>
 reviewed in 2023-11-14 12:30:05<br/>
 <br/>
 [どスケベ痴漢電車 [PR]](https://amzn.to/46cP86T)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 暴動島根刑務所
-reviewed in 2023-11-11 19:00:10<br/>
-<br/>
-[暴動島根刑務所 [PR]](https://amzn.to/49tFHmC)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 
