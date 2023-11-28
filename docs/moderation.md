@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 愛と情熱のジョセフィン・ベイカー
+reviewed in 2023-11-28 19:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjdjZjBkNDItZTlkZi00ZDViLTgxZWYtOGY2NzIyODVhZDUxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg" alt="愛と情熱のジョセフィン・ベイカー"><br/>
+[愛と情熱のジョセフィン・ベイカー]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+裸の女王／ジョセフィン・ベイカー・ストーリー<br/>
 ### 嫌われ松子の一生
 reviewed in 2023-11-21 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmRlNjc2NGYtZWNkOS00YzIwLWE0MDEtOWVhNzJlMTE4OGMzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="嫌われ松子の一生"><br/>
@@ -115,17 +122,11 @@ reviewed in 2023-11-11 19:00:10<br/>
 [夜の歌謡シリーズ おんな [PR]](https://www.amazon.co.jp/gp/video/detail/B081S2VYSW/ref=atv_dp_share_cu_r)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 時空変態童貞2　このループ、何度ヤッても止められない！
-reviewed in 2023-11-11 18:30:05<br/>
-<br/>
-[時空変態童貞2　このループ、何度ヤッても止められない！ [PR]](https://www.amazon.co.jp/gp/video/detail/B0B7DP6YCP/ref=atv_dp_share_cu_r)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

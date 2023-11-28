@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 愛と情熱のジョセフィン・ベイカー
+reviewed in 2023-11-28 19:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZjdjZjBkNDItZTlkZi00ZDViLTgxZWYtOGY2NzIyODVhZDUxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg" alt="愛と情熱のジョセフィン・ベイカー"><br/>
+[愛と情熱のジョセフィン・ベイカー]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+裸の女王／ジョセフィン・ベイカー・ストーリー<br/>
 ### 薄毛の19才
 reviewed in 2023-11-15 21:00:13<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDg0ODlmOGUtMmU0OC00MGZjLThlMWEtM2I2N2I5MWNjM2FkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="薄毛の19才"><br/>
