@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 罠の女
+reviewed in 2023-11-30 21:30:04<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDA4N2U1NTEtY2U0NS00M2FiLTg0MTAtNTk1M2NhOGE5ZjgxXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="罠の女"><br/>
+[罠の女 [PR]](https://amzn.to/3T4EWup)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 愛と情熱のジョセフィン・ベイカー
 reviewed in 2023-11-28 19:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZjdjZjBkNDItZTlkZi00ZDViLTgxZWYtOGY2NzIyODVhZDUxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg" alt="愛と情熱のジョセフィン・ベイカー"><br/>
