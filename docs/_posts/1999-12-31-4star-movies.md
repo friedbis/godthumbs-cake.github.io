@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スキャンダル 愛の罠
+reviewed in 2023-12-2 01:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzdhN2VlZWUtMjY3OC00ZmFiLTk3ZDctMDg1YmJmMzI4YWFmXkEyXkFqcGdeQXVyNjYwNzg3NjY@._V1_.jpg" alt="スキャンダル 愛の罠"><br/>
+[スキャンダル 愛の罠 [PR]](https://amzn.to/3R2defm)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 恋の狩人 欲望
 reviewed in 2023-10-14 11:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMjg2ZTNjNWQtMWM0YS00YTVhLWFhZjMtNDIzZmZlNWZjYjg4XkEyXkFqcGdeQXVyMTAxMzc2MTkw._V1_.jpg" alt="恋の狩人 欲望"><br/>
