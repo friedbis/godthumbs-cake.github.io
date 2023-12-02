@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 動乱
+reviewed in 2023-12-2 10:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmM0YWJjMTgtOTQwZS00NGJhLWJkNmQtNzhiOTNhOTYxZDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQyMTQzMjM@._V1_.jpg" alt="動乱"><br/>
+[動乱 [PR]](https://amzn.to/412FC5m)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+第2部にて吉永小百合さん、高倉健さん。<br/>
 ### 紅顔の密使
 reviewed in 2023-11-28 23:30:08<br/>
 <br/>
