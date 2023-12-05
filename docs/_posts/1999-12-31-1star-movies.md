@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### The Hunt for a Killer
+reviewed in 2023-12-5 19:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZGNjY2M3MjUtN2IxNC00YmM4LTkwNGEtOTA4ZWY1MGU0MDY0XkEyXkFqcGdeQXVyNjIzMTY0MDU@._V1_.jpg" alt="The Hunt for a Killer"><br/>
+[The Hunt for a Killer]()<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 動乱
 reviewed in 2023-12-2 10:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmM0YWJjMTgtOTQwZS00NGJhLWJkNmQtNzhiOTNhOTYxZDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQyMTQzMjM@._V1_.jpg" alt="動乱"><br/>

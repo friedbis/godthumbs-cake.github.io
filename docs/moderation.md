@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### The Hunt for a Killer
+reviewed in 2023-12-5 19:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZGNjY2M3MjUtN2IxNC00YmM4LTkwNGEtOTA4ZWY1MGU0MDY0XkEyXkFqcGdeQXVyNjIzMTY0MDU@._V1_.jpg" alt="The Hunt for a Killer"><br/>
+[The Hunt for a Killer]()<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 女囚やくざ
 reviewed in 2023-12-2 10:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOTk2NjM3ZTgtMmRkOS00YzkyLWFiZmEtZmUxZGZhNTE5ZWVhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" alt="女囚やくざ"><br/>
@@ -115,14 +122,7 @@ reviewed in 2023-11-21 21:30:04<br/>
 [嫌われ松子の一生 [PR]](https://amzn.to/49JTju4)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 吼えろ鉄拳
-reviewed in 2023-11-20 13:00:08<br/>
-<br/>
-[吼えろ鉄拳 [PR]](https://amzn.to/3QPljDQ)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-下乳
+
 <br/>
 ### 索引
 <br/>
