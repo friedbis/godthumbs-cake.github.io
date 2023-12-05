@@ -55,7 +55,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 女番長 感化院脱走
 reviewed in 2023-12-6 08:00:10<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjlmNDdjNDgtOGEwYy00ZDA5LWFjNGMtZTU0MDMxNDBmMTUyXkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長 感化院脱走"><br/>
 [女番長 感化院脱走 [PR]](https://amzn.to/41ppDih)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
