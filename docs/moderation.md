@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 花冷え
+reviewed in 2023-12-5 21:00:09<br/>
+<br/>
+[花冷え](http://www.tvdrama-db.com/drama_info/p/id-18472)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+岩下志麻さんがお綺麗。この時40歳か、、。<br/>
 ### 強盗放火殺人囚
 reviewed in 2023-12-5 19:30:07<br/>
 <br/>
@@ -115,17 +122,11 @@ reviewed in 2023-11-28 23:00:06<br/>
 [農家に嫁いだ女　燗熟未亡人 [PR]](https://amzn.to/46zS65F)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 愛と情熱のジョセフィン・ベイカー
-reviewed in 2023-11-28 19:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZjdjZjBkNDItZTlkZi00ZDViLTgxZWYtOGY2NzIyODVhZDUxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg" alt="愛と情熱のジョセフィン・ベイカー"><br/>
-[愛と情熱のジョセフィン・ベイカー [PR]](https://amzn.to/47ScRKT)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-裸の女王／ジョセフィン・ベイカー・ストーリー
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
