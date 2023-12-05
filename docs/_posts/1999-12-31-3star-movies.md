@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 強盗放火殺人囚
+reviewed in 2023-12-5 19:30:07<br/>
+<br/>
+[強盗放火殺人囚 [PR]](https://amzn.to/480psf3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+松方弘樹作品を立て続けに見ると、捕まっては収監され、脱獄しては捕まってを繰り返す人しか演じてない。その合間に見境なく女に腰を振る。<br/>
 ### 罠の女
 reviewed in 2023-11-30 21:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDA4N2U1NTEtY2U0NS00M2FiLTg0MTAtNTk1M2NhOGE5ZjgxXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="罠の女"><br/>

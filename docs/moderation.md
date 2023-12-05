@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 強盗放火殺人囚
+reviewed in 2023-12-5 19:30:07<br/>
+<br/>
+[強盗放火殺人囚 [PR]](https://amzn.to/480psf3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+松方弘樹作品を立て続けに見ると、捕まっては収監され、脱獄しては捕まってを繰り返す人しか演じてない。その合間に見境なく女に腰を振る。<br/>
 ### The Hunt for a Killer
 reviewed in 2023-12-5 19:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGNjY2M3MjUtN2IxNC00YmM4LTkwNGEtOTA4ZWY1MGU0MDY0XkEyXkFqcGdeQXVyNjIzMTY0MDU@._V1_.jpg" alt="The Hunt for a Killer"><br/>
@@ -115,17 +122,11 @@ reviewed in 2023-11-28 19:30:05<br/>
 [愛と情熱のジョセフィン・ベイカー [PR]](https://amzn.to/47ScRKT)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-裸の女王／ジョセフィン・ベイカー・ストーリー<br/>
-### 嫌われ松子の一生
-reviewed in 2023-11-21 21:30:04<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZmRlNjc2NGYtZWNkOS00YzIwLWE0MDEtOWVhNzJlMTE4OGMzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="嫌われ松子の一生"><br/>
-[嫌われ松子の一生 [PR]](https://amzn.to/49JTju4)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+裸の女王／ジョセフィン・ベイカー・ストーリー
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
