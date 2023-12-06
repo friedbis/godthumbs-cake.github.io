@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 秘められた訪問者
+reviewed in 2023-12-7 08:00:09<br/>
+<br/>
+[秘められた訪問者](http://www.tvdrama-db.com/drama_info/p/id-19261)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### らしゃめん
 reviewed in 2023-12-7 00:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZGNhYjRlMzEtNGUyMi00MDA0LWE3NmEtNDVmZjVkYWQ4NGEyXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="らしゃめん"><br/>
