@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 色欲絵巻 千年の狂恋
+reviewed in 2023-12-12 15:30:11<br/>
+<br/>
+[色欲絵巻 千年の狂恋 [PR]](https://amzn.to/4aukOID)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 秘められた訪問者
 reviewed in 2023-12-7 08:00:09<br/>
 <br/>
