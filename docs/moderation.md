@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 亜空大作戦スラングル
+reviewed in 2023-12-12 17:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmMxMjAxZTQtYzQ5MC00NGYyLWI2MTUtMWViMzYxNGQ5YzU2XkEyXkFqcGdeQXVyNjU0MjI5NDQ@._V1_.jpg" alt="亜空大作戦スラングル"><br/>
+[亜空大作戦スラングル [PR]](https://amzn.to/4ajxgdO)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+１話のサービスカット。全話はまだ見ていないけど、懐かしさで気づいたら朝になってることがある。<br/>
 ### 色欲絵巻 千年の狂恋
 reviewed in 2023-12-12 15:30:11<br/>
 <br/>
@@ -115,17 +122,11 @@ reviewed in 2023-12-2 10:00:06<br/>
 [女囚やくざ]()<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 動乱
-reviewed in 2023-12-2 10:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNmM0YWJjMTgtOTQwZS00NGJhLWJkNmQtNzhiOTNhOTYxZDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQyMTQzMjM@._V1_.jpg" alt="動乱"><br/>
-[動乱 [PR]](https://amzn.to/412FC5m)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-第2部にて吉永小百合さん、高倉健さん。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
