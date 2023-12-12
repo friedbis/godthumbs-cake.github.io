@@ -53,6 +53,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マルティナは海
+reviewed in 2023-12-12 17:30:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BM2JlYzE5ZmEtNjRkNi00ZDk1LWJkMTctY2Q5YzNmMjM0OGNhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="マルティナは海"><br/>
+[マルティナは海]()<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 夢千代日記
 reviewed in 2023-10-19 13:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmI5ZDJiZTMtNDE1YS00M2ZjLTllMWUtY2RkOWNkYmRlZmVlXkEyXkFqcGdeQXVyMjc2NTQ1MTI@._V1_.jpg" alt="夢千代日記"><br/>
