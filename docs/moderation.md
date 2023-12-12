@@ -53,10 +53,17 @@ title: Impression
 ## 作品
 
 <br/>
+### 獣兵衛忍法帖
+reviewed in 2023-12-12 22:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTFmNWRkZWEtOTNkNS00NGM1LWI2NDktYmJjOTgxNTRlNDY2XkEyXkFqcGdeQXVyMzUxNjAwMTg@._V1_.jpg" alt="獣兵衛忍法帖"><br/>
+[獣兵衛忍法帖 [PR]](https://amzn.to/3GD6nE3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### マルティナは海
 reviewed in 2023-12-12 17:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BM2JlYzE5ZmEtNjRkNi00ZDk1LWJkMTctY2Q5YzNmMjM0OGNhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="マルティナは海"><br/>
-[マルティナは海]()<br/>
+[マルティナは海 [PR]](https://amzn.to/3tgZjdp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
@@ -115,14 +122,7 @@ reviewed in 2023-12-5 19:30:07<br/>
 [強盗放火殺人囚 [PR]](https://amzn.to/480psf3)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-松方弘樹作品を立て続けに見ると、捕まっては収監され、脱獄しては捕まってを繰り返す人しか演じてない。その合間に見境なく女に腰を振る。<br/>
-### The Hunt for a Killer
-reviewed in 2023-12-5 19:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BZGNjY2M3MjUtN2IxNC00YmM4LTkwNGEtOTA4ZWY1MGU0MDY0XkEyXkFqcGdeQXVyNjIzMTY0MDU@._V1_.jpg" alt="The Hunt for a Killer"><br/>
-[The Hunt for a Killer]()<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+松方弘樹作品を立て続けに見ると、捕まっては収監され、脱獄しては捕まってを繰り返す人しか演じてない。その合間に見境なく女に腰を振る。
 <br/>
 ### 索引
 <br/>
@@ -172,6 +172,7 @@ reviewed in 2023-12-5 19:00:05<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

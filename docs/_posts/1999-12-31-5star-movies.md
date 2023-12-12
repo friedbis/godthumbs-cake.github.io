@@ -53,10 +53,17 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 獣兵衛忍法帖
+reviewed in 2023-12-12 22:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTFmNWRkZWEtOTNkNS00NGM1LWI2NDktYmJjOTgxNTRlNDY2XkEyXkFqcGdeQXVyMzUxNjAwMTg@._V1_.jpg" alt="獣兵衛忍法帖"><br/>
+[獣兵衛忍法帖 [PR]](https://amzn.to/3GD6nE3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### マルティナは海
 reviewed in 2023-12-12 17:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BM2JlYzE5ZmEtNjRkNi00ZDk1LWJkMTctY2Q5YzNmMjM0OGNhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="マルティナは海"><br/>
-[マルティナは海]()<br/>
+[マルティナは海 [PR]](https://amzn.to/3tgZjdp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 <br/>
