@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### メイドロイドVSホストロイド軍団
+reviewed in 2023-12-17 19:00:14<br/>
+<br/>
+[メイドロイドVSホストロイド軍団 [PR]](https://amzn.to/482MySQ)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 魔獣都市＜新宿＞
 reviewed in 2023-12-17 11:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzc3NTk1YzItNmNlMS00MTdlLThkODQtYjQzMjI3NzVlODM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="魔獣都市＜新宿＞"><br/>
