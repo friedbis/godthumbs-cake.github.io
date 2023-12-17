@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 妖獣都市
+reviewed in 2023-12-17 10:30:05<br/>
+<br/>
+[妖獣都市 [PR]](https://amzn.to/3RLxSRl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 獣兵衛忍法帖
 reviewed in 2023-12-12 22:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTFmNWRkZWEtOTNkNS00NGM1LWI2NDktYmJjOTgxNTRlNDY2XkEyXkFqcGdeQXVyMzUxNjAwMTg@._V1_.jpg" alt="獣兵衛忍法帖"><br/>
@@ -115,14 +122,7 @@ reviewed in 2023-12-5 21:00:09<br/>
 [花冷え](http://www.tvdrama-db.com/drama_info/p/id-18472)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-岩下志麻さんがお綺麗。この時40歳か、、。<br/>
-### 強盗放火殺人囚
-reviewed in 2023-12-5 19:30:07<br/>
-<br/>
-[強盗放火殺人囚 [PR]](https://amzn.to/480psf3)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-松方弘樹作品を立て続けに見ると、捕まっては収監され、脱獄しては捕まってを繰り返す人しか演じてない。その合間に見境なく女に腰を振る。
+岩下志麻さんがお綺麗。この時40歳か、、。
 <br/>
 ### 索引
 <br/>
@@ -172,6 +172,7 @@ reviewed in 2023-12-5 19:30:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

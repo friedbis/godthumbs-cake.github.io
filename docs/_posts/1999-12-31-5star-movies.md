@@ -53,6 +53,13 @@ title: 5つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 妖獣都市
+reviewed in 2023-12-17 10:30:05<br/>
+<br/>
+[妖獣都市 [PR]](https://amzn.to/3RLxSRl)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
+<br/>
+<br/>
 ### 獣兵衛忍法帖
 reviewed in 2023-12-12 22:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTFmNWRkZWEtOTNkNS00NGM1LWI2NDktYmJjOTgxNTRlNDY2XkEyXkFqcGdeQXVyMzUxNjAwMTg@._V1_.jpg" alt="獣兵衛忍法帖"><br/>
