@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 夜の歌謡シリーズ なみだ恋
+reviewed in 2023-12-17 11:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTliY2I0ZjgtZDUyMC00YWI1LWFmMGYtMGVjNjYxNWI5Yjg3XkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="夜の歌謡シリーズ なみだ恋"><br/>
+[夜の歌謡シリーズ なみだ恋 [PR]](https://amzn.to/46WP3F3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+中島ゆたかさん<br/>
 ### 女番長 感化院脱走
 reviewed in 2023-12-6 08:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjlmNDdjNDgtOGEwYy00ZDA5LWFjNGMtZTU0MDMxNDBmMTUyXkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長 感化院脱走"><br/>

@@ -53,9 +53,23 @@ title: Impression
 ## 作品
 
 <br/>
-### 妖獣都市
-reviewed in 2023-12-17 10:30:05<br/>
+### 夜の歌謡シリーズ なみだ恋
+reviewed in 2023-12-17 11:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTliY2I0ZjgtZDUyMC00YWI1LWFmMGYtMGVjNjYxNWI5Yjg3XkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="夜の歌謡シリーズ なみだ恋"><br/>
+[夜の歌謡シリーズ なみだ恋 [PR]](https://amzn.to/46WP3F3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
+中島ゆたかさん<br/>
+### 魔獣都市＜新宿＞
+reviewed in 2023-12-17 11:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzc3NTk1YzItNmNlMS00MTdlLThkODQtYjQzMjI3NzVlODM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="魔獣都市＜新宿＞"><br/>
+[魔獣都市＜新宿＞ [PR]](https://amzn.to/41xzkv2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 妖獣都市
+reviewed in 2023-12-17 11:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDVkOTc3N2ItMjY0Yi00ZWEwLTg3YzgtYmM5ZGI2NGQ4OTkzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="妖獣都市"><br/>
 [妖獣都市 [PR]](https://amzn.to/3RLxSRl)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
@@ -108,24 +122,11 @@ reviewed in 2023-12-7 00:30:06<br/>
 [らしゃめん [PR]](https://amzn.to/3RtMgyn)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-どこか一つでも抜きん出るものがあれば。<br/>
-### 女番長 感化院脱走
-reviewed in 2023-12-6 08:00:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYjlmNDdjNDgtOGEwYy00ZDA5LWFjNGMtZTU0MDMxNDBmMTUyXkEyXkFqcGdeQXVyNjkwNzk5NTY@._V1_.jpg" alt="女番長 感化院脱走"><br/>
-[女番長 感化院脱走 [PR]](https://amzn.to/41ppDih)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-あのねのね、あのねのね、、<br/>
-### 花冷え
-reviewed in 2023-12-5 21:00:09<br/>
-<br/>
-[花冷え](http://www.tvdrama-db.com/drama_info/p/id-18472)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-岩下志麻さんがお綺麗。この時40歳か、、。
+どこか一つでも抜きん出るものがあれば。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

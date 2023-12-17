@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 魔獣都市＜新宿＞
+reviewed in 2023-12-17 11:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMzc3NTk1YzItNmNlMS00MTdlLThkODQtYjQzMjI3NzVlODM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="魔獣都市＜新宿＞"><br/>
+[魔獣都市＜新宿＞ [PR]](https://amzn.to/41xzkv2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 亜空大作戦スラングル
 reviewed in 2023-12-12 17:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmMxMjAxZTQtYzQ5MC00NGYyLWI2MTUtMWViMzYxNGQ5YzU2XkEyXkFqcGdeQXVyNjU0MjI5NDQ@._V1_.jpg" alt="亜空大作戦スラングル"><br/>
