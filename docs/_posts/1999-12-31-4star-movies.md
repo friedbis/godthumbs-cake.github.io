@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 天城越え
+reviewed in 2023-12-19 22:30:11<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTYzNGM4ZWYtNDg3Zi00NzRjLWE3NTItOTU4OTQzNmQyYTE4XkEyXkFqcGdeQXVyMTI2NDgxMg@@._V1_.jpg" alt="天城越え"><br/>
+[天城越え [PR]](https://amzn.to/3RxQy6C)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 夜の歌謡シリーズ なみだ恋
 reviewed in 2023-12-17 11:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTliY2I0ZjgtZDUyMC00YWI1LWFmMGYtMGVjNjYxNWI5Yjg3XkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="夜の歌謡シリーズ なみだ恋"><br/>
