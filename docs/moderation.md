@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 戦争のはらわた
+reviewed in 2023-12-21 16:00:13<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzI0ZTAzNDgtYWVhZi00MmJkLThjMzYtYTlhMWQzZmE4ZWViXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="戦争のはらわた"><br/>
+[戦争のはらわた [PR]](https://amzn.to/48obi7S)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### エリン・ブロコビッチ
 reviewed in 2023-12-21 14:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWQ5ODIyZmItMWE3Ny00NWM2LWExMjQtNjI3ZGYxNWIxM2U4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="エリン・ブロコビッチ"><br/>
@@ -115,14 +122,7 @@ reviewed in 2023-12-12 17:00:08<br/>
 [亜空大作戦スラングル [PR]](https://amzn.to/4ajxgdO)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-１話のサービスカット。全話はまだ見ていないけど、懐かしさで気づいたら朝になってることがある。<br/>
-### 色欲絵巻 千年の狂恋
-reviewed in 2023-12-12 15:30:11<br/>
-<br/>
-[色欲絵巻 千年の狂恋 [PR]](https://amzn.to/4aukOID)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+１話のサービスカット。全話はまだ見ていないけど、懐かしさで気づいたら朝になってることがある。
 <br/>
 ### 索引
 <br/>
@@ -172,6 +172,7 @@ reviewed in 2023-12-12 15:30:11<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
