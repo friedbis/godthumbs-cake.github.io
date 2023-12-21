@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### エリン・ブロコビッチ
+reviewed in 2023-12-21 14:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWQ5ODIyZmItMWE3Ny00NWM2LWExMjQtNjI3ZGYxNWIxM2U4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="エリン・ブロコビッチ"><br/>
+[エリン・ブロコビッチ [PR]](https://amzn.to/3RR8tGY)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### メイドロイドVSホストロイド軍団
 reviewed in 2023-12-17 19:00:14<br/>
 <br/>
