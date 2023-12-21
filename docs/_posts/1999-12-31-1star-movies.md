@@ -59,7 +59,7 @@ reviewed in 2023-12-21 14:30:05<br/>
 [エリン・ブロコビッチ [PR]](https://amzn.to/3RR8tGY)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ジュリア・ロバーツさん。趣旨から外れるが、会話中も可愛い声で割り込んでくる末っ子ベスがずっとかわいい。今imdbを見たらベスは双子のようでどちらもベスとして出演していた。<br/>
 ### メイドロイドVSホストロイド軍団
 reviewed in 2023-12-17 19:00:14<br/>
 <br/>
