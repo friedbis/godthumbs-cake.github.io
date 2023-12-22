@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 真・夜王伝説２ ネオン街No.1の夢と肉欲の罠
+reviewed in 2023-12-22 09:30:07<br/>
+<br/>
+[真・夜王伝説２ ネオン街No.1の夢と肉欲の罠 [PR]](https://www.amazon.co.jp/gp/video/detail/B0BYR5SPV9/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+名言って言うほどなのかな。<br/>
 ### 戦争のはらわた
 reviewed in 2023-12-21 16:00:13<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzI0ZTAzNDgtYWVhZi00MmJkLThjMzYtYTlhMWQzZmE4ZWViXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="戦争のはらわた"><br/>

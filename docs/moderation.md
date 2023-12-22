@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 真・夜王伝説２ ネオン街No.1の夢と肉欲の罠
+reviewed in 2023-12-22 09:30:07<br/>
+<br/>
+[真・夜王伝説２ ネオン街No.1の夢と肉欲の罠 [PR]](https://www.amazon.co.jp/gp/video/detail/B0BYR5SPV9/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+名言って言うほどなのかな。<br/>
 ### 戦争のはらわた
 reviewed in 2023-12-21 16:00:13<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzI0ZTAzNDgtYWVhZi00MmJkLThjMzYtYTlhMWQzZmE4ZWViXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="戦争のはらわた"><br/>
@@ -115,17 +122,11 @@ reviewed in 2023-12-12 17:30:06<br/>
 [マルティナは海 [PR]](https://amzn.to/3tgZjdp)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
-<br/>
-### 亜空大作戦スラングル
-reviewed in 2023-12-12 17:00:08<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNmMxMjAxZTQtYzQ5MC00NGYyLWI2MTUtMWViMzYxNGQ5YzU2XkEyXkFqcGdeQXVyNjU0MjI5NDQ@._V1_.jpg" alt="亜空大作戦スラングル"><br/>
-[亜空大作戦スラングル [PR]](https://amzn.to/4ajxgdO)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-１話のサービスカット。全話はまだ見ていないけど、懐かしさで気づいたら朝になってることがある。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
