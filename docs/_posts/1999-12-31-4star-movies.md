@@ -55,7 +55,7 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### 続エマニュエル夫人
 reviewed in 2023-12-24 23:00:10<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGUwM2FhYmEtMjY5Zi00YzhhLWI4ZDctMTAzYWM1MGEwYmRkXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="続エマニュエル夫人"><br/>
 [続エマニュエル夫人 [PR]](https://amzn.asia/d/6h4SXnY)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
