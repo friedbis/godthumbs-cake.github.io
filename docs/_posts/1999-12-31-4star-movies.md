@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 続エマニュエル夫人
+reviewed in 2023-12-24 23:00:10<br/>
+<br/>
+[続エマニュエル夫人 [PR]](https://amzn.asia/d/6h4SXnY)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 天城越え
 reviewed in 2023-12-19 22:30:11<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTYzNGM4ZWYtNDg3Zi00NzRjLWE3NTItOTU4OTQzNmQyYTE4XkEyXkFqcGdeQXVyMTI2NDgxMg@@._V1_.jpg" alt="天城越え"><br/>

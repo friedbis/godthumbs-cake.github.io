@@ -53,6 +53,27 @@ title: Impression
 ## 作品
 
 <br/>
+### 続エマニュエル夫人
+reviewed in 2023-12-24 23:00:10<br/>
+<br/>
+[続エマニュエル夫人 [PR]](https://amzn.asia/d/6h4SXnY)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### リベンジポルノ
+reviewed in 2023-12-24 23:00:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDBmZmFiMzgtY2UzYy00MDM1LWFlZGQtNTdkZjU1MjNiMzcwXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_.jpg" alt="リベンジポルノ"><br/>
+[リベンジポルノ [PR]](https://amzn.asia/d/ilUjPLI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 悪女かまきり
+reviewed in 2023-12-24 23:00:10<br/>
+<img src="https://m.media-amazon.com/images/I/71isDuS3IsL._AC_SL1500_.jpg" alt="悪女かまきり"><br/>
+[悪女かまきり [PR]](https://amzn.asia/d/3bIB5Nf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 真・夜王伝説２ ネオン街No.1の夢と肉欲の罠
 reviewed in 2023-12-22 09:30:07<br/>
 <br/>
@@ -100,27 +121,6 @@ reviewed in 2023-12-17 11:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMzc3NTk1YzItNmNlMS00MTdlLThkODQtYjQzMjI3NzVlODM0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="魔獣都市＜新宿＞"><br/>
 [魔獣都市＜新宿＞ [PR]](https://amzn.to/41xzkv2)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 妖獣都市
-reviewed in 2023-12-17 11:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDVkOTc3N2ItMjY0Yi00ZWEwLTg3YzgtYmM5ZGI2NGQ4OTkzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" alt="妖獣都市"><br/>
-[妖獣都市 [PR]](https://amzn.to/3RLxSRl)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-<br/>
-### 獣兵衛忍法帖
-reviewed in 2023-12-12 22:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTFmNWRkZWEtOTNkNS00NGM1LWI2NDktYmJjOTgxNTRlNDY2XkEyXkFqcGdeQXVyMzUxNjAwMTg@._V1_.jpg" alt="獣兵衛忍法帖"><br/>
-[獣兵衛忍法帖 [PR]](https://amzn.to/3GD6nE3)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
-<br/>
-<br/>
-### マルティナは海
-reviewed in 2023-12-12 17:30:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BM2JlYzE5ZmEtNjRkNi00ZDk1LWJkMTctY2Q5YzNmMjM0OGNhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="マルティナは海"><br/>
-[マルティナは海 [PR]](https://amzn.to/3tgZjdp)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br/>
 <br/>
 
 <br/>
@@ -172,6 +172,7 @@ reviewed in 2023-12-12 17:30:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

@@ -53,6 +53,20 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### リベンジポルノ
+reviewed in 2023-12-24 23:00:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDBmZmFiMzgtY2UzYy00MDM1LWFlZGQtNTdkZjU1MjNiMzcwXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_.jpg" alt="リベンジポルノ"><br/>
+[リベンジポルノ [PR]](https://amzn.asia/d/ilUjPLI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 悪女かまきり
+reviewed in 2023-12-24 23:00:10<br/>
+<img src="https://m.media-amazon.com/images/I/71isDuS3IsL._AC_SL1500_.jpg" alt="悪女かまきり"><br/>
+[悪女かまきり [PR]](https://amzn.asia/d/3bIB5Nf)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 強盗放火殺人囚
 reviewed in 2023-12-5 19:30:07<br/>
 <br/>
