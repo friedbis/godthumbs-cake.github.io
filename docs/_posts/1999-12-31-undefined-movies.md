@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -53,10 +53,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### あれからどうした
+### SHUT UP
 reviewed in 2023-12-28 01:00:06<br/>
 <br/>
-[あれからどうした](http://www.tvdrama-db.com/drama_info/p/id-74206)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+[SHUT UP](http://www.tvdrama-db.com/drama_info/p/id-74147)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-染谷由香さん

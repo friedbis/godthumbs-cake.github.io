@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### SHUT UP
+reviewed in 2023-12-28 01:00:06<br/>
+<br/>
+[SHUT UP](http://www.tvdrama-db.com/drama_info/p/id-74147)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 真・夜王伝説２ ネオン街No.1の夢と肉欲の罠
 reviewed in 2023-12-22 09:30:07<br/>
 <br/>
