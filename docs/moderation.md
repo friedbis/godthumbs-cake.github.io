@@ -53,6 +53,20 @@ title: Impression
 ## 作品
 
 <br/>
+### UNDER NINJA
+reviewed in 2023-12-29 09:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMWNhYmVjN2MtZjlkOC00ODEyLThmYzMtMDRjYWY3NjM3M2Y1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" alt="UNDER NINJA"><br/>
+[UNDER NINJA [PR]](https://amzn.to/4azBSgf)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+漫画でよかったのでは。<br/>
+### THE BITE 変身する女
+reviewed in 2023-12-29 09:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYWU3OTMwZWEtZDAwNC00YmYxLTg0MmMtYTdjNzc2YmZkZDdjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" alt="THE BITE 変身する女"><br/>
+[THE BITE 変身する女 [PR]](https://amzn.to/3H1pnfI)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あれからどうした
 reviewed in 2023-12-28 01:00:06<br/>
 <br/>
@@ -108,24 +122,11 @@ reviewed in 2023-12-24 23:00:10<br/>
 [悪女かまきり [PR]](https://amzn.asia/d/3bIB5Nf)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 真・夜王伝説２ ネオン街No.1の夢と肉欲の罠
-reviewed in 2023-12-22 09:30:07<br/>
-<br/>
-[真・夜王伝説２ ネオン街No.1の夢と肉欲の罠 [PR]](https://www.amazon.co.jp/gp/video/detail/B0BYR5SPV9/ref=atv_dp_share_cu_r)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-名言って言うほどなのかな。<br/>
-### 戦争のはらわた
-reviewed in 2023-12-21 16:00:13<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYzI0ZTAzNDgtYWVhZi00MmJkLThjMzYtYTlhMWQzZmE4ZWViXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="戦争のはらわた"><br/>
-[戦争のはらわた [PR]](https://amzn.to/48obi7S)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -172,6 +173,7 @@ reviewed in 2023-12-21 16:00:13<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)

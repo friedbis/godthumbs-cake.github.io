@@ -4,7 +4,7 @@ feature_text: |
   ## TV, Movie
 feature_image: "/assets/400.jpg"
 excerpt: "ムービー"
-title: から始まる映画・ドラマ
+title: undefinedから始まる映画・ドラマ
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -53,10 +53,9 @@ title: から始まる映画・ドラマ
 ## 作品
 
 <br/>
-### UNDER NINJA
+### THE BITE 変身する女
 reviewed in 2023-12-29 09:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMWNhYmVjN2MtZjlkOC00ODEyLThmYzMtMDRjYWY3NjM3M2Y1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" alt="UNDER NINJA"><br/>
-[UNDER NINJA [PR]](https://amzn.to/4azBSgf)<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYWU3OTMwZWEtZDAwNC00YmYxLTg0MmMtYTdjNzc2YmZkZDdjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" alt="THE BITE 変身する女"><br/>
+[THE BITE 変身する女 [PR]](https://amzn.to/3H1pnfI)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-漫画でよかったのでは。
