@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### バグダッドカフェ
+reviewed in 2023-12-29 10:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NzI0OF5BMl5BanBnXkFtZTcwMTc4OTgwMw@@._V1_.jpg" alt="バグダッドカフェ"><br/>
+[バグダッドカフェ [PR]](https://amzn.to/48w7h1e)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### あれからどうした
 reviewed in 2023-12-28 01:00:06<br/>
 <br/>

@@ -53,9 +53,9 @@ title: undefinedから始まる映画・ドラマ
 ## 作品
 
 <br/>
-### THE BITE 変身する女
-reviewed in 2023-12-29 09:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BYWU3OTMwZWEtZDAwNC00YmYxLTg0MmMtYTdjNzc2YmZkZDdjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg" alt="THE BITE 変身する女"><br/>
-[THE BITE 変身する女 [PR]](https://amzn.to/3H1pnfI)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+### バグダッドカフェ
+reviewed in 2023-12-29 10:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NzI0OF5BMl5BanBnXkFtZTcwMTc4OTgwMw@@._V1_.jpg" alt="バグダッドカフェ"><br/>
+[バグダッドカフェ [PR]](https://amzn.to/48w7h1e)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>

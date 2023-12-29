@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### バグダッドカフェ
+reviewed in 2023-12-29 10:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NzI0OF5BMl5BanBnXkFtZTcwMTc4OTgwMw@@._V1_.jpg" alt="バグダッドカフェ"><br/>
+[バグダッドカフェ [PR]](https://amzn.to/48w7h1e)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### UNDER NINJA
 reviewed in 2023-12-29 09:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMWNhYmVjN2MtZjlkOC00ODEyLThmYzMtMDRjYWY3NjM3M2Y1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" alt="UNDER NINJA"><br/>
@@ -115,18 +122,10 @@ reviewed in 2023-12-24 23:00:10<br/>
 [リベンジポルノ [PR]](https://amzn.asia/d/ilUjPLI)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### 悪女かまきり
-reviewed in 2023-12-24 23:00:10<br/>
-<img src="https://m.media-amazon.com/images/I/71isDuS3IsL._AC_SL1500_.jpg" alt="悪女かまきり"><br/>
-[悪女かまきり [PR]](https://amzn.asia/d/3bIB5Nf)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
-- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
