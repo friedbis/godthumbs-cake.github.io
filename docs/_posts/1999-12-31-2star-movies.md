@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### スペシャリスト
+reviewed in 2024-1-1 22:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWZjNjdjZWQtYmRhMi00MmQyLWFjMzAtNTZhMGY0YWQxNmU0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="スペシャリスト"><br/>
+[スペシャリスト [PR]](https://amzn.asia/d/jgz7gAU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+シルベスター・スタローンさんとシャロン・ストーンさん<br/>
 ### セックス大進撃 エッチな遊び
 reviewed in 2023-12-27 20:00:06<br/>
 <br/>

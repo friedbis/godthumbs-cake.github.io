@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### スペシャリスト
+reviewed in 2024-1-1 22:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNWZjNjdjZWQtYmRhMi00MmQyLWFjMzAtNTZhMGY0YWQxNmU0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="スペシャリスト"><br/>
+[スペシャリスト [PR]](https://amzn.asia/d/jgz7gAU)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+シルベスター・スタローンさんとシャロン・ストーンさん<br/>
 ### バグダッドカフェ
 reviewed in 2023-12-29 10:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NzI0OF5BMl5BanBnXkFtZTcwMTc4OTgwMw@@._V1_.jpg" alt="バグダッドカフェ"><br/>
@@ -115,17 +122,11 @@ reviewed in 2023-12-24 23:00:10<br/>
 [続エマニュエル夫人 [PR]](https://amzn.asia/d/6h4SXnY)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### リベンジポルノ
-reviewed in 2023-12-24 23:00:10<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDBmZmFiMzgtY2UzYy00MDM1LWFlZGQtNTdkZjU1MjNiMzcwXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_.jpg" alt="リベンジポルノ"><br/>
-[リベンジポルノ [PR]](https://amzn.asia/d/ilUjPLI)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
 
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
