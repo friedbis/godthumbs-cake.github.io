@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 江戸川乱歩全集 恐怖奇形人間
+reviewed in 2024-1-5 21:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDg5OTk4NGItNjVkNi00NWRkLWJmZTktMGQzYjk2YmY4MWNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="江戸川乱歩全集 恐怖奇形人間"><br/>
+[江戸川乱歩全集 恐怖奇形人間 [PR]](https://amzn.asia/d/e0UHfNg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### スペシャリスト
 reviewed in 2024-1-1 22:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNWZjNjdjZWQtYmRhMi00MmQyLWFjMzAtNTZhMGY0YWQxNmU0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" alt="スペシャリスト"><br/>

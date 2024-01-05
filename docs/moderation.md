@@ -55,9 +55,9 @@ title: Impression
 <br/>
 ### 江戸川乱歩全集 恐怖奇形人間
 reviewed in 2024-1-5 21:00:05<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNDg5OTk4NGItNjVkNi00NWRkLWJmZTktMGQzYjk2YmY4MWNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="江戸川乱歩全集 恐怖奇形人間"><br/>
 [江戸川乱歩全集 恐怖奇形人間 [PR]](https://amzn.asia/d/e0UHfNg)<br/>
-<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 <br/>
 ### 未亡人下宿?エピソード3 裏口も開いてます
@@ -172,11 +172,9 @@ reviewed in 2023-12-27 23:30:07<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
-- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
-- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
