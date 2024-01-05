@@ -59,7 +59,7 @@ reviewed in 2024-1-5 21:00:05<br/>
 [江戸川乱歩全集 恐怖奇形人間 [PR]](https://amzn.asia/d/e0UHfNg)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+初見でこのラストを予想できた人はマグノリアも予想できたに違いない。<br/>
 ### 未亡人下宿?エピソード3 裏口も開いてます
 reviewed in 2024-1-4 20:30:14<br/>
 <br/>
