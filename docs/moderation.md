@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 江戸川乱歩全集 恐怖奇形人間
+reviewed in 2024-1-5 21:00:05<br/>
+<br/>
+[江戸川乱歩全集 恐怖奇形人間 [PR]](https://amzn.asia/d/e0UHfNg)<br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 未亡人下宿?エピソード3 裏口も開いてます
 reviewed in 2024-1-4 20:30:14<br/>
 <br/>
@@ -115,14 +122,7 @@ reviewed in 2023-12-27 23:30:07<br/>
 [繰り返される恥辱 [PR]](https://www.amazon.co.jp/gp/video/detail/B09DNVQDFC/)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-私は何度も犯される……。（R18版）<br/>
-### セックス大進撃 エッチな遊び
-reviewed in 2023-12-27 20:00:06<br/>
-<br/>
-[セックス大進撃 エッチな遊び](https://www.videomarket.jp/title/370223/A370223001999H01)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-懐かしい歌がエンディングに。おどるポンポコリンの次のシングルだったっけ？
+私は何度も犯される……。（R18版）
 <br/>
 ### 索引
 <br/>
@@ -172,9 +172,11 @@ reviewed in 2023-12-27 20:00:06<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
 - [3つ星の映画・ドラマ](/3star-movies.html)
 - [4つ星の映画・ドラマ](/4star-movies.html)
 - [5つ星の映画・ドラマ](/5star-movies.html)
+- [undefinedこ星の映画・ドラマ](/undefinedstar-movies.html)
