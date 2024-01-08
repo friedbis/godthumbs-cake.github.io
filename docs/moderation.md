@@ -53,6 +53,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 翳りゆく夏
+reviewed in 2024-1-8 15:00:09<br/>
+<br/>
+[翳りゆく夏 [PR]](https://amzn.to/3NUPloW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+前田敦子さん<br/>
+### デッドフォール
+reviewed in 2024-1-8 15:00:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BZTZkZTg0YjAtY2VhMC00MTU4LThlM2MtMjczZjgyMTg3NmYwXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg" alt="デッドフォール"><br/>
+[デッドフォール [PR]](https://amzn.to/3TMhtP2)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+勘違いのシーンがやけにリアル。<br/>
 ### 江戸川乱歩全集 恐怖奇形人間
 reviewed in 2024-1-5 21:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDg5OTk4NGItNjVkNi00NWRkLWJmZTktMGQzYjk2YmY4MWNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="江戸川乱歩全集 恐怖奇形人間"><br/>
@@ -108,24 +122,11 @@ reviewed in 2023-12-28 01:00:06<br/>
 [あれからどうした](http://www.tvdrama-db.com/drama_info/p/id-74206)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-染谷由香さん<br/>
-### SHUT UP
-reviewed in 2023-12-28 01:00:06<br/>
-<br/>
-[SHUT UP](http://www.tvdrama-db.com/drama_info/p/id-74147)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### 繰り返される恥辱
-reviewed in 2023-12-27 23:30:07<br/>
-<br/>
-[繰り返される恥辱 [PR]](https://www.amazon.co.jp/gp/video/detail/B09DNVQDFC/)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-私は何度も犯される……。（R18版）
+染谷由香さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

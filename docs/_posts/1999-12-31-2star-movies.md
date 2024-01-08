@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 翳りゆく夏
+reviewed in 2024-1-8 15:00:09<br/>
+<br/>
+[翳りゆく夏 [PR]](https://amzn.to/3NUPloW)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+前田敦子さん<br/>
 ### 江戸川乱歩全集 恐怖奇形人間
 reviewed in 2024-1-5 21:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDg5OTk4NGItNjVkNi00NWRkLWJmZTktMGQzYjk2YmY4MWNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="江戸川乱歩全集 恐怖奇形人間"><br/>
