@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### アイランド
+reviewed in 2024-1-8 15:30:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTBjMjIwMGQtMDJjNC00ZGQzLThiZDctZDk5YTQxMmFjNGM1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="アイランド"><br/>
+[アイランド [PR]](https://amzn.to/47lXREA)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+スカーレット・ヨハンソンさん。<br/>
 ### 翳りゆく夏
 reviewed in 2024-1-8 15:00:09<br/>
 <br/>
@@ -115,14 +122,7 @@ reviewed in 2023-12-29 09:30:05<br/>
 [THE BITE 変身する女 [PR]](https://amzn.to/3H1pnfI)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### あれからどうした
-reviewed in 2023-12-28 01:00:06<br/>
-<br/>
-[あれからどうした](http://www.tvdrama-db.com/drama_info/p/id-74206)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-染谷由香さん
+
 <br/>
 ### 索引
 <br/>
