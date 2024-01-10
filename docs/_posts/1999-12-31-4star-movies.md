@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 最も危険な遊戯
+reviewed in 2024-1-10 19:30:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYTNlNDg3OTItZjU2Ni00ODgzLTgzMWYtYzFiNjg5YWRiZGRhXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="最も危険な遊戯"><br/>
+[最も危険な遊戯 [PR]](https://amzn.asia/d/8Zk3cHg)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+田坂圭子さん。それにしても冗長で破天荒でめちゃくちゃだと思う。あと、音楽が耳から離れない。<br/>
 ### 続エマニュエル夫人
 reviewed in 2023-12-24 23:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGUwM2FhYmEtMjY5Zi00YzhhLWI4ZDctMTAzYWM1MGEwYmRkXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_.jpg" alt="続エマニュエル夫人"><br/>
