@@ -53,6 +53,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 現代神秘サスペンス 間違った死に場所
+reviewed in 2024-1-11 09:00:07<br/>
+<br/>
+[現代神秘サスペンス 間違った死に場所](http://www.tvdrama-db.com/drama_info/p/id-25591)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+浅野ゆう子さん<br/>
+### うなぎ
+reviewed in 2024-1-11 09:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzZlNTg3YTAtMzQ4Yi00NjIzLTlmNTEtY2I0ZDJjOGE3MjBlXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_.jpg" alt="うなぎ"><br/>
+[うなぎ [PR]](https://amzn.asia/d/585o7rn)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+寺田千穂さん、清水美砂さん。<br/>
 ### 最も危険な遊戯
 reviewed in 2024-1-10 19:30:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTNlNDg3OTItZjU2Ni00ODgzLTgzMWYtYzFiNjg5YWRiZGRhXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="最も危険な遊戯"><br/>
@@ -108,24 +122,11 @@ reviewed in 2024-1-1 22:30:07<br/>
 [スペシャリスト [PR]](https://amzn.asia/d/jgz7gAU)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-シルベスター・スタローンさんとシャロン・ストーンさん<br/>
-### バグダッドカフェ
-reviewed in 2023-12-29 10:00:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NzI0OF5BMl5BanBnXkFtZTcwMTc4OTgwMw@@._V1_.jpg" alt="バグダッドカフェ"><br/>
-[バグダッドカフェ [PR]](https://amzn.to/48w7h1e)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### UNDER NINJA
-reviewed in 2023-12-29 09:30:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BMWNhYmVjN2MtZjlkOC00ODEyLThmYzMtMDRjYWY3NjM3M2Y1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" alt="UNDER NINJA"><br/>
-[UNDER NINJA [PR]](https://amzn.to/4azBSgf)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-漫画でよかったのでは。
+シルベスター・スタローンさんとシャロン・ストーンさん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

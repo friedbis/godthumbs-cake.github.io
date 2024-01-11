@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 現代神秘サスペンス 間違った死に場所
+reviewed in 2024-1-11 09:00:07<br/>
+<br/>
+[現代神秘サスペンス 間違った死に場所](http://www.tvdrama-db.com/drama_info/p/id-25591)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+浅野ゆう子さん<br/>
 ### アイランド
 reviewed in 2024-1-8 15:30:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTBjMjIwMGQtMDJjNC00ZGQzLThiZDctZDk5YTQxMmFjNGM1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="アイランド"><br/>
