@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 団地妻は、わけあってヤりました
+reviewed in 2024-1-11 19:30:05<br/>
+<br/>
+[団地妻は、わけあってヤりました [PR]](https://www.amazon.co.jp/gp/video/detail/B09B6PBDCF/ref=atv_dp_share_cu_r)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 翳りゆく夏
 reviewed in 2024-1-8 15:00:09<br/>
 <br/>
