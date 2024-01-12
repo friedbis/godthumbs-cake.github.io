@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 松本清張ドラマスペシャル 波の塔
+reviewed in 2024-1-12 21:30:10<br/>
+<br/>
+[松本清張ドラマスペシャル 波の塔](http://www.tvdrama-db.com/drama_info/p/id-39584)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+麻生祐未さん。<br/>
 ### 友達のお母さん 恋のエピローグ
 reviewed in 2024-1-12 12:00:10<br/>
 <br/>
@@ -115,17 +122,11 @@ reviewed in 2024-1-8 15:00:09<br/>
 [デッドフォール [PR]](https://amzn.to/3TMhtP2)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-勘違いのシーンがやけにリアル。<br/>
-### 江戸川乱歩全集 恐怖奇形人間
-reviewed in 2024-1-5 21:00:05<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNDg5OTk4NGItNjVkNi00NWRkLWJmZTktMGQzYjk2YmY4MWNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="江戸川乱歩全集 恐怖奇形人間"><br/>
-[江戸川乱歩全集 恐怖奇形人間 [PR]](https://amzn.asia/d/e0UHfNg)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-初見でこのラストを予想できた人はマグノリアも予想できたに違いない。
+勘違いのシーンがやけにリアル。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

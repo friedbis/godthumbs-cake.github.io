@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 松本清張ドラマスペシャル 波の塔
+reviewed in 2024-1-12 21:30:10<br/>
+<br/>
+[松本清張ドラマスペシャル 波の塔](http://www.tvdrama-db.com/drama_info/p/id-39584)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+麻生祐未さん。<br/>
 ### プライベイトレッスン
 reviewed in 2024-1-12 10:30:04<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BZmNiYzUwZjEtOTNjMi00MTdkLTlkYjAtZmFjNmE0NWVmZmE4XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg" alt="プライベイトレッスン"><br/>
