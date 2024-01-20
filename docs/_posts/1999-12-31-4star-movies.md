@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### さまよえる脳髄
+reviewed in 2024-1-21 08:00:07<br/>
+<img src="https://m.media-amazon.com/images/I/51Y1HFv32xL._AC_.jpg" alt="さまよえる脳髄"><br/>
+[さまよえる脳髄 [PR]](https://amzn.to/48HJA6x)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+高島礼子さん<br/>
 ### 最も危険な遊戯
 reviewed in 2024-1-10 19:30:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYTNlNDg3OTItZjU2Ni00ODgzLTgzMWYtYzFiNjg5YWRiZGRhXkEyXkFqcGdeQXVyMzY2MDk0MTk@._V1_.jpg" alt="最も危険な遊戯"><br/>
