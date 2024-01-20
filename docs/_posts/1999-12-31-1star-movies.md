@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 冬の華
+reviewed in 2024-1-20 23:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGE4ZjhhYzYtYjM4ZC00N2U5LWI0NzItZDZkNjQ2YjViZTMyXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="冬の華"><br/>
+[冬の華 [PR]](https://amzn.to/3O8oxBK)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 松本清張の葦の浮船
 reviewed in 2024-1-13 10:00:10<br/>
 <br/>
