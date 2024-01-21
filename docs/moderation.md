@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### さまよう刃（ドラマ版）
+reviewed in 2024-1-21 12:30:06<br/>
+<img src="https://m.media-amazon.com/images/I/81Cz91J0xvL._AC_SL1500_.jpg" alt="さまよう刃（ドラマ版）"><br/>
+[さまよう刃（ドラマ版） [PR]](https://amzn.asia/d/0auiMCL)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+胸糞という言葉しか出てこない。<br/>
 ### さまよえる脳髄
 reviewed in 2024-1-21 08:00:07<br/>
 <img src="https://m.media-amazon.com/images/I/51Y1HFv32xL._AC_.jpg" alt="さまよえる脳髄"><br/>
@@ -115,17 +122,11 @@ reviewed in 2024-1-11 09:00:07<br/>
 [現代神秘サスペンス 間違った死に場所](http://www.tvdrama-db.com/drama_info/p/id-25591)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-浅野ゆう子さん<br/>
-### うなぎ
-reviewed in 2024-1-11 09:00:07<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNzZlNTg3YTAtMzQ4Yi00NjIzLTlmNTEtY2I0ZDJjOGE3MjBlXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_.jpg" alt="うなぎ"><br/>
-[うなぎ [PR]](https://amzn.asia/d/585o7rn)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-寺田千穂さん、清水美砂さん。
+浅野ゆう子さん
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)

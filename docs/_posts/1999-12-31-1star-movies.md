@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### さまよう刃（ドラマ版）
+reviewed in 2024-1-21 12:30:06<br/>
+<img src="https://m.media-amazon.com/images/I/81Cz91J0xvL._AC_SL1500_.jpg" alt="さまよう刃（ドラマ版）"><br/>
+[さまよう刃（ドラマ版） [PR]](https://amzn.asia/d/0auiMCL)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+胸糞という言葉しか出てこない。<br/>
 ### 冬の華
 reviewed in 2024-1-20 23:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGE4ZjhhYzYtYjM4ZC00N2U5LWI0NzItZDZkNjQ2YjViZTMyXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="冬の華"><br/>
