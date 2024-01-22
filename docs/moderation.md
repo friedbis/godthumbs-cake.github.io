@@ -71,7 +71,7 @@ reviewed in 2024-1-22 22:00:08<br/>
 reviewed in 2024-1-21 12:30:06<br/>
 <img src="https://m.media-amazon.com/images/I/81Cz91J0xvL._AC_SL1500_.jpg" alt="さまよう刃（ドラマ版）"><br/>
 [さまよう刃（ドラマ版） [PR]](https://amzn.asia/d/0auiMCL)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
 胸糞という言葉しか出てこない。<br/>
 ### さまよえる脳髄
