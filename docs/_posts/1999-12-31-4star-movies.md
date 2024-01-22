@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 薔薇の貴婦人
+reviewed in 2024-1-22 22:00:08<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjRhOGY2MTUtZjlkOC00NGU2LWFmY2EtNGUwMDZjYWYyNzQxXkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_.jpg" alt="薔薇の貴婦人"><br/>
+[薔薇の貴婦人 [PR]](https://amzn.asia/d/fjMxZ0M)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### さまよえる脳髄
 reviewed in 2024-1-21 08:00:07<br/>
 <img src="https://m.media-amazon.com/images/I/51Y1HFv32xL._AC_.jpg" alt="さまよえる脳髄"><br/>
