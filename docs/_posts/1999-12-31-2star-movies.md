@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 白衣に秘められた幻想
+reviewed in 2024-1-22 22:30:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYzU1N2I3OTYtMTA3Zi00ZmVlLWFkZDktZmIyYmZjMzFjMDkzXkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_.jpg" alt="白衣に秘められた幻想"><br/>
+[白衣に秘められた幻想 [PR]](https://amzn.asia/d/1EQRFyI)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 江戸川乱歩の美女シリーズ 江戸川乱歩「黒蜥蜴」より悪魔のような美女
 reviewed in 2024-1-18 01:30:05<br/>
 <br/>
