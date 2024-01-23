@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### マルサの女２
+reviewed in 2024-1-24 01:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMDE2NzYzMzktNmQ2NS00YTk0LTlhZDEtM2JhMmQxZWM2YjU4XkEyXkFqcGdeQXVyNzA3ODUyNzY@._V1_.jpg" alt="マルサの女２"><br/>
+[マルサの女２ [PR]](https://amzn.to/3tWzorU)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 冬の華
 reviewed in 2024-1-20 23:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGE4ZjhhYzYtYjM4ZC00N2U5LWI0NzItZDZkNjQ2YjViZTMyXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg" alt="冬の華"><br/>

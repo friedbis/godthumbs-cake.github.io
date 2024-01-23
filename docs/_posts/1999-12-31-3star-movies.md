@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 母の残像
+reviewed in 2024-1-24 01:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNjk2NTRkMTctNzVjNy00M2VkLWFkNWQtMmFjYTRiOTMwYjZiXkEyXkFqcGdeQXVyNjc0NjIyMDI@._V1_.jpg" alt="母の残像"><br/>
+[母の残像 [PR]](https://amzn.to/3HvF2UY)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 松本清張ドラマスペシャル 波の塔
 reviewed in 2024-1-12 21:30:10<br/>
 <br/>
