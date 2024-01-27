@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### アマンテス／愛人
+reviewed in 2024-1-28 07:00:12<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWI0MjkyNDItOGY0NS00MDJkLWEyNDMtNDQ5NjI2YmZlNzg0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="アマンテス／愛人"><br/>
+[アマンテス／愛人](https://m.imdb.com/title/tt0101317/?ref_=ext_shr_lnk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+優柔不断の男、大人気なく嫉妬深い未亡人、それに振り回される従順なヒロイン（？）。とても見ていられないラスト。<br/>
 ### 白衣に秘められた幻想
 reviewed in 2024-1-22 22:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYzU1N2I3OTYtMTA3Zi00ZmVlLWFkZDktZmIyYmZjMzFjMDkzXkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_.jpg" alt="白衣に秘められた幻想"><br/>

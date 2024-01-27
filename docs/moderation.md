@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### アマンテス／愛人
+reviewed in 2024-1-28 07:00:12<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOWI0MjkyNDItOGY0NS00MDJkLWEyNDMtNDQ5NjI2YmZlNzg0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="アマンテス／愛人"><br/>
+[アマンテス／愛人](https://m.imdb.com/title/tt0101317/?ref_=ext_shr_lnk)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+優柔不断の男、大人気なく嫉妬深い未亡人、それに振り回される従順なヒロイン（？）。とても見ていられないラスト。<br/>
 ### マルサの女２
 reviewed in 2024-1-24 01:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDE2NzYzMzktNmQ2NS00YTk0LTlhZDEtM2JhMmQxZWM2YjU4XkEyXkFqcGdeQXVyNzA3ODUyNzY@._V1_.jpg" alt="マルサの女２"><br/>
@@ -115,14 +122,7 @@ reviewed in 2024-1-13 10:00:10<br/>
 [松本清張の葦の浮船](http://www.tvdrama-db.com/drama_info/p/id-20937)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-萩尾みどりさん<br/>
-### 松本清張ドラマスペシャル 波の塔
-reviewed in 2024-1-12 21:30:10<br/>
-<br/>
-[松本清張ドラマスペシャル 波の塔](http://www.tvdrama-db.com/drama_info/p/id-39584)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-麻生祐未さん。
+萩尾みどりさん
 <br/>
 ### 索引
 <br/>
