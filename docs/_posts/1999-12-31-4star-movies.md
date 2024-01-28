@@ -53,6 +53,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 悶える女５人　～絶倫おやじの悶絶体験～
+reviewed in 2024-1-28 11:00:11<br/>
+<br/>
+[悶える女５人　～絶倫おやじの悶絶体験～](https://rcv.ixd.dmm.com/api/surl?urid=kIGziUoN&lurl=https://tv.dmm.com/vod/restrict/detail/?season=6ftd0vzu77kvy493a7aqb8br6)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### おせんち酒場 君も濡れる街角
+reviewed in 2024-1-28 11:00:11<br/>
+<br/>
+[おせんち酒場 君も濡れる街角 [PR]](https://amzn.asia/d/bMRwl3A)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+未練酒場 人妻も濡れる街角（別タイトル）<br/>
 ### 薔薇の貴婦人
 reviewed in 2024-1-22 22:00:08<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjRhOGY2MTUtZjlkOC00NGU2LWFmY2EtNGUwMDZjYWYyNzQxXkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_.jpg" alt="薔薇の貴婦人"><br/>
