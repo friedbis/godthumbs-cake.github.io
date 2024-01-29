@@ -55,11 +55,11 @@ title: 4つ星の映画・ドラマ
 <br/>
 ### ゴールドパピヨン
 reviewed in 2024-1-29 12:00:10<br/>
-<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNmUyNDMyM2EtZjk4ZS00MTEzLWEwNDEtMjI3ZTI1YTgyN2U2XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg" alt="ゴールドパピヨン"><br/>
 [ゴールドパピヨン [PR]](https://amzn.asia/d/dnTkP7m)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+ヒロインの可愛らしさは80s冒険モノには必須だと思う。<br/>
 ### 激やばエッチな三姉妹
 reviewed in 2024-1-29 10:30:09<br/>
 <br/>
