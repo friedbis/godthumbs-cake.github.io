@@ -53,6 +53,20 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### ゴールドパピヨン
+reviewed in 2024-1-29 12:00:10<br/>
+<br/>
+[ゴールドパピヨン [PR]](https://amzn.asia/d/dnTkP7m)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 激やばエッチな三姉妹
+reviewed in 2024-1-29 10:30:09<br/>
+<br/>
+[激やばエッチな三姉妹](https://rcv.ixd.dmm.com/api/surl?urid=kIGziUoN&lurl=https://tv.dmm.com/vod/restrict/detail/?season=q0ep2196wesyszdbhe4b8bc0n)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 悶える女５人　～絶倫おやじの悶絶体験～
 reviewed in 2024-1-28 11:00:11<br/>
 <br/>
