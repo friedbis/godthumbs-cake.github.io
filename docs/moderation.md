@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### チャタレイ夫人の恋人（1993）
+reviewed in 2024-1-29 10:30:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTQyYTQyNGItODE0Mi00N2M5LThjN2MtMzc4ZTM3ZTE3ZWMxXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_.jpg" alt="チャタレイ夫人の恋人（1993）"><br/>
+[チャタレイ夫人の恋人（1993） [PR]](https://amzn.asia/d/7VAHK2D)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 悶える女５人　～絶倫おやじの悶絶体験～
 reviewed in 2024-1-28 11:00:11<br/>
 <br/>
@@ -108,14 +115,7 @@ reviewed in 2024-1-21 12:30:06<br/>
 [さまよう刃（ドラマ版） [PR]](https://amzn.asia/d/0auiMCL)<br/>
 <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-胸糞という言葉しか出てこない。<br/>
-### さまよえる脳髄
-reviewed in 2024-1-21 08:00:07<br/>
-<img src="https://m.media-amazon.com/images/I/51Y1HFv32xL._AC_.jpg" alt="さまよえる脳髄"><br/>
-[さまよえる脳髄 [PR]](https://amzn.to/48HJA6x)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-高島礼子さん
+胸糞という言葉しか出てこない。
 <br/>
 ### 索引
 <br/>

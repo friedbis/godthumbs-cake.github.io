@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### チャタレイ夫人の恋人（1993）
+reviewed in 2024-1-29 10:30:09<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTQyYTQyNGItODE0Mi00N2M5LThjN2MtMzc4ZTM3ZTE3ZWMxXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_.jpg" alt="チャタレイ夫人の恋人（1993）"><br/>
+[チャタレイ夫人の恋人（1993） [PR]](https://amzn.asia/d/7VAHK2D)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 母の残像
 reviewed in 2024-1-24 01:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNjk2NTRkMTctNzVjNy00M2VkLWFkNWQtMmFjYTRiOTMwYjZiXkEyXkFqcGdeQXVyNjc0NjIyMDI@._V1_.jpg" alt="母の残像"><br/>
