@@ -53,6 +53,20 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### パルプ・フィクション
+reviewed in 2024-1-31 09:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTM1ZDNmNTUtOWJlZS00YzRlLWEzYmMtMDk4N2EzZDI0ZmQ3XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg" alt="パルプ・フィクション"><br/>
+[パルプ・フィクション [PR]](https://amzn.asia/d/3yeHqAV)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### ビバリーヒルズ・コップ
+reviewed in 2024-1-31 09:00:06<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BYjU3ZmZlOWQtODU0NS00ZDEyLTljNDktYzk5Y2QwMDg5ZDZkXkEyXkFqcGdeQXVyMDEwMjgxNg@@._V1_.jpg" alt="ビバリーヒルズ・コップ"><br/>
+[ビバリーヒルズ・コップ [PR]](https://amzn.asia/d/fdNuvdu)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### マルサの女２
 reviewed in 2024-1-24 01:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMDE2NzYzMzktNmQ2NS00YTk0LTlhZDEtM2JhMmQxZWM2YjU4XkEyXkFqcGdeQXVyNzA3ODUyNzY@._V1_.jpg" alt="マルサの女２"><br/>
