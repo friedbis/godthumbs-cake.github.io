@@ -59,14 +59,14 @@ reviewed in 2024-1-31 09:00:06<br/>
 [パルプ・フィクション [PR]](https://amzn.asia/d/3yeHqAV)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+情緒がおかしい連中多すぎ。<br/>
 ### ビバリーヒルズ・コップ
 reviewed in 2024-1-31 09:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BYjU3ZmZlOWQtODU0NS00ZDEyLTljNDktYzk5Y2QwMDg5ZDZkXkEyXkFqcGdeQXVyMDEwMjgxNg@@._V1_.jpg" alt="ビバリーヒルズ・コップ"><br/>
 [ビバリーヒルズ・コップ [PR]](https://amzn.asia/d/fdNuvdu)<br/>
 <i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+冒頭のアメリカンなストリップショー。<br/>
 ### ゴールドパピヨン
 reviewed in 2024-1-29 12:00:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNmUyNDMyM2EtZjk4ZS00MTEzLWEwNDEtMjI3ZTI1YTgyN2U2XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg" alt="ゴールドパピヨン"><br/>
