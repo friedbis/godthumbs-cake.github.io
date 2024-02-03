@@ -335,7 +335,7 @@ function getNewToken(oAuth2Client, callback) {
 function updateTweet(auth) {
     const sheets = google.sheets({version: 'v4', auth});
     sheets.spreadsheets.values.get({
-        spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
+          spreadsheetId: ###############
         range: 'シート1!A1:H',
     }, (err, res) => {
         if (err) return console.log('The API returned an error: ' + err);
@@ -428,7 +428,7 @@ let doUpdate=(tweetData, auth)=>{
     resource = {values};
     //console.log(values);
     sheets.spreadsheets.values.update({
-        spreadsheetId: '1Q79lh-lwtStFolZxBl9gpmF1HfyTbSEBtkbFAq8bnPI',
+          spreadsheetId: ###############
         range: 'シート1!A1:H',
         valueInputOption: 'RAW',
         resource,
