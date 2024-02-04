@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### 未亡人下宿？ その４ 今昔タマタマ数え歌
+reviewed in 2024-2-5 00:00:06<br/>
+<img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/817DRHYH4HL._AC_SL1500_.jpg" alt="未亡人下宿？ その４ 今昔タマタマ数え歌"><br/>
+[未亡人下宿？ その４ 今昔タマタマ数え歌 [PR]](https://amzn.to/3Sr2wQ3)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### 青い経験 誘惑の家庭教師
 reviewed in 2024-2-4 23:00:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMTc0NzI4OTQ5N15BMl5BanBnXkFtZTcwOTc4OTQ1MQ@@._V1_.jpg" alt="青い経験 誘惑の家庭教師"><br/>
@@ -115,14 +122,7 @@ reviewed in 2024-1-28 11:00:11<br/>
 [おせんち酒場 君も濡れる街角 [PR]](https://amzn.asia/d/bMRwl3A)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-未練酒場 人妻も濡れる街角（別タイトル）<br/>
-### アマンテス／愛人
-reviewed in 2024-1-28 07:00:12<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BOWI0MjkyNDItOGY0NS00MDJkLWEyNDMtNDQ5NjI2YmZlNzg0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="アマンテス／愛人"><br/>
-[アマンテス／愛人](https://m.imdb.com/title/tt0101317/?ref_=ext_shr_lnk)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-優柔不断の男、大人気なく嫉妬深い未亡人、それに振り回される従順なヒロイン（？）。とても見ていられないラスト。
+未練酒場 人妻も濡れる街角（別タイトル）
 <br/>
 ### 索引
 <br/>
@@ -172,6 +172,7 @@ reviewed in 2024-1-28 07:00:12<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
