@@ -53,6 +53,13 @@ title: 2つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 快楽のダイアリー
+reviewed in 2024-2-4 23:00:05<br/>
+<br/>
+[快楽のダイアリー [PR]](https://amzn.to/4bo4nOa)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### アマンテス／愛人
 reviewed in 2024-1-28 07:00:12<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOWI0MjkyNDItOGY0NS00MDJkLWEyNDMtNDQ5NjI2YmZlNzg0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" alt="アマンテス／愛人"><br/>

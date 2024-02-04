@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 青い経験 誘惑の家庭教師
+reviewed in 2024-2-4 23:00:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMTc0NzI4OTQ5N15BMl5BanBnXkFtZTcwOTc4OTQ1MQ@@._V1_.jpg" alt="青い経験 誘惑の家庭教師"><br/>
+[青い経験 誘惑の家庭教師 [PR]](https://amzn.to/3OrvSg7)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
 ### チャタレイ夫人の恋人（1993）
 reviewed in 2024-1-29 10:30:09<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTQyYTQyNGItODE0Mi00N2M5LThjN2MtMzc4ZTM3ZTE3ZWMxXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_.jpg" alt="チャタレイ夫人の恋人（1993）"><br/>
