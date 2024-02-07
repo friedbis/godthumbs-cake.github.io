@@ -53,6 +53,13 @@ title: 4つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 元祖四畳半大物語
+reviewed in 2024-2-7 20:00:07<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BOGRiMWUwN2YtN2ZiNi00MDU1LTg2YzgtYzc3OGI5ZGFiYzQxXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="元祖四畳半大物語"><br/>
+[元祖四畳半大物語 [PR]](https://amzn.to/3HVsmqo)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+悲劇と喜劇が同居できるのは昭和映画ならでは。<br/>
 ### 未亡人下宿？ その４ 今昔タマタマ数え歌
 reviewed in 2024-2-5 00:00:06<br/>
 <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/817DRHYH4HL._AC_SL1500_.jpg" alt="未亡人下宿？ その４ 今昔タマタマ数え歌"><br/>
