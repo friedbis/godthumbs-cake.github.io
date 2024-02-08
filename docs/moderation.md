@@ -53,6 +53,13 @@ title: Impression
 ## 作品
 
 <br/>
+### ゲス不倫妻とサレ夫
+reviewed in 2024-2-8 22:30:05<br/>
+<br/>
+[ゲス不倫妻とサレ夫 [PR]](https://amzn.to/4bubCUO)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+「俺さぁ、思わず手コキしてもしちゃった。」  何度聞いても何言ってるか分からなかった。<br/>
 ### 元祖四畳半大物語
 reviewed in 2024-2-7 20:00:07<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BOGRiMWUwN2YtN2ZiNi00MDU1LTg2YzgtYzc3OGI5ZGFiYzQxXkEyXkFqcGdeQXVyNDkyMDgwNQ@@._V1_.jpg" alt="元祖四畳半大物語"><br/>
@@ -108,24 +115,11 @@ reviewed in 2024-1-29 12:00:10<br/>
 [ゴールドパピヨン [PR]](https://amzn.asia/d/dnTkP7m)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-ヒロインの可愛らしさは80s冒険モノには必須だと思う。<br/>
-### 激やばエッチな三姉妹
-reviewed in 2024-1-29 10:30:09<br/>
-<br/>
-[激やばエッチな三姉妹](https://rcv.ixd.dmm.com/api/surl?urid=kIGziUoN&lurl=https://tv.dmm.com/vod/restrict/detail/?season=q0ep2196wesyszdbhe4b8bc0n)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-<br/>
-### チャタレイ夫人の恋人（1993）
-reviewed in 2024-1-29 10:30:09<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTQyYTQyNGItODE0Mi00N2M5LThjN2MtMzc4ZTM3ZTE3ZWMxXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_.jpg" alt="チャタレイ夫人の恋人（1993）"><br/>
-[チャタレイ夫人の恋人（1993） [PR]](https://amzn.asia/d/7VAHK2D)<br/>
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-
+ヒロインの可愛らしさは80s冒険モノには必須だと思う。
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
@@ -172,6 +166,7 @@ reviewed in 2024-1-29 10:30:09<br/>
 - [ロから始まる映画・ドラマ](/ロ-movies.html)
 - [ワから始まる映画・ドラマ](/ワ-movies.html)
 - [ヴから始まる映画・ドラマ](/ヴ-movies.html)
+- [undefinedから始まる映画・ドラマ](/undefined-movies.html)
 - [0こ星の映画・ドラマ](/0star-movies.html)
 - [1つ星の映画・ドラマ](/1star-movies.html)
 - [2つ星の映画・ドラマ](/2star-movies.html)
