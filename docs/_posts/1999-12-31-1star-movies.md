@@ -53,6 +53,13 @@ title: 1つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### サン・ラーのスペース・イズ・ザ・プレイス
+reviewed in 2024-2-10 01:30:10<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BMGI5OWNiYjctOGM3NS00YzAzLWIwMzgtZGY0Njk5ZDc0Zjk4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="サン・ラーのスペース・イズ・ザ・プレイス"><br/>
+[サン・ラーのスペース・イズ・ザ・プレイス [PR]](https://amzn.to/3wdm17p)<br/>
+<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+この時代は綺麗な逆三角形<br/>
 ### パルプ・フィクション
 reviewed in 2024-1-31 09:00:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNTM1ZDNmNTUtOWJlZS00YzRlLWEzYmMtMDk4N2EzZDI0ZmQ3XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg" alt="パルプ・フィクション"><br/>
