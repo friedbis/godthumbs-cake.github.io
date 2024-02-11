@@ -53,6 +53,13 @@ title: 3つ星の映画・ドラマ
 ## 作品
 
 <br/>
+### 肉屋 第2章
+reviewed in 2024-2-11 11:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzc1MjY5Njk5MV5BMl5BanBnXkFtZTgwOTA0NDgwMDI@._V1_.jpg" alt="肉屋 第2章"><br/>
+[肉屋 第2章 [PR]](https://amzn.to/4bvZLps)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+日本版のパッケージがホラーなのがどうも。<br/>
 ### 流されて
 reviewed in 2024-2-5 22:30:06<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNDIxYTJhMDYtNDZkMC00NzlmLTkzZTgtYzdjNWQzY2ZiMTgwXkEyXkFqcGdeQXVyNjU2OTUyODc@._V1_.jpg" alt="流されて"><br/>

@@ -53,6 +53,20 @@ title: Impression
 ## 作品
 
 <br/>
+### 肉屋
+reviewed in 2024-2-11 11:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNTMzOThjY2QtNGI4MC00ZmE2LWFiOWUtYTMzYmM2Y2VmNDAxXkEyXkFqcGdeQXVyMzUxMDMwNw@@._V1_.jpg" alt="肉屋"><br/>
+[肉屋 [PR]](https://amzn.to/42BPJiv)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+<br/>
+### 肉屋 第2章
+reviewed in 2024-2-11 11:30:05<br/>
+<img src="https://m.media-amazon.com/images/M/MV5BNzc1MjY5Njk5MV5BMl5BanBnXkFtZTgwOTA0NDgwMDI@._V1_.jpg" alt="肉屋 第2章"><br/>
+[肉屋 第2章 [PR]](https://amzn.to/4bvZLps)<br/>
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
+<br/>
+日本版のパッケージがホラーなのがどうも。<br/>
 ### サン・ラーのスペース・イズ・ザ・プレイス
 reviewed in 2024-2-10 01:30:10<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BMGI5OWNiYjctOGM3NS00YzAzLWIwMzgtZGY0Njk5ZDc0Zjk4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg" alt="サン・ラーのスペース・イズ・ザ・プレイス"><br/>
@@ -108,17 +122,11 @@ reviewed in 2024-2-4 23:00:05<br/>
 [快楽のダイアリー [PR]](https://amzn.to/4bo4nOa)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
-### パルプ・フィクション
-reviewed in 2024-1-31 09:00:06<br/>
-<img src="https://m.media-amazon.com/images/M/MV5BNTM1ZDNmNTUtOWJlZS00YzRlLWEzYmMtMDk4N2EzZDI0ZmQ3XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg" alt="パルプ・フィクション"><br/>
-[パルプ・フィクション [PR]](https://amzn.asia/d/3yeHqAV)<br/>
-<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><br/>
-<br/>
-情緒がおかしい連中多すぎ。
+
 <br/>
 ### 索引
 <br/>
+- [から始まる映画・ドラマ](/-movies.html)
 - [A1から始まる映画・ドラマ](/A1-movies.html)
 - [アから始まる映画・ドラマ](/ア-movies.html)
 - [イから始まる映画・ドラマ](/イ-movies.html)
