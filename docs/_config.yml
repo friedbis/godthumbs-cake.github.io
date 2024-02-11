@@ -57,7 +57,7 @@ sass:
 #permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 #permalink: /:categories/:year/:month/:day/:title:output_ext
 permalink: /:categories/:title:output_ext
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+#excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Asia/Tokyo # Timezone for blog posts and alike
 
 # 5. Collections
