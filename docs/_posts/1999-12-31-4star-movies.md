@@ -59,7 +59,7 @@ reviewed in 2024-2-11 11:30:05<br/>
 [肉屋 [PR]](https://amzn.to/42BPJiv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+生臭い魚屋よりも、青臭い八百屋よりも、酒臭い酒屋よりも、血腥さが良いのか。<br/>
 ### ゲス不倫妻とサレ夫
 reviewed in 2024-2-8 22:30:05<br/>
 <br/>

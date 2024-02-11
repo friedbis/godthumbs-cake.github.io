@@ -59,7 +59,7 @@ reviewed in 2024-2-11 11:30:05<br/>
 [肉屋 [PR]](https://amzn.to/42BPJiv)<br/>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><br/>
 <br/>
-<br/>
+生臭い魚屋よりも、青臭い八百屋よりも、酒臭い酒屋よりも、血腥さが良いのか。<br/>
 ### 肉屋 第2章
 reviewed in 2024-2-11 11:30:05<br/>
 <img src="https://m.media-amazon.com/images/M/MV5BNzc1MjY5Njk5MV5BMl5BanBnXkFtZTgwOTA0NDgwMDI@._V1_.jpg" alt="肉屋 第2章"><br/>
